@@ -1,0 +1,73 @@
+<!doctype html><html><head><meta charset="utf-8"><title>FH54 web test</title>
+<script type="importmap">{"imports":{"three":"./lib/three/build/three.module.js","three/addons/":"./lib/three/jsm/"}}</script>
+<style>body{margin:0;background:#3a4150}</style></head><body>
+<script type="module">
+import * as THREE from 'three';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+const W = 256;
+const renderer = new THREE.WebGLRenderer({ antialias: true, preserveDrawingBuffer: true });
+renderer.setPixelRatio(1); renderer.setSize(W, W); document.body.appendChild(renderer.domElement);
+renderer.setClearColor(0x3a4150, 1);
+const scene = new THREE.Scene();
+scene.add(new THREE.HemisphereLight(0xdde6ff, 0x404040, 1.2));
+const key = new THREE.DirectionalLight(0xffffff, 1.6); key.position.set(0.6, 1.0, 0.9); scene.add(key);
+const fill = new THREE.DirectionalLight(0xffffff, 0.5); fill.position.set(-0.8, 0.3, 0.4); scene.add(fill);
+const camera = new THREE.PerspectiveCamera(20, 1, 0.05, 50);
+const loader = new GLTFLoader();
+let head = null;
+window.T = {
+  async load(url, mode) {
+    if (head) { scene.remove(head); }
+    const g = await loader.loadAsync(url); head = g.scene; scene.add(head);
+    head.traverse(o => { if (o.isMesh) {
+      const m = o.material;
+      if (mode === 'reference') { m.transparent = false; m.depthWrite = true; m.alphaTest = 0.5; m.needsUpdate = true; }
+      if (mode === 'bounds') {   // engine-like: sort each primitive by its own bounds centre
+        o.geometry.computeBoundingBox(); const c = new THREE.Vector3(); o.geometry.boundingBox.getCenter(c);
+        o.geometry.translate(-c.x, -c.y, -c.z); o.position.add(c);
+      }
+    }});
+    const prims = []; head.traverse(o => { if (o.isMesh) prims.push({ name: o.name, mat: o.material.name, transparent: o.material.transparent, depthWrite: o.material.depthWrite, tris: o.geometry.index ? o.geometry.index.count/3 : 0 }); });
+    return prims;
+  },
+  setOrder(cardsFirst) {
+    // force the transparent draw order: cards before (worst case) or after the other transparent hair primitives
+    head.traverse(o => { if (o.isMesh && o.material.transparent) {
+      const isCards = /Cards|slot_13/.test(o.material.name); o.renderOrder = cardsFirst ? (isCards ? -1 : 0) : (isCards ? 1 : 0); } });
+  },
+  order(azDeg, elDeg) {
+    // transparent draw order as three.js sorts it (back-to-front by object world position in view space)
+    const a = azDeg*Math.PI/180, e = elDeg*Math.PI/180, r = 0.95, t = new THREE.Vector3(0, 0.067, 0);
+    camera.position.set(t.x + r*Math.cos(e)*Math.sin(a), t.y + r*Math.sin(e), t.z + r*Math.cos(e)*Math.cos(a)); camera.lookAt(t);
+    camera.updateMatrixWorld(); scene.updateMatrixWorld(true);
+    const list = []; const v = new THREE.Vector3();
+    head.traverse(o => { if (o.isMesh && o.material.transparent) { v.setFromMatrixPosition(o.matrixWorld).applyMatrix4(camera.matrixWorldInverse); list.push([o.material.name, v.z, o.id]); } });
+    list.sort((p, q) => (p[1] !== q[1]) ? p[1] - q[1] : p[2] - q[2]);     // most negative z (farthest) first
+    return list.map(x => x[0]);
+  },
+  shot(azDeg, elDeg) {
+    const a = azDeg*Math.PI/180, e = elDeg*Math.PI/180, r = 0.95, t = new THREE.Vector3(0, 0.067, 0);
+    camera.position.set(t.x + r*Math.cos(e)*Math.sin(a), t.y + r*Math.sin(e), t.z + r*Math.cos(e)*Math.cos(a)); camera.lookAt(t);
+    renderer.render(scene, camera); return renderer.domElement.toDataURL('image/png');
+  },
+  async perf(url, n, frames, bodyUrl) {
+    if (head) { scene.remove(head); head = null; }
+    renderer.setSize(1280, 720); camera.aspect = 1280/720; camera.updateProjectionMatrix();
+    const g = await loader.loadAsync(url); const grp = new THREE.Group();
+    let body = null; if (bodyUrl) body = (await loader.loadAsync(bodyUrl)).scene;
+    for (let i = 0; i < n; i++) {
+      const h = g.scene.clone(true); h.position.set((i % 11 - 5)*0.7, 1.6, Math.floor(i/11)*-1.4); grp.add(h);
+      if (body) { const b = body.clone(true); b.position.set((i % 11 - 5)*0.7, 0, Math.floor(i/11)*-1.4); grp.add(b); }
+    }
+    scene.add(grp);
+    camera.position.set(0, 3.2, 9.5); camera.lookAt(0, 1.0, -0.7);
+    for (let i = 0; i < 20; i++) renderer.render(scene, camera);          // warm-up / shader compile
+    const gl = renderer.getContext(); const t0 = performance.now();
+    for (let i = 0; i < frames; i++) { camera.position.x = Math.sin(i*0.02)*2; camera.lookAt(0, 1.0, -0.7); renderer.render(scene, camera); }
+    gl.finish(); const ms = (performance.now() - t0)/frames;
+    const info = { calls: renderer.info.render.calls, triangles: renderer.info.render.triangles, ms_per_frame: ms, gl_renderer: gl.getParameter(gl.RENDERER) };
+    scene.remove(grp); renderer.setSize(W, W); camera.aspect = 1; camera.updateProjectionMatrix(); return info;
+  }
+};
+window.READY = true;
+</script></body></html>
