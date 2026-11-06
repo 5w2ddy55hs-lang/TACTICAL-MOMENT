@@ -10,19 +10,21 @@ for src in (W/'out/webtest_result.json', W/'out/webtest_analysis.json', W/'sweep
         shutil.copy2(src, Q/('webtest_' + src.name if not src.name.startswith('webtest') else src.name))
 J = lambda n: json.loads((Q/n).read_text())
 v = J('verify_all.json'); hb = J('build_hairs_H1_H2_H3_H4.json'); fb = J('build_faces54.json'); qf = J('qa_faces54.json')
-fd = J('face_distinct54.json'); an = J('anim_ref04.json'); gv = J('gltf_validator.json')
+fd = J('face_distinct54.json'); an = J('anim_ref04.json'); gv = J('gltf_validator.json') if (Q/'gltf_validator.json').exists() else None
 L = ['# FH54 QA 表（スクリプト出力の実測値）\n']
 L.append('## 1. 顔×髪 20組の交差・貫通・隙間・透過（GLB実測）\n')
 L.append('判定方法: 交差 = GLBプリミティブ同士のBVH三角形交差（epsilon 0、髪同士は頂点位置を共有するだけの接触を除外）。'
-         '皮膚の突出 = 皮膚33,120点の放射方向判定。生え際の縁の高さ = cap縁（頂点alpha≤0.1）の皮膚からの高さ。'
-         '頭蓋開口上の半透明 = 皮膚の無い方向で alpha<0.99 の cap 頂点。\n')
-L.append('| 区分 | 組 | 髪×皮膚 | cap×カード | カード同士 | capの外の皮膚点 | 最小capすき間 mm | 縁の高さ中央値 mm | 開口上の半透明頂点 |')
-L.append('|---|---|---|---|---|---|---|---|---|')
+         '皮膚の突出 = 皮膚33,120点の放射方向判定。'
+         '生え際の縁 = 頭皮層（cap＋生え際の帯）の外周の頂点。高さは皮膚（耳を含む）からの放射方向の距離、'
+         '硬い縁 = 描画時の alpha（材質の alphaMode × テクスチャ alpha × 頂点 alpha）が 0.5 を超える縁の頂点。'
+         '開口上の半透明 = 皮膚の無い方向で alpha<0.99 の頭皮層の頂点。括弧内は、その下に不透明な面（不透明 cap か皮膚）が無く、頭の内側が透ける頂点。\n')
+L.append('| 区分 | 組 | 髪×皮膚 | cap×カード | カード同士 | capの外の皮膚点 | 最小capすき間 mm | 縁の頂点 | 縁の高さ 中央値/最大 mm | 縁の皮膚なし | 硬い縁 | 開口上の半透明（透ける） |')
+L.append('|---|---|---|---|---|---|---|---|---|---|---|---|')
 for k, r in [('FACE52 原本GLB', v['FACE52_final_baseline'])] + list(v['combos'].items()):
     grp = 'H0原本（対照）' if (k.endswith('_H0') or k.startswith('FACE52')) else '新髪H1〜H4'
     c = r['contacts']; h = r['hair']; he = h['hairline_edge_height_mm']
-    hem = f"{he['median']:.2f}" if he and he['median'] == he['median'] else '—'
-    L.append(f"| {grp} | {k} | {c['hair_vs_skin_total']} | {c['hair_cap_vs_cards']} | {sum(c['hair_self_nonshared'].values())} | {h['skin_points_outside_cap']} | {h['min_cap_clearance_mm']:.2f} | {hem} | {h['cap_vertices_alpha_lt_0.99_over_open_skull']} |")
+    hem = f"{he['median']:.1f}/{he['max']:.1f}" if he and he['median'] == he['median'] else '—'
+    L.append(f"| {grp} | {k} | {c['hair_vs_skin_total']} | {c['hair_cap_vs_cards']} | {sum(c['hair_self_nonshared'].values())} | {h['skin_points_outside_cap']} | {h['min_cap_clearance_mm']:.2f} | {h['hairline_edge_vertices']} | {hem} | {he['no_skin_below'] if he else '—'} | {h['hairline_hard_rim_vertices_alpha_gt_0.5']} | {h['cap_vertices_alpha_lt_0.99_over_open_skull']} ({h['open_skull_translucent_without_opaque_below']}) |")
 L.append('\n### カードの接触の内訳（F0の各髪。根元フェード帯 = テクスチャalphaが0付近の根元22%）\n')
 L.append('| 組 | 相手 | 対 | カード三角形 | うち根元フェード帯 | 根元より先 |')
 L.append('|---|---|---|---|---|---|')
@@ -74,8 +76,11 @@ if (Q/'webtest_result.json').exists():
     L.append('|---|---|---|---|')
     for k, p in wr['perf'].items():
         L.append(f"| {k} | {p['calls']} | {p['triangles']} | {p['ms_per_frame']:.2f} |")
-L.append('\n## 8. glTF Validator（Khronos 公式 ' + list(gv.values())[0]['validatorVersion'] + '）\n')
-L.append(f"- 対象 {len(gv)} ファイル、エラー {sum(x['errors'] for x in gv.values())}、警告 {sum(x['warnings'] for x in gv.values())}、情報 {sum(x['infos'] for x in gv.values())}")
+if gv:
+    L.append('\n## 8. glTF Validator（Khronos 公式 ' + list(gv.values())[0]['validatorVersion'] + '）\n')
+    L.append(f"- 対象 {len(gv)} ファイル、エラー {sum(x['errors'] for x in gv.values())}、警告 {sum(x['warnings'] for x in gv.values())}、情報 {sum(x['infos'] for x in gv.values())}")
+else:
+    L.append('\n## 8. glTF Validator\n\n- 未実行（webtest_all.sh を VALIDATOR_NODE_MODULES 付きで実行すると qa/gltf_validator.json ができる）')
 L.append('\n## 9. .blend 開き直し・GLB 再読込\n')
 L.append('| .blend | 開いた版 | 画像 | 欠落 | 読込不可 |')
 L.append('|---|---|---|---|---|')

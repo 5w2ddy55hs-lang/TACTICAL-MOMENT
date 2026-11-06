@@ -1,0 +1,1900 @@
+{
+ "three": "0.186.1",
+ "models": {
+  "FACE52": {
+   "authored": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "Hair35_SmoothCrown",
+     "mat": "SOURCE_APPEARANCE04_slot_13",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 672
+    },
+    {
+     "name": "Hair35_SmoothCrown_1",
+     "mat": "TM18_HairCap_Detail",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 1752
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    }
+   ],
+   "bounds": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "Hair35_SmoothCrown",
+     "mat": "SOURCE_APPEARANCE04_slot_13",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 672
+    },
+    {
+     "name": "Hair35_SmoothCrown_1",
+     "mat": "TM18_HairCap_Detail",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 1752
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    }
+   ],
+   "reference": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "Hair35_SmoothCrown",
+     "mat": "SOURCE_APPEARANCE04_slot_13",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 672
+    },
+    {
+     "name": "Hair35_SmoothCrown_1",
+     "mat": "TM18_HairCap_Detail",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 1752
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    }
+   ]
+  },
+  "FH53_H1": {
+   "authored": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH53_H1_STANDARD_REBUILT",
+     "mat": "TMH53_H1_Cap",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 1836
+    },
+    {
+     "name": "TMH53_H1_STANDARD_REBUILT_1",
+     "mat": "TMH53_H1_Cards",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 360
+    }
+   ],
+   "bounds": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH53_H1_STANDARD_REBUILT",
+     "mat": "TMH53_H1_Cap",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 1836
+    },
+    {
+     "name": "TMH53_H1_STANDARD_REBUILT_1",
+     "mat": "TMH53_H1_Cards",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 360
+    }
+   ],
+   "reference": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH53_H1_STANDARD_REBUILT",
+     "mat": "TMH53_H1_Cap",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 1836
+    },
+    {
+     "name": "TMH53_H1_STANDARD_REBUILT_1",
+     "mat": "TMH53_H1_Cards",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 360
+    }
+   ]
+  },
+  "FH54_H1": {
+   "authored": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH54_H1_STANDARD_REBUILT",
+     "mat": "TMH54_H1_Cap",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 1389
+    },
+    {
+     "name": "TMH54_H1_STANDARD_REBUILT_1",
+     "mat": "TMH54_H1_CapEdge",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 447
+    },
+    {
+     "name": "TMH54_H1_STANDARD_REBUILT_2",
+     "mat": "TMH54_H1_Cards",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 344
+    }
+   ],
+   "bounds": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH54_H1_STANDARD_REBUILT",
+     "mat": "TMH54_H1_Cap",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 1389
+    },
+    {
+     "name": "TMH54_H1_STANDARD_REBUILT_1",
+     "mat": "TMH54_H1_CapEdge",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 447
+    },
+    {
+     "name": "TMH54_H1_STANDARD_REBUILT_2",
+     "mat": "TMH54_H1_Cards",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 344
+    }
+   ],
+   "reference": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH54_H1_STANDARD_REBUILT",
+     "mat": "TMH54_H1_Cap",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 1389
+    },
+    {
+     "name": "TMH54_H1_STANDARD_REBUILT_1",
+     "mat": "TMH54_H1_CapEdge",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 447
+    },
+    {
+     "name": "TMH54_H1_STANDARD_REBUILT_2",
+     "mat": "TMH54_H1_Cards",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 344
+    }
+   ]
+  },
+  "FH53_H2": {
+   "authored": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH53_H2_SHORT_CROP",
+     "mat": "TMH53_H2_Cap",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 1836
+    },
+    {
+     "name": "TMH53_H2_SHORT_CROP_1",
+     "mat": "TMH53_H2_Cards",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 48
+    }
+   ],
+   "bounds": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH53_H2_SHORT_CROP",
+     "mat": "TMH53_H2_Cap",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 1836
+    },
+    {
+     "name": "TMH53_H2_SHORT_CROP_1",
+     "mat": "TMH53_H2_Cards",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 48
+    }
+   ],
+   "reference": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH53_H2_SHORT_CROP",
+     "mat": "TMH53_H2_Cap",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 1836
+    },
+    {
+     "name": "TMH53_H2_SHORT_CROP_1",
+     "mat": "TMH53_H2_Cards",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 48
+    }
+   ]
+  },
+  "FH54_H2": {
+   "authored": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH54_H2_SHORT_CROP",
+     "mat": "TMH54_H2_Cap",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 1481
+    },
+    {
+     "name": "TMH54_H2_SHORT_CROP_1",
+     "mat": "TMH54_H2_CapEdge",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 463
+    },
+    {
+     "name": "TMH54_H2_SHORT_CROP_2",
+     "mat": "TMH54_H2_Cards",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 48
+    }
+   ],
+   "bounds": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH54_H2_SHORT_CROP",
+     "mat": "TMH54_H2_Cap",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 1481
+    },
+    {
+     "name": "TMH54_H2_SHORT_CROP_1",
+     "mat": "TMH54_H2_CapEdge",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 463
+    },
+    {
+     "name": "TMH54_H2_SHORT_CROP_2",
+     "mat": "TMH54_H2_Cards",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 48
+    }
+   ],
+   "reference": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH54_H2_SHORT_CROP",
+     "mat": "TMH54_H2_Cap",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 1481
+    },
+    {
+     "name": "TMH54_H2_SHORT_CROP_1",
+     "mat": "TMH54_H2_CapEdge",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 463
+    },
+    {
+     "name": "TMH54_H2_SHORT_CROP_2",
+     "mat": "TMH54_H2_Cards",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 48
+    }
+   ]
+  },
+  "FH53_H3": {
+   "authored": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH53_H3_SWEPT_BACK",
+     "mat": "TMH53_H3_Cap",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 1890
+    },
+    {
+     "name": "TMH53_H3_SWEPT_BACK_1",
+     "mat": "TMH53_H3_Cards",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 324
+    }
+   ],
+   "bounds": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH53_H3_SWEPT_BACK",
+     "mat": "TMH53_H3_Cap",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 1890
+    },
+    {
+     "name": "TMH53_H3_SWEPT_BACK_1",
+     "mat": "TMH53_H3_Cards",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 324
+    }
+   ],
+   "reference": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH53_H3_SWEPT_BACK",
+     "mat": "TMH53_H3_Cap",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 1890
+    },
+    {
+     "name": "TMH53_H3_SWEPT_BACK_1",
+     "mat": "TMH53_H3_Cards",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 324
+    }
+   ]
+  },
+  "FH54_H3": {
+   "authored": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH54_H3_SWEPT_BACK",
+     "mat": "TMH54_H3_Cap",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 1562
+    },
+    {
+     "name": "TMH54_H3_SWEPT_BACK_1",
+     "mat": "TMH54_H3_CapEdge",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 490
+    },
+    {
+     "name": "TMH54_H3_SWEPT_BACK_2",
+     "mat": "TMH54_H3_Cards",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 324
+    }
+   ],
+   "bounds": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH54_H3_SWEPT_BACK",
+     "mat": "TMH54_H3_Cap",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 1562
+    },
+    {
+     "name": "TMH54_H3_SWEPT_BACK_1",
+     "mat": "TMH54_H3_CapEdge",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 490
+    },
+    {
+     "name": "TMH54_H3_SWEPT_BACK_2",
+     "mat": "TMH54_H3_Cards",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 324
+    }
+   ],
+   "reference": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH54_H3_SWEPT_BACK",
+     "mat": "TMH54_H3_Cap",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 1562
+    },
+    {
+     "name": "TMH54_H3_SWEPT_BACK_1",
+     "mat": "TMH54_H3_CapEdge",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 490
+    },
+    {
+     "name": "TMH54_H3_SWEPT_BACK_2",
+     "mat": "TMH54_H3_Cards",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 324
+    }
+   ]
+  },
+  "FH53_H4": {
+   "authored": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH53_H4_SIDE_SWEPT_FRINGE",
+     "mat": "TMH53_H4_Cap",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 1917
+    },
+    {
+     "name": "TMH53_H4_SIDE_SWEPT_FRINGE_1",
+     "mat": "TMH53_H4_Cards",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 452
+    }
+   ],
+   "bounds": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH53_H4_SIDE_SWEPT_FRINGE",
+     "mat": "TMH53_H4_Cap",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 1917
+    },
+    {
+     "name": "TMH53_H4_SIDE_SWEPT_FRINGE_1",
+     "mat": "TMH53_H4_Cards",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 452
+    }
+   ],
+   "reference": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH53_H4_SIDE_SWEPT_FRINGE",
+     "mat": "TMH53_H4_Cap",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 1917
+    },
+    {
+     "name": "TMH53_H4_SIDE_SWEPT_FRINGE_1",
+     "mat": "TMH53_H4_Cards",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 452
+    }
+   ]
+  },
+  "FH54_H4": {
+   "authored": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH54_H4_SIDE_SWEPT_FRINGE",
+     "mat": "TMH54_H4_Cap",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 1358
+    },
+    {
+     "name": "TMH54_H4_SIDE_SWEPT_FRINGE_1",
+     "mat": "TMH54_H4_CapEdge",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 559
+    },
+    {
+     "name": "TMH54_H4_SIDE_SWEPT_FRINGE_2",
+     "mat": "TMH54_H4_Cards",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 434
+    }
+   ],
+   "bounds": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH54_H4_SIDE_SWEPT_FRINGE",
+     "mat": "TMH54_H4_Cap",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 1358
+    },
+    {
+     "name": "TMH54_H4_SIDE_SWEPT_FRINGE_1",
+     "mat": "TMH54_H4_CapEdge",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 559
+    },
+    {
+     "name": "TMH54_H4_SIDE_SWEPT_FRINGE_2",
+     "mat": "TMH54_H4_Cards",
+     "transparent": true,
+     "depthWrite": false,
+     "tris": 434
+    }
+   ],
+   "reference": [
+    {
+     "name": "Face32_LowerEyelids",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 22
+    },
+    {
+     "name": "Face32_LowerEyelids_1",
+     "mat": "SOURCE_APPEARANCE04_slot_15",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 34
+    },
+    {
+     "name": "Face32_LowerEyelids_2",
+     "mat": "SOURCE_APPEARANCE04_slot_16",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 14
+    },
+    {
+     "name": "Face32_LowerEyelids_3",
+     "mat": "TM26_Face_Skin_Only",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 614
+    },
+    {
+     "name": "Face32_LowerEyelids_4",
+     "mat": "TM27_Side_Skin_VertexColor",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge",
+     "mat": "SOURCE_APPEARANCE04_slot_14",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 8
+    },
+    {
+     "name": "BackScalp14_neck_bridge_1",
+     "mat": "SOURCE_APPEARANCE04_slot_02",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 36
+    },
+    {
+     "name": "TMH54_H4_SIDE_SWEPT_FRINGE",
+     "mat": "TMH54_H4_Cap",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 1358
+    },
+    {
+     "name": "TMH54_H4_SIDE_SWEPT_FRINGE_1",
+     "mat": "TMH54_H4_CapEdge",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 559
+    },
+    {
+     "name": "TMH54_H4_SIDE_SWEPT_FRINGE_2",
+     "mat": "TMH54_H4_Cards",
+     "transparent": false,
+     "depthWrite": true,
+     "tris": 434
+    }
+   ]
+  }
+ },
+ "perf": {
+  "FACE52_x22": {
+   "calls": 209,
+   "triangles": 106096,
+   "ms_per_frame": 2.6085000000009315,
+   "gl_renderer": "WebKit WebGL"
+  },
+  "FH53_H1_x22": {
+   "calls": 209,
+   "triangles": 97432,
+   "ms_per_frame": 2.376499999999069,
+   "gl_renderer": "WebKit WebGL"
+  },
+  "FH54_H1_x22": {
+   "calls": 228,
+   "triangles": 70433,
+   "ms_per_frame": 2.4709999999962746,
+   "gl_renderer": "WebKit WebGL"
+  },
+  "FH54_H4_x22": {
+   "calls": 228,
+   "triangles": 77520,
+   "ms_per_frame": 2.631999999997206,
+   "gl_renderer": "WebKit WebGL"
+  },
+  "FACE52_x22_with_body": {
+   "calls": 561,
+   "triangles": 141582,
+   "ms_per_frame": 13.528999999999069,
+   "gl_renderer": "WebKit WebGL"
+  },
+  "FH54_F1_H1_x22_with_body": {
+   "calls": 580,
+   "triangles": 105919,
+   "ms_per_frame": 13.497999999998138,
+   "gl_renderer": "WebKit WebGL"
+  }
+ }
+}

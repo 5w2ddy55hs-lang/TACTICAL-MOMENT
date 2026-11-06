@@ -7,7 +7,7 @@ from pathlib import Path
 build = Path(os.environ['FH53_BUILD']).resolve()
 dest = Path(sys.argv[1]).resolve(); dest.mkdir(parents=True, exist_ok=True)
 subs = []
-for var in ('FH53_REFERENCE', 'FH53_REF04', 'FH53_INPUTS', 'FH53_BUILD', 'THREE_DIR', 'PW_NODE_MODULES'):
+for var in ('FH53_REFERENCE', 'FH53_REF04', 'FH53_INPUTS', 'FH53_BUILD', 'FH54_PREFIX_BUILD', 'THREE_DIR', 'PW_NODE_MODULES', 'VALIDATOR_NODE_MODULES'):
     if os.environ.get(var):
         subs.append((str(Path(os.environ[var]).resolve()), '<' + var + '>'))
 repo = Path(__file__).resolve().parents[2]

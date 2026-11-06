@@ -7,15 +7,21 @@
    - BVH triangle overlap contacts at epsilon 0 (same method as FACE52 contact_compare46: hair vs other
      primitives, hair self pairs not sharing a position),
    - dense radial probe: skin sampled on a barycentric grid; any skin point outside the hair cap,
-   - hairline gap: radial height of the cap's feathered edge (vertex alpha <= 0.1) above the skin,
-   - cap vertices with alpha < 0.99 over the open skull (head interior would show through).
+   - hairline edge: the free boundary of the scalp layer (cap + edge band, merged by position): radial height above
+     the skin, and its rendered alpha (material alphaMode x baseColor alpha x texture alpha at the vertex UV x vertex
+     alpha). A boundary vertex with alpha > 0.5 is a hard rim; a feathered hairline ends at alpha ~0,
+   - scalp-layer vertices with alpha < 0.99 over the open skull, and those of them with no opaque surface (opaque
+     cap or skin) under them towards the head centre (head interior would show through).
+   FH54 note: the FH54 Cap is OPAQUE and its GLB colours are RGB only, so the FH53 rule "vertex alpha <= 0.1" found
+   no edge on the FH54 hairs; the boundary/rendered-alpha rule above replaces it for every combo, H0 included.
 4. Measured metrics vs FACE52 final GLB.
 Static geometry only: no animation, no neck motion, no engine sorting, no temporal test.
 """
-import sys, json, math, itertools
+import sys, io, json, math, hashlib, itertools, collections
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import numpy as np
+from PIL import Image
 import bpy
 from mathutils.bvhtree import BVHTree
 import fh53_common as fc, fh53_assemble as asm, glb_io, penetration as pen
@@ -145,8 +151,50 @@ def glb_parts(path):
             V = glb_io.accessor(g, b, p['attributes']['POSITION']).astype(float); I = glb_io.accessor(g, b, p['indices']).ravel().reshape(-1, 3)
             V = np.stack([V[:, 0], -V[:, 2], V[:, 1]], 1)      # glTF Y-up -> Blender Z-up (head frame)
             col = glb_io.accessor(g, b, p['attributes']['COLOR_0']) if 'COLOR_0' in p['attributes'] else None
-            parts[key] = {'V': V, 'I': I, 'col': col}
+            uv = glb_io.accessor(g, b, p['attributes']['TEXCOORD_0']).astype(float) if 'TEXCOORD_0' in p['attributes'] else None
+            mat = g['materials'][p['material']]
+            parts[key] = {'V': V, 'I': I, 'col': col, 'mode': mat.get('alphaMode', 'OPAQUE'), 'alpha': rendered_alpha(g, b, mat, uv, col, len(V))}
     return parts
+
+
+_TEX_ALPHA = {}
+
+
+def rendered_alpha(g, b, mat, uv, col, n):
+    """Per-vertex alpha as a glTF viewer would use it: 1 for OPAQUE, else baseColorFactor.a x texture alpha (nearest
+    texel at the vertex UV) x vertex alpha (COLOR_0 if RGBA); MASK -> 0/1 by alphaCutoff."""
+    mode = mat.get('alphaMode', 'OPAQUE')
+    if mode == 'OPAQUE':
+        return np.ones(n)
+    pbr = mat.get('pbrMetallicRoughness', {}); a = np.full(n, float(pbr.get('baseColorFactor', [1, 1, 1, 1])[3]))
+    t = pbr.get('baseColorTexture')
+    if t is not None and uv is not None:
+        src = g['textures'][t['index']]['source']; v = g['bufferViews'][g['images'][src]['bufferView']]
+        data = bytes(b[v.get('byteOffset', 0):v.get('byteOffset', 0) + v['byteLength']]); k = hashlib.sha256(data).hexdigest()   # content key
+        if k not in _TEX_ALPHA:
+            _TEX_ALPHA[k] = np.asarray(Image.open(io.BytesIO(data)).convert('RGBA'))[:, :, 3]/255.0
+        A = _TEX_ALPHA[k]; H, W = A.shape
+        wrap = lambda q: np.where((q >= 0) & (q <= 1), q, np.mod(q, 1))    # keep v = 1.0 on the last row (no wrap to row 0)
+        a = a*A[np.clip((wrap(uv[:, 1])*H).astype(int), 0, H - 1), np.clip((wrap(uv[:, 0])*W).astype(int), 0, W - 1)]
+    if col is not None and col.shape[1] == 4:
+        a = a*col[:, 3]
+    return (a >= mat.get('alphaCutoff', 0.5)).astype(float) if mode == 'MASK' else a
+
+
+def boundary_vertices(Vs, Is, tol=1e-5):
+    """Free-boundary flags (edges used by one triangle) over several primitives merged by position (tol in m)."""
+    allV = np.concatenate(Vs); off = np.cumsum([0] + [len(v) for v in Vs])
+    _, inv = np.unique(np.round(allV/tol), axis=0, return_inverse=True); inv = inv.ravel()
+    E = collections.Counter()
+    for I, o in zip(Is, off[:-1]):
+        for t in inv[I + o]:
+            for i, j in ((0, 1), (1, 2), (2, 0)):
+                E[(min(t[i], t[j]), max(t[i], t[j]))] += 1
+    bnd = np.zeros(inv.max() + 1, bool)
+    for (u, w), c in E.items():
+        if c == 1:
+            bnd[u] = bnd[w] = True
+    return bnd[inv]
 
 
 def contacts(parts):
@@ -210,13 +258,27 @@ def hair_checks(parts, cover_fn):
             loc, n, i, dist = skin_bvh.ray_cast(Vector(C + d*0.5), Vector(-d), 0.5)
             out.append(r - (np.array(loc) - C) @ d if loc is not None else np.nan)
         return np.array(out)
-    a = cap['col'][:, 3] if cap['col'] is not None and cap['col'].shape[1] == 4 else np.ones(len(cap['V']))
-    edge = a <= 0.1
+    a = np.concatenate([parts[k]['alpha'] for k in capks])
+    edge = boundary_vertices([parts[k]['V'] for k in capks], [parts[k]['I'] for k in capks])
     h_edge = height_above_skin(cap['V'][edge]) if edge.any() else np.array([np.nan])
     dirs = cap['V'] - C; dirs /= np.linalg.norm(dirs, axis=1, keepdims=True)
     cov = np.array([float(cover_fn(d)) for d in dirs])
     alpha_over_hole = (a < 0.99) & (cov < 0.5)
-    hole_locs = [list(np.round(fc.dir_to_azel(d), 1)) for d in dirs[alpha_over_hole]][:40]
+    # is anything opaque (opaque scalp-layer primitive or skin) under a translucent open-skull vertex?
+    from mathutils import Vector
+    oV = [V] + [parts[k]['V'] for k in capks if parts[k]['mode'] == 'OPAQUE']; oT = [T]; off = len(V)
+    for k in capks:
+        if parts[k]['mode'] == 'OPAQUE':
+            oT.append(parts[k]['I'] + off); off += len(parts[k]['V'])
+    opq = BVHTree.FromPolygons([tuple(v) for v in np.concatenate(oV)], [tuple(int(i) for i in t) for t in np.concatenate(oT)], epsilon=0.0)
+    see_through = np.zeros(len(a), bool)
+    for i in np.where(alpha_over_hole)[0]:
+        r = float(np.linalg.norm(cap['V'][i] - C))
+        hit = opq.ray_cast(Vector(cap['V'][i] - dirs[i]*1e-4), Vector(-dirs[i]), r)[0]
+        see_through[i] = hit is None
+    hole_locs = [list(np.round(fc.dir_to_azel(d), 1)) for d in dirs[see_through]][:40]
+    hard = edge & (a > 0.5)
+    hard_locs = [list(np.round(fc.dir_to_azel(d), 1)) for d in dirs[hard]][:40]
     card_h = []
     for k in cardk:
         card_h.append(height_above_skin(parts[k]['V']))
@@ -224,8 +286,17 @@ def hair_checks(parts, cover_fn):
     return {'cap_primitive': capk, 'skin_samples': int(len(pts)), 'skin_samples_under_cap': int(np.isfinite(dep).sum()),
             'skin_points_outside_cap': int((dep > 0).sum()), 'max_skin_outside_cap_mm': float(np.nanmax(dep)*1000) if np.isfinite(dep).any() else None,
             'min_cap_clearance_mm': float(-np.nanmax(dep)*1000) if np.isfinite(dep).any() else None,
-            'hairline_edge_vertices': int(edge.sum()), 'hairline_edge_height_mm': {'min': float(np.nanmin(h_edge)*1000), 'median': float(np.nanmedian(h_edge)*1000), 'max': float(np.nanmax(h_edge)*1000)} if edge.any() else None,
-            'cap_vertices_alpha_lt_0.99_over_open_skull': int(alpha_over_hole.sum()), 'open_skull_alpha_locations_azel': hole_locs,
+            'scalp_layer_modes': {k: parts[k]['mode'] for k in capks},
+            'hairline_edge_rule': 'free boundary of the scalp layer (merged by position 0.01 mm)',
+            'hairline_edge_vertices': int(edge.sum()),
+            'hairline_edge_height_mm': {'min': float(np.nanmin(h_edge)*1000), 'median': float(np.nanmedian(h_edge)*1000), 'max': float(np.nanmax(h_edge)*1000),
+                                        'no_skin_below': int(np.isnan(h_edge).sum()),
+                                        'max_location_azel': list(np.round(fc.dir_to_azel(dirs[np.where(edge)[0][int(np.nanargmax(h_edge))]]), 1)) if np.isfinite(h_edge).any() else None,
+                                        'over_5mm': int((h_edge > 0.005).sum())} if edge.any() else None,
+            'hairline_edge_alpha': {'median': float(np.median(a[edge])), 'max': float(np.max(a[edge]))} if edge.any() else None,
+            'hairline_hard_rim_vertices_alpha_gt_0.5': int(hard.sum()), 'hard_rim_locations_azel': hard_locs,
+            'cap_vertices_alpha_lt_0.99_over_open_skull': int(alpha_over_hole.sum()),
+            'open_skull_translucent_without_opaque_below': int(see_through.sum()), 'open_skull_alpha_locations_azel': hole_locs,
             'card_vertex_height_above_skin_mm': {'min': float(np.nanmin(card_h)*1000), 'p50': float(np.nanmedian(card_h)*1000)} if np.isfinite(card_h).any() else None}
 
 
@@ -287,7 +358,8 @@ def main():
     # 4. metrics
     R['metrics'] = {'FACE52_final': glb_io.stats(fc.FACE52_GLB)}
     for p in sorted((OUT/'models').rglob('*.glb')):
-        R['metrics'][p.name] = glb_io.stats(p)
+        if 'superseded' not in p.parts:          # pre-fix GLBs kept only for the behind-ear before/after renders
+            R['metrics'][p.name] = glb_io.stats(p)
     fc.write_json(OUT/'qa/verify_all.json', R)
 
 

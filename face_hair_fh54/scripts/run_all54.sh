@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 # FH54 full pipeline (Blender part). Requires Python 3.11 + bpy==4.2.23 (PyPI), numpy, scipy, Pillow.
 # Usage: FH53_INPUTS=<restored_inputs> FH53_REF04=<Reference04 dir> FH53_REFERENCE=<extracted FH53 ZIP folder>
-#        FH53_BUILD=<new output dir> PY=<python> bash run_all54.sh
-# The browser test (three.js) is run separately with node: see webtest_run.mjs / webtest_sweep.mjs / force_order.mjs.
+#        FH53_BUILD=<new output dir> [FH54_PREFIX_BUILD=<pre-fix build>] PY=<python> bash run_all54.sh
+# The node part (three.js browser test + Khronos glTF Validator) runs afterwards with webtest_all.sh; then re-run
+# compose54.py (M10 needs build/webtest/force) and summarize54.py (§7, §8 need the webtest / validator JSON).
 set -euo pipefail
 HERE="$(cd "$(dirname "$0")" && pwd)"
 : "${FH53_INPUTS:?}" "${FH53_REF04:?}" "${FH53_BUILD:?}" "${FH53_REFERENCE:?}"; PY="${PY:-python3}"
@@ -21,6 +22,8 @@ STEP=08_face_distinct  step "$PY" -I "$HERE/face_distinct54.py"
 STEP=09_ref04_static   step "$PY" -I "$HERE/review_ref04.py"
 STEP=10_ref04_anim     step "$PY" -I "$HERE/anim_ref04.py"
 STEP=11_anim_renders   step "$PY" -I "$HERE/anim_render.py"
+# optional before/after column: FH54_PREFIX_BUILD=<build folder made before the H2/H3 behind-ear hairline change>
+STEP=11b_behind_ear    step "$PY" -I "$HERE/behind_ear54.py"
 STEP=12_sheets         step "$PY" -I "$HERE/compose54.py"
 STEP=13_tables         step "$PY" -I "$HERE/summarize54.py"
 echo "== done: $FH53_BUILD"

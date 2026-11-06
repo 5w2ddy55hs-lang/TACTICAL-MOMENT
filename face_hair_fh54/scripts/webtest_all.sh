@@ -1,9 +1,17 @@
 #!/usr/bin/env bash
 # FH54 browser test: three.js 0.186.1 in headless Chromium (Playwright) with SwiftShader. Local only, nothing published.
 # Usage: FH53_BUILD=<build> FH53_REFERENCE=<FH53 extracted> FH53_INPUTS=<restored_inputs> FH53_REF04=<ref04 dir>
-#        THREE_DIR=<node_modules/three> PW_NODE_MODULES=<dir containing playwright> PY=<python> bash webtest_all.sh
+#        THREE_DIR=<node_modules/three> PW_NODE_MODULES=<dir containing playwright> PY=<python>
+#        [VALIDATOR_NODE_MODULES=<dir containing gltf-validator>] bash webtest_all.sh
+# With VALIDATOR_NODE_MODULES set, the Khronos glTF Validator is also run over FACE52 + all FH54 GLBs -> build/qa/gltf_validator.json.
 set -euo pipefail
 HERE="$(cd "$(dirname "$0")" && pwd)"; W="$FH53_BUILD/webtest"; PORT=${PORT:-8765}
+if [ -n "${VALIDATOR_NODE_MODULES:-}" ]; then
+  V="$FH53_BUILD/validator"; mkdir -p "$V" "$FH53_BUILD/qa"; cp "$HERE/gltf_validate.mjs" "$V/"; ln -sfn "$VALIDATOR_NODE_MODULES" "$V/node_modules"
+  node "$V/gltf_validate.mjs" "$FH53_INPUTS/CODEX/face52_work/models/TM_FACE52_F0_H0.glb" "$FH53_BUILD"/models/face/*.glb \
+       "$FH53_BUILD"/models/hair/*.glb "$FH53_BUILD"/models/combos/*.glb > "$FH53_BUILD/qa/gltf_validator.json"
+  echo "validator: $(grep -c '"errors"' "$FH53_BUILD/qa/gltf_validator.json") files"
+fi
 mkdir -p "$W/lib/three/build" "$W/lib/three/jsm/loaders" "$W/lib/three/jsm/utils" "$W/glb"
 cp "$THREE_DIR/build/three.module.js" "$THREE_DIR/build/three.core.js" "$W/lib/three/build/"
 cp "$THREE_DIR/examples/jsm/loaders/GLTFLoader.js" "$W/lib/three/jsm/loaders/"
@@ -19,7 +27,7 @@ done
 ln -sfn "$PW_NODE_MODULES" "$W/node_modules"
 ( cd "$W" && python3 -m http.server "$PORT" --bind 127.0.0.1 > /dev/null 2>&1 & echo $! > "$W/.server.pid" ); sleep 1
 trap 'kill $(cat "$W/.server.pid") 2>/dev/null || true' EXIT
-( cd "$W" && node webtest_run.mjs "$W" "$PORT" && node webtest_sweep.mjs "$W" "$PORT" && node force_order.mjs "$W/force" )
+( cd "$W" && node webtest_run.mjs "$W" "$PORT" && node webtest_sweep.mjs "$W" "$PORT" && node force_order.mjs "$W/force" "$PORT" )
 "$PY" -I "$HERE/webtest_analyze.py" "$W/out" > /dev/null
 "$PY" -I "$HERE/webtest_flip.py" "$W/sweep" > /dev/null
 "$PY" -I - "$W" <<'PYEOF'

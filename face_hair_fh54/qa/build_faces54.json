@@ -1,0 +1,848 @@
+{
+  "blender": "4.2.23 LTS",
+  "inputs": {
+    "FACE52_BLEND": {
+      "path": "<FH53_INPUTS>/CODEX/face52_work/models/TM_FACE52_F0_H0.blend",
+      "sha256": "5197ef43a63fbbd386291b778b8090178ee71429a8cb4423bd7f4383eea749c2"
+    },
+    "FACE52_GLB": {
+      "path": "<FH53_INPUTS>/CODEX/face52_work/models/TM_FACE52_F0_H0.glb",
+      "sha256": "f31adb0a69cecdadb0e60f87e6d881b842198e431d09a70b388afaddd1fd1b1a"
+    },
+    "FACE52_RAW": {
+      "path": "<FH53_INPUTS>/CODEX/face52_work/models/TM_FACE52_F0_H0_RAW.glb",
+      "sha256": "1b3b8de350f48a633060e5aabc6b54ad2aa6470b6eabd5f176654186416cb62b"
+    }
+  },
+  "faces": {
+    "F1_full": {
+      "face_id": "F1_LONG_ANGULAR",
+      "variant": "full",
+      "normal_blend_to_smooth_max_alpha": 0.6,
+      "uv_stretch_vs_FACE52": {
+        "triangles": 658,
+        "stretch_major_p99": 1.2407284075642662,
+        "stretch_major_max": 1.3710444206045633,
+        "stretch_minor_min": 0.5639161809382952,
+        "anisotropy_change_p99": 1.312956840722682,
+        "anisotropy_change_max": 1.7259181641631325,
+        "triangles_over_1.35x": 21
+      },
+      "face_normal_flips": 0,
+      "max_skin_displacement_mm": 8.992,
+      "max_ear_displacement_mm": 15.979,
+      "neck_boundary_max_move_mm": 0.0,
+      "backscalp_shared_vertices_max_move_mm": 0.0,
+      "max_skin_move_above_z0.080_mm": 0.0,
+      "handles": [
+        [
+          "t",
+          "(0, -0.08, -0.055)",
+          "(0, -2.5, -8.5)",
+          "(22, 20, 16)",
+          "False"
+        ],
+        [
+          "t",
+          "(0, -0.095, -0.015)",
+          "(0, 0, -3.5)",
+          "(26, 22, 12)",
+          "False"
+        ],
+        [
+          "t",
+          "(0.052, -0.04, -0.03)",
+          "(5.0, 0, -3.5)",
+          "(12, 16, 14)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.02, -0.08, -0.055)",
+          "(2.5, -1.0, -1.5)",
+          "(10, 12, 10)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.05, -0.085, 0.002)",
+          "(-3.2, 1.5, 0)",
+          "(12, 12, 12)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.056, -0.078, 0.035)",
+          "(2.2, -0.8, 0.5)",
+          "(10, 12, 10)",
+          "True"
+        ],
+        [
+          "s",
+          "(0.033, -0.093, 0.056)",
+          "(1.0, 1.0, 0.84)",
+          "(9, 8, 7)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.033, -0.093, 0.056)",
+          "(0, 1.4, 0)",
+          "(12, 8, 8)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.03, -0.103, 0.068)",
+          "(0, -1.6, 0.2)",
+          "(14, 6, 5)",
+          "True"
+        ],
+        [
+          "t",
+          "(0, -0.115, 0.04)",
+          "(0, -2.0, 0)",
+          "(8, 10, 14)",
+          "False"
+        ],
+        [
+          "t",
+          "(0, -0.123, 0.019)",
+          "(0, -1.2, -2.4)",
+          "(9, 8, 8)",
+          "False"
+        ],
+        [
+          "s",
+          "(0, -0.118, 0.022)",
+          "(0.92, 1, 1)",
+          "(10, 8, 10)",
+          "False"
+        ],
+        [
+          "s",
+          "(0, -0.098, -0.012)",
+          "(1.08, 1.0, 0.9)",
+          "(22, 12, 8)",
+          "False"
+        ],
+        [
+          "t",
+          "(0, -0.104, -0.004)",
+          "(0, 0.3, -0.8)",
+          "(16, 6, 3)",
+          "False"
+        ],
+        [
+          "t",
+          "(0, -0.1, -0.019)",
+          "(0, 0.3, 0.8)",
+          "(16, 6, 3)",
+          "False"
+        ]
+      ],
+      "ear": {
+        "pin": 0.55,
+        "drop_mm": 3.0,
+        "round": 0.32
+      },
+      "materials_retextured": {
+        "SOURCE_APPEARANCE04_slot_02": "TMF54_F1_SOURCE_APPEARANCE04_slot_02",
+        "SOURCE_APPEARANCE04_slot_14": "TMF54_F1_SOURCE_APPEARANCE04_slot_14",
+        "SOURCE_APPEARANCE04_slot_16": "TMF54_F1_SOURCE_APPEARANCE04_slot_16",
+        "TM26_Face_Skin_Only": "TMF54_F1_TM26_Face_Skin_Only"
+      },
+      "intent_ja": "面長・角顎の大人顔。目はやや細く深く、眉骨と鼻筋を強く、口は横に広く唇を薄く。日焼けした肌、太い直線眉、薄い髭。",
+      "blend": "TM_FH54_F1_LONG_ANGULAR.blend",
+      "glb": "TM_FH54_F1_LONG_ANGULAR.glb",
+      "blend_sha256": "5ead203ee4a3a5f9d499774dc1fe256e9bd9bd337c2818a3740fbbb5a8bda39d",
+      "glb_sha256": "331535b4942d8b073f707a9b52e594aff0ff7c68b7744865a11ed0a39da623d1"
+    },
+    "F1_shape": {
+      "face_id": "F1_LONG_ANGULAR",
+      "variant": "shape",
+      "normal_blend_to_smooth_max_alpha": 0.6,
+      "uv_stretch_vs_FACE52": {
+        "triangles": 658,
+        "stretch_major_p99": 1.2407284075642662,
+        "stretch_major_max": 1.3710444206045633,
+        "stretch_minor_min": 0.5639161809382952,
+        "anisotropy_change_p99": 1.312956840722682,
+        "anisotropy_change_max": 1.7259181641631325,
+        "triangles_over_1.35x": 21
+      },
+      "face_normal_flips": 0,
+      "max_skin_displacement_mm": 8.992,
+      "max_ear_displacement_mm": 15.979,
+      "neck_boundary_max_move_mm": 0.0,
+      "backscalp_shared_vertices_max_move_mm": 0.0,
+      "max_skin_move_above_z0.080_mm": 0.0,
+      "handles": [
+        [
+          "t",
+          "(0, -0.08, -0.055)",
+          "(0, -2.5, -8.5)",
+          "(22, 20, 16)",
+          "False"
+        ],
+        [
+          "t",
+          "(0, -0.095, -0.015)",
+          "(0, 0, -3.5)",
+          "(26, 22, 12)",
+          "False"
+        ],
+        [
+          "t",
+          "(0.052, -0.04, -0.03)",
+          "(5.0, 0, -3.5)",
+          "(12, 16, 14)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.02, -0.08, -0.055)",
+          "(2.5, -1.0, -1.5)",
+          "(10, 12, 10)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.05, -0.085, 0.002)",
+          "(-3.2, 1.5, 0)",
+          "(12, 12, 12)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.056, -0.078, 0.035)",
+          "(2.2, -0.8, 0.5)",
+          "(10, 12, 10)",
+          "True"
+        ],
+        [
+          "s",
+          "(0.033, -0.093, 0.056)",
+          "(1.0, 1.0, 0.84)",
+          "(9, 8, 7)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.033, -0.093, 0.056)",
+          "(0, 1.4, 0)",
+          "(12, 8, 8)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.03, -0.103, 0.068)",
+          "(0, -1.6, 0.2)",
+          "(14, 6, 5)",
+          "True"
+        ],
+        [
+          "t",
+          "(0, -0.115, 0.04)",
+          "(0, -2.0, 0)",
+          "(8, 10, 14)",
+          "False"
+        ],
+        [
+          "t",
+          "(0, -0.123, 0.019)",
+          "(0, -1.2, -2.4)",
+          "(9, 8, 8)",
+          "False"
+        ],
+        [
+          "s",
+          "(0, -0.118, 0.022)",
+          "(0.92, 1, 1)",
+          "(10, 8, 10)",
+          "False"
+        ],
+        [
+          "s",
+          "(0, -0.098, -0.012)",
+          "(1.08, 1.0, 0.9)",
+          "(22, 12, 8)",
+          "False"
+        ],
+        [
+          "t",
+          "(0, -0.104, -0.004)",
+          "(0, 0.3, -0.8)",
+          "(16, 6, 3)",
+          "False"
+        ],
+        [
+          "t",
+          "(0, -0.1, -0.019)",
+          "(0, 0.3, 0.8)",
+          "(16, 6, 3)",
+          "False"
+        ]
+      ],
+      "ear": {
+        "pin": 0.55,
+        "drop_mm": 3.0,
+        "round": 0.32
+      },
+      "intent_ja": "面長・角顎の大人顔。目はやや細く深く、眉骨と鼻筋を強く、口は横に広く唇を薄く。日焼けした肌、太い直線眉、薄い髭。",
+      "blend": "TM_FH54_F1S_LONG_ANGULAR.blend",
+      "glb": "TM_FH54_F1S_LONG_ANGULAR.glb",
+      "blend_sha256": "a17f5c770a271fcb56df3b22e3d2a2a9db6bc841f92006b90a6906f75cf7f458",
+      "glb_sha256": "60755241f482741c7fd615476091bd42facdb5e8731e06931ce271ca4478397a"
+    },
+    "F1_texture": {
+      "face_id": "F1_LONG_ANGULAR",
+      "variant": "texture",
+      "materials_retextured": {
+        "SOURCE_APPEARANCE04_slot_02": "TMF54_F1_SOURCE_APPEARANCE04_slot_02",
+        "SOURCE_APPEARANCE04_slot_14": "TMF54_F1_SOURCE_APPEARANCE04_slot_14",
+        "SOURCE_APPEARANCE04_slot_16": "TMF54_F1_SOURCE_APPEARANCE04_slot_16",
+        "TM26_Face_Skin_Only": "TMF54_F1_TM26_Face_Skin_Only"
+      },
+      "intent_ja": "面長・角顎の大人顔。目はやや細く深く、眉骨と鼻筋を強く、口は横に広く唇を薄く。日焼けした肌、太い直線眉、薄い髭。",
+      "blend": "TM_FH54_F1T_LONG_ANGULAR.blend",
+      "glb": "TM_FH54_F1T_LONG_ANGULAR.glb",
+      "blend_sha256": "7ea3470cf18e772ee64d469e37e8562c28f7b12a00782a29e0a6cd5b9125cab6",
+      "glb_sha256": "a1696e398219e02f970574cecfde7d08066c61db77577d22e2abab2dec389dc9"
+    },
+    "F2_full": {
+      "face_id": "F2_ROUND_SOFT",
+      "variant": "full",
+      "normal_blend_to_smooth_max_alpha": 0.6,
+      "uv_stretch_vs_FACE52": {
+        "triangles": 658,
+        "stretch_major_p99": 1.2049078970434979,
+        "stretch_major_max": 1.227805854397839,
+        "stretch_minor_min": 0.5639161809382952,
+        "anisotropy_change_p99": 1.3091759774660954,
+        "anisotropy_change_max": 1.7259181641631325,
+        "triangles_over_1.35x": 19
+      },
+      "face_normal_flips": 0,
+      "max_skin_displacement_mm": 4.967,
+      "max_ear_displacement_mm": 15.979,
+      "neck_boundary_max_move_mm": 0.0,
+      "backscalp_shared_vertices_max_move_mm": 0.0,
+      "max_skin_move_above_z0.080_mm": 0.0,
+      "handles": [
+        [
+          "t",
+          "(0, -0.08, -0.055)",
+          "(0, 1.5, 5.0)",
+          "(22, 20, 16)",
+          "False"
+        ],
+        [
+          "t",
+          "(0.02, -0.08, -0.052)",
+          "(3.2, -0.8, 0)",
+          "(10, 12, 10)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.052, -0.082, 0.005)",
+          "(4.6, -1.8, 0)",
+          "(14, 14, 14)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.052, -0.04, -0.03)",
+          "(2.0, 0, 2.2)",
+          "(12, 16, 14)",
+          "True"
+        ],
+        [
+          "t",
+          "(0, -0.095, -0.012)",
+          "(0, 0, 2.2)",
+          "(25, 20, 12)",
+          "False"
+        ],
+        [
+          "s",
+          "(0.033, -0.093, 0.056)",
+          "(1.07, 1.0, 1.16)",
+          "(9, 8, 7)",
+          "True"
+        ],
+        [
+          "r",
+          "(0.033, -0.093, 0.056)",
+          "('y', -4.0)",
+          "(9, 8, 7)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.033, -0.093, 0.056)",
+          "(0.9, -0.4, 0)",
+          "(8, 8, 8)",
+          "True"
+        ],
+        [
+          "t",
+          "(0, -0.123, 0.019)",
+          "(0, 1.5, 2.0)",
+          "(9, 8, 8)",
+          "False"
+        ],
+        [
+          "s",
+          "(0, -0.123, 0.019)",
+          "(1.14, 1, 1)",
+          "(8, 6, 6)",
+          "False"
+        ],
+        [
+          "s",
+          "(0, -0.098, -0.012)",
+          "(0.92, 1.0, 1.14)",
+          "(22, 12, 8)",
+          "False"
+        ],
+        [
+          "t",
+          "(0, -0.104, -0.004)",
+          "(0, -0.6, 1.0)",
+          "(16, 6, 3)",
+          "False"
+        ],
+        [
+          "t",
+          "(0, -0.1, -0.019)",
+          "(0, -0.6, -1.1)",
+          "(16, 6, 3)",
+          "False"
+        ]
+      ],
+      "ear": {
+        "pin": 0.55,
+        "drop_mm": 3.0,
+        "round": 0.32
+      },
+      "materials_retextured": {
+        "SOURCE_APPEARANCE04_slot_02": "TMF54_F2_SOURCE_APPEARANCE04_slot_02",
+        "SOURCE_APPEARANCE04_slot_14": "TMF54_F2_SOURCE_APPEARANCE04_slot_14",
+        "SOURCE_APPEARANCE04_slot_16": "TMF54_F2_SOURCE_APPEARANCE04_slot_16",
+        "TM26_Face_Skin_Only": "TMF54_F2_TM26_Face_Skin_Only"
+      },
+      "intent_ja": "丸顔の若い柔らかな顔。目を大きく丸く離し目尻をわずかに上げ、鼻は短く丸く、口は小さく唇をふっくら。色白で頬に赤み、柔らかい弓眉、二重の線。",
+      "blend": "TM_FH54_F2_ROUND_SOFT.blend",
+      "glb": "TM_FH54_F2_ROUND_SOFT.glb",
+      "blend_sha256": "f351a337633cc515871851baa3b8bd6a75188273aa1a7885642b630b9a95ca25",
+      "glb_sha256": "78faac3bb1cb796efb701155f54ca538bfb7d81e8c7277f4568e68797fdd867f"
+    },
+    "F2_shape": {
+      "face_id": "F2_ROUND_SOFT",
+      "variant": "shape",
+      "normal_blend_to_smooth_max_alpha": 0.6,
+      "uv_stretch_vs_FACE52": {
+        "triangles": 658,
+        "stretch_major_p99": 1.2049078970434979,
+        "stretch_major_max": 1.227805854397839,
+        "stretch_minor_min": 0.5639161809382952,
+        "anisotropy_change_p99": 1.3091759774660954,
+        "anisotropy_change_max": 1.7259181641631325,
+        "triangles_over_1.35x": 19
+      },
+      "face_normal_flips": 0,
+      "max_skin_displacement_mm": 4.967,
+      "max_ear_displacement_mm": 15.979,
+      "neck_boundary_max_move_mm": 0.0,
+      "backscalp_shared_vertices_max_move_mm": 0.0,
+      "max_skin_move_above_z0.080_mm": 0.0,
+      "handles": [
+        [
+          "t",
+          "(0, -0.08, -0.055)",
+          "(0, 1.5, 5.0)",
+          "(22, 20, 16)",
+          "False"
+        ],
+        [
+          "t",
+          "(0.02, -0.08, -0.052)",
+          "(3.2, -0.8, 0)",
+          "(10, 12, 10)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.052, -0.082, 0.005)",
+          "(4.6, -1.8, 0)",
+          "(14, 14, 14)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.052, -0.04, -0.03)",
+          "(2.0, 0, 2.2)",
+          "(12, 16, 14)",
+          "True"
+        ],
+        [
+          "t",
+          "(0, -0.095, -0.012)",
+          "(0, 0, 2.2)",
+          "(25, 20, 12)",
+          "False"
+        ],
+        [
+          "s",
+          "(0.033, -0.093, 0.056)",
+          "(1.07, 1.0, 1.16)",
+          "(9, 8, 7)",
+          "True"
+        ],
+        [
+          "r",
+          "(0.033, -0.093, 0.056)",
+          "('y', -4.0)",
+          "(9, 8, 7)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.033, -0.093, 0.056)",
+          "(0.9, -0.4, 0)",
+          "(8, 8, 8)",
+          "True"
+        ],
+        [
+          "t",
+          "(0, -0.123, 0.019)",
+          "(0, 1.5, 2.0)",
+          "(9, 8, 8)",
+          "False"
+        ],
+        [
+          "s",
+          "(0, -0.123, 0.019)",
+          "(1.14, 1, 1)",
+          "(8, 6, 6)",
+          "False"
+        ],
+        [
+          "s",
+          "(0, -0.098, -0.012)",
+          "(0.92, 1.0, 1.14)",
+          "(22, 12, 8)",
+          "False"
+        ],
+        [
+          "t",
+          "(0, -0.104, -0.004)",
+          "(0, -0.6, 1.0)",
+          "(16, 6, 3)",
+          "False"
+        ],
+        [
+          "t",
+          "(0, -0.1, -0.019)",
+          "(0, -0.6, -1.1)",
+          "(16, 6, 3)",
+          "False"
+        ]
+      ],
+      "ear": {
+        "pin": 0.55,
+        "drop_mm": 3.0,
+        "round": 0.32
+      },
+      "intent_ja": "丸顔の若い柔らかな顔。目を大きく丸く離し目尻をわずかに上げ、鼻は短く丸く、口は小さく唇をふっくら。色白で頬に赤み、柔らかい弓眉、二重の線。",
+      "blend": "TM_FH54_F2S_ROUND_SOFT.blend",
+      "glb": "TM_FH54_F2S_ROUND_SOFT.glb",
+      "blend_sha256": "40b2559dd3d6c581480b14447e91bb22ac9232164d5d169d5e2dbd549720a7db",
+      "glb_sha256": "df7b1075b4e4e059e4ac2322112be12450ed2014f3bc07188f9339594a2b0694"
+    },
+    "F2_texture": {
+      "face_id": "F2_ROUND_SOFT",
+      "variant": "texture",
+      "materials_retextured": {
+        "SOURCE_APPEARANCE04_slot_02": "TMF54_F2_SOURCE_APPEARANCE04_slot_02",
+        "SOURCE_APPEARANCE04_slot_14": "TMF54_F2_SOURCE_APPEARANCE04_slot_14",
+        "SOURCE_APPEARANCE04_slot_16": "TMF54_F2_SOURCE_APPEARANCE04_slot_16",
+        "TM26_Face_Skin_Only": "TMF54_F2_TM26_Face_Skin_Only"
+      },
+      "intent_ja": "丸顔の若い柔らかな顔。目を大きく丸く離し目尻をわずかに上げ、鼻は短く丸く、口は小さく唇をふっくら。色白で頬に赤み、柔らかい弓眉、二重の線。",
+      "blend": "TM_FH54_F2T_ROUND_SOFT.blend",
+      "glb": "TM_FH54_F2T_ROUND_SOFT.glb",
+      "blend_sha256": "c4097528ebb5ac19882e87f9937d74291e60d105f9c13d37274e154dce2b1f24",
+      "glb_sha256": "9e6563b0520f278bc06ab692f46048a14baa84edf91db34a0638440b4dccadc3"
+    },
+    "F3_full": {
+      "face_id": "F3_NARROW_SHARP",
+      "variant": "full",
+      "normal_blend_to_smooth_max_alpha": 0.6,
+      "uv_stretch_vs_FACE52": {
+        "triangles": 658,
+        "stretch_major_p99": 1.1368848405022267,
+        "stretch_major_max": 1.2100097835768884,
+        "stretch_minor_min": 0.5639161809382952,
+        "anisotropy_change_p99": 1.3326783778032638,
+        "anisotropy_change_max": 1.7259181641631325,
+        "triangles_over_1.35x": 21
+      },
+      "face_normal_flips": 0,
+      "max_skin_displacement_mm": 5.809,
+      "max_ear_displacement_mm": 15.979,
+      "neck_boundary_max_move_mm": 0.0,
+      "backscalp_shared_vertices_max_move_mm": 0.0,
+      "max_skin_move_above_z0.080_mm": 0.0,
+      "handles": [
+        [
+          "t",
+          "(0.052, -0.04, -0.03)",
+          "(-6.0, 0, -0.8)",
+          "(12, 16, 14)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.05, -0.075, -0.015)",
+          "(-4.8, 0, 0)",
+          "(12, 14, 12)",
+          "True"
+        ],
+        [
+          "t",
+          "(0, -0.08, -0.055)",
+          "(0, -3.5, -5.0)",
+          "(14, 16, 12)",
+          "False"
+        ],
+        [
+          "t",
+          "(0.02, -0.08, -0.05)",
+          "(-3.5, 0, 0)",
+          "(10, 12, 10)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.056, -0.078, 0.038)",
+          "(3.0, -1.5, 1.5)",
+          "(10, 12, 10)",
+          "True"
+        ],
+        [
+          "s",
+          "(0.033, -0.093, 0.056)",
+          "(1.07, 1.0, 0.9)",
+          "(9, 8, 7)",
+          "True"
+        ],
+        [
+          "r",
+          "(0.033, -0.093, 0.056)",
+          "('y', -6.5)",
+          "(9, 8, 7)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.033, -0.093, 0.056)",
+          "(-0.7, 0, 0.2)",
+          "(8, 8, 8)",
+          "True"
+        ],
+        [
+          "t",
+          "(0, -0.118, 0.03)",
+          "(0, -3.0, 0)",
+          "(7, 10, 14)",
+          "False"
+        ],
+        [
+          "s",
+          "(0, -0.115, 0.022)",
+          "(0.86, 1, 1)",
+          "(12, 10, 14)",
+          "False"
+        ],
+        [
+          "t",
+          "(0, -0.104, -0.004)",
+          "(0, 0.2, -0.7)",
+          "(16, 6, 3)",
+          "False"
+        ],
+        [
+          "t",
+          "(0.024, -0.092, -0.014)",
+          "(0, 0, 0.7)",
+          "(6, 6, 5)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.028, -0.105, 0.07)",
+          "(0, -1.4, 0)",
+          "(14, 8, 6)",
+          "True"
+        ]
+      ],
+      "ear": {
+        "pin": 0.55,
+        "drop_mm": 3.0,
+        "round": 0.32
+      },
+      "materials_retextured": {
+        "SOURCE_APPEARANCE04_slot_02": "TMF54_F3_SOURCE_APPEARANCE04_slot_02",
+        "SOURCE_APPEARANCE04_slot_14": "TMF54_F3_SOURCE_APPEARANCE04_slot_14",
+        "SOURCE_APPEARANCE04_slot_16": "TMF54_F3_SOURCE_APPEARANCE04_slot_16",
+        "TM26_Face_Skin_Only": "TMF54_F3_TM26_Face_Skin_Only"
+      },
+      "intent_ja": "細面のシャープな顔。切れ長で目尻の上がった目をやや寄せ、鼻は細く高く、上唇は薄く口角を少し上げる。中間の肌色、角度のある眉、頬骨下の陰影、目元の小さなほくろ。",
+      "blend": "TM_FH54_F3_NARROW_SHARP.blend",
+      "glb": "TM_FH54_F3_NARROW_SHARP.glb",
+      "blend_sha256": "7e7ac8371d7fe5f9a78c7d596205167f56025e3060e98e97cd159fac49ab3673",
+      "glb_sha256": "1b67f1c47e05d01f106cea94540af18eb9c1b508ff71d0c5c3502c60405a476a"
+    },
+    "F3_shape": {
+      "face_id": "F3_NARROW_SHARP",
+      "variant": "shape",
+      "normal_blend_to_smooth_max_alpha": 0.6,
+      "uv_stretch_vs_FACE52": {
+        "triangles": 658,
+        "stretch_major_p99": 1.1368848405022267,
+        "stretch_major_max": 1.2100097835768884,
+        "stretch_minor_min": 0.5639161809382952,
+        "anisotropy_change_p99": 1.3326783778032638,
+        "anisotropy_change_max": 1.7259181641631325,
+        "triangles_over_1.35x": 21
+      },
+      "face_normal_flips": 0,
+      "max_skin_displacement_mm": 5.809,
+      "max_ear_displacement_mm": 15.979,
+      "neck_boundary_max_move_mm": 0.0,
+      "backscalp_shared_vertices_max_move_mm": 0.0,
+      "max_skin_move_above_z0.080_mm": 0.0,
+      "handles": [
+        [
+          "t",
+          "(0.052, -0.04, -0.03)",
+          "(-6.0, 0, -0.8)",
+          "(12, 16, 14)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.05, -0.075, -0.015)",
+          "(-4.8, 0, 0)",
+          "(12, 14, 12)",
+          "True"
+        ],
+        [
+          "t",
+          "(0, -0.08, -0.055)",
+          "(0, -3.5, -5.0)",
+          "(14, 16, 12)",
+          "False"
+        ],
+        [
+          "t",
+          "(0.02, -0.08, -0.05)",
+          "(-3.5, 0, 0)",
+          "(10, 12, 10)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.056, -0.078, 0.038)",
+          "(3.0, -1.5, 1.5)",
+          "(10, 12, 10)",
+          "True"
+        ],
+        [
+          "s",
+          "(0.033, -0.093, 0.056)",
+          "(1.07, 1.0, 0.9)",
+          "(9, 8, 7)",
+          "True"
+        ],
+        [
+          "r",
+          "(0.033, -0.093, 0.056)",
+          "('y', -6.5)",
+          "(9, 8, 7)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.033, -0.093, 0.056)",
+          "(-0.7, 0, 0.2)",
+          "(8, 8, 8)",
+          "True"
+        ],
+        [
+          "t",
+          "(0, -0.118, 0.03)",
+          "(0, -3.0, 0)",
+          "(7, 10, 14)",
+          "False"
+        ],
+        [
+          "s",
+          "(0, -0.115, 0.022)",
+          "(0.86, 1, 1)",
+          "(12, 10, 14)",
+          "False"
+        ],
+        [
+          "t",
+          "(0, -0.104, -0.004)",
+          "(0, 0.2, -0.7)",
+          "(16, 6, 3)",
+          "False"
+        ],
+        [
+          "t",
+          "(0.024, -0.092, -0.014)",
+          "(0, 0, 0.7)",
+          "(6, 6, 5)",
+          "True"
+        ],
+        [
+          "t",
+          "(0.028, -0.105, 0.07)",
+          "(0, -1.4, 0)",
+          "(14, 8, 6)",
+          "True"
+        ]
+      ],
+      "ear": {
+        "pin": 0.55,
+        "drop_mm": 3.0,
+        "round": 0.32
+      },
+      "intent_ja": "細面のシャープな顔。切れ長で目尻の上がった目をやや寄せ、鼻は細く高く、上唇は薄く口角を少し上げる。中間の肌色、角度のある眉、頬骨下の陰影、目元の小さなほくろ。",
+      "blend": "TM_FH54_F3S_NARROW_SHARP.blend",
+      "glb": "TM_FH54_F3S_NARROW_SHARP.glb",
+      "blend_sha256": "9e0eded9700075c4a4a686cf23100adf57e9ff191777706c207e5b32e30f5952",
+      "glb_sha256": "126b08217055da0378920abd31b54d8aaa2f82aec43e1838649b91c9d0bf7203"
+    },
+    "F3_texture": {
+      "face_id": "F3_NARROW_SHARP",
+      "variant": "texture",
+      "materials_retextured": {
+        "SOURCE_APPEARANCE04_slot_02": "TMF54_F3_SOURCE_APPEARANCE04_slot_02",
+        "SOURCE_APPEARANCE04_slot_14": "TMF54_F3_SOURCE_APPEARANCE04_slot_14",
+        "SOURCE_APPEARANCE04_slot_16": "TMF54_F3_SOURCE_APPEARANCE04_slot_16",
+        "TM26_Face_Skin_Only": "TMF54_F3_TM26_Face_Skin_Only"
+      },
+      "intent_ja": "細面のシャープな顔。切れ長で目尻の上がった目をやや寄せ、鼻は細く高く、上唇は薄く口角を少し上げる。中間の肌色、角度のある眉、頬骨下の陰影、目元の小さなほくろ。",
+      "blend": "TM_FH54_F3T_NARROW_SHARP.blend",
+      "glb": "TM_FH54_F3T_NARROW_SHARP.glb",
+      "blend_sha256": "c8cabf4f00dbcfbdf7429dd5816e4506dbe0be685e370995fca651c4923fd100",
+      "glb_sha256": "24cbe5b42e1c3c13c4ada22c10932db57a7339fc82018a90c80de2d83afdcf40"
+    }
+  }
+}

@@ -19,6 +19,7 @@
 | `models/combos/TM_FH54_F?_H?.glb` | 顔4 × 髪5 = 20組（F0／H0 は FACE52 原本） |
 | `models/TM_FH54_LIBRARY_faces_hairs.blend` | 全部品を集めた編集用ファイル |
 | `models/review/TM_FH54_REVIEW_REF04_*.blend` | Reference04 への仮配置（静止）と、首の仮接続（固定／ウェイト転写） |
+| `models/superseded/` | 耳の後ろの生え際を直す前の H2・H3（F0）の GLB。`M07c` の「修正前」の描画元で、採用候補ではありません。 |
 | `textures/` | 髪のテクスチャ（スクリプトで生成）と、顔ごとのテクスチャ（FACE52 由来を加工） |
 | `images/` | 比較画像（M = スマホ向けの縦長、D = PC 向け） |
 | `renders/` | 元のレンダー画像 |

@@ -1,0 +1,31 @@
+validator: 34 files
+done FACE52
+done FH53_H1
+done FH54_H1
+done FH53_H2
+done FH54_H2
+done FH53_H3
+done FH54_H3
+done FH53_H4
+done FH54_H4
+perf FACE52_x22 {"calls":209,"triangles":106096,"ms_per_frame":2.6085000000009315,"gl_renderer":"WebKit WebGL"}
+perf FH53_H1_x22 {"calls":209,"triangles":97432,"ms_per_frame":2.376499999999069,"gl_renderer":"WebKit WebGL"}
+perf FH54_H1_x22 {"calls":228,"triangles":70433,"ms_per_frame":2.4709999999962746,"gl_renderer":"WebKit WebGL"}
+perf FH54_H4_x22 {"calls":228,"triangles":77520,"ms_per_frame":2.631999999997206,"gl_renderer":"WebKit WebGL"}
+perf FACE52_x22_with_body {"calls":561,"triangles":141582,"ms_per_frame":13.528999999999069,"gl_renderer":"WebKit WebGL"}
+perf FH54_F1_H1_x22_with_body {"calls":580,"triangles":105919,"ms_per_frame":13.497999999998138,"gl_renderer":"WebKit WebGL"}
+sweep FACE52
+sweep FH53_H1
+sweep FH54_H1
+sweep FH53_H2
+sweep FH54_H2
+sweep FH53_H3
+sweep FH54_H3
+sweep FH53_H4
+sweep FH54_H4
+force-order {'FACE52': [1.38, 2.2, 0.98], 'FH53_H1': [0.4, 1.79, 5.43], 'FH54_H1': [0.1, 0.0, 0.16], 'FH53_H2': [0.11, 0.07, 1.24], 'FH54_H2': [0.0, 0.0, 0.0], 'FH53_H3': [0.21, 0.52, 3.61], 'FH54_H3': [0.0, 0.0, 0.0], 'FH53_H4': [1.32, 3.91, 6.71], 'FH54_H4': [0.08, 0.22, 0.02]}
+webtest done
+
+real	3m24.427s
+user	0m38.535s
+sys	0m8.760s

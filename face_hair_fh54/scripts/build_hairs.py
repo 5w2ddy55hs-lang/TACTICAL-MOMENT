@@ -44,7 +44,9 @@ STYLES = {
         intent_ja='短髪クロップ。頭の丸みに沿う薄い毛量、耳と襟足を出す。シルエットを最も小さく締め、耳前は短いもみあげだけにする。',
         pole=(180, 66), seam=(180, -30), K=8,
         line=[(0, 42), (22, 42), (40, 40), (52, 30), (60, 16), (66, 4), (72, -3), (79, 3), (84, 16), (95, 22),
-              (108, 18), (116, 8), (124, 0), (134, -12), (155, -23), (180, -27)],
+              (108, 18), (116, 8), (120, 2), (123, -8), (130, -12), (136, -15), (155, -23), (180, -27)],
+        # FH54 fix: behind the ears the line drops below the corner of the skin opening (az +-125, el -7) so that the
+        # whole rim lies on skin (cover 1) and the edge band can fade; before, 2 rim vertices per side stayed opaque.
         shell=dict(kind='const', top_mm=3.6, side_mm=2.2, edge_mm=0.7, band=0.45, fade_back=0.70), hairline_noise_deg=1.0,
         cards=[
             dict(name='fringe_short', az=(-40, 40), n=12, t_root=0.86, ext=lambda a: 6, w=13, strips=(3,), segs=2, lift=0.10, jitter=1.5, drift=4.0),
@@ -55,7 +57,7 @@ STYLES = {
         pole=(180, 80), seam=(180, -30), K=8,
         flow=dict(pole=(0, 22), seam_dir=(0.0, 0.0, -1.0), K=10),
         line=[(0, 43), (20, 42), (35, 41), (48, 34), (58, 20), (65, 6), (72, -4), (80, 2), (85, 14), (95, 20),
-              (107, 16), (115, 6), (124, -4), (150, -21), (180, -25)],
+              (107, 16), (115, 6), (120, 1), (123, -8), (130, -12), (138, -16), (150, -21), (180, -25)],   # FH54: same fix as H2
         hairline_noise_deg=0.9,
         shell=dict(kind='bumps', base_mm=4.5, edge_mm=1.0, band=0.16, fade_back=0.74,
                    bumps=[(0, 58, 32, 14, 10.0), (0, 75, 60, 20, 3.0)], side_cut=(60, 130, 35, 2.5)),

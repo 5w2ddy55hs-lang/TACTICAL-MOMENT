@@ -1,0 +1,466 @@
+{
+  "extracted_to_new_empty_folder": true,
+  "sha_mismatch": [],
+  "sha_checked": 734,
+  "blends": {
+    "models/TM_FH54_LIBRARY_faces_hairs.blend": {
+      "opened": true,
+      "blender": "4.2.23 LTS",
+      "objects": 13,
+      "images": 34,
+      "not_packed": 0,
+      "not_loaded": 0
+    },
+    "models/face/TM_FH54_F1S_LONG_ANGULAR.blend": {
+      "opened": true,
+      "blender": "4.2.23 LTS",
+      "objects": 2,
+      "images": 5,
+      "not_packed": 0,
+      "not_loaded": 0
+    },
+    "models/face/TM_FH54_F1T_LONG_ANGULAR.blend": {
+      "opened": true,
+      "blender": "4.2.23 LTS",
+      "objects": 2,
+      "images": 5,
+      "not_packed": 0,
+      "not_loaded": 0
+    },
+    "models/face/TM_FH54_F1_LONG_ANGULAR.blend": {
+      "opened": true,
+      "blender": "4.2.23 LTS",
+      "objects": 2,
+      "images": 5,
+      "not_packed": 0,
+      "not_loaded": 0
+    },
+    "models/face/TM_FH54_F2S_ROUND_SOFT.blend": {
+      "opened": true,
+      "blender": "4.2.23 LTS",
+      "objects": 2,
+      "images": 5,
+      "not_packed": 0,
+      "not_loaded": 0
+    },
+    "models/face/TM_FH54_F2T_ROUND_SOFT.blend": {
+      "opened": true,
+      "blender": "4.2.23 LTS",
+      "objects": 2,
+      "images": 5,
+      "not_packed": 0,
+      "not_loaded": 0
+    },
+    "models/face/TM_FH54_F2_ROUND_SOFT.blend": {
+      "opened": true,
+      "blender": "4.2.23 LTS",
+      "objects": 2,
+      "images": 5,
+      "not_packed": 0,
+      "not_loaded": 0
+    },
+    "models/face/TM_FH54_F3S_NARROW_SHARP.blend": {
+      "opened": true,
+      "blender": "4.2.23 LTS",
+      "objects": 2,
+      "images": 5,
+      "not_packed": 0,
+      "not_loaded": 0
+    },
+    "models/face/TM_FH54_F3T_NARROW_SHARP.blend": {
+      "opened": true,
+      "blender": "4.2.23 LTS",
+      "objects": 2,
+      "images": 5,
+      "not_packed": 0,
+      "not_loaded": 0
+    },
+    "models/face/TM_FH54_F3_NARROW_SHARP.blend": {
+      "opened": true,
+      "blender": "4.2.23 LTS",
+      "objects": 2,
+      "images": 5,
+      "not_packed": 0,
+      "not_loaded": 0
+    },
+    "models/hair/TM_FH54_H1_STANDARD_REBUILT.blend": {
+      "opened": true,
+      "blender": "4.2.23 LTS",
+      "objects": 1,
+      "images": 3,
+      "not_packed": 0,
+      "not_loaded": 0
+    },
+    "models/hair/TM_FH54_H2_SHORT_CROP.blend": {
+      "opened": true,
+      "blender": "4.2.23 LTS",
+      "objects": 1,
+      "images": 3,
+      "not_packed": 0,
+      "not_loaded": 0
+    },
+    "models/hair/TM_FH54_H3_SWEPT_BACK.blend": {
+      "opened": true,
+      "blender": "4.2.23 LTS",
+      "objects": 1,
+      "images": 3,
+      "not_packed": 0,
+      "not_loaded": 0
+    },
+    "models/hair/TM_FH54_H4_SIDE_SWEPT_FRINGE.blend": {
+      "opened": true,
+      "blender": "4.2.23 LTS",
+      "objects": 1,
+      "images": 3,
+      "not_packed": 0,
+      "not_loaded": 0
+    },
+    "models/review/TM_FH54_REVIEW_REF04_ANIM_RIGID_F1_H1.blend": {
+      "opened": true,
+      "blender": "4.2.23 LTS",
+      "objects": 5,
+      "images": 20,
+      "not_packed": 0,
+      "not_loaded": 0
+    },
+    "models/review/TM_FH54_REVIEW_REF04_ANIM_WEIGHTED_F1_H1.blend": {
+      "opened": true,
+      "blender": "4.2.23 LTS",
+      "objects": 5,
+      "images": 20,
+      "not_packed": 0,
+      "not_loaded": 0
+    },
+    "models/review/TM_FH54_REVIEW_REF04_PROVISIONAL.blend": {
+      "opened": true,
+      "blender": "4.2.23 LTS",
+      "objects": 25,
+      "images": 59,
+      "not_packed": 0,
+      "not_loaded": 0
+    }
+  },
+  "glbs": {
+    "models/combos/TM_FH54_F0_H0.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 8,
+      "images": 7,
+      "triangles_imported": 3160,
+      "triangles_in_glb": 3160,
+      "match": true
+    },
+    "models/combos/TM_FH54_F0_H1.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 9,
+      "images": 8,
+      "triangles_imported": 2916,
+      "triangles_in_glb": 2916,
+      "match": true
+    },
+    "models/combos/TM_FH54_F0_H2.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 9,
+      "images": 8,
+      "triangles_imported": 2728,
+      "triangles_in_glb": 2728,
+      "match": true
+    },
+    "models/combos/TM_FH54_F0_H3.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 9,
+      "images": 8,
+      "triangles_imported": 3112,
+      "triangles_in_glb": 3112,
+      "match": true
+    },
+    "models/combos/TM_FH54_F0_H4.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 9,
+      "images": 8,
+      "triangles_imported": 3087,
+      "triangles_in_glb": 3087,
+      "match": true
+    },
+    "models/combos/TM_FH54_F1_H0.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 8,
+      "images": 7,
+      "triangles_imported": 3160,
+      "triangles_in_glb": 3160,
+      "match": true
+    },
+    "models/combos/TM_FH54_F1_H1.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 9,
+      "images": 8,
+      "triangles_imported": 2916,
+      "triangles_in_glb": 2916,
+      "match": true
+    },
+    "models/combos/TM_FH54_F1_H2.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 9,
+      "images": 8,
+      "triangles_imported": 2728,
+      "triangles_in_glb": 2728,
+      "match": true
+    },
+    "models/combos/TM_FH54_F1_H3.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 9,
+      "images": 8,
+      "triangles_imported": 3112,
+      "triangles_in_glb": 3112,
+      "match": true
+    },
+    "models/combos/TM_FH54_F1_H4.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 9,
+      "images": 8,
+      "triangles_imported": 3087,
+      "triangles_in_glb": 3087,
+      "match": true
+    },
+    "models/combos/TM_FH54_F2_H0.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 8,
+      "images": 7,
+      "triangles_imported": 3160,
+      "triangles_in_glb": 3160,
+      "match": true
+    },
+    "models/combos/TM_FH54_F2_H1.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 9,
+      "images": 8,
+      "triangles_imported": 2916,
+      "triangles_in_glb": 2916,
+      "match": true
+    },
+    "models/combos/TM_FH54_F2_H2.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 9,
+      "images": 8,
+      "triangles_imported": 2728,
+      "triangles_in_glb": 2728,
+      "match": true
+    },
+    "models/combos/TM_FH54_F2_H3.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 9,
+      "images": 8,
+      "triangles_imported": 3112,
+      "triangles_in_glb": 3112,
+      "match": true
+    },
+    "models/combos/TM_FH54_F2_H4.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 9,
+      "images": 8,
+      "triangles_imported": 3087,
+      "triangles_in_glb": 3087,
+      "match": true
+    },
+    "models/combos/TM_FH54_F3_H0.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 8,
+      "images": 7,
+      "triangles_imported": 3160,
+      "triangles_in_glb": 3160,
+      "match": true
+    },
+    "models/combos/TM_FH54_F3_H1.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 9,
+      "images": 8,
+      "triangles_imported": 2916,
+      "triangles_in_glb": 2916,
+      "match": true
+    },
+    "models/combos/TM_FH54_F3_H2.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 9,
+      "images": 8,
+      "triangles_imported": 2728,
+      "triangles_in_glb": 2728,
+      "match": true
+    },
+    "models/combos/TM_FH54_F3_H3.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 9,
+      "images": 8,
+      "triangles_imported": 3112,
+      "triangles_in_glb": 3112,
+      "match": true
+    },
+    "models/combos/TM_FH54_F3_H4.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 9,
+      "images": 8,
+      "triangles_imported": 3087,
+      "triangles_in_glb": 3087,
+      "match": true
+    },
+    "models/face/TM_FH54_F1S_LONG_ANGULAR.glb": {
+      "imported": true,
+      "mesh_objects": 2,
+      "materials": 6,
+      "images": 5,
+      "triangles_imported": 736,
+      "triangles_in_glb": 736,
+      "match": true
+    },
+    "models/face/TM_FH54_F1T_LONG_ANGULAR.glb": {
+      "imported": true,
+      "mesh_objects": 2,
+      "materials": 6,
+      "images": 5,
+      "triangles_imported": 736,
+      "triangles_in_glb": 736,
+      "match": true
+    },
+    "models/face/TM_FH54_F1_LONG_ANGULAR.glb": {
+      "imported": true,
+      "mesh_objects": 2,
+      "materials": 6,
+      "images": 5,
+      "triangles_imported": 736,
+      "triangles_in_glb": 736,
+      "match": true
+    },
+    "models/face/TM_FH54_F2S_ROUND_SOFT.glb": {
+      "imported": true,
+      "mesh_objects": 2,
+      "materials": 6,
+      "images": 5,
+      "triangles_imported": 736,
+      "triangles_in_glb": 736,
+      "match": true
+    },
+    "models/face/TM_FH54_F2T_ROUND_SOFT.glb": {
+      "imported": true,
+      "mesh_objects": 2,
+      "materials": 6,
+      "images": 5,
+      "triangles_imported": 736,
+      "triangles_in_glb": 736,
+      "match": true
+    },
+    "models/face/TM_FH54_F2_ROUND_SOFT.glb": {
+      "imported": true,
+      "mesh_objects": 2,
+      "materials": 6,
+      "images": 5,
+      "triangles_imported": 736,
+      "triangles_in_glb": 736,
+      "match": true
+    },
+    "models/face/TM_FH54_F3S_NARROW_SHARP.glb": {
+      "imported": true,
+      "mesh_objects": 2,
+      "materials": 6,
+      "images": 5,
+      "triangles_imported": 736,
+      "triangles_in_glb": 736,
+      "match": true
+    },
+    "models/face/TM_FH54_F3T_NARROW_SHARP.glb": {
+      "imported": true,
+      "mesh_objects": 2,
+      "materials": 6,
+      "images": 5,
+      "triangles_imported": 736,
+      "triangles_in_glb": 736,
+      "match": true
+    },
+    "models/face/TM_FH54_F3_NARROW_SHARP.glb": {
+      "imported": true,
+      "mesh_objects": 2,
+      "materials": 6,
+      "images": 5,
+      "triangles_imported": 736,
+      "triangles_in_glb": 736,
+      "match": true
+    },
+    "models/hair/TM_FH54_H1_STANDARD_REBUILT.glb": {
+      "imported": true,
+      "mesh_objects": 1,
+      "materials": 3,
+      "images": 3,
+      "triangles_imported": 2180,
+      "triangles_in_glb": 2180,
+      "match": true
+    },
+    "models/hair/TM_FH54_H2_SHORT_CROP.glb": {
+      "imported": true,
+      "mesh_objects": 1,
+      "materials": 3,
+      "images": 3,
+      "triangles_imported": 1992,
+      "triangles_in_glb": 1992,
+      "match": true
+    },
+    "models/hair/TM_FH54_H3_SWEPT_BACK.glb": {
+      "imported": true,
+      "mesh_objects": 1,
+      "materials": 3,
+      "images": 3,
+      "triangles_imported": 2376,
+      "triangles_in_glb": 2376,
+      "match": true
+    },
+    "models/hair/TM_FH54_H4_SIDE_SWEPT_FRINGE.glb": {
+      "imported": true,
+      "mesh_objects": 1,
+      "materials": 3,
+      "images": 3,
+      "triangles_imported": 2351,
+      "triangles_in_glb": 2351,
+      "match": true
+    },
+    "models/superseded/TM_FH54_F0_H2_before_behind_ear_fix.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 9,
+      "images": 8,
+      "triangles_imported": 2620,
+      "triangles_in_glb": 2620,
+      "match": true
+    },
+    "models/superseded/TM_FH54_F0_H3_before_behind_ear_fix.glb": {
+      "imported": true,
+      "mesh_objects": 3,
+      "materials": 9,
+      "images": 8,
+      "triangles_imported": 2950,
+      "triangles_in_glb": 2950,
+      "match": true
+    }
+  },
+  "all_ok": true,
+  "seconds": 6.2,
+  "zip": "TM_FH54_FACE_HAIR_20261106.zip",
+  "zip_bytes": 251907852,
+  "zip_sha256": "1dc332a3a19433d60d918011eeb013ec2f9b87b7139ba371a3ec2624998238b2",
+  "files_in_zip": 735
+}

@@ -1,0 +1,109 @@
+Read blend: "<FH53_INPUTS>/CODEX/face52_work/models/TM_FACE52_F0_H0.blend"
+Info: Total files 4 | Changed 0 | Failed 0
+Info: No new files have been packed
+Info: Saved "TM_FH54_F1_LONG_ANGULAR.blend"
+ERROR Draco mesh compression is not available because library could not be found at <REPO>/face_hair_fh54/4.2/python/lib/python3.11/site-packages/libextern_draco.so
+13:17:57 | INFO: Starting glTF 2.0 export
+13:17:57 | INFO: Extracting primitive: TMF54_F1
+13:17:57 | INFO: Primitives created: 5
+13:17:57 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:17:57 | INFO: Primitives created: 2
+13:17:57 | INFO: Finished glTF 2.0 export in 0.07883977890014648 s
+
+BUILT F1 full {'max_skin_displacement_mm': 8.992, 'neck_boundary_max_move_mm': 0.0, 'max_skin_move_above_z0.080_mm': 0.0, 'face_normal_flips': 0}
+Read blend: "<FH53_INPUTS>/CODEX/face52_work/models/TM_FACE52_F0_H0.blend"
+Info: Total files 0 | Changed 0 | Failed 0
+Info: No new files have been packed
+Info: Saved "TM_FH54_F1S_LONG_ANGULAR.blend"
+13:17:57 | INFO: Starting glTF 2.0 export
+13:17:57 | INFO: Extracting primitive: TMF54_F1S
+13:17:57 | INFO: Primitives created: 5
+13:17:57 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:17:57 | INFO: Primitives created: 2
+13:17:57 | INFO: Finished glTF 2.0 export in 0.08512330055236816 s
+
+BUILT F1 shape {'max_skin_displacement_mm': 8.992, 'neck_boundary_max_move_mm': 0.0, 'max_skin_move_above_z0.080_mm': 0.0, 'face_normal_flips': 0}
+Read blend: "<FH53_INPUTS>/CODEX/face52_work/models/TM_FACE52_F0_H0.blend"
+Info: Total files 4 | Changed 0 | Failed 0
+Info: No new files have been packed
+Info: Saved "TM_FH54_F1T_LONG_ANGULAR.blend"
+13:17:57 | INFO: Starting glTF 2.0 export
+13:17:57 | INFO: Extracting primitive: TMF54_F1T
+13:17:57 | INFO: Primitives created: 5
+13:17:57 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:17:57 | INFO: Primitives created: 2
+13:17:57 | INFO: Finished glTF 2.0 export in 0.0963735580444336 s
+
+BUILT F1 texture {'max_skin_displacement_mm': None, 'neck_boundary_max_move_mm': None, 'max_skin_move_above_z0.080_mm': None, 'face_normal_flips': None}
+Read blend: "<FH53_INPUTS>/CODEX/face52_work/models/TM_FACE52_F0_H0.blend"
+Info: Total files 4 | Changed 0 | Failed 0
+Info: No new files have been packed
+Info: Saved "TM_FH54_F2_ROUND_SOFT.blend"
+13:17:57 | INFO: Starting glTF 2.0 export
+13:17:57 | INFO: Extracting primitive: TMF54_F2
+13:17:57 | INFO: Primitives created: 5
+13:17:57 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:17:57 | INFO: Primitives created: 2
+13:17:57 | INFO: Finished glTF 2.0 export in 0.10399270057678223 s
+
+BUILT F2 full {'max_skin_displacement_mm': 4.967, 'neck_boundary_max_move_mm': 0.0, 'max_skin_move_above_z0.080_mm': 0.0, 'face_normal_flips': 0}
+Read blend: "<FH53_INPUTS>/CODEX/face52_work/models/TM_FACE52_F0_H0.blend"
+Info: Total files 0 | Changed 0 | Failed 0
+Info: No new files have been packed
+Info: Saved "TM_FH54_F2S_ROUND_SOFT.blend"
+13:17:57 | INFO: Starting glTF 2.0 export
+13:17:57 | INFO: Extracting primitive: TMF54_F2S
+13:17:57 | INFO: Primitives created: 5
+13:17:57 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:17:57 | INFO: Primitives created: 2
+13:17:57 | INFO: Finished glTF 2.0 export in 0.07497453689575195 s
+
+BUILT F2 shape {'max_skin_displacement_mm': 4.967, 'neck_boundary_max_move_mm': 0.0, 'max_skin_move_above_z0.080_mm': 0.0, 'face_normal_flips': 0}
+Read blend: "<FH53_INPUTS>/CODEX/face52_work/models/TM_FACE52_F0_H0.blend"
+Info: Total files 4 | Changed 0 | Failed 0
+Info: No new files have been packed
+Info: Saved "TM_FH54_F2T_ROUND_SOFT.blend"
+13:17:57 | INFO: Starting glTF 2.0 export
+13:17:57 | INFO: Extracting primitive: TMF54_F2T
+13:17:58 | INFO: Primitives created: 5
+13:17:58 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:17:58 | INFO: Primitives created: 2
+13:17:58 | INFO: Finished glTF 2.0 export in 0.07587337493896484 s
+
+BUILT F2 texture {'max_skin_displacement_mm': None, 'neck_boundary_max_move_mm': None, 'max_skin_move_above_z0.080_mm': None, 'face_normal_flips': None}
+Read blend: "<FH53_INPUTS>/CODEX/face52_work/models/TM_FACE52_F0_H0.blend"
+Info: Total files 4 | Changed 0 | Failed 0
+Info: No new files have been packed
+Info: Saved "TM_FH54_F3_NARROW_SHARP.blend"
+13:17:58 | INFO: Starting glTF 2.0 export
+13:17:58 | INFO: Extracting primitive: TMF54_F3
+13:17:58 | INFO: Primitives created: 5
+13:17:58 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:17:58 | INFO: Primitives created: 2
+13:17:58 | INFO: Finished glTF 2.0 export in 0.0753166675567627 s
+
+BUILT F3 full {'max_skin_displacement_mm': 5.809, 'neck_boundary_max_move_mm': 0.0, 'max_skin_move_above_z0.080_mm': 0.0, 'face_normal_flips': 0}
+Read blend: "<FH53_INPUTS>/CODEX/face52_work/models/TM_FACE52_F0_H0.blend"
+Info: Total files 0 | Changed 0 | Failed 0
+Info: No new files have been packed
+Info: Saved "TM_FH54_F3S_NARROW_SHARP.blend"
+13:17:58 | INFO: Starting glTF 2.0 export
+13:17:58 | INFO: Extracting primitive: TMF54_F3S
+13:17:58 | INFO: Primitives created: 5
+13:17:58 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:17:58 | INFO: Primitives created: 2
+13:17:58 | INFO: Finished glTF 2.0 export in 0.06902003288269043 s
+
+BUILT F3 shape {'max_skin_displacement_mm': 5.809, 'neck_boundary_max_move_mm': 0.0, 'max_skin_move_above_z0.080_mm': 0.0, 'face_normal_flips': 0}
+Read blend: "<FH53_INPUTS>/CODEX/face52_work/models/TM_FACE52_F0_H0.blend"
+Info: Total files 4 | Changed 0 | Failed 0
+Info: No new files have been packed
+Info: Saved "TM_FH54_F3T_NARROW_SHARP.blend"
+13:17:58 | INFO: Starting glTF 2.0 export
+13:17:58 | INFO: Extracting primitive: TMF54_F3T
+13:17:58 | INFO: Primitives created: 5
+13:17:58 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:17:58 | INFO: Primitives created: 2
+13:17:58 | INFO: Finished glTF 2.0 export in 0.07587313652038574 s
+
+BUILT F3 texture {'max_skin_displacement_mm': None, 'neck_boundary_max_move_mm': None, 'max_skin_move_above_z0.080_mm': None, 'face_normal_flips': None}

@@ -1,0 +1,274 @@
+{
+ "TM_FACE52_F0_H0.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 6,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F1S_LONG_ANGULAR.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F1T_LONG_ANGULAR.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F1_LONG_ANGULAR.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F2S_ROUND_SOFT.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F2T_ROUND_SOFT.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F2_ROUND_SOFT.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F3S_NARROW_SHARP.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F3T_NARROW_SHARP.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F3_NARROW_SHARP.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_H1_STANDARD_REBUILT.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 0,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_H2_SHORT_CROP.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 0,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_H3_SWEPT_BACK.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 0,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_H4_SIDE_SWEPT_FRINGE.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 0,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F0_H0.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 6,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F0_H1.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F0_H2.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F0_H3.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F0_H4.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F1_H0.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 6,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F1_H1.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F1_H2.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F1_H3.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F1_H4.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F2_H0.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 6,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F2_H1.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F2_H2.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F2_H3.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F2_H4.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F3_H0.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 6,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F3_H1.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F3_H2.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F3_H3.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_FH54_F3_H4.glb": {
+  "errors": 0,
+  "warnings": 0,
+  "infos": 1,
+  "hints": 0,
+  "messages": [],
+  "validatorVersion": "2.0.0-dev.3.10"
+ }
+}
