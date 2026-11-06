@@ -1,0 +1,43 @@
+{
+  "blender": "4.2.23 LTS",
+  "translation_tested": [
+    0.0,
+    -0.0393775999546051,
+    1.59796941280365
+  ],
+  "rest_mesh": {
+    "eyes": {
+      "face_unique": 18,
+      "ref_unique": 18,
+      "max_nearest_residual": 8.049310993806738e-10,
+      "all_matched_1e-6": true
+    },
+    "mouth": {
+      "face_unique": 36,
+      "ref_unique": 36,
+      "max_nearest_residual": 9.745892695543479e-10,
+      "all_matched_1e-6": true
+    }
+  },
+  "evaluated_armature": {
+    "eyes": {
+      "face_unique": 18,
+      "ref_unique": 18,
+      "max_nearest_residual": 1.3681686614023273e-07,
+      "all_matched_1e-6": true
+    },
+    "mouth": {
+      "face_unique": 36,
+      "ref_unique": 36,
+      "max_nearest_residual": 1.2743962269071824e-07,
+      "all_matched_1e-6": true
+    }
+  },
+  "face_object_dimensions": [
+    0.17700472474098206,
+    0.1830577403306961,
+    0.22351956367492676
+  ],
+  "ref_scene_unit_system": "NONE",
+  "ref_armature_pose_position": "POSE"
+}

@@ -1,0 +1,37 @@
+Read blend: "/tmp/claude-0/-home-user-TACTICAL-MOMENT/c5f2d54b-9475-594b-a70d-eef6da306a16/scratchpad/restored_inputs/CODEX/face52_work/models/TM_FACE52_F0_H0.blend"
+Info: Total files 0 | Changed 0 | Failed 0
+Info: No new files have been packed
+Info: Saved "TM_FH53_F1_LONG_ANGULAR.blend"
+ERROR Draco mesh compression is not available because library could not be found at /home/user/TACTICAL-MOMENT/face_hair_fh53/4.2/python/lib/python3.11/site-packages/libextern_draco.so
+07:11:30 | INFO: Starting glTF 2.0 export
+07:11:30 | INFO: Extracting primitive: TMF53_F1_LONG_ANGULAR
+07:11:30 | INFO: Primitives created: 5
+07:11:30 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:30 | INFO: Primitives created: 2
+07:11:30 | INFO: Finished glTF 2.0 export in 0.05294466018676758 s
+
+BUILT F1 {'max_displacement_mm': 11.722, 'max_ear_displacement_mm': 11.722, 'neck_boundary_max_move_mm': 0.0, 'max_skin_move_above_z0.080_mm': 0.0, 'face_normal_flips': 0, 'min_area_ratio': np.float64(0.4708)}
+Read blend: "/tmp/claude-0/-home-user-TACTICAL-MOMENT/c5f2d54b-9475-594b-a70d-eef6da306a16/scratchpad/restored_inputs/CODEX/face52_work/models/TM_FACE52_F0_H0.blend"
+Info: Total files 0 | Changed 0 | Failed 0
+Info: No new files have been packed
+Info: Saved "TM_FH53_F2_ROUND_SOFT.blend"
+07:11:30 | INFO: Starting glTF 2.0 export
+07:11:30 | INFO: Extracting primitive: TMF53_F2_ROUND_SOFT
+07:11:30 | INFO: Primitives created: 5
+07:11:30 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:30 | INFO: Primitives created: 2
+07:11:30 | INFO: Finished glTF 2.0 export in 0.04723167419433594 s
+
+BUILT F2 {'max_displacement_mm': 11.722, 'max_ear_displacement_mm': 11.722, 'neck_boundary_max_move_mm': 0.0, 'max_skin_move_above_z0.080_mm': 0.0, 'face_normal_flips': 0, 'min_area_ratio': np.float64(0.4708)}
+Read blend: "/tmp/claude-0/-home-user-TACTICAL-MOMENT/c5f2d54b-9475-594b-a70d-eef6da306a16/scratchpad/restored_inputs/CODEX/face52_work/models/TM_FACE52_F0_H0.blend"
+Info: Total files 0 | Changed 0 | Failed 0
+Info: No new files have been packed
+Info: Saved "TM_FH53_F3_NARROW_SHARP.blend"
+07:11:30 | INFO: Starting glTF 2.0 export
+07:11:30 | INFO: Extracting primitive: TMF53_F3_NARROW_SHARP
+07:11:30 | INFO: Primitives created: 5
+07:11:30 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:30 | INFO: Primitives created: 2
+07:11:30 | INFO: Finished glTF 2.0 export in 0.04685831069946289 s
+
+BUILT F3 {'max_displacement_mm': 11.722, 'max_ear_displacement_mm': 11.722, 'neck_boundary_max_move_mm': 0.0, 'max_skin_move_above_z0.080_mm': 0.0, 'face_normal_flips': 0, 'min_area_ratio': np.float64(0.4708)}

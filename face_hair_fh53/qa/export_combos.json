@@ -1,0 +1,266 @@
+{
+  "blender": "4.2.23 LTS",
+  "inputs": {
+    "FACE52_BLEND": {
+      "path": "/tmp/claude-0/-home-user-TACTICAL-MOMENT/c5f2d54b-9475-594b-a70d-eef6da306a16/scratchpad/restored_inputs/CODEX/face52_work/models/TM_FACE52_F0_H0.blend",
+      "sha256": "5197ef43a63fbbd386291b778b8090178ee71429a8cb4423bd7f4383eea749c2"
+    },
+    "FACE52_GLB": {
+      "path": "/tmp/claude-0/-home-user-TACTICAL-MOMENT/c5f2d54b-9475-594b-a70d-eef6da306a16/scratchpad/restored_inputs/CODEX/face52_work/models/TM_FACE52_F0_H0.glb",
+      "sha256": "f31adb0a69cecdadb0e60f87e6d881b842198e431d09a70b388afaddd1fd1b1a"
+    },
+    "FACE52_RAW": {
+      "path": "/tmp/claude-0/-home-user-TACTICAL-MOMENT/c5f2d54b-9475-594b-a70d-eef6da306a16/scratchpad/restored_inputs/CODEX/face52_work/models/TM_FACE52_F0_H0_RAW.glb",
+      "sha256": "1b3b8de350f48a633060e5aabc6b54ad2aa6470b6eabd5f176654186416cb62b"
+    }
+  },
+  "combos": {
+    "F0_H0": {
+      "face": "F0_FACE52",
+      "hair": "H0_FACE52",
+      "face_source": "TM_FACE52_F0_H0.blend",
+      "hair_source": "TM_FACE52_F0_H0.blend",
+      "canonical_cap": {
+        "POSITION": "exact",
+        "TEXCOORD_0": "exact",
+        "COLOR_0": "exact",
+        "NORMAL": "maxdiff 6.800e-03",
+        "replaced": "REF09_Hair/TM18_HairCap_Detail"
+      },
+      "raw_sha256": "afc992af513c75817774c79233a18b20fbecf3352fc808f0ae6f484e9d180e67",
+      "export": "Blender glTF export + FACE52 canonical cap primitive grafted (positions verified identical)",
+      "glb": "TM_FH53_F0_H0.glb",
+      "glb_sha256": "2e61f15bd2a7605d8118605059932ae552b725ea7489e5f05e6ba64e4e0aa3aa",
+      "seconds": 0.24
+    },
+    "F0_H1": {
+      "face": "F0_FACE52",
+      "hair": "H1_STANDARD_REBUILT",
+      "face_source": "TM_FACE52_F0_H0.blend",
+      "hair_source": "TM_FH53_H1_STANDARD_REBUILT.blend",
+      "export": "plain Blender glTF export",
+      "glb": "TM_FH53_F0_H1.glb",
+      "glb_sha256": "cb49b5c46495e2a4d406a72cbf42bb1f31a57b4f0b4c0ce24a839ce4ca81435b",
+      "seconds": 0.11
+    },
+    "F0_H2": {
+      "face": "F0_FACE52",
+      "hair": "H2_SHORT_CROP",
+      "face_source": "TM_FACE52_F0_H0.blend",
+      "hair_source": "TM_FH53_H2_SHORT_CROP.blend",
+      "export": "plain Blender glTF export",
+      "glb": "TM_FH53_F0_H2.glb",
+      "glb_sha256": "d527333db91f5bac5f40b2804631941bf3969adbefdcb7173a2bc3fdbe2ea5d4",
+      "seconds": 0.11
+    },
+    "F0_H3": {
+      "face": "F0_FACE52",
+      "hair": "H3_SWEPT_BACK",
+      "face_source": "TM_FACE52_F0_H0.blend",
+      "hair_source": "TM_FH53_H3_SWEPT_BACK.blend",
+      "export": "plain Blender glTF export",
+      "glb": "TM_FH53_F0_H3.glb",
+      "glb_sha256": "961722a4bd6c5dc6ce12462878ac333df6703a787d29f79f1302a6e68fabc017",
+      "seconds": 0.11
+    },
+    "F0_H4": {
+      "face": "F0_FACE52",
+      "hair": "H4_SIDE_SWEPT_FRINGE",
+      "face_source": "TM_FACE52_F0_H0.blend",
+      "hair_source": "TM_FH53_H4_SIDE_SWEPT_FRINGE.blend",
+      "export": "plain Blender glTF export",
+      "glb": "TM_FH53_F0_H4.glb",
+      "glb_sha256": "70fd8b9cab5711078fefaa0dbcdf4a05413ab02b7e8b30c83b014a07c03ef33c",
+      "seconds": 0.11
+    },
+    "F1_H0": {
+      "face": "F1_LONG_ANGULAR",
+      "hair": "H0_FACE52",
+      "face_source": "TM_FH53_F1_LONG_ANGULAR.blend",
+      "hair_source": "TM_FACE52_F0_H0.blend",
+      "canonical_cap": {
+        "POSITION": "exact",
+        "TEXCOORD_0": "exact",
+        "COLOR_0": "exact",
+        "NORMAL": "maxdiff 6.800e-03",
+        "replaced": "REF09_Hair/TM18_HairCap_Detail"
+      },
+      "raw_sha256": "80eedb2c4b315da610fa5a4ffda8851c1f2c05287e80b69624faffda18abc86d",
+      "export": "Blender glTF export + FACE52 canonical cap primitive grafted (positions verified identical)",
+      "glb": "TM_FH53_F1_H0.glb",
+      "glb_sha256": "946c9072bf2d28583a3457c4e86e925f1750869e26758a5136dade773912aae7",
+      "seconds": 0.17
+    },
+    "F1_H1": {
+      "face": "F1_LONG_ANGULAR",
+      "hair": "H1_STANDARD_REBUILT",
+      "face_source": "TM_FH53_F1_LONG_ANGULAR.blend",
+      "hair_source": "TM_FH53_H1_STANDARD_REBUILT.blend",
+      "export": "plain Blender glTF export",
+      "glb": "TM_FH53_F1_H1.glb",
+      "glb_sha256": "4db882619ee0ca852d0ec7e5984c308e4574a25a6bf519432a372392e299066d",
+      "seconds": 0.11
+    },
+    "F1_H2": {
+      "face": "F1_LONG_ANGULAR",
+      "hair": "H2_SHORT_CROP",
+      "face_source": "TM_FH53_F1_LONG_ANGULAR.blend",
+      "hair_source": "TM_FH53_H2_SHORT_CROP.blend",
+      "export": "plain Blender glTF export",
+      "glb": "TM_FH53_F1_H2.glb",
+      "glb_sha256": "50a8d55225095090eca713382340153fd445ba6fefb5f037d6697b158165ac47",
+      "seconds": 0.11
+    },
+    "F1_H3": {
+      "face": "F1_LONG_ANGULAR",
+      "hair": "H3_SWEPT_BACK",
+      "face_source": "TM_FH53_F1_LONG_ANGULAR.blend",
+      "hair_source": "TM_FH53_H3_SWEPT_BACK.blend",
+      "export": "plain Blender glTF export",
+      "glb": "TM_FH53_F1_H3.glb",
+      "glb_sha256": "48b8d9b65d1e9c48ac5b75ad430452b1adccd36a995b0eac2f449342b0656f9c",
+      "seconds": 0.11
+    },
+    "F1_H4": {
+      "face": "F1_LONG_ANGULAR",
+      "hair": "H4_SIDE_SWEPT_FRINGE",
+      "face_source": "TM_FH53_F1_LONG_ANGULAR.blend",
+      "hair_source": "TM_FH53_H4_SIDE_SWEPT_FRINGE.blend",
+      "export": "plain Blender glTF export",
+      "glb": "TM_FH53_F1_H4.glb",
+      "glb_sha256": "31257f97c6556de0749c581d3ccf541a78ed9717300f091a756e9aeae235900b",
+      "seconds": 0.1
+    },
+    "F2_H0": {
+      "face": "F2_ROUND_SOFT",
+      "hair": "H0_FACE52",
+      "face_source": "TM_FH53_F2_ROUND_SOFT.blend",
+      "hair_source": "TM_FACE52_F0_H0.blend",
+      "canonical_cap": {
+        "POSITION": "exact",
+        "TEXCOORD_0": "exact",
+        "COLOR_0": "exact",
+        "NORMAL": "maxdiff 6.800e-03",
+        "replaced": "REF09_Hair/TM18_HairCap_Detail"
+      },
+      "raw_sha256": "b5604017fed33debda2b631307d93e34fd3a19119a8355f94d1c677b4381531e",
+      "export": "Blender glTF export + FACE52 canonical cap primitive grafted (positions verified identical)",
+      "glb": "TM_FH53_F2_H0.glb",
+      "glb_sha256": "d485fa279564de9efaaffd21a5cfb1f24659940ae21ba89c55c513c347c1473d",
+      "seconds": 0.17
+    },
+    "F2_H1": {
+      "face": "F2_ROUND_SOFT",
+      "hair": "H1_STANDARD_REBUILT",
+      "face_source": "TM_FH53_F2_ROUND_SOFT.blend",
+      "hair_source": "TM_FH53_H1_STANDARD_REBUILT.blend",
+      "export": "plain Blender glTF export",
+      "glb": "TM_FH53_F2_H1.glb",
+      "glb_sha256": "4fc95644278b2c5223ffb30094491ecda54b03efd1cdd10f15dabaa19b6f8420",
+      "seconds": 0.12
+    },
+    "F2_H2": {
+      "face": "F2_ROUND_SOFT",
+      "hair": "H2_SHORT_CROP",
+      "face_source": "TM_FH53_F2_ROUND_SOFT.blend",
+      "hair_source": "TM_FH53_H2_SHORT_CROP.blend",
+      "export": "plain Blender glTF export",
+      "glb": "TM_FH53_F2_H2.glb",
+      "glb_sha256": "cb7feb508d005f2f4398a2b27d314a865ec9ceb83a0b542ebd1aa6fdecee6ac9",
+      "seconds": 0.11
+    },
+    "F2_H3": {
+      "face": "F2_ROUND_SOFT",
+      "hair": "H3_SWEPT_BACK",
+      "face_source": "TM_FH53_F2_ROUND_SOFT.blend",
+      "hair_source": "TM_FH53_H3_SWEPT_BACK.blend",
+      "export": "plain Blender glTF export",
+      "glb": "TM_FH53_F2_H3.glb",
+      "glb_sha256": "f902cca496f135b5ccfd4c27c855d60884c2453f38c48b74d766b0e281780573",
+      "seconds": 0.12
+    },
+    "F2_H4": {
+      "face": "F2_ROUND_SOFT",
+      "hair": "H4_SIDE_SWEPT_FRINGE",
+      "face_source": "TM_FH53_F2_ROUND_SOFT.blend",
+      "hair_source": "TM_FH53_H4_SIDE_SWEPT_FRINGE.blend",
+      "export": "plain Blender glTF export",
+      "glb": "TM_FH53_F2_H4.glb",
+      "glb_sha256": "e7bd561c8216d71d6ceb03dd92b82fb37845b307e590c5232ddb2e8ec0a3cdcb",
+      "seconds": 0.1
+    },
+    "F3_H0": {
+      "face": "F3_NARROW_SHARP",
+      "hair": "H0_FACE52",
+      "face_source": "TM_FH53_F3_NARROW_SHARP.blend",
+      "hair_source": "TM_FACE52_F0_H0.blend",
+      "canonical_cap": {
+        "POSITION": "exact",
+        "TEXCOORD_0": "exact",
+        "COLOR_0": "exact",
+        "NORMAL": "maxdiff 6.800e-03",
+        "replaced": "REF09_Hair/TM18_HairCap_Detail"
+      },
+      "raw_sha256": "4396581ca3b697de082e3bffb19eb22a53ae61c069d4a92354ccaf57a1697174",
+      "export": "Blender glTF export + FACE52 canonical cap primitive grafted (positions verified identical)",
+      "glb": "TM_FH53_F3_H0.glb",
+      "glb_sha256": "68ae43bb82a7b38460587faf487e854c04bf1ae3a729fa2dabb8b9532aedbec6",
+      "seconds": 0.15
+    },
+    "F3_H1": {
+      "face": "F3_NARROW_SHARP",
+      "hair": "H1_STANDARD_REBUILT",
+      "face_source": "TM_FH53_F3_NARROW_SHARP.blend",
+      "hair_source": "TM_FH53_H1_STANDARD_REBUILT.blend",
+      "export": "plain Blender glTF export",
+      "glb": "TM_FH53_F3_H1.glb",
+      "glb_sha256": "67cb748a8fb987975e02bd95c0eefaa2abcdd3a053c86fe8bc21d127382fc7c9",
+      "seconds": 0.1
+    },
+    "F3_H2": {
+      "face": "F3_NARROW_SHARP",
+      "hair": "H2_SHORT_CROP",
+      "face_source": "TM_FH53_F3_NARROW_SHARP.blend",
+      "hair_source": "TM_FH53_H2_SHORT_CROP.blend",
+      "export": "plain Blender glTF export",
+      "glb": "TM_FH53_F3_H2.glb",
+      "glb_sha256": "06ecf7a4784f3198c065a9aa601bbd690fe5914af76f01efb3d6e614b17d90b2",
+      "seconds": 0.1
+    },
+    "F3_H3": {
+      "face": "F3_NARROW_SHARP",
+      "hair": "H3_SWEPT_BACK",
+      "face_source": "TM_FH53_F3_NARROW_SHARP.blend",
+      "hair_source": "TM_FH53_H3_SWEPT_BACK.blend",
+      "export": "plain Blender glTF export",
+      "glb": "TM_FH53_F3_H3.glb",
+      "glb_sha256": "8f907437b847659731e163f80cfe13c635d19db2bae8d10e9c9edb5351905426",
+      "seconds": 0.1
+    },
+    "F3_H4": {
+      "face": "F3_NARROW_SHARP",
+      "hair": "H4_SIDE_SWEPT_FRINGE",
+      "face_source": "TM_FH53_F3_NARROW_SHARP.blend",
+      "hair_source": "TM_FH53_H4_SIDE_SWEPT_FRINGE.blend",
+      "export": "plain Blender glTF export",
+      "glb": "TM_FH53_F3_H4.glb",
+      "glb_sha256": "8f72f1162f1eaecbdf750cbcd536186e53187c443d4b242a663e8817b8c89da1",
+      "seconds": 0.1
+    }
+  },
+  "library": {
+    "blend": "TM_FH53_LIBRARY_faces_hairs.blend",
+    "sha256": "d587bdf1b70c8db6480bc66551e0d9873013bf540685b1d220224336d3cd5a63",
+    "collections": [
+      "FACE_F0_FACE52",
+      "FACE_F1_LONG_ANGULAR",
+      "FACE_F2_ROUND_SOFT",
+      "FACE_F3_NARROW_SHARP",
+      "HAIR_H0_FACE52",
+      "HAIR_H1_STANDARD_REBUILT",
+      "HAIR_H2_SHORT_CROP",
+      "HAIR_H3_SWEPT_BACK",
+      "HAIR_H4_SIDE_SWEPT_FRINGE"
+    ]
+  }
+}

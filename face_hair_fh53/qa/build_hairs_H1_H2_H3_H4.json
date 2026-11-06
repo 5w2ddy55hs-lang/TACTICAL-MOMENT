@@ -1,0 +1,787 @@
+{
+  "blender": "4.2.23 LTS",
+  "build_hash": "d0cbe84903e8",
+  "inputs": {
+    "FACE52_BLEND": {
+      "path": "/tmp/claude-0/-home-user-TACTICAL-MOMENT/c5f2d54b-9475-594b-a70d-eef6da306a16/scratchpad/restored_inputs/CODEX/face52_work/models/TM_FACE52_F0_H0.blend",
+      "sha256": "5197ef43a63fbbd386291b778b8090178ee71429a8cb4423bd7f4383eea749c2"
+    },
+    "FACE52_GLB": {
+      "path": "/tmp/claude-0/-home-user-TACTICAL-MOMENT/c5f2d54b-9475-594b-a70d-eef6da306a16/scratchpad/restored_inputs/CODEX/face52_work/models/TM_FACE52_F0_H0.glb",
+      "sha256": "f31adb0a69cecdadb0e60f87e6d881b842198e431d09a70b388afaddd1fd1b1a"
+    },
+    "FACE52_RAW": {
+      "path": "/tmp/claude-0/-home-user-TACTICAL-MOMENT/c5f2d54b-9475-594b-a70d-eef6da306a16/scratchpad/restored_inputs/CODEX/face52_work/models/TM_FACE52_F0_H0_RAW.glb",
+      "sha256": "1b3b8de350f48a633060e5aabc6b54ad2aa6470b6eabd5f176654186416cb62b"
+    }
+  },
+  "textures": {
+    "TMH53_CAP_STRANDS_512.png": "6a117a1403e1c7a9741ef1aa0aec12d710bb5e6a69e0ab3c5eec130124536fd7",
+    "TMH53_CARD_STRANDS_512.png": "21c36eca3447e091f5eaa0ec0242b669c0aed0a257c928e4ec89d76691f67f96"
+  },
+  "hairs": {
+    "H1": {
+      "hair_id": "H1_STANDARD_REBUILT",
+      "intent_ja": "H0(FACE52)の輪郭を引き継ぐ標準形の作り直し。帽子状の縁・前髪V字・頭頂の角・耳前の段差・襟足の帯を構造から解消する狙い。",
+      "cap_vertices": 953,
+      "cap_triangles": 1836,
+      "cap_columns": 68,
+      "cards": 45,
+      "card_triangles": 360,
+      "card_rows": {
+        "fringe": 17,
+        "temple": 10,
+        "back": 18
+      },
+      "mesh_pole_azel": [
+        180,
+        62
+      ],
+      "flow_pole_azel": [
+        180,
+        62
+      ],
+      "hairline_azel_controls": [
+        [
+          0,
+          39
+        ],
+        [
+          25,
+          39
+        ],
+        [
+          45,
+          37
+        ],
+        [
+          57,
+          24
+        ],
+        [
+          64,
+          8
+        ],
+        [
+          70,
+          -6
+        ],
+        [
+          76,
+          -12
+        ],
+        [
+          81,
+          -8
+        ],
+        [
+          85,
+          14
+        ],
+        [
+          95,
+          21
+        ],
+        [
+          106,
+          18
+        ],
+        [
+          114,
+          4
+        ],
+        [
+          124,
+          -10
+        ],
+        [
+          150,
+          -21
+        ],
+        [
+          180,
+          -24
+        ],
+        [
+          -25,
+          39
+        ],
+        [
+          -45,
+          37
+        ],
+        [
+          -57,
+          24
+        ],
+        [
+          -64,
+          8
+        ],
+        [
+          -70,
+          -6
+        ],
+        [
+          -76,
+          -12
+        ],
+        [
+          -81,
+          -8
+        ],
+        [
+          -85,
+          14
+        ],
+        [
+          -95,
+          21
+        ],
+        [
+          -106,
+          18
+        ],
+        [
+          -114,
+          4
+        ],
+        [
+          -124,
+          -10
+        ],
+        [
+          -150,
+          -21
+        ]
+      ],
+      "shell": {
+        "kind": "cap0",
+        "blur_deg": 7.0,
+        "extra_mm": 0.0,
+        "edge_mm": 1.0,
+        "band": 0.26,
+        "bumps": [
+          [
+            78,
+            32,
+            26,
+            22,
+            3.0
+          ],
+          [
+            -78,
+            32,
+            26,
+            22,
+            3.0
+          ],
+          [
+            180,
+            22,
+            55,
+            22,
+            2.0
+          ]
+        ]
+      },
+      "triangles_rewound_to_match_normals": 383,
+      "cap_radial_clearance_pass": {
+        "iterations": 2,
+        "vertex_pushes": 284,
+        "remaining": 0
+      },
+      "cap_vs_skin_overlap_pass": {
+        "iterations": 9,
+        "vertex_pushes": 278,
+        "remaining_overlapping_triangles": 0
+      },
+      "card_vs_skin_cap_and_layer_overlap_pass": {
+        "iterations": 21,
+        "vertex_pushes": 578,
+        "remaining_overlapping_triangles": 0,
+        "card_vertex_push_mm": {
+          "max": 6.0,
+          "p95": 2.13,
+          "moved_vertices": 104,
+          "total_vertices": 450
+        }
+      },
+      "alpha_fade_start_t": {
+        "min": 0.8949999999999999,
+        "max": 0.97
+      },
+      "blend": "TM_FH53_H1_STANDARD_REBUILT.blend",
+      "glb": "TM_FH53_H1_STANDARD_REBUILT.glb",
+      "blend_sha256": "a2c4f683827906d56534ccda7005613b77e8f5a551d250b7b6cd0ee152ba1724",
+      "glb_sha256": "03f2c7f50c021f91001643d99dab4dcdfd1d7d1b0451b70dcad63c66baf7c568",
+      "export": "plain Blender glTF export (no canonical_cap: new scalp shape)",
+      "seconds": 3.5
+    },
+    "H2": {
+      "hair_id": "H2_SHORT_CROP",
+      "intent_ja": "短髪クロップ。頭の丸みに沿う薄い毛量、耳と襟足を出す。シルエットを最も小さく締め、耳前は短いもみあげだけにする。",
+      "cap_vertices": 953,
+      "cap_triangles": 1836,
+      "cap_columns": 68,
+      "cards": 12,
+      "card_triangles": 48,
+      "card_rows": {
+        "fringe_short": 12
+      },
+      "mesh_pole_azel": [
+        180,
+        66
+      ],
+      "flow_pole_azel": [
+        180,
+        66
+      ],
+      "hairline_azel_controls": [
+        [
+          0,
+          42
+        ],
+        [
+          22,
+          42
+        ],
+        [
+          40,
+          40
+        ],
+        [
+          52,
+          30
+        ],
+        [
+          60,
+          16
+        ],
+        [
+          66,
+          4
+        ],
+        [
+          72,
+          -3
+        ],
+        [
+          79,
+          3
+        ],
+        [
+          84,
+          16
+        ],
+        [
+          95,
+          22
+        ],
+        [
+          108,
+          18
+        ],
+        [
+          116,
+          8
+        ],
+        [
+          124,
+          0
+        ],
+        [
+          134,
+          -12
+        ],
+        [
+          155,
+          -23
+        ],
+        [
+          180,
+          -27
+        ],
+        [
+          -22,
+          42
+        ],
+        [
+          -40,
+          40
+        ],
+        [
+          -52,
+          30
+        ],
+        [
+          -60,
+          16
+        ],
+        [
+          -66,
+          4
+        ],
+        [
+          -72,
+          -3
+        ],
+        [
+          -79,
+          3
+        ],
+        [
+          -84,
+          16
+        ],
+        [
+          -95,
+          22
+        ],
+        [
+          -108,
+          18
+        ],
+        [
+          -116,
+          8
+        ],
+        [
+          -124,
+          0
+        ],
+        [
+          -134,
+          -12
+        ],
+        [
+          -155,
+          -23
+        ]
+      ],
+      "shell": {
+        "kind": "const",
+        "top_mm": 3.6,
+        "side_mm": 2.2,
+        "edge_mm": 0.7,
+        "band": 0.45,
+        "fade_back": 0.7
+      },
+      "triangles_rewound_to_match_normals": 48,
+      "cap_radial_clearance_pass": {
+        "iterations": 2,
+        "vertex_pushes": 367,
+        "remaining": 0
+      },
+      "cap_vs_skin_overlap_pass": {
+        "iterations": 1,
+        "vertex_pushes": 0,
+        "remaining_overlapping_triangles": 0
+      },
+      "card_vs_skin_cap_and_layer_overlap_pass": {
+        "iterations": 7,
+        "vertex_pushes": 107,
+        "remaining_overlapping_triangles": 0,
+        "card_vertex_push_mm": {
+          "max": 1.8,
+          "p95": 1.8,
+          "moved_vertices": 29,
+          "total_vertices": 72
+        }
+      },
+      "alpha_fade_start_t": {
+        "min": 0.789,
+        "max": 0.97
+      },
+      "blend": "TM_FH53_H2_SHORT_CROP.blend",
+      "glb": "TM_FH53_H2_SHORT_CROP.glb",
+      "blend_sha256": "ffc0576fcf69cbcebbbca1cc784bfe14ab248bf7cf73598f89be5aca76e02494",
+      "glb_sha256": "4c6e801f4a2611641985481776adb85bdee05647bebd18ac035956f14fbad164",
+      "export": "plain Blender glTF export (no canonical_cap: new scalp shape)",
+      "seconds": 2.9
+    },
+    "H3": {
+      "hair_id": "H3_SWEPT_BACK",
+      "intent_ja": "前髪を上げて後ろへ流す型。額を出し、前頭部に高さ、側頭部は締める。毛流れは額側から後頭部へ。",
+      "cap_vertices": 981,
+      "cap_triangles": 1890,
+      "cap_columns": 70,
+      "cards": 30,
+      "card_triangles": 324,
+      "card_rows": {
+        "front_sweep": 16,
+        "mid_sweep": 10,
+        "side_sweep": 4
+      },
+      "mesh_pole_azel": [
+        180,
+        80
+      ],
+      "flow_pole_azel": [
+        0,
+        22
+      ],
+      "hairline_azel_controls": [
+        [
+          0,
+          43
+        ],
+        [
+          20,
+          42
+        ],
+        [
+          35,
+          41
+        ],
+        [
+          48,
+          34
+        ],
+        [
+          58,
+          20
+        ],
+        [
+          65,
+          6
+        ],
+        [
+          72,
+          -4
+        ],
+        [
+          80,
+          2
+        ],
+        [
+          85,
+          14
+        ],
+        [
+          95,
+          20
+        ],
+        [
+          107,
+          16
+        ],
+        [
+          115,
+          6
+        ],
+        [
+          124,
+          -4
+        ],
+        [
+          150,
+          -21
+        ],
+        [
+          180,
+          -25
+        ],
+        [
+          -20,
+          42
+        ],
+        [
+          -35,
+          41
+        ],
+        [
+          -48,
+          34
+        ],
+        [
+          -58,
+          20
+        ],
+        [
+          -65,
+          6
+        ],
+        [
+          -72,
+          -4
+        ],
+        [
+          -80,
+          2
+        ],
+        [
+          -85,
+          14
+        ],
+        [
+          -95,
+          20
+        ],
+        [
+          -107,
+          16
+        ],
+        [
+          -115,
+          6
+        ],
+        [
+          -124,
+          -4
+        ],
+        [
+          -150,
+          -21
+        ]
+      ],
+      "shell": {
+        "kind": "bumps",
+        "base_mm": 4.5,
+        "edge_mm": 1.0,
+        "band": 0.16,
+        "fade_back": 0.74,
+        "bumps": [
+          [
+            0,
+            58,
+            32,
+            14,
+            10.0
+          ],
+          [
+            0,
+            75,
+            60,
+            20,
+            3.0
+          ]
+        ],
+        "side_cut": [
+          60,
+          130,
+          35,
+          2.5
+        ]
+      },
+      "triangles_rewound_to_match_normals": 324,
+      "cap_radial_clearance_pass": {
+        "iterations": 2,
+        "vertex_pushes": 169,
+        "remaining": 0
+      },
+      "cap_vs_skin_overlap_pass": {
+        "iterations": 8,
+        "vertex_pushes": 249,
+        "remaining_overlapping_triangles": 0
+      },
+      "card_vs_skin_cap_and_layer_overlap_pass": {
+        "iterations": 6,
+        "vertex_pushes": 68,
+        "remaining_overlapping_triangles": 0,
+        "card_vertex_push_mm": {
+          "max": 1.5,
+          "p95": 0.555,
+          "moved_vertices": 27,
+          "total_vertices": 384
+        }
+      },
+      "alpha_fade_start_t": {
+        "min": 0.759,
+        "max": 0.97
+      },
+      "blend": "TM_FH53_H3_SWEPT_BACK.blend",
+      "glb": "TM_FH53_H3_SWEPT_BACK.glb",
+      "blend_sha256": "bc6da6e960cc3a9a6796abc1daa0507dc1966e833b1feb7dd6fd85e2225d2560",
+      "glb_sha256": "a6bcf5b657bdeaf561cbee61d36bac509eff3ac58a373bb6327697bc763e2d99",
+      "export": "plain Blender glTF export (no canonical_cap: new scalp shape)",
+      "seconds": 3.4
+    },
+    "H4": {
+      "hair_id": "H4_SIDE_SWEPT_FRINGE",
+      "intent_ja": "片分けの長め前髪。分け目は向かって左（キャラクターの右）で、前髪は額を斜めに横切って向かって右へ流れる。側面の毛先は耳の上縁まで下り、襟足は長めに覆う左右非対称の形。",
+      "cap_vertices": 995,
+      "cap_triangles": 1917,
+      "cap_columns": 71,
+      "cards": 43,
+      "card_triangles": 452,
+      "card_rows": {
+        "sweep_fringe": 15,
+        "part_side": 4,
+        "overear_R": 4,
+        "overear_L": 4,
+        "back_long": 16
+      },
+      "mesh_pole_azel": [
+        -42,
+        62
+      ],
+      "flow_pole_azel": [
+        -42,
+        62
+      ],
+      "hairline_azel_controls": [
+        [
+          0,
+          39
+        ],
+        [
+          25,
+          39
+        ],
+        [
+          45,
+          37
+        ],
+        [
+          57,
+          24
+        ],
+        [
+          64,
+          8
+        ],
+        [
+          70,
+          -6
+        ],
+        [
+          76,
+          -12
+        ],
+        [
+          82,
+          -8
+        ],
+        [
+          86,
+          10
+        ],
+        [
+          95,
+          16
+        ],
+        [
+          106,
+          13
+        ],
+        [
+          114,
+          2
+        ],
+        [
+          124,
+          -14
+        ],
+        [
+          150,
+          -30
+        ],
+        [
+          180,
+          -33
+        ],
+        [
+          -25,
+          39
+        ],
+        [
+          -45,
+          37
+        ],
+        [
+          -57,
+          24
+        ],
+        [
+          -64,
+          8
+        ],
+        [
+          -70,
+          -6
+        ],
+        [
+          -76,
+          -12
+        ],
+        [
+          -82,
+          -8
+        ],
+        [
+          -86,
+          10
+        ],
+        [
+          -95,
+          16
+        ],
+        [
+          -106,
+          13
+        ],
+        [
+          -114,
+          2
+        ],
+        [
+          -124,
+          -14
+        ],
+        [
+          -150,
+          -30
+        ]
+      ],
+      "shell": {
+        "kind": "cap0",
+        "blur_deg": 7.0,
+        "extra_mm": 0.0,
+        "edge_mm": 1.0,
+        "band": 0.22,
+        "bumps": [
+          [
+            60,
+            45,
+            35,
+            25,
+            4.0
+          ]
+        ]
+      },
+      "triangles_rewound_to_match_normals": 462,
+      "cap_radial_clearance_pass": {
+        "iterations": 2,
+        "vertex_pushes": 155,
+        "remaining": 0
+      },
+      "cap_vs_skin_overlap_pass": {
+        "iterations": 25,
+        "vertex_pushes": 1038,
+        "remaining_overlapping_triangles": 0
+      },
+      "card_vs_skin_cap_and_layer_overlap_pass": {
+        "iterations": 30,
+        "vertex_pushes": 1063,
+        "remaining_overlapping_triangles": 0,
+        "card_vertex_push_mm": {
+          "max": 8.7,
+          "p95": 3.6,
+          "moved_vertices": 158,
+          "total_vertices": 538
+        }
+      },
+      "alpha_fade_start_t": {
+        "min": 0.8949999999999999,
+        "max": 0.9450000000000001
+      },
+      "blend": "TM_FH53_H4_SIDE_SWEPT_FRINGE.blend",
+      "glb": "TM_FH53_H4_SIDE_SWEPT_FRINGE.glb",
+      "blend_sha256": "b9c548450f2bb801d05a1d937940a423a7dc7a5d28989303d468b5e50b8bc490",
+      "glb_sha256": "ff23bdbe34b471f056fd58d26b56df165632d3fc6ec21976c19e65471de7a39d",
+      "export": "plain Blender glTF export (no canonical_cap: new scalp shape)",
+      "seconds": 4.0
+    }
+  }
+}

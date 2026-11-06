@@ -1,0 +1,49 @@
+Read blend: "/tmp/claude-0/-home-user-TACTICAL-MOMENT/c5f2d54b-9475-594b-a70d-eef6da306a16/scratchpad/restored_inputs/CODEX/face52_work/models/TM_FACE52_F0_H0.blend"
+Info: Total files 2 | Changed 0 | Failed 0
+Info: No new files have been packed
+Info: Saved "TM_FH53_H1_STANDARD_REBUILT.blend"
+ERROR Draco mesh compression is not available because library could not be found at /home/user/TACTICAL-MOMENT/face_hair_fh53/4.2/python/lib/python3.11/site-packages/libextern_draco.so
+07:11:34 | INFO: Starting glTF 2.0 export
+07:11:34 | INFO: Extracting primitive: TMH53_H1_STANDARD_REBUILT
+07:11:34 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:34 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:34 | INFO: Primitives created: 2
+07:11:34 | INFO: Finished glTF 2.0 export in 0.02149057388305664 s
+
+BUILT H1 {'cap_triangles': 1836, 'card_triangles': 360, 'cap_vs_skin_overlap_pass': {'iterations': 9, 'vertex_pushes': 278, 'remaining_overlapping_triangles': 0}, 'card_vs_skin_cap_and_layer_overlap_pass': {'iterations': 21, 'vertex_pushes': 578, 'remaining_overlapping_triangles': 0, 'card_vertex_push_mm': {'max': 6.0, 'p95': 2.13, 'moved_vertices': 104, 'total_vertices': 450}}, 'seconds': 3.5}
+Read blend: "/tmp/claude-0/-home-user-TACTICAL-MOMENT/c5f2d54b-9475-594b-a70d-eef6da306a16/scratchpad/restored_inputs/CODEX/face52_work/models/TM_FACE52_F0_H0.blend"
+Info: Total files 2 | Changed 0 | Failed 0
+Info: No new files have been packed
+Info: Saved "TM_FH53_H2_SHORT_CROP.blend"
+07:11:37 | INFO: Starting glTF 2.0 export
+07:11:37 | INFO: Extracting primitive: TMH53_H2_SHORT_CROP
+07:11:37 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:37 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:37 | INFO: Primitives created: 2
+07:11:37 | INFO: Finished glTF 2.0 export in 0.018831253051757812 s
+
+BUILT H2 {'cap_triangles': 1836, 'card_triangles': 48, 'cap_vs_skin_overlap_pass': {'iterations': 1, 'vertex_pushes': 0, 'remaining_overlapping_triangles': 0}, 'card_vs_skin_cap_and_layer_overlap_pass': {'iterations': 7, 'vertex_pushes': 107, 'remaining_overlapping_triangles': 0, 'card_vertex_push_mm': {'max': 1.8, 'p95': 1.8, 'moved_vertices': 29, 'total_vertices': 72}}, 'seconds': 2.9}
+Read blend: "/tmp/claude-0/-home-user-TACTICAL-MOMENT/c5f2d54b-9475-594b-a70d-eef6da306a16/scratchpad/restored_inputs/CODEX/face52_work/models/TM_FACE52_F0_H0.blend"
+Info: Total files 2 | Changed 0 | Failed 0
+Info: No new files have been packed
+Info: Saved "TM_FH53_H3_SWEPT_BACK.blend"
+07:11:41 | INFO: Starting glTF 2.0 export
+07:11:41 | INFO: Extracting primitive: TMH53_H3_SWEPT_BACK
+07:11:41 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:41 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:41 | INFO: Primitives created: 2
+07:11:41 | INFO: Finished glTF 2.0 export in 0.019905805587768555 s
+
+BUILT H3 {'cap_triangles': 1890, 'card_triangles': 324, 'cap_vs_skin_overlap_pass': {'iterations': 8, 'vertex_pushes': 249, 'remaining_overlapping_triangles': 0}, 'card_vs_skin_cap_and_layer_overlap_pass': {'iterations': 6, 'vertex_pushes': 68, 'remaining_overlapping_triangles': 0, 'card_vertex_push_mm': {'max': 1.5, 'p95': 0.555, 'moved_vertices': 27, 'total_vertices': 384}}, 'seconds': 3.4}
+Read blend: "/tmp/claude-0/-home-user-TACTICAL-MOMENT/c5f2d54b-9475-594b-a70d-eef6da306a16/scratchpad/restored_inputs/CODEX/face52_work/models/TM_FACE52_F0_H0.blend"
+Info: Total files 2 | Changed 0 | Failed 0
+Info: No new files have been packed
+Info: Saved "TM_FH53_H4_SIDE_SWEPT_FRINGE.blend"
+07:11:45 | INFO: Starting glTF 2.0 export
+07:11:45 | INFO: Extracting primitive: TMH53_H4_SIDE_SWEPT_FRINGE
+07:11:45 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:45 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:45 | INFO: Primitives created: 2
+07:11:45 | INFO: Finished glTF 2.0 export in 0.01976919174194336 s
+
+BUILT H4 {'cap_triangles': 1917, 'card_triangles': 452, 'cap_vs_skin_overlap_pass': {'iterations': 25, 'vertex_pushes': 1038, 'remaining_overlapping_triangles': 0}, 'card_vs_skin_cap_and_layer_overlap_pass': {'iterations': 30, 'vertex_pushes': 1063, 'remaining_overlapping_triangles': 0, 'card_vertex_push_mm': {'max': 8.7, 'p95': 3.6, 'moved_vertices': 158, 'total_vertices': 538}}, 'seconds': 4.0}

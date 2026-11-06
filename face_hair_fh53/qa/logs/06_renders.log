@@ -1,0 +1,685 @@
+07:12:01 | INFO: Data are loaded, start creating Blender stuff
+07:12:01 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:12:01 | INFO: Blender create Mesh node Hair35_SmoothCrown
+07:12:01 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:12:01 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/FACE52_orig_front.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/FACE52_orig_quarter_R.png'
+Time: 00:00.22 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/FACE52_orig_quarter_L.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/FACE52_orig_side_R.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/FACE52_orig_side_L.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/FACE52_orig_back.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/FACE52_orig_top.png'
+Time: 00:00.13 (Saving: 00:00.00)
+
+07:12:03 | INFO: Data are loaded, start creating Blender stuff
+07:12:03 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:12:03 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:12:03 | INFO: Blender create Mesh node TMH53_H1_STANDARD_REBUILT
+07:12:03 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H1_front.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H1_quarter_R.png'
+Time: 00:00.16 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H1_quarter_L.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H1_side_R.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H1_side_L.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H1_back.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H1_top.png'
+Time: 00:00.13 (Saving: 00:00.00)
+
+07:12:04 | INFO: Data are loaded, start creating Blender stuff
+07:12:04 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:12:04 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:12:04 | INFO: Blender create Mesh node TMH53_H2_SHORT_CROP
+07:12:04 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H2_front.png'
+Time: 00:00.11 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H2_quarter_R.png'
+Time: 00:00.13 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H2_quarter_L.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H2_side_R.png'
+Time: 00:00.13 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H2_side_L.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H2_back.png'
+Time: 00:00.12 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H2_top.png'
+Time: 00:00.10 (Saving: 00:00.00)
+
+07:12:05 | INFO: Data are loaded, start creating Blender stuff
+07:12:05 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:12:05 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:12:05 | INFO: Blender create Mesh node TMH53_H3_SWEPT_BACK
+07:12:05 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H3_front.png'
+Time: 00:00.12 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H3_quarter_R.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H3_quarter_L.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H3_side_R.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H3_side_L.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H3_back.png'
+Time: 00:00.13 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H3_top.png'
+Time: 00:00.11 (Saving: 00:00.00)
+
+07:12:06 | INFO: Data are loaded, start creating Blender stuff
+07:12:06 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:12:06 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:12:06 | INFO: Blender create Mesh node TMH53_H4_SIDE_SWEPT_FRINGE
+07:12:06 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H4_front.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H4_quarter_R.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H4_quarter_L.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H4_side_R.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H4_side_L.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H4_back.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_hair_on_F0/F0_H4_top.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+07:12:07 | INFO: Data are loaded, start creating Blender stuff
+07:12:07 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:12:07 | INFO: Blender create Mesh node Hair35_SmoothCrown
+07:12:07 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:12:07 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/FACE52_orig_front.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/FACE52_orig_quarter_R.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/FACE52_orig_quarter_L.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/FACE52_orig_side_R.png'
+Time: 00:00.19 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/FACE52_orig_side_L.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/FACE52_orig_back.png'
+Time: 00:00.16 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/FACE52_orig_top.png'
+Time: 00:00.12 (Saving: 00:00.00)
+
+07:12:08 | INFO: Data are loaded, start creating Blender stuff
+07:12:08 | INFO: Blender create Mesh node TMF53_F1_LONG_ANGULAR
+07:12:08 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:12:08 | INFO: Blender create Mesh node Hair35_SmoothCrown
+07:12:08 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/F1_H0_front.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/F1_H0_quarter_R.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/F1_H0_quarter_L.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/F1_H0_side_R.png'
+Time: 00:00.19 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/F1_H0_side_L.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/F1_H0_back.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/F1_H0_top.png'
+Time: 00:00.13 (Saving: 00:00.00)
+
+07:12:10 | INFO: Data are loaded, start creating Blender stuff
+07:12:10 | INFO: Blender create Mesh node TMF53_F2_ROUND_SOFT
+07:12:10 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:12:10 | INFO: Blender create Mesh node Hair35_SmoothCrown
+07:12:10 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/F2_H0_front.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/F2_H0_quarter_R.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/F2_H0_quarter_L.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/F2_H0_side_R.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/F2_H0_side_L.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/F2_H0_back.png'
+Time: 00:00.16 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/F2_H0_top.png'
+Time: 00:00.12 (Saving: 00:00.00)
+
+07:12:11 | INFO: Data are loaded, start creating Blender stuff
+07:12:11 | INFO: Blender create Mesh node TMF53_F3_NARROW_SHARP
+07:12:11 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:12:11 | INFO: Blender create Mesh node Hair35_SmoothCrown
+07:12:11 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/F3_H0_front.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/F3_H0_quarter_R.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/F3_H0_quarter_L.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/F3_H0_side_R.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/F3_H0_side_L.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/F3_H0_back.png'
+Time: 00:00.16 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/SEVEN_face_with_H0/F3_H0_top.png'
+Time: 00:00.13 (Saving: 00:00.00)
+
+07:12:12 | INFO: Data are loaded, start creating Blender stuff
+07:12:12 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:12:12 | INFO: Blender create Mesh node Hair35_SmoothCrown
+07:12:12 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:12:12 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/FACE52_orig_studio_ear_R.png'
+Time: 00:07.85 (Saving: 00:00.03)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/FACE52_orig_studio_ear_L.png'
+Time: 00:08.06 (Saving: 00:00.02)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/FACE52_orig_studio_front_edge.png'
+Time: 00:04.80 (Saving: 00:00.02)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/FACE52_orig_studio_nape.png'
+Time: 00:05.28 (Saving: 00:00.02)
+
+07:12:39 | INFO: Data are loaded, start creating Blender stuff
+07:12:39 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:12:39 | INFO: Blender create Mesh node Hair35_SmoothCrown
+07:12:39 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:12:39 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/FACE52_orig_grazing_ear_R.png'
+Time: 00:07.61 (Saving: 00:00.02)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/FACE52_orig_grazing_ear_L.png'
+Time: 00:08.26 (Saving: 00:00.02)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/FACE52_orig_grazing_front_edge.png'
+Time: 00:05.00 (Saving: 00:00.01)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/FACE52_orig_grazing_nape.png'
+Time: 00:05.44 (Saving: 00:00.01)
+
+07:13:05 | INFO: Data are loaded, start creating Blender stuff
+07:13:05 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:13:05 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:13:05 | INFO: Blender create Mesh node TMH53_H1_STANDARD_REBUILT
+07:13:05 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H1_studio_ear_R.png'
+Time: 00:05.64 (Saving: 00:00.02)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H1_studio_ear_L.png'
+Time: 00:06.13 (Saving: 00:00.02)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H1_studio_front_edge.png'
+Time: 00:04.20 (Saving: 00:00.02)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H1_studio_nape.png'
+Time: 00:04.47 (Saving: 00:00.01)
+
+07:13:25 | INFO: Data are loaded, start creating Blender stuff
+07:13:25 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:13:25 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:13:25 | INFO: Blender create Mesh node TMH53_H1_STANDARD_REBUILT
+07:13:26 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H1_grazing_ear_R.png'
+Time: 00:05.79 (Saving: 00:00.02)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H1_grazing_ear_L.png'
+Time: 00:05.79 (Saving: 00:00.02)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H1_grazing_front_edge.png'
+Time: 00:04.23 (Saving: 00:00.02)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H1_grazing_nape.png'
+Time: 00:04.63 (Saving: 00:00.02)
+
+07:13:46 | INFO: Data are loaded, start creating Blender stuff
+07:13:46 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:13:46 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:13:46 | INFO: Blender create Mesh node TMH53_H2_SHORT_CROP
+07:13:46 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H2_studio_ear_R.png'
+Time: 00:04.42 (Saving: 00:00.02)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H2_studio_ear_L.png'
+Time: 00:04.61 (Saving: 00:00.01)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H2_studio_front_edge.png'
+Time: 00:03.06 (Saving: 00:00.02)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H2_studio_nape.png'
+Time: 00:04.17 (Saving: 00:00.02)
+
+07:14:02 | INFO: Data are loaded, start creating Blender stuff
+07:14:02 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:14:02 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:14:02 | INFO: Blender create Mesh node TMH53_H2_SHORT_CROP
+07:14:02 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H2_grazing_ear_R.png'
+Time: 00:04.18 (Saving: 00:00.02)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H2_grazing_ear_L.png'
+Time: 00:04.72 (Saving: 00:00.02)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H2_grazing_front_edge.png'
+Time: 00:02.99 (Saving: 00:00.02)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H2_grazing_nape.png'
+Time: 00:04.30 (Saving: 00:00.02)
+
+07:14:19 | INFO: Data are loaded, start creating Blender stuff
+07:14:19 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:14:19 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:14:19 | INFO: Blender create Mesh node TMH53_H3_SWEPT_BACK
+07:14:19 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H3_studio_ear_R.png'
+Time: 00:04.82 (Saving: 00:00.02)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H3_studio_ear_L.png'
+Time: 00:05.19 (Saving: 00:00.02)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H3_studio_front_edge.png'
+Time: 00:03.53 (Saving: 00:00.02)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H3_studio_nape.png'
+Time: 00:04.18 (Saving: 00:00.02)
+
+07:14:36 | INFO: Data are loaded, start creating Blender stuff
+07:14:36 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:14:36 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:14:36 | INFO: Blender create Mesh node TMH53_H3_SWEPT_BACK
+07:14:36 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H3_grazing_ear_R.png'
+Time: 00:04.64 (Saving: 00:00.02)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H3_grazing_ear_L.png'
+Time: 00:05.14 (Saving: 00:00.02)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H3_grazing_front_edge.png'
+Time: 00:03.52 (Saving: 00:00.01)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H3_grazing_nape.png'
+Time: 00:03.92 (Saving: 00:00.01)
+
+07:14:54 | INFO: Data are loaded, start creating Blender stuff
+07:14:54 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:14:54 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:14:54 | INFO: Blender create Mesh node TMH53_H4_SIDE_SWEPT_FRINGE
+07:14:54 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H4_studio_ear_R.png'
+Time: 00:06.74 (Saving: 00:00.02)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H4_studio_ear_L.png'
+Time: 00:05.45 (Saving: 00:00.01)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H4_studio_front_edge.png'
+Time: 00:04.43 (Saving: 00:00.01)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H4_studio_nape.png'
+Time: 00:04.96 (Saving: 00:00.02)
+
+07:15:15 | INFO: Data are loaded, start creating Blender stuff
+07:15:15 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:15:15 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:15:15 | INFO: Blender create Mesh node TMH53_H4_SIDE_SWEPT_FRINGE
+07:15:15 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H4_grazing_ear_R.png'
+Time: 00:06.31 (Saving: 00:00.01)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H4_grazing_ear_L.png'
+Time: 00:05.56 (Saving: 00:00.01)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H4_grazing_front_edge.png'
+Time: 00:04.40 (Saving: 00:00.01)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/CLOSEUPS_hair_on_F0/F0_H4_grazing_nape.png'
+Time: 00:04.54 (Saving: 00:00.02)
+
+07:15:37 | INFO: Data are loaded, start creating Blender stuff
+07:15:37 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:15:37 | INFO: Blender create Mesh node Hair35_SmoothCrown
+07:15:37 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:15:37 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/FACE52_orig_front.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/FACE52_orig_quarter_R.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/FACE52_orig_side_L.png'
+Time: 00:00.22 (Saving: 00:00.00)
+
+07:15:37 | INFO: Data are loaded, start creating Blender stuff
+07:15:37 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:15:37 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:15:37 | INFO: Blender create Mesh node TMH53_H1_STANDARD_REBUILT
+07:15:37 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F0_H1_front.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F0_H1_quarter_R.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F0_H1_side_L.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+07:15:38 | INFO: Data are loaded, start creating Blender stuff
+07:15:38 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:15:38 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:15:38 | INFO: Blender create Mesh node TMH53_H2_SHORT_CROP
+07:15:38 | INFO: glTF import finished in 0.01s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F0_H2_front.png'
+Time: 00:00.11 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F0_H2_quarter_R.png'
+Time: 00:00.12 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F0_H2_side_L.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+07:15:38 | INFO: Data are loaded, start creating Blender stuff
+07:15:38 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:15:38 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:15:38 | INFO: Blender create Mesh node TMH53_H3_SWEPT_BACK
+07:15:38 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F0_H3_front.png'
+Time: 00:00.13 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F0_H3_quarter_R.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F0_H3_side_L.png'
+Time: 00:00.16 (Saving: 00:00.00)
+
+07:15:39 | INFO: Data are loaded, start creating Blender stuff
+07:15:39 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:15:39 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:15:39 | INFO: Blender create Mesh node TMH53_H4_SIDE_SWEPT_FRINGE
+07:15:39 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F0_H4_front.png'
+Time: 00:00.16 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F0_H4_quarter_R.png'
+Time: 00:00.16 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F0_H4_side_L.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+07:15:39 | INFO: Data are loaded, start creating Blender stuff
+07:15:39 | INFO: Blender create Mesh node TMF53_F1_LONG_ANGULAR
+07:15:39 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:15:39 | INFO: Blender create Mesh node Hair35_SmoothCrown
+07:15:39 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F1_H0_front.png'
+Time: 00:00.16 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F1_H0_quarter_R.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F1_H0_side_L.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+07:15:40 | INFO: Data are loaded, start creating Blender stuff
+07:15:40 | INFO: Blender create Mesh node TMF53_F1_LONG_ANGULAR
+07:15:40 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:15:40 | INFO: Blender create Mesh node TMH53_H1_STANDARD_REBUILT
+07:15:40 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F1_H1_front.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F1_H1_quarter_R.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F1_H1_side_L.png'
+Time: 00:00.16 (Saving: 00:00.00)
+
+07:15:41 | INFO: Data are loaded, start creating Blender stuff
+07:15:41 | INFO: Blender create Mesh node TMF53_F1_LONG_ANGULAR
+07:15:41 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:15:41 | INFO: Blender create Mesh node TMH53_H2_SHORT_CROP
+07:15:41 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F1_H2_front.png'
+Time: 00:00.11 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F1_H2_quarter_R.png'
+Time: 00:00.13 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F1_H2_side_L.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+07:15:41 | INFO: Data are loaded, start creating Blender stuff
+07:15:41 | INFO: Blender create Mesh node TMF53_F1_LONG_ANGULAR
+07:15:41 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:15:41 | INFO: Blender create Mesh node TMH53_H3_SWEPT_BACK
+07:15:41 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F1_H3_front.png'
+Time: 00:00.12 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F1_H3_quarter_R.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F1_H3_side_L.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+07:15:42 | INFO: Data are loaded, start creating Blender stuff
+07:15:42 | INFO: Blender create Mesh node TMF53_F1_LONG_ANGULAR
+07:15:42 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:15:42 | INFO: Blender create Mesh node TMH53_H4_SIDE_SWEPT_FRINGE
+07:15:42 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F1_H4_front.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F1_H4_quarter_R.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F1_H4_side_L.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+07:15:42 | INFO: Data are loaded, start creating Blender stuff
+07:15:42 | INFO: Blender create Mesh node TMF53_F2_ROUND_SOFT
+07:15:42 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:15:42 | INFO: Blender create Mesh node Hair35_SmoothCrown
+07:15:42 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F2_H0_front.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F2_H0_quarter_R.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F2_H0_side_L.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+07:15:43 | INFO: Data are loaded, start creating Blender stuff
+07:15:43 | INFO: Blender create Mesh node TMF53_F2_ROUND_SOFT
+07:15:43 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:15:43 | INFO: Blender create Mesh node TMH53_H1_STANDARD_REBUILT
+07:15:43 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F2_H1_front.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F2_H1_quarter_R.png'
+Time: 00:00.16 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F2_H1_side_L.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+07:15:43 | INFO: Data are loaded, start creating Blender stuff
+07:15:43 | INFO: Blender create Mesh node TMF53_F2_ROUND_SOFT
+07:15:43 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:15:43 | INFO: Blender create Mesh node TMH53_H2_SHORT_CROP
+07:15:43 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F2_H2_front.png'
+Time: 00:00.12 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F2_H2_quarter_R.png'
+Time: 00:00.13 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F2_H2_side_L.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+07:15:44 | INFO: Data are loaded, start creating Blender stuff
+07:15:44 | INFO: Blender create Mesh node TMF53_F2_ROUND_SOFT
+07:15:44 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:15:44 | INFO: Blender create Mesh node TMH53_H3_SWEPT_BACK
+07:15:44 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F2_H3_front.png'
+Time: 00:00.11 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F2_H3_quarter_R.png'
+Time: 00:00.13 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F2_H3_side_L.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+07:15:44 | INFO: Data are loaded, start creating Blender stuff
+07:15:44 | INFO: Blender create Mesh node TMF53_F2_ROUND_SOFT
+07:15:44 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:15:44 | INFO: Blender create Mesh node TMH53_H4_SIDE_SWEPT_FRINGE
+07:15:44 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F2_H4_front.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F2_H4_quarter_R.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F2_H4_side_L.png'
+Time: 00:00.16 (Saving: 00:00.00)
+
+07:15:45 | INFO: Data are loaded, start creating Blender stuff
+07:15:45 | INFO: Blender create Mesh node TMF53_F3_NARROW_SHARP
+07:15:45 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:15:45 | INFO: Blender create Mesh node Hair35_SmoothCrown
+07:15:45 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F3_H0_front.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F3_H0_quarter_R.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F3_H0_side_L.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+07:15:45 | INFO: Data are loaded, start creating Blender stuff
+07:15:45 | INFO: Blender create Mesh node TMF53_F3_NARROW_SHARP
+07:15:45 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:15:45 | INFO: Blender create Mesh node TMH53_H1_STANDARD_REBUILT
+07:15:45 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F3_H1_front.png'
+Time: 00:00.16 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F3_H1_quarter_R.png'
+Time: 00:00.16 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F3_H1_side_L.png'
+Time: 00:00.16 (Saving: 00:00.00)
+
+07:15:46 | INFO: Data are loaded, start creating Blender stuff
+07:15:46 | INFO: Blender create Mesh node TMF53_F3_NARROW_SHARP
+07:15:46 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:15:46 | INFO: Blender create Mesh node TMH53_H2_SHORT_CROP
+07:15:46 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F3_H2_front.png'
+Time: 00:00.12 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F3_H2_quarter_R.png'
+Time: 00:00.13 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F3_H2_side_L.png'
+Time: 00:00.13 (Saving: 00:00.00)
+
+07:15:46 | INFO: Data are loaded, start creating Blender stuff
+07:15:46 | INFO: Blender create Mesh node TMF53_F3_NARROW_SHARP
+07:15:46 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:15:46 | INFO: Blender create Mesh node TMH53_H3_SWEPT_BACK
+07:15:46 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F3_H3_front.png'
+Time: 00:00.11 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F3_H3_quarter_R.png'
+Time: 00:00.13 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F3_H3_side_L.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+07:15:47 | INFO: Data are loaded, start creating Blender stuff
+07:15:47 | INFO: Blender create Mesh node TMF53_F3_NARROW_SHARP
+07:15:47 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:15:47 | INFO: Blender create Mesh node TMH53_H4_SIDE_SWEPT_FRINGE
+07:15:47 | INFO: glTF import finished in 0.02s
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F3_H4_front.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F3_H4_quarter_R.png'
+Time: 00:00.16 (Saving: 00:00.00)
+
+Saved: '/home/user/TACTICAL-MOMENT/face_hair_fh53/build/renders/combos/F3_H4_side_L.png'
+Time: 00:00.16 (Saving: 00:00.00)
+
+RENDERS 163

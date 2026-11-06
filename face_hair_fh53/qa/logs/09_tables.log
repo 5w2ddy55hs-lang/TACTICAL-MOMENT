@@ -1,0 +1,135 @@
+## 計測値（GLB実測）
+
+| GLB | 三角形 | 属性頂点 | プリミティブ | 材質 | テクスチャ枚数 | テクスチャ解像度 | 三角形差 |
+|---|---|---|---|---|---|---|---|
+| TM_FACE52_F0_H0.glb (原本) | 3160 | 2884 | 9 | 8 | 7 | 512x512, 64x64, 64x64, 1024x1024, 1024x1024, 512x512, 128x128 | +0（対FACE52頭部 3160） |
+| TM_FH53_F0_H0.glb | 3160 | 2884 | 9 | 8 | 7 | 512x512, 64x64, 64x64, 1024x1024, 128x128, 1024x1024, 512x512 | +0（対FACE52頭部 3160） |
+| TM_FH53_F0_H1.glb | 2932 | 2129 | 9 | 8 | 7 | 512x512, 64x64, 64x64, 1024x1024, 128x128, 512x512, 512x512 | -228（対FACE52頭部 3160） |
+| TM_FH53_F0_H2.glb | 2620 | 1677 | 9 | 8 | 7 | 512x512, 64x64, 64x64, 1024x1024, 128x128, 512x512, 512x512 | -540（対FACE52頭部 3160） |
+| TM_FH53_F0_H3.glb | 2950 | 2007 | 9 | 8 | 7 | 512x512, 64x64, 64x64, 1024x1024, 128x128, 512x512, 512x512 | -210（対FACE52頭部 3160） |
+| TM_FH53_F0_H4.glb | 3105 | 2238 | 9 | 8 | 7 | 512x512, 64x64, 64x64, 1024x1024, 128x128, 512x512, 512x512 | -55（対FACE52頭部 3160） |
+| TM_FH53_F1_H0.glb | 3160 | 2885 | 9 | 8 | 7 | 512x512, 64x64, 64x64, 1024x1024, 128x128, 1024x1024, 512x512 | +0（対FACE52頭部 3160） |
+| TM_FH53_F1_H1.glb | 2932 | 2130 | 9 | 8 | 7 | 512x512, 64x64, 64x64, 1024x1024, 128x128, 512x512, 512x512 | -228（対FACE52頭部 3160） |
+| TM_FH53_F1_H2.glb | 2620 | 1678 | 9 | 8 | 7 | 512x512, 64x64, 64x64, 1024x1024, 128x128, 512x512, 512x512 | -540（対FACE52頭部 3160） |
+| TM_FH53_F1_H3.glb | 2950 | 2008 | 9 | 8 | 7 | 512x512, 64x64, 64x64, 1024x1024, 128x128, 512x512, 512x512 | -210（対FACE52頭部 3160） |
+| TM_FH53_F1_H4.glb | 3105 | 2239 | 9 | 8 | 7 | 512x512, 64x64, 64x64, 1024x1024, 128x128, 512x512, 512x512 | -55（対FACE52頭部 3160） |
+| TM_FH53_F1_LONG_ANGULAR.glb | 736 | 572 | 7 | 6 | 5 | 512x512, 64x64, 64x64, 1024x1024, 128x128 | +0（対FACE52顔+後頭皮 736） |
+| TM_FH53_F2_H0.glb | 3160 | 2885 | 9 | 8 | 7 | 512x512, 64x64, 64x64, 1024x1024, 128x128, 1024x1024, 512x512 | +0（対FACE52頭部 3160） |
+| TM_FH53_F2_H1.glb | 2932 | 2130 | 9 | 8 | 7 | 512x512, 64x64, 64x64, 1024x1024, 128x128, 512x512, 512x512 | -228（対FACE52頭部 3160） |
+| TM_FH53_F2_H2.glb | 2620 | 1678 | 9 | 8 | 7 | 512x512, 64x64, 64x64, 1024x1024, 128x128, 512x512, 512x512 | -540（対FACE52頭部 3160） |
+| TM_FH53_F2_H3.glb | 2950 | 2008 | 9 | 8 | 7 | 512x512, 64x64, 64x64, 1024x1024, 128x128, 512x512, 512x512 | -210（対FACE52頭部 3160） |
+| TM_FH53_F2_H4.glb | 3105 | 2239 | 9 | 8 | 7 | 512x512, 64x64, 64x64, 1024x1024, 128x128, 512x512, 512x512 | -55（対FACE52頭部 3160） |
+| TM_FH53_F2_ROUND_SOFT.glb | 736 | 572 | 7 | 6 | 5 | 512x512, 64x64, 64x64, 1024x1024, 128x128 | +0（対FACE52顔+後頭皮 736） |
+| TM_FH53_F3_H0.glb | 3160 | 2885 | 9 | 8 | 7 | 512x512, 64x64, 64x64, 1024x1024, 128x128, 1024x1024, 512x512 | +0（対FACE52頭部 3160） |
+| TM_FH53_F3_H1.glb | 2932 | 2130 | 9 | 8 | 7 | 512x512, 64x64, 64x64, 1024x1024, 128x128, 512x512, 512x512 | -228（対FACE52頭部 3160） |
+| TM_FH53_F3_H2.glb | 2620 | 1678 | 9 | 8 | 7 | 512x512, 64x64, 64x64, 1024x1024, 128x128, 512x512, 512x512 | -540（対FACE52頭部 3160） |
+| TM_FH53_F3_H3.glb | 2950 | 2008 | 9 | 8 | 7 | 512x512, 64x64, 64x64, 1024x1024, 128x128, 512x512, 512x512 | -210（対FACE52頭部 3160） |
+| TM_FH53_F3_H4.glb | 3105 | 2239 | 9 | 8 | 7 | 512x512, 64x64, 64x64, 1024x1024, 128x128, 512x512, 512x512 | -55（対FACE52頭部 3160） |
+| TM_FH53_F3_NARROW_SHARP.glb | 736 | 572 | 7 | 6 | 5 | 512x512, 64x64, 64x64, 1024x1024, 128x128 | +0（対FACE52顔+後頭皮 736） |
+| TM_FH53_H1_STANDARD_REBUILT.glb | 2196 | 1558 | 2 | 2 | 2 | 512x512, 512x512 | -228（対FACE52髪 2424） |
+| TM_FH53_H2_SHORT_CROP.glb | 1884 | 1106 | 2 | 2 | 2 | 512x512, 512x512 | -540（対FACE52髪 2424） |
+| TM_FH53_H3_SWEPT_BACK.glb | 2214 | 1436 | 2 | 2 | 2 | 512x512, 512x512 | -210（対FACE52髪 2424） |
+| TM_FH53_H4_SIDE_SWEPT_FRINGE.glb | 2369 | 1667 | 2 | 2 | 2 | 512x512, 512x512 | -55（対FACE52髪 2424） |
+
+## 顔候補の変形記録
+
+| 顔 | 皮膚(耳以外)の最大変位 mm | 耳の最大変位 mm | 首側開放縁の最大移動 mm | 後頭皮との共有頂点 最大移動 mm | z>0.080 皮膚の最大移動 mm | 面法線反転 | 面積比 最小/最大 |
+|---|---|---|---|---|---|---|---|
+| F1_LONG_ANGULAR | 8.992 | 11.722 | 0.0 | 0.0 | 0.0 | 0 | 0.4708 / 1.5346 |
+| F2_ROUND_SOFT | 4.967 | 11.722 | 0.0 | 0.0 | 0.0 | 0 | 0.4708 / 1.2489 |
+| F3_NARROW_SHARP | 5.809 | 11.722 | 0.0 | 0.0 | 0.0 | 0 | 0.4708 / 1.3039 |
+
+## 髪候補の構築記録
+
+| 髪 | cap三角形 | カード枚数 | カード三角形 | cap半径方向クリアランス押出 | cap×皮膚 交差解消 | カード×皮膚/cap 交差解消 | カード押出 max/p95 mm |
+|---|---|---|---|---|---|---|---|
+| H1_STANDARD_REBUILT | 1836 | 45 | 360 | 284頂点, 残0 | 残0 | 残0 | 6.0 / 2.13 |
+| H2_SHORT_CROP | 1836 | 12 | 48 | 367頂点, 残0 | 残0 | 残0 | 1.8 / 1.8 |
+| H3_SWEPT_BACK | 1890 | 30 | 324 | 169頂点, 残0 | 残0 | 残0 | 1.5 / 0.555 |
+| H4_SIDE_SWEPT_FRINGE | 1917 | 43 | 452 | 155頂点, 残0 | 残0 | 残0 | 8.7 / 3.6 |
+
+## 顔×髪 組み合わせ検査（20通りすべて実施）
+
+BVH三角形交差は epsilon=0（FACE52 contact_compare46 と同方式）。皮膚突出は皮膚三角形を重心格子(n=8, 33,120点)で標本化し放射方向で判定。
+
+| 組み合わせ | 髪×皮膚 交差対 | cap×カード 交差対 | カード自己交差対(頂点非共有) | capより外の皮膚点 | 最小capクリアランス mm | 生え際縁の高さ 中央値 mm | 頭蓋開口上の半透明cap頂点 |
+|---|---|---|---|---|---|---|---|
+| FACE52原本 (TM_FACE52_F0_H0.glb) | 51 | 8 | 7 | 0 | 3.59 | — | 134 |
+| F0_H0 | 51 | 8 | 7 | 0 | 3.59 | — | 134 |
+| F0_H1 | 0 | 0 | 209 | 0 | 0.40 | 3.03 | 0 |
+| F0_H2 | 0 | 0 | 14 | 0 | 0.46 | 1.17 | 0 |
+| F0_H3 | 0 | 0 | 222 | 0 | 0.43 | 1.07 | 0 |
+| F0_H4 | 0 | 0 | 400 | 0 | 0.53 | 1.74 | 0 |
+| F1_H0 | 64 | 8 | 7 | 0 | 3.59 | — | 134 |
+| F1_H1 | 0 | 0 | 209 | 0 | 0.40 | 3.03 | 0 |
+| F1_H2 | 0 | 0 | 14 | 0 | 0.46 | 1.17 | 0 |
+| F1_H3 | 0 | 0 | 222 | 0 | 0.43 | 1.07 | 0 |
+| F1_H4 | 0 | 0 | 400 | 0 | 0.53 | 1.74 | 0 |
+| F2_H0 | 64 | 8 | 7 | 0 | 3.59 | — | 134 |
+| F2_H1 | 0 | 0 | 209 | 0 | 0.40 | 3.03 | 0 |
+| F2_H2 | 0 | 0 | 14 | 0 | 0.46 | 1.17 | 0 |
+| F2_H3 | 0 | 0 | 222 | 0 | 0.43 | 1.07 | 0 |
+| F2_H4 | 0 | 0 | 400 | 0 | 0.53 | 1.74 | 0 |
+| F3_H0 | 64 | 8 | 7 | 0 | 3.59 | — | 134 |
+| F3_H1 | 0 | 0 | 209 | 0 | 0.40 | 3.03 | 0 |
+| F3_H2 | 0 | 0 | 14 | 0 | 0.46 | 1.17 | 0 |
+| F3_H3 | 0 | 0 | 222 | 0 | 0.43 | 1.07 | 0 |
+| F3_H4 | 0 | 0 | 400 | 0 | 0.53 | 1.74 | 0 |
+
+## GLB 再読込（空シーン）比較の最大差
+
+| GLB | 位置 max abs | 法線 max deg | 0.1度超の角 | UV max abs | 頂点色 max abs | 材質一致 |
+|---|---|---|---|---|---|---|
+| TM_FH53_F1_LONG_ANGULAR.glb | 0.00e+00 | 0.019 | 0 | 0.00e+00 | 0.00e+00 | True |
+| TM_FH53_F2_ROUND_SOFT.glb | 0.00e+00 | 0.020 | 0 | 0.00e+00 | 0.00e+00 | True |
+| TM_FH53_F3_NARROW_SHARP.glb | 0.00e+00 | 0.011 | 0 | 0.00e+00 | 0.00e+00 | True |
+| TM_FH53_H1_STANDARD_REBUILT.glb | 0.00e+00 | 0.569 | 3 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_H2_SHORT_CROP.glb | 0.00e+00 | 0.030 | 0 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_H3_SWEPT_BACK.glb | 0.00e+00 | 0.027 | 0 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_H4_SIDE_SWEPT_FRINGE.glb | 0.00e+00 | 0.341 | 5 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_F0_H0.glb | 0.00e+00 | 0.392 | 15 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_F0_H1.glb | 0.00e+00 | 0.569 | 3 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_F0_H2.glb | 0.00e+00 | 0.030 | 0 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_F0_H3.glb | 0.00e+00 | 0.027 | 0 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_F0_H4.glb | 0.00e+00 | 0.341 | 5 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_F1_H0.glb | 0.00e+00 | 0.392 | 15 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_F1_H1.glb | 0.00e+00 | 0.569 | 3 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_F1_H2.glb | 0.00e+00 | 0.030 | 0 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_F1_H3.glb | 0.00e+00 | 0.027 | 0 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_F1_H4.glb | 0.00e+00 | 0.341 | 5 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_F2_H0.glb | 0.00e+00 | 0.392 | 15 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_F2_H1.glb | 0.00e+00 | 0.569 | 3 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_F2_H2.glb | 0.00e+00 | 0.030 | 0 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_F2_H3.glb | 0.00e+00 | 0.027 | 0 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_F2_H4.glb | 0.00e+00 | 0.341 | 5 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_F3_H0.glb | 0.00e+00 | 0.392 | 15 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_F3_H1.glb | 0.00e+00 | 0.569 | 3 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_F3_H2.glb | 0.00e+00 | 0.030 | 0 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_F3_H3.glb | 0.00e+00 | 0.027 | 0 | 2.98e-08 | 0.00e+00 | True |
+| TM_FH53_F3_H4.glb | 0.00e+00 | 0.341 | 5 | 2.98e-08 | 0.00e+00 | True |
+
+## .blend 開き直し
+
+| .blend | 開いた版 | 保存版 | 画像数 | 欠落 | 読込不可 |
+|---|---|---|---|---|---|
+| TM_FH53_F1_LONG_ANGULAR.blend | 4.2.23 LTS | 4.2.68 | 5 | 0 | 0 |
+| TM_FH53_F2_ROUND_SOFT.blend | 4.2.23 LTS | 4.2.68 | 5 | 0 | 0 |
+| TM_FH53_F3_NARROW_SHARP.blend | 4.2.23 LTS | 4.2.68 | 5 | 0 | 0 |
+| TM_FH53_H1_STANDARD_REBUILT.blend | 4.2.23 LTS | 4.2.68 | 2 | 0 | 0 |
+| TM_FH53_H2_SHORT_CROP.blend | 4.2.23 LTS | 4.2.68 | 2 | 0 | 0 |
+| TM_FH53_H3_SWEPT_BACK.blend | 4.2.23 LTS | 4.2.68 | 2 | 0 | 0 |
+| TM_FH53_H4_SIDE_SWEPT_FRINGE.blend | 4.2.23 LTS | 4.2.68 | 2 | 0 | 0 |
+| TM_FH53_LIBRARY_faces_hairs.blend | 4.2.23 LTS | 4.2.68 | 30 | 0 | 0 |
+
+## FACE52 原本 vs FH53 F0×H0 再書き出し（属性比較）
+
+- REF09_Face_Eyes_Mouth/SOURCE_APPEARANCE04_slot_14: POSITION exact, NORMAL exact, TEXCOORD_0 exact, COLOR_0 components 4 vs 3; first 3 maxdiff 7.57e-06
+- REF09_Face_Eyes_Mouth/SOURCE_APPEARANCE04_slot_15: POSITION exact, NORMAL maxdiff 1.12e-04, TEXCOORD_0 exact, COLOR_0 components 4 vs 3; first 3 maxdiff 0.00e+00
+- REF09_Face_Eyes_Mouth/SOURCE_APPEARANCE04_slot_16: POSITION exact, NORMAL exact, TEXCOORD_0 exact, COLOR_0 components 4 vs 3; first 3 maxdiff 0.00e+00
+- REF09_Face_Eyes_Mouth/TM26_Face_Skin_Only: POSITION exact, NORMAL maxdiff 2.03e-04, TEXCOORD_0 exact, COLOR_0 components 4 vs 3; first 3 maxdiff 0.00e+00
+- REF09_Face_Eyes_Mouth/TM27_Side_Skin_VertexColor: POSITION exact, NORMAL exact, TEXCOORD_0 exact, COLOR_0 components 4 vs 3; first 3 maxdiff 7.28e-06
+- REF09_Hair/SOURCE_APPEARANCE04_slot_13: POSITION exact, NORMAL maxdiff 1.00e-04, TEXCOORD_0 exact, COLOR_0 exact
+- REF09_Hair/TM18_HairCap_Detail: POSITION exact, NORMAL exact, TEXCOORD_0 exact, COLOR_0 exact
+- REF14_BackScalp/SOURCE_APPEARANCE04_slot_02: POSITION exact, NORMAL maxdiff 1.00e-04, TEXCOORD_0 exact, COLOR_0 components 4 vs 3; first 3 maxdiff 0.00e+00
+- REF14_BackScalp/SOURCE_APPEARANCE04_slot_14: POSITION exact, NORMAL exact, TEXCOORD_0 exact, COLOR_0 components 4 vs 3; first 3 maxdiff 7.57e-06
+
