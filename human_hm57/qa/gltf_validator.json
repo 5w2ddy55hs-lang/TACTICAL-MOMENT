@@ -1,0 +1,66 @@
+{
+ "TM_HM57_PLAYER_P0_H1_KITA.glb": {
+  "errors": 0,
+  "warnings": 3,
+  "infos": 0,
+  "hints": 0,
+  "messages": [
+   "W NODE_SKINNED_MESH_NON_ROOT /nodes/22 Node with a skinned mesh is not root. Parent transforms will not affect a skinned mesh.",
+   "W NODE_SKINNED_MESH_NON_ROOT /nodes/23 Node with a skinned mesh is not root. Parent transforms will not affect a skinned mesh.",
+   "W NODE_SKINNED_MESH_NON_ROOT /nodes/24 Node with a skinned mesh is not root. Parent transforms will not affect a skinned mesh."
+  ],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb": {
+  "errors": 0,
+  "warnings": 3,
+  "infos": 0,
+  "hints": 0,
+  "messages": [
+   "W NODE_SKINNED_MESH_NON_ROOT /nodes/22 Node with a skinned mesh is not root. Parent transforms will not affect a skinned mesh.",
+   "W NODE_SKINNED_MESH_NON_ROOT /nodes/23 Node with a skinned mesh is not root. Parent transforms will not affect a skinned mesh.",
+   "W NODE_SKINNED_MESH_NON_ROOT /nodes/24 Node with a skinned mesh is not root. Parent transforms will not affect a skinned mesh."
+  ],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_HM57_BODY_KITA.glb": {
+  "errors": 0,
+  "warnings": 1,
+  "infos": 0,
+  "hints": 0,
+  "messages": [
+   "W NODE_SKINNED_MESH_NON_ROOT /nodes/22 Node with a skinned mesh is not root. Parent transforms will not affect a skinned mesh."
+  ],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_HM57_BODY_KITB.glb": {
+  "errors": 0,
+  "warnings": 1,
+  "infos": 0,
+  "hints": 0,
+  "messages": [
+   "W NODE_SKINNED_MESH_NON_ROOT /nodes/22 Node with a skinned mesh is not root. Parent transforms will not affect a skinned mesh."
+  ],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_HM57_HAIR_P0_H1_STANDARD.glb": {
+  "errors": 0,
+  "warnings": 1,
+  "infos": 0,
+  "hints": 0,
+  "messages": [
+   "W NODE_SKINNED_MESH_NON_ROOT /nodes/22 Node with a skinned mesh is not root. Parent transforms will not affect a skinned mesh."
+  ],
+  "validatorVersion": "2.0.0-dev.3.10"
+ },
+ "TM_HM57_HEAD_P0_NEUTRAL.glb": {
+  "errors": 0,
+  "warnings": 1,
+  "infos": 0,
+  "hints": 0,
+  "messages": [
+   "W NODE_SKINNED_MESH_NON_ROOT /nodes/22 Node with a skinned mesh is not root. Parent transforms will not affect a skinned mesh."
+  ],
+  "validatorVersion": "2.0.0-dev.3.10"
+ }
+}
