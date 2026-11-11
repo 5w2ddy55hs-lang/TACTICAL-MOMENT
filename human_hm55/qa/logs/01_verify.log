@@ -1,0 +1,122 @@
+12:41:01 | INFO: Data are loaded, start creating Blender stuff
+12:41:01 | INFO: Blender create Mesh node TM_HM55_Body
+12:41:01 | INFO: Blender create Mesh node TM_HM55_Hair
+12:41:01 | INFO: Blender create Mesh node TM_HM55_Head
+12:41:01 | INFO: glTF import finished in 0.16s
+motion TM_HM55_PLAYER_P0_H2_KITA.glb {"Idle": [11.32, 15.84, 0, 0, 10], "Run": [11.35, 16.29, 0, 0, 39], "Kick": [10.75, 16.36, 0, 0, 29], "LookAround": [10.14, 20.52, 0, 0, 10], "ThrowIn": [11.24, 15.85, 0, 0, 13], "Header": [10.26, 16.84, 0, 0, 26]}
+12:41:07 | INFO: Data are loaded, start creating Blender stuff
+12:41:07 | INFO: Blender create Mesh node TM_HM55_Body
+12:41:07 | INFO: Blender create Mesh node TM_HM55_Hair
+12:41:07 | INFO: Blender create Mesh node TM_HM55_Head
+12:41:07 | INFO: glTF import finished in 0.10s
+motion TM_HM55_PLAYER_P1_H2_KITA.glb {"Idle": [11.32, 15.84, 0, 0, 10], "Run": [11.35, 16.29, 0, 0, 39], "Kick": [10.75, 16.36, 0, 0, 29], "LookAround": [10.14, 20.52, 0, 0, 10], "ThrowIn": [11.24, 15.85, 0, 0, 13], "Header": [10.26, 16.84, 0, 2, 26]}
+12:41:12 | INFO: Data are loaded, start creating Blender stuff
+12:41:12 | INFO: Blender create Mesh node TM_HM55_Body
+12:41:12 | INFO: Blender create Mesh node TM_HM55_Hair
+12:41:12 | INFO: Blender create Mesh node TM_HM55_Head
+12:41:12 | INFO: glTF import finished in 0.10s
+motion TM_HM55_PLAYER_P2_H2_KITA.glb {"Idle": [11.32, 15.84, 0, 0, 10], "Run": [11.35, 16.29, 0, 0, 39], "Kick": [10.75, 16.36, 0, 0, 29], "LookAround": [10.14, 20.52, 0, 0, 10], "ThrowIn": [11.24, 15.85, 0, 0, 13], "Header": [10.26, 16.84, 0, 0, 26]}
+12:41:17 | INFO: Data are loaded, start creating Blender stuff
+12:41:17 | INFO: Blender create Mesh node TM_HM55_Body
+12:41:17 | INFO: Blender create Mesh node TM_HM55_Hair
+12:41:17 | INFO: Blender create Mesh node TM_HM55_Head
+12:41:18 | INFO: glTF import finished in 0.11s
+motion TM_HM55_PLAYER_P3_H2_KITA.glb {"Idle": [11.32, 15.84, 0, 0, 10], "Run": [11.35, 16.29, 0, 0, 39], "Kick": [10.75, 16.36, 0, 0, 29], "LookAround": [10.14, 20.52, 0, 0, 10], "ThrowIn": [11.24, 15.85, 0, 0, 13], "Header": [10.26, 16.84, 0, 2, 26]}
+12:41:25 | INFO: Data are loaded, start creating Blender stuff
+12:41:25 | INFO: Blender create Mesh node TM_HM55_Body
+12:41:25 | INFO: Blender create Mesh node TM_HM55_Hair
+12:41:25 | INFO: Blender create Mesh node TM_HM55_Head
+12:41:25 | INFO: glTF import finished in 0.11s
+hair TM_HM55_PLAYER_P0_H1_KITA.glb {'hair_triangles': 2138, 'hair_vs_head_intersections': 0, 'hairline_edge_vertices': 71, 'hairline_edge_height_mm': {'min': 0.69, 'median': 1.25, 'max': 2.59}, 'hairline_edge_height_near_ears_mm': {'median': 1.11, 'max': 1.44, 'vertices': 23}, 'hair_to_ear_min_distance_mm': 4.76}
+12:41:26 | INFO: Data are loaded, start creating Blender stuff
+12:41:26 | INFO: Blender create Mesh node TM_HM55_Body
+12:41:26 | INFO: Blender create Mesh node TM_HM55_Hair
+12:41:26 | INFO: Blender create Mesh node TM_HM55_Head
+12:41:26 | INFO: glTF import finished in 0.15s
+hair TM_HM55_PLAYER_P0_H2_KITA.glb {'hair_triangles': 1938, 'hair_vs_head_intersections': 0, 'hairline_edge_vertices': 71, 'hairline_edge_height_mm': {'min': 0.6, 'median': 1.09, 'max': 2.5}, 'hairline_edge_height_near_ears_mm': {'median': 1.07, 'max': 1.37, 'vertices': 24}, 'hair_to_ear_min_distance_mm': 7.31}
+12:41:27 | INFO: Data are loaded, start creating Blender stuff
+12:41:27 | INFO: Blender create Mesh node TM_HM55_Body
+12:41:27 | INFO: Blender create Mesh node TM_HM55_Hair
+12:41:27 | INFO: Blender create Mesh node TM_HM55_Head
+12:41:27 | INFO: glTF import finished in 0.14s
+hair TM_HM55_PLAYER_P0_H3_KITA.glb {'hair_triangles': 2214, 'hair_vs_head_intersections': 0, 'hairline_edge_vertices': 73, 'hairline_edge_height_mm': {'min': 0.81, 'median': 1.35, 'max': 2.76}, 'hairline_edge_height_near_ears_mm': {'median': 1.24, 'max': 1.54, 'vertices': 26}, 'hair_to_ear_min_distance_mm': 10.06}
+12:41:28 | INFO: Data are loaded, start creating Blender stuff
+12:41:28 | INFO: Blender create Mesh node TM_HM55_Body
+12:41:28 | INFO: Blender create Mesh node TM_HM55_Hair
+12:41:28 | INFO: Blender create Mesh node TM_HM55_Head
+12:41:28 | INFO: glTF import finished in 0.18s
+hair TM_HM55_PLAYER_P0_H4_KITA.glb {'hair_triangles': 2230, 'hair_vs_head_intersections': 0, 'hairline_edge_vertices': 71, 'hairline_edge_height_mm': {'min': 0.79, 'median': 1.36, 'max': 2.73}, 'hairline_edge_height_near_ears_mm': {'median': 1.22, 'max': 1.51, 'vertices': 23}, 'hair_to_ear_min_distance_mm': 4.85}
+12:41:29 | INFO: Data are loaded, start creating Blender stuff
+12:41:29 | INFO: Blender create Mesh node TM_HM55_Body
+12:41:29 | INFO: Blender create Mesh node TM_HM55_Hair
+12:41:29 | INFO: Blender create Mesh node TM_HM55_Head
+12:41:29 | INFO: glTF import finished in 0.16s
+hair TM_HM55_PLAYER_P1_H1_KITA.glb {'hair_triangles': 2138, 'hair_vs_head_intersections': 0, 'hairline_edge_vertices': 71, 'hairline_edge_height_mm': {'min': 0.76, 'median': 1.25, 'max': 2.89}, 'hairline_edge_height_near_ears_mm': {'median': 1.1, 'max': 1.41, 'vertices': 23}, 'hair_to_ear_min_distance_mm': 5.93}
+12:41:30 | INFO: Data are loaded, start creating Blender stuff
+12:41:30 | INFO: Blender create Mesh node TM_HM55_Body
+12:41:30 | INFO: Blender create Mesh node TM_HM55_Hair
+12:41:30 | INFO: Blender create Mesh node TM_HM55_Head
+12:41:30 | INFO: glTF import finished in 0.13s
+hair TM_HM55_PLAYER_P1_H2_KITA.glb {'hair_triangles': 1938, 'hair_vs_head_intersections': 0, 'hairline_edge_vertices': 71, 'hairline_edge_height_mm': {'min': 0.69, 'median': 1.08, 'max': 2.79}, 'hairline_edge_height_near_ears_mm': {'median': 1.06, 'max': 1.32, 'vertices': 24}, 'hair_to_ear_min_distance_mm': 8.96}
+12:41:31 | INFO: Data are loaded, start creating Blender stuff
+12:41:31 | INFO: Blender create Mesh node TM_HM55_Body
+12:41:31 | INFO: Blender create Mesh node TM_HM55_Hair
+12:41:31 | INFO: Blender create Mesh node TM_HM55_Head
+12:41:31 | INFO: glTF import finished in 0.11s
+hair TM_HM55_PLAYER_P1_H3_KITA.glb {'hair_triangles': 2214, 'hair_vs_head_intersections': 0, 'hairline_edge_vertices': 73, 'hairline_edge_height_mm': {'min': 0.88, 'median': 1.37, 'max': 2.99}, 'hairline_edge_height_near_ears_mm': {'median': 1.22, 'max': 1.5, 'vertices': 26}, 'hair_to_ear_min_distance_mm': 11.61}
+12:41:32 | INFO: Data are loaded, start creating Blender stuff
+12:41:32 | INFO: Blender create Mesh node TM_HM55_Body
+12:41:32 | INFO: Blender create Mesh node TM_HM55_Hair
+12:41:32 | INFO: Blender create Mesh node TM_HM55_Head
+12:41:33 | INFO: glTF import finished in 0.14s
+hair TM_HM55_PLAYER_P1_H4_KITA.glb {'hair_triangles': 2230, 'hair_vs_head_intersections': 0, 'hairline_edge_vertices': 71, 'hairline_edge_height_mm': {'min': 0.84, 'median': 1.35, 'max': 2.99}, 'hairline_edge_height_near_ears_mm': {'median': 1.19, 'max': 1.5, 'vertices': 23}, 'hair_to_ear_min_distance_mm': 6.0}
+12:41:33 | INFO: Data are loaded, start creating Blender stuff
+12:41:33 | INFO: Blender create Mesh node TM_HM55_Body
+12:41:34 | INFO: Blender create Mesh node TM_HM55_Hair
+12:41:34 | INFO: Blender create Mesh node TM_HM55_Head
+12:41:34 | INFO: glTF import finished in 0.19s
+hair TM_HM55_PLAYER_P2_H1_KITA.glb {'hair_triangles': 2138, 'hair_vs_head_intersections': 0, 'hairline_edge_vertices': 71, 'hairline_edge_height_mm': {'min': 0.66, 'median': 1.21, 'max': 2.35}, 'hairline_edge_height_near_ears_mm': {'median': 1.15, 'max': 1.44, 'vertices': 23}, 'hair_to_ear_min_distance_mm': 3.32}
+12:41:35 | INFO: Data are loaded, start creating Blender stuff
+12:41:35 | INFO: Blender create Mesh node TM_HM55_Body
+12:41:35 | INFO: Blender create Mesh node TM_HM55_Hair
+12:41:35 | INFO: Blender create Mesh node TM_HM55_Head
+12:41:35 | INFO: glTF import finished in 0.10s
+hair TM_HM55_PLAYER_P2_H2_KITA.glb {'hair_triangles': 1938, 'hair_vs_head_intersections': 0, 'hairline_edge_vertices': 71, 'hairline_edge_height_mm': {'min': 0.38, 'median': 1.09, 'max': 2.25}, 'hairline_edge_height_near_ears_mm': {'median': 1.08, 'max': 1.41, 'vertices': 24}, 'hair_to_ear_min_distance_mm': 5.29}
+12:41:36 | INFO: Data are loaded, start creating Blender stuff
+12:41:36 | INFO: Blender create Mesh node TM_HM55_Body
+12:41:36 | INFO: Blender create Mesh node TM_HM55_Hair
+12:41:36 | INFO: Blender create Mesh node TM_HM55_Head
+12:41:36 | INFO: glTF import finished in 0.15s
+hair TM_HM55_PLAYER_P2_H3_KITA.glb {'hair_triangles': 2214, 'hair_vs_head_intersections': 0, 'hairline_edge_vertices': 73, 'hairline_edge_height_mm': {'min': 0.82, 'median': 1.35, 'max': 2.47}, 'hairline_edge_height_near_ears_mm': {'median': 1.27, 'max': 1.55, 'vertices': 26}, 'hair_to_ear_min_distance_mm': 6.21}
+12:41:36 | INFO: Data are loaded, start creating Blender stuff
+12:41:36 | INFO: Blender create Mesh node TM_HM55_Body
+12:41:36 | INFO: Blender create Mesh node TM_HM55_Hair
+12:41:36 | INFO: Blender create Mesh node TM_HM55_Head
+12:41:37 | INFO: glTF import finished in 0.15s
+hair TM_HM55_PLAYER_P2_H4_KITA.glb {'hair_triangles': 2230, 'hair_vs_head_intersections': 0, 'hairline_edge_vertices': 71, 'hairline_edge_height_mm': {'min': 0.77, 'median': 1.33, 'max': 2.45}, 'hairline_edge_height_near_ears_mm': {'median': 1.25, 'max': 1.52, 'vertices': 23}, 'hair_to_ear_min_distance_mm': 3.47}
+12:41:37 | INFO: Data are loaded, start creating Blender stuff
+12:41:37 | INFO: Blender create Mesh node TM_HM55_Body
+12:41:37 | INFO: Blender create Mesh node TM_HM55_Hair
+12:41:37 | INFO: Blender create Mesh node TM_HM55_Head
+12:41:37 | INFO: glTF import finished in 0.10s
+hair TM_HM55_PLAYER_P3_H1_KITA.glb {'hair_triangles': 2138, 'hair_vs_head_intersections': 0, 'hairline_edge_vertices': 71, 'hairline_edge_height_mm': {'min': 0.69, 'median': 1.26, 'max': 2.88}, 'hairline_edge_height_near_ears_mm': {'median': 1.09, 'max': 1.47, 'vertices': 23}, 'hair_to_ear_min_distance_mm': 6.58}
+12:41:38 | INFO: Data are loaded, start creating Blender stuff
+12:41:38 | INFO: Blender create Mesh node TM_HM55_Body
+12:41:38 | INFO: Blender create Mesh node TM_HM55_Hair
+12:41:38 | INFO: Blender create Mesh node TM_HM55_Head
+12:41:38 | INFO: glTF import finished in 0.10s
+hair TM_HM55_PLAYER_P3_H2_KITA.glb {'hair_triangles': 1938, 'hair_vs_head_intersections': 0, 'hairline_edge_vertices': 71, 'hairline_edge_height_mm': {'min': 0.61, 'median': 1.08, 'max': 2.79}, 'hairline_edge_height_near_ears_mm': {'median': 1.01, 'max': 1.37, 'vertices': 24}, 'hair_to_ear_min_distance_mm': 8.69}
+12:41:39 | INFO: Data are loaded, start creating Blender stuff
+12:41:39 | INFO: Blender create Mesh node TM_HM55_Body
+12:41:39 | INFO: Blender create Mesh node TM_HM55_Hair
+12:41:39 | INFO: Blender create Mesh node TM_HM55_Head
+12:41:39 | INFO: glTF import finished in 0.10s
+hair TM_HM55_PLAYER_P3_H3_KITA.glb {'hair_triangles': 2214, 'hair_vs_head_intersections': 0, 'hairline_edge_vertices': 73, 'hairline_edge_height_mm': {'min': 0.82, 'median': 1.38, 'max': 3.05}, 'hairline_edge_height_near_ears_mm': {'median': 1.21, 'max': 1.55, 'vertices': 26}, 'hair_to_ear_min_distance_mm': 10.54}
+12:41:40 | INFO: Data are loaded, start creating Blender stuff
+12:41:40 | INFO: Blender create Mesh node TM_HM55_Body
+12:41:40 | INFO: Blender create Mesh node TM_HM55_Hair
+12:41:40 | INFO: Blender create Mesh node TM_HM55_Head
+12:41:40 | INFO: glTF import finished in 0.14s
+hair TM_HM55_PLAYER_P3_H4_KITA.glb {'hair_triangles': 2230, 'hair_vs_head_intersections': 0, 'hairline_edge_vertices': 71, 'hairline_edge_height_mm': {'min': 0.77, 'median': 1.36, 'max': 3.04}, 'hairline_edge_height_near_ears_mm': {'median': 1.18, 'max': 1.57, 'vertices': 23}, 'hair_to_ear_min_distance_mm': 6.69}
+skin {"P0": {"tone": "T2", "mean_srgb": {"neck": [0.7805, 0.5994, 0.4676], "cheek": [0.7848, 0.5904, 0.4597], "forearm": [0.7702, 0.5912, 0.4612], "knee": [0.7425, 0.5657, 0.4408]}, "deltaE76": {"neck_vs_forearm": 0.86, "neck_vs_knee": 3.39, "neck_vs_cheek": 1.63}}, "P1": {"tone": "T3", "mean_srgb": {"neck": [0.6891, 0.5106, 0.386], "cheek": [0.6411, 0.4738, 0.3632], "forearm": [0.6884, 0.5095, 0.3843], "knee": [0.6636, 0.4875, 0.3673]}, "deltaE76": {"neck_vs_forearm": 0.15, "neck_vs_knee": 2.35, "neck_vs_cheek": 4.39}}, "P2": {"tone": "T1", "mean_srgb": {"neck": [0.8399, 0.6692, 0.5429], "cheek": [0.8448, 0.6424, 0.5188], "forearm": [0.8328, 0.6633, 0.538], "knee": [0.8028, 0.6347, 0.5142]}, "deltaE76": {"neck_vs_forearm": 0.6, "neck_vs_knee": 3.33, "neck_vs_cheek": 3.98}}, "P3": {"tone": "T2", "mean_srgb": {"neck": [0.782, 0.6006, 0.4686], "cheek": [0.7845, 0.5945, 0.4634], "forearm": [0.7702, 0.5912, 0.4612], "knee": [0.7425, 0.5657, 0.4408]}, "deltaE76": {"neck_vs_forearm": 0.99, "neck_vs_knee": 3.51, "neck_vs_cheek": 1.05}}}
+VERIFY OK

@@ -1,0 +1,9 @@
+validator: 42 files
+done TM_HM55_PLAYER_P0_H2_KITA
+done TM_HM55_PLAYER_P1_H1_KITA
+done TM_HM55_PLAYER_P2_H4_KITA
+done TM_HM55_PLAYER_P3_H3_KITA
+perf x22_idle {"calls":158,"triangles":143462,"ms_per_frame":5.078333333332557,"gl_renderer":"WebKit WebGL"}
+perf x22_run {"calls":158,"triangles":143462,"ms_per_frame":3.247499999999612,"gl_renderer":"WebKit WebGL"}
+{"TM_HM55_PLAYER_P0_H2_KITA": {"order_changed_pixels_pct": {"q": 0.0, "top": 0.0, "back": 0.0, "side": 0.005}, "front_only_vs_double_sided_changed_pixels_pct": 0.916}, "TM_HM55_PLAYER_P1_H1_KITA": {"order_changed_pixels_pct": {"q": 0.039, "top": 0.002, "back": 0.0, "side": 0.0}, "front_only_vs_double_sided_changed_pixels_pct": 0.859}, "TM_HM55_PLAYER_P2_H4_KITA": {"order_changed_pixels_pct": {"q": 0.0, "top": 0.0, "back": 0.0, "side": 0.034}, "front_only_vs_double_sided_changed_pixels_pct": 0.893}, "TM_HM55_PLAYER_P3_H3_KITA": {"order_changed_pixels_pct": {"q": 0.0, "top": 0.0, "back": 0.0, "side": 0.0}, "front_only_vs_double_sided_changed_pixels_pct": 0.957}}
+webtest done

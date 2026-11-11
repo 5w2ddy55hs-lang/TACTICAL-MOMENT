@@ -1,0 +1,1288 @@
+{
+ "inputs": {
+  "Reference04": {
+   "file": "Sakatsuku2002_reference04_APPEARANCE_STUDY.blend",
+   "sha256": "ea61c3ea4ee8164293c9b629836355b33bd97adba50bd4dec6b363f224efc374",
+   "vertices": 1026,
+   "triangles": 1419,
+   "vertex_groups": 21,
+   "actions": [
+    "REF_gamemtn0_id0001_normalized_phase",
+    "REF_gamemtn0_id0039_normalized_phase",
+    "REF_gamemtn0_id1012_normalized_phase"
+   ]
+  },
+  "FACE52": {
+   "file": "TM_FACE52_F0_H0.blend",
+   "sha256": "5197ef43a63fbbd386291b778b8090178ee71429a8cb4423bd7f4383eea749c2"
+  }
+ },
+ "embedded_statements": {
+  "Reference04": {
+   "scene": {
+    "reference_only": "True",
+    "source_fps_verified": "False",
+    "source_action_names_verified": "False",
+    "display_time": "Each study clip is normalized to 1.0 display seconds; this is not original timing.",
+    "source_actor_root_motion_applied": "False",
+    "production_player": "False",
+    "source_appearance_profile": "Explicit profile 0 for inspection; original player selection and mesh/profile pairing unverified"
+   },
+   "texts": {
+    "READ_ME_REFERENCE04.txt": "PRIVATE SOURCE STUDY. Three rotation-only clips normalized to one display second each. Source FPS/action names<HOME> motion/face synthesis/look control/game rendering are unverified. The source shape and source-derived motion are not TACTICAL MOMENT production assets. Face and hair use an explicit source-derived appearance profile 0. Original player selection, face/model blends and mesh/profile pairing are unverified.\n"
+   },
+   "objects": {
+    "REF_SourcePlayer_reference_only": {
+     "source_reference_only": "True",
+     "source_runtime_appearance_verified": "False",
+     "source_weight_rule": "Rigid primary vertices; joint patches reuse original native cache vertex bone. Five own-matrix vertices use joint 10."
+    },
+    "REF_SourceRig21": {
+     "purpose": "Original source hierarchy reference, not the TACTICAL MOMENT production rig",
+     "original_game_or_emulator_verified": "False"
+    }
+   },
+   "materials": {
+    "SOURCE_APPEARANCE04_slot_02": {
+     "source_profile_choice_verified_in_game": "False",
+     "binding_evidence": "Native material loading table contains slot 2 / x00skn.pig; skin choice 0 for inspection"
+    },
+    "SOURCE_APPEARANCE04_slot_13": {
+     "source_profile_choice_verified_in_game": "False",
+     "binding_evidence": "Source indexed plane and native style-0 type / color-0 CLUT; selected mesh/profile pairing is unverified"
+    },
+    "SOURCE_APPEARANCE04_slot_14": {
+     "source_profile_choice_verified_in_game": "False",
+     "binding_evidence": "Source face base + native category order and pure copy primitive; game-selected appearance and model blend are unverified"
+    },
+    "SOURCE_APPEARANCE04_slot_15": {
+     "source_profile_choice_verified_in_game": "False",
+     "binding_evidence": "Selected source mouth image; slot mapped by original head geometry/UV region, final native material state unverified"
+    },
+    "SOURCE_APPEARANCE04_slot_16": {
+     "source_profile_choice_verified_in_game": "False",
+     "binding_evidence": "Selected source eyeball image; slot mapped by original head geometry/UV region, final native material state unverified"
+    },
+    "SOURCE_PIG_slot_04_logo.bin": {
+     "source_filename": "logo.bin",
+     "source_pixel_output_verified": "False"
+    },
+    "SOURCE_PIG_slot_06_pntb.bin": {
+     "source_filename": "pntb.bin",
+     "source_pixel_output_verified": "False"
+    },
+    "SOURCE_PIG_slot_07_pntl.bin": {
+     "source_filename": "pntl.bin",
+     "source_pixel_output_verified": "False"
+    },
+    "SOURCE_PIG_slot_08_pntr.bin": {
+     "source_filename": "pntr.bin",
+     "source_pixel_output_verified": "False"
+    },
+    "SOURCE_PIG_slot_09_sox.bin": {
+     "source_filename": "sox.bin",
+     "source_pixel_output_verified": "False"
+    },
+    "SOURCE_PIG_slot_10_unin.bin": {
+     "source_filename": "unin.bin",
+     "source_pixel_output_verified": "False"
+    },
+    "SOURCE_PIG_slot_11_asi.bin": {
+     "source_filename": "asi.bin",
+     "source_pixel_output_verified": "False"
+    }
+   },
+   "actions": {
+    "REF_gamemtn0_id0001_normalized_phase": {
+     "source_entry_id": "1",
+     "source_fps": "UNKNOWN",
+     "phase_normalized": "True",
+     "display_duration_seconds": "1.0",
+     "root_and_extra_six_pointers_applied": "False"
+    },
+    "REF_gamemtn0_id0039_normalized_phase": {
+     "source_entry_id": "39",
+     "source_fps": "UNKNOWN",
+     "phase_normalized": "True",
+     "display_duration_seconds": "1.0",
+     "root_and_extra_six_pointers_applied": "False"
+    },
+    "REF_gamemtn0_id1012_normalized_phase": {
+     "source_entry_id": "1012",
+     "source_fps": "UNKNOWN",
+     "phase_normalized": "True",
+     "display_duration_seconds": "1.0",
+     "root_and_extra_six_pointers_applied": "False"
+    }
+   },
+   "image_names": [
+    "00_X01ASI.png",
+    "02_LOGO.png",
+    "04_X0000PNT.png",
+    "05_X0000PNT.png",
+    "06_X0000PNT.png",
+    "07_X0000SOX.png",
+    "08_X0000UNI.png",
+    "eyeballtex__xm00me.bin.png",
+    "PROFILE04_face_composite.png",
+    "PROFILE04_hair_type00_color00.png",
+    "skincomm__x00skn.pig.png",
+    "skincomm__xm00kuti.pig.png"
+   ],
+   "armatures": {
+    "REF_SourceHierarchy21": 21
+   }
+  },
+  "FACE52": {
+   "scene": {
+    "scope": "Private source-derived material study, not original production character",
+    "art_reference": "User attachment showing REF04; profile 0 pairing unverified in original game.",
+    "source_body_or_rig_in_export": "False",
+    "features_protected": "True",
+    "user_art_approved": "False",
+    "hair_tint": "<bpy id property array [4]>",
+    "reference_only": "True",
+    "source_fps_verified": "False",
+    "source_action_names_verified": "False",
+    "display_time": "Each study clip is normalized to 1.0 display seconds; this is not original timing.",
+    "source_actor_root_motion_applied": "False",
+    "production_player": "False",
+    "source_appearance_profile": "Explicit profile 0 for inspection; original player selection and mesh/profile pairing unverified",
+    "FACE45_status": "RESEARCH CANDIDATE. NOT APPROVED. Crown smoothing only; face identity and hairstyles remain incomplete.",
+    "FACE45_source_sha256": "29317cd86e2b47a44110006ed17dad144d1ccfbcb9e14dd7095517e7d8ad4a16",
+    "FACE46_status": "RESEARCH local cap separation trial. Face norms and cards unchanged. NOT APPROVED.",
+    "FACE46_source_sha256": "015b64f191de881e392a87493aec9ba79e5f2822a22b5079924d50e02eb72141",
+    "FACE47_status": "RESEARCH nape contour and temple alpha feather study. Main hair design UNMET; engine alpha sorting NOT TESTED. NOT APPROVED.",
+    "FACE49_status": "RESEARCH H0 local card silhouette study; cap canonical FACE47; NOT APPROVED. Game transparency NOT TESTED.",
+    "FACE51_status": "RESEARCH local ear and fringe geometry study; alpha unchanged; NOT APPROVED"
+   },
+   "texts": {},
+   "objects": {
+    "REF09_Face_Eyes_Mouth": {
+     "provenance": "REF04 extracted source-derived research mesh; not independently authored.",
+     "reference_row": "20",
+     "attachment_translation_only": "<bpy id property array [3]>",
+     "shape_changes_from_reference": "False",
+     "physics_or_animation_authority": "False",
+     "material_study11": "Feature protected",
+     "geometry_changed_from09": "True",
+     "appearance_revision": "TM_FACE19_NECK_COLOR",
+     "original_vertices_unchanged_from18": "True",
+     "two_neck_faces_subdivided_without_shape_change": "True",
+     "material_correction_faces": "[83, 84, 157, 158, 159, 163, 164, 165]",
+     "protected_feature_region": "Other polygons: positions, UV, colors exact; normals restored within storage tolerance; all images unchanged.",
+     "legacy_reference09_vertex_ids": "[469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516,",
+     "topology_changed_from18": "True",
+     "retained_original_vertex_count": "260",
+     "added_vertex_mapping": "qa/build.json subdivisions: source edge and j/8 interpolation"
+    },
+    "REF09_Hair": {
+     "provenance": "REF04 extracted source-derived research mesh; not independently authored.",
+     "reference_row": "31",
+     "attachment_translation_only": "<bpy id property array [3]>",
+     "shape_changes_from_reference": "True",
+     "physics_or_animation_authority": "False",
+     "material_study11": "Feature protected",
+     "geometry_changed_from09": "True",
+     "legacy_reference09_vertex_ids": "[892, 893, 894, 895, 896, 897, 898, 899, 900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 915, 916, 917, 918, 919, 920, 921, 922, 923, 924, 925, 926, 927, 928, 929, 930, 931, 932, 933, 934, 935, 936, 937, 938, 939,",
+     "revision": "TM_FACE24_HAIR_FLOW",
+     "parent_revision": "TM_FACE23_HAIR_TRANSITION",
+     "existing_face16_vertices_and_faces_preserved": "False",
+     "added_vertices_from16": "112",
+     "added_triangles_from16": "168",
+     "history_hairstyle13": "Shorter nape; front and crown preserved",
+     "history_hairstyle14": "Rounded central nape boundary; original134vertices retained",
+     "geometry_unchanged_from17": "True",
+     "cap_uv_layout": "original source flow, cap tile expanded to dedicated512",
+     "fringe_uv_preserved": "True",
+     "original_alpha_resampled_3x": "True",
+     "core138_positions_preserved": "True",
+     "overlay_mapping": "qa/build.json",
+     "topology_changed_from19": "True",
+     "edit_scope": "U coordinate only: upper-side cap flow, with strand-density penalty. V, geometry, all normals, RGBA, images and materials preserved23.",
+     "historical_preservation_claims_before_face23": "{\"all_geometry_normals_colors_images_materials_preserved21\": true, \"all_geometry_normals_colors_images_preserved20\": true}",
+     "all_non_target_normals_exact22": "True",
+     "historical_uv_preservation_claims_before_face24": "{\"geometry_uv_rgba_images_materials_preserved22\": true}",
+     "all_geometry_normals_rgba_images_materials_preserved23": "True",
+     "protected_front21_and_back22_uv_preserved": "True",
+     "all_v_coordinates_preserved23": "True"
+    },
+    "REF14_BackScalp": {
+     "scope": "Back scalp / neck bridge, provisional fit to reference body; original face untouched"
+    }
+   },
+   "materials": {
+    "SOURCE_APPEARANCE04_slot_02": {
+     "source_profile_choice_verified_in_game": "False",
+     "binding_evidence": "Native material loading table contains slot 2 / x00skn.pig; skin choice 0 for inspection"
+    },
+    "SOURCE_APPEARANCE04_slot_13": {
+     "source_profile_choice_verified_in_game": "False",
+     "binding_evidence": "Face18 generated lock RGB; source alpha and transparent-tip RGB fallback; private study",
+     "legacy_source_binding": "Source indexed plane and native style-0 type / color-0 CLUT; selected mesh/profile pairing is unverified",
+     "provenance": "Imagegen atlas RGB + source-derived alpha/fallback; not a fully independent asset",
+     "FACE52_exception": "Blender EMIT surface transfer: RGB projected from unchanged cap with original side RGB retained, texture alpha resampled from original card texture. Vertex RGBA unchanged. Card UV atlas replaced."
+    },
+    "SOURCE_APPEARANCE04_slot_14": {
+     "source_profile_choice_verified_in_game": "False",
+     "binding_evidence": "Source face base + native category order and pure copy primitive; game-selected appearance and model blend are unverified",
+     "provenance": "REF04 original feature pixels + generated skin/ears, mixed in Blender. Source-derived study."
+    },
+    "SOURCE_APPEARANCE04_slot_15": {
+     "source_profile_choice_verified_in_game": "False",
+     "binding_evidence": "Selected source mouth image; slot mapped by original head geometry/UV region, final native material state unverified"
+    },
+    "SOURCE_APPEARANCE04_slot_16": {
+     "source_profile_choice_verified_in_game": "False",
+     "binding_evidence": "Selected source eyeball image; slot mapped by original head geometry/UV region, final native material state unverified"
+    },
+    "TM18_HairCap_Detail": {
+     "source_profile_choice_verified_in_game": "False",
+     "binding_evidence": "New generated fine-strand cap512; source-directed UV; no original cap RGB",
+     "legacy_source_binding": "Source indexed plane and native style-0 type / color-0 CLUT; selected mesh/profile pairing is unverified",
+     "provenance": "Imagegen RGB cap, 2026-11-01; source-derived reference model remains private research"
+    },
+    "TM26_Face_Skin_Only": {
+     "source_profile_choice_verified_in_game": "False",
+     "binding_evidence": "Source face base + native category order and pure copy primitive; game-selected appearance and model blend are unverified",
+     "provenance": "REF04 original feature pixels + generated skin/ears, mixed in Blender. Source-derived study."
+    },
+    "TM27_Side_Skin_VertexColor": {
+     "source_profile_choice_verified_in_game": "False",
+     "binding_evidence": "Source face base + native category order and pure copy primitive; game-selected appearance and model blend are unverified",
+     "provenance": "REF04 original feature pixels + generated skin/ears, mixed in Blender. Source-derived study."
+    }
+   },
+   "actions": {},
+   "image_names": [
+    "eyeballtex__xm00me.bin",
+    "FACE52_FlowRGB",
+    "FACE52_SourceAlpha",
+    "face_F2",
+    "skincomm__x00skn",
+    "skincomm__xm00kuti.pig",
+    "TM11_Face512",
+    "TM18_FINE_LOCKS384_ORIGINAL_ALPHA",
+    "TM18_GENERATED_CAP512"
+   ],
+   "armatures": {}
+  }
+ },
+ "derivation_of_earlier_work": {
+  "FACE52_face_vs_Reference04_mesh": {
+   "shift": [
+    0.0,
+    -0.039378,
+    1.597969
+   ],
+   "coincident": 326,
+   "of": 516,
+   "note": "FACE52 face vertices that coincide with Reference04 vertices after the handoff translation"
+  },
+  "TM_FH54_F1_LONG_ANGULAR": {
+   "same_polygon_list_as_FACE52": true,
+   "same_uv_as_FACE52": true,
+   "vertices_unmoved_lt_0.1mm": 169,
+   "vertices": 516,
+   "texture_correlation_with_FACE52": {
+    "eyeballtex__xm00me.bin": {
+     "best_FACE52_image": "eyeballtex__xm00me.bin",
+     "correlation": 1.0
+    },
+    "face_F2": {
+     "best_FACE52_image": "face_F2",
+     "correlation": 1.0
+    },
+    "skincomm__x00skn": {
+     "best_FACE52_image": "skincomm__x00skn",
+     "correlation": 1.0
+    },
+    "skincomm__xm00kuti.pig": {
+     "best_FACE52_image": "skincomm__xm00kuti.pig",
+     "correlation": 1.0
+    },
+    "TM11_Face512": {
+     "best_FACE52_image": "TM11_Face512",
+     "correlation": 1.0
+    },
+    "TMF54_F1_EYE": {
+     "best_FACE52_image": "eyeballtex__xm00me.bin",
+     "correlation": 0.981
+    },
+    "TMF54_F1_FACE": {
+     "best_FACE52_image": "face_F2",
+     "correlation": 0.974
+    },
+    "TMF54_F1_NECK": {
+     "best_FACE52_image": "skincomm__x00skn",
+     "correlation": 0.995
+    },
+    "TMF54_F1_SIDE": {
+     "best_FACE52_image": "face_F2",
+     "correlation": 0.991
+    }
+   }
+  },
+  "TM_FH54_F2_ROUND_SOFT": {
+   "same_polygon_list_as_FACE52": true,
+   "same_uv_as_FACE52": true,
+   "vertices_unmoved_lt_0.1mm": 195,
+   "vertices": 516,
+   "texture_correlation_with_FACE52": {
+    "eyeballtex__xm00me.bin": {
+     "best_FACE52_image": "eyeballtex__xm00me.bin",
+     "correlation": 1.0
+    },
+    "face_F2": {
+     "best_FACE52_image": "face_F2",
+     "correlation": 1.0
+    },
+    "skincomm__x00skn": {
+     "best_FACE52_image": "skincomm__x00skn",
+     "correlation": 1.0
+    },
+    "skincomm__xm00kuti.pig": {
+     "best_FACE52_image": "skincomm__xm00kuti.pig",
+     "correlation": 1.0
+    },
+    "TM11_Face512": {
+     "best_FACE52_image": "TM11_Face512",
+     "correlation": 1.0
+    },
+    "TMF54_F2_EYE": {
+     "best_FACE52_image": "eyeballtex__xm00me.bin",
+     "correlation": 0.997
+    },
+    "TMF54_F2_FACE": {
+     "best_FACE52_image": "face_F2",
+     "correlation": 0.967
+    },
+    "TMF54_F2_NECK": {
+     "best_FACE52_image": "skincomm__x00skn",
+     "correlation": 0.999
+    },
+    "TMF54_F2_SIDE": {
+     "best_FACE52_image": "TM11_Face512",
+     "correlation": 0.999
+    }
+   }
+  },
+  "TM_FH54_F3_NARROW_SHARP": {
+   "same_polygon_list_as_FACE52": true,
+   "same_uv_as_FACE52": true,
+   "vertices_unmoved_lt_0.1mm": 201,
+   "vertices": 516,
+   "texture_correlation_with_FACE52": {
+    "eyeballtex__xm00me.bin": {
+     "best_FACE52_image": "eyeballtex__xm00me.bin",
+     "correlation": 1.0
+    },
+    "face_F2": {
+     "best_FACE52_image": "face_F2",
+     "correlation": 1.0
+    },
+    "skincomm__x00skn": {
+     "best_FACE52_image": "skincomm__x00skn",
+     "correlation": 1.0
+    },
+    "skincomm__xm00kuti.pig": {
+     "best_FACE52_image": "skincomm__xm00kuti.pig",
+     "correlation": 1.0
+    },
+    "TM11_Face512": {
+     "best_FACE52_image": "TM11_Face512",
+     "correlation": 1.0
+    },
+    "TMF54_F3_EYE": {
+     "best_FACE52_image": "eyeballtex__xm00me.bin",
+     "correlation": 0.996
+    },
+    "TMF54_F3_FACE": {
+     "best_FACE52_image": "face_F2",
+     "correlation": 0.955
+    },
+    "TMF54_F3_NECK": {
+     "best_FACE52_image": "skincomm__x00skn",
+     "correlation": 0.999
+    },
+    "TMF54_F3_SIDE": {
+     "best_FACE52_image": "TM11_Face512",
+     "correlation": 0.999
+    }
+   }
+  },
+  "TM_FH54_H1_STANDARD_REBUILT": {
+   "vertices": 1383,
+   "coincident_with_FACE52_vertices": 0,
+   "note": "Hair mesh was generated by script but fitted to the FACE52 skull / ear surface (shape depends on a source-derived head); textures are procedural."
+  },
+  "TM_FH54_H2_SHORT_CROP": {
+   "vertices": 1081,
+   "coincident_with_FACE52_vertices": 0,
+   "note": "Hair mesh was generated by script but fitted to the FACE52 skull / ear surface (shape depends on a source-derived head); textures are procedural."
+  },
+  "TM_FH54_H3_SWEPT_BACK": {
+   "vertices": 1449,
+   "coincident_with_FACE52_vertices": 0,
+   "note": "Hair mesh was generated by script but fitted to the FACE52 skull / ear surface (shape depends on a source-derived head); textures are procedural."
+  },
+  "TM_FH54_H4_SIDE_SWEPT_FRINGE": {
+   "vertices": 1513,
+   "coincident_with_FACE52_vertices": 0,
+   "note": "Hair mesh was generated by script but fitted to the FACE52 skull / ear surface (shape depends on a source-derived head); textures are procedural."
+  }
+ },
+ "hm55_vs_research": {
+  "meshes": {
+   "TM_HM55_Body": {
+    "vertices": 1383,
+    "triangles": 2552,
+    "same_vertex_and_triangle_count_as_any_research_mesh": false,
+    "coincident_vertices_with_Reference04": 0,
+    "coincident_vertices_with_FACE52": 0,
+    "coincident_vertices_with_TM_FH54_F1_LONG_ANGULAR": 0,
+    "coincident_vertices_with_TM_FH54_F2_ROUND_SOFT": 0,
+    "coincident_vertices_with_TM_FH54_F3_NARROW_SHARP": 0,
+    "coincident_vertices_with_TM_FH54_H1_STANDARD_REBUILT": 0,
+    "coincident_vertices_with_TM_FH54_H2_SHORT_CROP": 0,
+    "coincident_vertices_with_TM_FH54_H3_SWEPT_BACK": 0,
+    "coincident_vertices_with_TM_FH54_H4_SIDE_SWEPT_FRINGE": 0
+   },
+   "TM_HM55_Hair_P0_H1": {
+    "vertices": 1291,
+    "triangles": 2138,
+    "same_vertex_and_triangle_count_as_any_research_mesh": false,
+    "coincident_vertices_with_Reference04": 0,
+    "coincident_vertices_with_FACE52": 0,
+    "coincident_vertices_with_TM_FH54_F1_LONG_ANGULAR": 0,
+    "coincident_vertices_with_TM_FH54_F2_ROUND_SOFT": 0,
+    "coincident_vertices_with_TM_FH54_F3_NARROW_SHARP": 0,
+    "coincident_vertices_with_TM_FH54_H1_STANDARD_REBUILT": 0,
+    "coincident_vertices_with_TM_FH54_H2_SHORT_CROP": 0,
+    "coincident_vertices_with_TM_FH54_H3_SWEPT_BACK": 0,
+    "coincident_vertices_with_TM_FH54_H4_SIDE_SWEPT_FRINGE": 0
+   },
+   "TM_HM55_Hair_P0_H2": {
+    "vertices": 1053,
+    "triangles": 1938,
+    "same_vertex_and_triangle_count_as_any_research_mesh": false,
+    "coincident_vertices_with_Reference04": 0,
+    "coincident_vertices_with_FACE52": 0,
+    "coincident_vertices_with_TM_FH54_F1_LONG_ANGULAR": 0,
+    "coincident_vertices_with_TM_FH54_F2_ROUND_SOFT": 0,
+    "coincident_vertices_with_TM_FH54_F3_NARROW_SHARP": 0,
+    "coincident_vertices_with_TM_FH54_H1_STANDARD_REBUILT": 0,
+    "coincident_vertices_with_TM_FH54_H2_SHORT_CROP": 0,
+    "coincident_vertices_with_TM_FH54_H3_SWEPT_BACK": 0,
+    "coincident_vertices_with_TM_FH54_H4_SIDE_SWEPT_FRINGE": 0
+   },
+   "TM_HM55_Hair_P0_H3": {
+    "vertices": 1327,
+    "triangles": 2214,
+    "same_vertex_and_triangle_count_as_any_research_mesh": false,
+    "coincident_vertices_with_Reference04": 0,
+    "coincident_vertices_with_FACE52": 0,
+    "coincident_vertices_with_TM_FH54_F1_LONG_ANGULAR": 0,
+    "coincident_vertices_with_TM_FH54_F2_ROUND_SOFT": 0,
+    "coincident_vertices_with_TM_FH54_F3_NARROW_SHARP": 0,
+    "coincident_vertices_with_TM_FH54_H1_STANDARD_REBUILT": 0,
+    "coincident_vertices_with_TM_FH54_H2_SHORT_CROP": 0,
+    "coincident_vertices_with_TM_FH54_H3_SWEPT_BACK": 0,
+    "coincident_vertices_with_TM_FH54_H4_SIDE_SWEPT_FRINGE": 0
+   },
+   "TM_HM55_Hair_P0_H4": {
+    "vertices": 1385,
+    "triangles": 2230,
+    "same_vertex_and_triangle_count_as_any_research_mesh": false,
+    "coincident_vertices_with_Reference04": 0,
+    "coincident_vertices_with_FACE52": 0,
+    "coincident_vertices_with_TM_FH54_F1_LONG_ANGULAR": 0,
+    "coincident_vertices_with_TM_FH54_F2_ROUND_SOFT": 0,
+    "coincident_vertices_with_TM_FH54_F3_NARROW_SHARP": 0,
+    "coincident_vertices_with_TM_FH54_H1_STANDARD_REBUILT": 0,
+    "coincident_vertices_with_TM_FH54_H2_SHORT_CROP": 0,
+    "coincident_vertices_with_TM_FH54_H3_SWEPT_BACK": 0,
+    "coincident_vertices_with_TM_FH54_H4_SIDE_SWEPT_FRINGE": 0
+   },
+   "TM_HM55_Hair_P1_H1": {
+    "vertices": 1291,
+    "triangles": 2138,
+    "same_vertex_and_triangle_count_as_any_research_mesh": false,
+    "coincident_vertices_with_Reference04": 0,
+    "coincident_vertices_with_FACE52": 0,
+    "coincident_vertices_with_TM_FH54_F1_LONG_ANGULAR": 0,
+    "coincident_vertices_with_TM_FH54_F2_ROUND_SOFT": 0,
+    "coincident_vertices_with_TM_FH54_F3_NARROW_SHARP": 0,
+    "coincident_vertices_with_TM_FH54_H1_STANDARD_REBUILT": 0,
+    "coincident_vertices_with_TM_FH54_H2_SHORT_CROP": 0,
+    "coincident_vertices_with_TM_FH54_H3_SWEPT_BACK": 0,
+    "coincident_vertices_with_TM_FH54_H4_SIDE_SWEPT_FRINGE": 0
+   },
+   "TM_HM55_Hair_P1_H2": {
+    "vertices": 1053,
+    "triangles": 1938,
+    "same_vertex_and_triangle_count_as_any_research_mesh": false,
+    "coincident_vertices_with_Reference04": 0,
+    "coincident_vertices_with_FACE52": 0,
+    "coincident_vertices_with_TM_FH54_F1_LONG_ANGULAR": 0,
+    "coincident_vertices_with_TM_FH54_F2_ROUND_SOFT": 0,
+    "coincident_vertices_with_TM_FH54_F3_NARROW_SHARP": 0,
+    "coincident_vertices_with_TM_FH54_H1_STANDARD_REBUILT": 0,
+    "coincident_vertices_with_TM_FH54_H2_SHORT_CROP": 0,
+    "coincident_vertices_with_TM_FH54_H3_SWEPT_BACK": 0,
+    "coincident_vertices_with_TM_FH54_H4_SIDE_SWEPT_FRINGE": 0
+   },
+   "TM_HM55_Hair_P1_H3": {
+    "vertices": 1327,
+    "triangles": 2214,
+    "same_vertex_and_triangle_count_as_any_research_mesh": false,
+    "coincident_vertices_with_Reference04": 0,
+    "coincident_vertices_with_FACE52": 0,
+    "coincident_vertices_with_TM_FH54_F1_LONG_ANGULAR": 0,
+    "coincident_vertices_with_TM_FH54_F2_ROUND_SOFT": 0,
+    "coincident_vertices_with_TM_FH54_F3_NARROW_SHARP": 0,
+    "coincident_vertices_with_TM_FH54_H1_STANDARD_REBUILT": 0,
+    "coincident_vertices_with_TM_FH54_H2_SHORT_CROP": 0,
+    "coincident_vertices_with_TM_FH54_H3_SWEPT_BACK": 0,
+    "coincident_vertices_with_TM_FH54_H4_SIDE_SWEPT_FRINGE": 0
+   },
+   "TM_HM55_Hair_P1_H4": {
+    "vertices": 1385,
+    "triangles": 2230,
+    "same_vertex_and_triangle_count_as_any_research_mesh": false,
+    "coincident_vertices_with_Reference04": 0,
+    "coincident_vertices_with_FACE52": 0,
+    "coincident_vertices_with_TM_FH54_F1_LONG_ANGULAR": 0,
+    "coincident_vertices_with_TM_FH54_F2_ROUND_SOFT": 0,
+    "coincident_vertices_with_TM_FH54_F3_NARROW_SHARP": 0,
+    "coincident_vertices_with_TM_FH54_H1_STANDARD_REBUILT": 0,
+    "coincident_vertices_with_TM_FH54_H2_SHORT_CROP": 0,
+    "coincident_vertices_with_TM_FH54_H3_SWEPT_BACK": 0,
+    "coincident_vertices_with_TM_FH54_H4_SIDE_SWEPT_FRINGE": 0
+   },
+   "TM_HM55_Hair_P2_H1": {
+    "vertices": 1291,
+    "triangles": 2138,
+    "same_vertex_and_triangle_count_as_any_research_mesh": false,
+    "coincident_vertices_with_Reference04": 0,
+    "coincident_vertices_with_FACE52": 0,
+    "coincident_vertices_with_TM_FH54_F1_LONG_ANGULAR": 0,
+    "coincident_vertices_with_TM_FH54_F2_ROUND_SOFT": 0,
+    "coincident_vertices_with_TM_FH54_F3_NARROW_SHARP": 0,
+    "coincident_vertices_with_TM_FH54_H1_STANDARD_REBUILT": 0,
+    "coincident_vertices_with_TM_FH54_H2_SHORT_CROP": 0,
+    "coincident_vertices_with_TM_FH54_H3_SWEPT_BACK": 0,
+    "coincident_vertices_with_TM_FH54_H4_SIDE_SWEPT_FRINGE": 0
+   },
+   "TM_HM55_Hair_P2_H2": {
+    "vertices": 1053,
+    "triangles": 1938,
+    "same_vertex_and_triangle_count_as_any_research_mesh": false,
+    "coincident_vertices_with_Reference04": 0,
+    "coincident_vertices_with_FACE52": 0,
+    "coincident_vertices_with_TM_FH54_F1_LONG_ANGULAR": 0,
+    "coincident_vertices_with_TM_FH54_F2_ROUND_SOFT": 0,
+    "coincident_vertices_with_TM_FH54_F3_NARROW_SHARP": 0,
+    "coincident_vertices_with_TM_FH54_H1_STANDARD_REBUILT": 0,
+    "coincident_vertices_with_TM_FH54_H2_SHORT_CROP": 0,
+    "coincident_vertices_with_TM_FH54_H3_SWEPT_BACK": 0,
+    "coincident_vertices_with_TM_FH54_H4_SIDE_SWEPT_FRINGE": 0
+   },
+   "TM_HM55_Hair_P2_H3": {
+    "vertices": 1327,
+    "triangles": 2214,
+    "same_vertex_and_triangle_count_as_any_research_mesh": false,
+    "coincident_vertices_with_Reference04": 0,
+    "coincident_vertices_with_FACE52": 0,
+    "coincident_vertices_with_TM_FH54_F1_LONG_ANGULAR": 0,
+    "coincident_vertices_with_TM_FH54_F2_ROUND_SOFT": 0,
+    "coincident_vertices_with_TM_FH54_F3_NARROW_SHARP": 0,
+    "coincident_vertices_with_TM_FH54_H1_STANDARD_REBUILT": 0,
+    "coincident_vertices_with_TM_FH54_H2_SHORT_CROP": 0,
+    "coincident_vertices_with_TM_FH54_H3_SWEPT_BACK": 0,
+    "coincident_vertices_with_TM_FH54_H4_SIDE_SWEPT_FRINGE": 0
+   },
+   "TM_HM55_Hair_P2_H4": {
+    "vertices": 1385,
+    "triangles": 2230,
+    "same_vertex_and_triangle_count_as_any_research_mesh": false,
+    "coincident_vertices_with_Reference04": 0,
+    "coincident_vertices_with_FACE52": 0,
+    "coincident_vertices_with_TM_FH54_F1_LONG_ANGULAR": 0,
+    "coincident_vertices_with_TM_FH54_F2_ROUND_SOFT": 0,
+    "coincident_vertices_with_TM_FH54_F3_NARROW_SHARP": 0,
+    "coincident_vertices_with_TM_FH54_H1_STANDARD_REBUILT": 0,
+    "coincident_vertices_with_TM_FH54_H2_SHORT_CROP": 0,
+    "coincident_vertices_with_TM_FH54_H3_SWEPT_BACK": 0,
+    "coincident_vertices_with_TM_FH54_H4_SIDE_SWEPT_FRINGE": 0
+   },
+   "TM_HM55_Hair_P3_H1": {
+    "vertices": 1291,
+    "triangles": 2138,
+    "same_vertex_and_triangle_count_as_any_research_mesh": false,
+    "coincident_vertices_with_Reference04": 0,
+    "coincident_vertices_with_FACE52": 0,
+    "coincident_vertices_with_TM_FH54_F1_LONG_ANGULAR": 0,
+    "coincident_vertices_with_TM_FH54_F2_ROUND_SOFT": 0,
+    "coincident_vertices_with_TM_FH54_F3_NARROW_SHARP": 0,
+    "coincident_vertices_with_TM_FH54_H1_STANDARD_REBUILT": 0,
+    "coincident_vertices_with_TM_FH54_H2_SHORT_CROP": 0,
+    "coincident_vertices_with_TM_FH54_H3_SWEPT_BACK": 0,
+    "coincident_vertices_with_TM_FH54_H4_SIDE_SWEPT_FRINGE": 0
+   },
+   "TM_HM55_Hair_P3_H2": {
+    "vertices": 1053,
+    "triangles": 1938,
+    "same_vertex_and_triangle_count_as_any_research_mesh": false,
+    "coincident_vertices_with_Reference04": 0,
+    "coincident_vertices_with_FACE52": 0,
+    "coincident_vertices_with_TM_FH54_F1_LONG_ANGULAR": 0,
+    "coincident_vertices_with_TM_FH54_F2_ROUND_SOFT": 0,
+    "coincident_vertices_with_TM_FH54_F3_NARROW_SHARP": 0,
+    "coincident_vertices_with_TM_FH54_H1_STANDARD_REBUILT": 0,
+    "coincident_vertices_with_TM_FH54_H2_SHORT_CROP": 0,
+    "coincident_vertices_with_TM_FH54_H3_SWEPT_BACK": 0,
+    "coincident_vertices_with_TM_FH54_H4_SIDE_SWEPT_FRINGE": 0
+   },
+   "TM_HM55_Hair_P3_H3": {
+    "vertices": 1327,
+    "triangles": 2214,
+    "same_vertex_and_triangle_count_as_any_research_mesh": false,
+    "coincident_vertices_with_Reference04": 0,
+    "coincident_vertices_with_FACE52": 0,
+    "coincident_vertices_with_TM_FH54_F1_LONG_ANGULAR": 0,
+    "coincident_vertices_with_TM_FH54_F2_ROUND_SOFT": 0,
+    "coincident_vertices_with_TM_FH54_F3_NARROW_SHARP": 0,
+    "coincident_vertices_with_TM_FH54_H1_STANDARD_REBUILT": 0,
+    "coincident_vertices_with_TM_FH54_H2_SHORT_CROP": 0,
+    "coincident_vertices_with_TM_FH54_H3_SWEPT_BACK": 0,
+    "coincident_vertices_with_TM_FH54_H4_SIDE_SWEPT_FRINGE": 0
+   },
+   "TM_HM55_Hair_P3_H4": {
+    "vertices": 1385,
+    "triangles": 2230,
+    "same_vertex_and_triangle_count_as_any_research_mesh": false,
+    "coincident_vertices_with_Reference04": 0,
+    "coincident_vertices_with_FACE52": 0,
+    "coincident_vertices_with_TM_FH54_F1_LONG_ANGULAR": 0,
+    "coincident_vertices_with_TM_FH54_F2_ROUND_SOFT": 0,
+    "coincident_vertices_with_TM_FH54_F3_NARROW_SHARP": 0,
+    "coincident_vertices_with_TM_FH54_H1_STANDARD_REBUILT": 0,
+    "coincident_vertices_with_TM_FH54_H2_SHORT_CROP": 0,
+    "coincident_vertices_with_TM_FH54_H3_SWEPT_BACK": 0,
+    "coincident_vertices_with_TM_FH54_H4_SIDE_SWEPT_FRINGE": 0
+   },
+   "TM_HM55_Head_P0": {
+    "vertices": 1029,
+    "triangles": 1988,
+    "same_vertex_and_triangle_count_as_any_research_mesh": false,
+    "coincident_vertices_with_Reference04": 0,
+    "coincident_vertices_with_FACE52": 0,
+    "coincident_vertices_with_TM_FH54_F1_LONG_ANGULAR": 0,
+    "coincident_vertices_with_TM_FH54_F2_ROUND_SOFT": 0,
+    "coincident_vertices_with_TM_FH54_F3_NARROW_SHARP": 0,
+    "coincident_vertices_with_TM_FH54_H1_STANDARD_REBUILT": 0,
+    "coincident_vertices_with_TM_FH54_H2_SHORT_CROP": 0,
+    "coincident_vertices_with_TM_FH54_H3_SWEPT_BACK": 0,
+    "coincident_vertices_with_TM_FH54_H4_SIDE_SWEPT_FRINGE": 0
+   },
+   "TM_HM55_Head_P1": {
+    "vertices": 1029,
+    "triangles": 1988,
+    "same_vertex_and_triangle_count_as_any_research_mesh": false,
+    "coincident_vertices_with_Reference04": 0,
+    "coincident_vertices_with_FACE52": 0,
+    "coincident_vertices_with_TM_FH54_F1_LONG_ANGULAR": 0,
+    "coincident_vertices_with_TM_FH54_F2_ROUND_SOFT": 0,
+    "coincident_vertices_with_TM_FH54_F3_NARROW_SHARP": 0,
+    "coincident_vertices_with_TM_FH54_H1_STANDARD_REBUILT": 0,
+    "coincident_vertices_with_TM_FH54_H2_SHORT_CROP": 0,
+    "coincident_vertices_with_TM_FH54_H3_SWEPT_BACK": 0,
+    "coincident_vertices_with_TM_FH54_H4_SIDE_SWEPT_FRINGE": 0
+   },
+   "TM_HM55_Head_P2": {
+    "vertices": 1029,
+    "triangles": 1988,
+    "same_vertex_and_triangle_count_as_any_research_mesh": false,
+    "coincident_vertices_with_Reference04": 0,
+    "coincident_vertices_with_FACE52": 0,
+    "coincident_vertices_with_TM_FH54_F1_LONG_ANGULAR": 0,
+    "coincident_vertices_with_TM_FH54_F2_ROUND_SOFT": 0,
+    "coincident_vertices_with_TM_FH54_F3_NARROW_SHARP": 0,
+    "coincident_vertices_with_TM_FH54_H1_STANDARD_REBUILT": 0,
+    "coincident_vertices_with_TM_FH54_H2_SHORT_CROP": 0,
+    "coincident_vertices_with_TM_FH54_H3_SWEPT_BACK": 0,
+    "coincident_vertices_with_TM_FH54_H4_SIDE_SWEPT_FRINGE": 0
+   },
+   "TM_HM55_Head_P3": {
+    "vertices": 1029,
+    "triangles": 1988,
+    "same_vertex_and_triangle_count_as_any_research_mesh": false,
+    "coincident_vertices_with_Reference04": 0,
+    "coincident_vertices_with_FACE52": 0,
+    "coincident_vertices_with_TM_FH54_F1_LONG_ANGULAR": 0,
+    "coincident_vertices_with_TM_FH54_F2_ROUND_SOFT": 0,
+    "coincident_vertices_with_TM_FH54_F3_NARROW_SHARP": 0,
+    "coincident_vertices_with_TM_FH54_H1_STANDARD_REBUILT": 0,
+    "coincident_vertices_with_TM_FH54_H2_SHORT_CROP": 0,
+    "coincident_vertices_with_TM_FH54_H3_SWEPT_BACK": 0,
+    "coincident_vertices_with_TM_FH54_H4_SIDE_SWEPT_FRINGE": 0
+   }
+  },
+  "textures": {
+   "TM_HM55_BodySkin_T1": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_FACE.png",
+    "correlation": 0.552
+   },
+   "TM_HM55_BodySkin_T2": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_FACE.png",
+    "correlation": 0.596
+   },
+   "TM_HM55_BodySkin_T2.001": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_FACE.png",
+    "correlation": 0.596
+   },
+   "TM_HM55_BodySkin_T2.002": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_FACE.png",
+    "correlation": 0.596
+   },
+   "TM_HM55_BodySkin_T3": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_FACE.png",
+    "correlation": 0.632
+   },
+   "TM_HM55_Head_P0": {
+    "size": [
+     1024,
+     1024
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_NECK.png",
+    "correlation": 0.674
+   },
+   "TM_HM55_Head_P1": {
+    "size": [
+     1024,
+     1024
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_NECK.png",
+    "correlation": 0.683
+   },
+   "TM_HM55_Head_P2": {
+    "size": [
+     1024,
+     1024
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_NECK.png",
+    "correlation": 0.655
+   },
+   "TM_HM55_Head_P3": {
+    "size": [
+     1024,
+     1024
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_NECK.png",
+    "correlation": 0.676
+   },
+   "TM_HM55_Kit_A": {
+    "size": [
+     1024,
+     1024
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.487
+   },
+   "TM_HM55_Kit_A.001": {
+    "size": [
+     1024,
+     1024
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.487
+   },
+   "TM_HM55_Kit_A.002": {
+    "size": [
+     1024,
+     1024
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.487
+   },
+   "TM_HM55_Kit_A.003": {
+    "size": [
+     1024,
+     1024
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.487
+   },
+   "TM_HM55_Kit_A.004": {
+    "size": [
+     1024,
+     1024
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.487
+   },
+   "TMH55_CAP_STRANDS_512": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_FACE.png",
+    "correlation": 0.139
+   },
+   "TMH55_CAP_STRANDS_512.001": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_FACE.png",
+    "correlation": 0.139
+   },
+   "TMH55_CAP_STRANDS_512.002": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_FACE.png",
+    "correlation": 0.139
+   },
+   "TMH55_CAP_STRANDS_512.003": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_FACE.png",
+    "correlation": 0.139
+   },
+   "TMH55_CAP_STRANDS_512.004": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_FACE.png",
+    "correlation": 0.139
+   },
+   "TMH55_CAP_STRANDS_512.005": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_FACE.png",
+    "correlation": 0.139
+   },
+   "TMH55_CAP_STRANDS_512.006": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_FACE.png",
+    "correlation": 0.139
+   },
+   "TMH55_CAP_STRANDS_512.007": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_FACE.png",
+    "correlation": 0.139
+   },
+   "TMH55_CAP_STRANDS_512.008": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_FACE.png",
+    "correlation": 0.139
+   },
+   "TMH55_CAP_STRANDS_512.009": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_FACE.png",
+    "correlation": 0.139
+   },
+   "TMH55_CAP_STRANDS_512.010": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_FACE.png",
+    "correlation": 0.139
+   },
+   "TMH55_CAP_STRANDS_512.011": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_FACE.png",
+    "correlation": 0.139
+   },
+   "TMH55_CAP_STRANDS_512.012": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_FACE.png",
+    "correlation": 0.139
+   },
+   "TMH55_CAP_STRANDS_512.013": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_FACE.png",
+    "correlation": 0.139
+   },
+   "TMH55_CAP_STRANDS_512.014": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_FACE.png",
+    "correlation": 0.139
+   },
+   "TMH55_CAP_STRANDS_512.015": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "FH54/TMF54_F1_FACE.png",
+    "correlation": 0.139
+   },
+   "TMH55_CARD_STRANDS_512": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.519
+   },
+   "TMH55_CARD_STRANDS_512.001": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.519
+   },
+   "TMH55_CARD_STRANDS_512.002": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.519
+   },
+   "TMH55_CARD_STRANDS_512.003": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.519
+   },
+   "TMH55_CARD_STRANDS_512.004": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.519
+   },
+   "TMH55_CARD_STRANDS_512.005": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.519
+   },
+   "TMH55_CARD_STRANDS_512.006": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.519
+   },
+   "TMH55_CARD_STRANDS_512.007": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.519
+   },
+   "TMH55_CARD_STRANDS_512.008": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.519
+   },
+   "TMH55_CARD_STRANDS_512.009": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.519
+   },
+   "TMH55_CARD_STRANDS_512.010": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.519
+   },
+   "TMH55_CARD_STRANDS_512.011": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.519
+   },
+   "TMH55_CARD_STRANDS_512.012": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.519
+   },
+   "TMH55_CARD_STRANDS_512.013": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.519
+   },
+   "TMH55_CARD_STRANDS_512.014": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.519
+   },
+   "TMH55_CARD_STRANDS_512.015": {
+    "size": [
+     512,
+     512
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.519
+   },
+   "TMH55_EDGE_STRANDS_512x256": {
+    "size": [
+     512,
+     256
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.682
+   },
+   "TMH55_EDGE_STRANDS_512x256.001": {
+    "size": [
+     512,
+     256
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.682
+   },
+   "TMH55_EDGE_STRANDS_512x256.002": {
+    "size": [
+     512,
+     256
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.682
+   },
+   "TMH55_EDGE_STRANDS_512x256.003": {
+    "size": [
+     512,
+     256
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.682
+   },
+   "TMH55_EDGE_STRANDS_512x256.004": {
+    "size": [
+     512,
+     256
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.682
+   },
+   "TMH55_EDGE_STRANDS_512x256.005": {
+    "size": [
+     512,
+     256
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.682
+   },
+   "TMH55_EDGE_STRANDS_512x256.006": {
+    "size": [
+     512,
+     256
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.682
+   },
+   "TMH55_EDGE_STRANDS_512x256.007": {
+    "size": [
+     512,
+     256
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.682
+   },
+   "TMH55_EDGE_STRANDS_512x256.008": {
+    "size": [
+     512,
+     256
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.682
+   },
+   "TMH55_EDGE_STRANDS_512x256.009": {
+    "size": [
+     512,
+     256
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.682
+   },
+   "TMH55_EDGE_STRANDS_512x256.010": {
+    "size": [
+     512,
+     256
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.682
+   },
+   "TMH55_EDGE_STRANDS_512x256.011": {
+    "size": [
+     512,
+     256
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.682
+   },
+   "TMH55_EDGE_STRANDS_512x256.012": {
+    "size": [
+     512,
+     256
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.682
+   },
+   "TMH55_EDGE_STRANDS_512x256.013": {
+    "size": [
+     512,
+     256
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.682
+   },
+   "TMH55_EDGE_STRANDS_512x256.014": {
+    "size": [
+     512,
+     256
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.682
+   },
+   "TMH55_EDGE_STRANDS_512x256.015": {
+    "size": [
+     512,
+     256
+    ],
+    "most_similar_research_image": "Reference04/00_X01ASI.png",
+    "correlation": -0.682
+   }
+  },
+  "skeleton": {
+   "hm55_bones": 22,
+   "reference04_bones": 21,
+   "shared_bone_names": [],
+   "hm55_joint_positions_coinciding_with_reference_joints_lt_1mm": 0,
+   "reference04_weighting": "rigid, one bone per vertex (measured in the file)",
+   "hm55_weighting": "smooth, up to 4 bones per vertex, computed in hm_body.part_weights / hm_head.head_weights"
+  },
+  "actions": {
+   "hm55": [
+    "TM_HM55_Header",
+    "TM_HM55_Idle",
+    "TM_HM55_Kick",
+    "TM_HM55_LookAround",
+    "TM_HM55_Run",
+    "TM_HM55_ThrowIn"
+   ],
+   "reference04": [
+    "REF_gamemtn0_id0001_normalized_phase",
+    "REF_gamemtn0_id0039_normalized_phase",
+    "REF_gamemtn0_id1012_normalized_phase"
+   ],
+   "note": "HM55 actions are keyframed from pose tables in hm_anim.py; no fcurve or sampled pose is read from the Reference04 actions."
+  }
+ },
+ "hm55_build_inputs": {
+  "file_reads_in_build_scripts": {
+   "build_all.py": [
+    {
+     "line": 49,
+     "code": "im = Image.open(p); REC['textures'][p.name] = {'size': list(im.size), 'mode': im.mode, 'bytes': p.stat().st_size, 'sha256': hc.sha256(p)}"
+    }
+   ],
+   "hm_common.py": [
+    {
+     "line": 24,
+     "code": "return hashlib.sha256(Path(path).read_bytes()).hexdigest()"
+    },
+    {
+     "line": 71,
+     "code": "img = bpy.data.images.load(str(path), check_existing=False); img.name = name"
+    }
+   ],
+   "hm_sdf.py": [],
+   "hm_head.py": [],
+   "hm_body.py": [],
+   "hm_hair.py": [],
+   "hm_hair_textures.py": [],
+   "hm_texture.py": [],
+   "hm_bake.py": [],
+   "hm_assemble.py": [],
+   "hm_anim.py": []
+  },
+  "explanation": "The only reads are: images.load of textures written earlier in the same build (hm_common.load_packed_image), Image.open of those same files for the size record, and sha256 read_bytes of build outputs.",
+  "environment_variables_used_by_build": [
+   "HM_BUILD"
+  ]
+ }
+}
