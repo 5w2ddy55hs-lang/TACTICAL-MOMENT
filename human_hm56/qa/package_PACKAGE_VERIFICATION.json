@@ -1,0 +1,90 @@
+{
+ "extracted_to_new_empty_folder": true,
+ "sha_mismatch": [],
+ "sha_checked": 333,
+ "blends": {
+  "models/TM_HM56_LIBRARY.blend": {
+   "opened": true,
+   "blender": "4.2.23 LTS",
+   "objects": 4,
+   "armatures": 1,
+   "actions": 6,
+   "images": 6,
+   "not_packed": 0,
+   "not_loaded": 0
+  },
+  "models/players/TM_HM56_PLAYER_P0_H2_KITA.blend": {
+   "opened": true,
+   "blender": "4.2.23 LTS",
+   "objects": 4,
+   "armatures": 1,
+   "actions": 6,
+   "images": 6,
+   "not_packed": 0,
+   "not_loaded": 0
+  }
+ },
+ "glbs": {
+  "models/modules/TM_HM56_BODY_KITA.glb": {
+   "imported": true,
+   "triangles_imported": 2584,
+   "triangles_in_glb": 2584,
+   "match": true,
+   "bones": 22,
+   "joints_in_glb": 22,
+   "animations_in_glb": 6,
+   "actions_imported": 6,
+   "images": 2
+  },
+  "models/modules/TM_HM56_BODY_KITB.glb": {
+   "imported": true,
+   "triangles_imported": 2584,
+   "triangles_in_glb": 2584,
+   "match": true,
+   "bones": 22,
+   "joints_in_glb": 22,
+   "animations_in_glb": 6,
+   "actions_imported": 6,
+   "images": 2
+  },
+  "models/modules/TM_HM56_HAIR_P0_H2_SHORT_CROP.glb": {
+   "imported": true,
+   "triangles_imported": 1938,
+   "triangles_in_glb": 1938,
+   "match": true,
+   "bones": 22,
+   "joints_in_glb": 22,
+   "animations_in_glb": 0,
+   "actions_imported": 0,
+   "images": 3
+  },
+  "models/modules/TM_HM56_HEAD_P0_NEUTRAL.glb": {
+   "imported": true,
+   "triangles_imported": 4678,
+   "triangles_in_glb": 4678,
+   "match": true,
+   "bones": 22,
+   "joints_in_glb": 22,
+   "animations_in_glb": 0,
+   "actions_imported": 0,
+   "images": 1
+  },
+  "models/players/TM_HM56_PLAYER_P0_H2_KITA.glb": {
+   "imported": true,
+   "triangles_imported": 9200,
+   "triangles_in_glb": 9200,
+   "match": true,
+   "bones": 22,
+   "joints_in_glb": 22,
+   "animations_in_glb": 6,
+   "actions_imported": 6,
+   "images": 6
+  }
+ },
+ "all_ok": true,
+ "seconds": 1.4,
+ "zip": "TM_HM56_HUMAN_MODEL_20261111.zip",
+ "zip_bytes": 70210674,
+ "zip_sha256": "40327f7d500b13f4f85a11fbd08df67f9ee199ae398ae80b4f8f0175e79ac2bc",
+ "files_in_zip": 334
+}

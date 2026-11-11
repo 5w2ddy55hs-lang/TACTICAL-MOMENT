@@ -1,0 +1,585 @@
+{
+ "status": "ORIGINAL CANDIDATE (HM56, improvement of HM55) authored by scripts in human_hm56/scripts. Not approved, not formally adopted.",
+ "blender": "4.2.23 LTS",
+ "faces": {
+  "P0": {
+   "name": "NEUTRAL",
+   "intent_ja": "基準の顔。",
+   "vertices": 2379,
+   "triangles": 4678,
+   "tone": "T2",
+   "shape_overrides": {}
+  }
+ },
+ "hairs": {
+  "P0_H2": {
+   "hair_id": "H2_SHORT_CROP",
+   "intent_ja": "短髪。頭の丸みに沿う薄い毛量で、耳と襟足を出す。",
+   "cap_triangles": 1890,
+   "cards": 12,
+   "card_triangles": 48,
+   "hairline_azel_controls": [
+    [
+     0,
+     27.0
+    ],
+    [
+     20,
+     27.5
+    ],
+    [
+     36,
+     25.0
+    ],
+    [
+     48,
+     19.0
+    ],
+    [
+     56,
+     7.0
+    ],
+    [
+     60.5,
+     -12.0
+    ],
+    [
+     63,
+     -24.0
+    ],
+    [
+     66.5,
+     -25.0
+    ],
+    [
+     69.5,
+     -10.0
+    ],
+    [
+     76,
+     -7.0
+    ],
+    [
+     86,
+     -7.5
+    ],
+    [
+     93,
+     -10.0
+    ],
+    [
+     98,
+     -22.0
+    ],
+    [
+     108,
+     -36.0
+    ],
+    [
+     124,
+     -44.0
+    ],
+    [
+     150,
+     -50.0
+    ],
+    [
+     180,
+     -52.0
+    ],
+    [
+     -20,
+     27.5
+    ],
+    [
+     -36,
+     25.0
+    ],
+    [
+     -48,
+     19.0
+    ],
+    [
+     -56,
+     7.0
+    ],
+    [
+     -60.5,
+     -12.0
+    ],
+    [
+     -63,
+     -24.0
+    ],
+    [
+     -66.5,
+     -25.0
+    ],
+    [
+     -69.5,
+     -10.0
+    ],
+    [
+     -76,
+     -7.0
+    ],
+    [
+     -86,
+     -7.5
+    ],
+    [
+     -93,
+     -10.0
+    ],
+    [
+     -98,
+     -22.0
+    ],
+    [
+     -108,
+     -36.0
+    ],
+    [
+     -124,
+     -44.0
+    ],
+    [
+     -150,
+     -50.0
+    ]
+   ],
+   "shell": {
+    "base_mm": 4.2,
+    "edge_mm": 0.7,
+    "band": 0.45,
+    "side_cut": [
+     58,
+     135,
+     30,
+     2.2
+    ]
+   },
+   "cap_vs_head_overlap_pass": {
+    "iterations": 2,
+    "vertex_pushes": 32,
+    "remaining_overlapping_triangles": 0,
+    "max_push_mm": 0.3
+   },
+   "card_overlap_pass": {
+    "iterations": 1,
+    "vertex_pushes": 0,
+    "remaining_overlapping_triangles": 0,
+    "max_push_mm": 0.0,
+    "card_vertex_push_mm": {
+     "max": 0.0,
+     "p95": 0.0
+    },
+    "cards_trimmed_at_skin": []
+   },
+   "edge_triangles": 560,
+   "vertices": 1053,
+   "triangles": 1938
+  }
+ },
+ "textures": {
+  "TMH55_CAP_STRANDS_512.png": {
+   "size": [
+    512,
+    512
+   ],
+   "mode": "RGBA",
+   "bytes": 150276,
+   "sha256": "6a117a1403e1c7a9741ef1aa0aec12d710bb5e6a69e0ab3c5eec130124536fd7"
+  },
+  "TMH55_CARD_STRANDS_512.png": {
+   "size": [
+    512,
+    512
+   ],
+   "mode": "RGBA",
+   "bytes": 141476,
+   "sha256": "79ad561482f0453c6d24d5a20fa046097dbcf3f5ec0456757921cdcceda4e627"
+  },
+  "TMH55_EDGE_STRANDS_512x256.png": {
+   "size": [
+    512,
+    256
+   ],
+   "mode": "RGBA",
+   "bytes": 94791,
+   "sha256": "aa0655436e7eafc73dcd05eabf522447394da79e5cee79304f11394890e09613"
+  },
+  "TM_HM56_BodySkin_T2.png": {
+   "size": [
+    512,
+    512
+   ],
+   "mode": "RGB",
+   "bytes": 153245,
+   "sha256": "5952bd47d42a98b70cc617ed49c6922784d02f3e0f9e3d45c8376c1067b582b8"
+  },
+  "TM_HM56_Head_P0.png": {
+   "size": [
+    1024,
+    1024
+   ],
+   "mode": "RGB",
+   "bytes": 515003,
+   "sha256": "c1dd487947c696bd9be883455d0ad970722b231e13e21be45417a5b79d9e137a"
+  },
+  "TM_HM56_Kit_A.png": {
+   "size": [
+    1024,
+    1024
+   ],
+   "mode": "RGB",
+   "bytes": 517564,
+   "sha256": "99ff97a5d778c19cd716a22f49692b41d162da08b84bd00ebe880e12716c3868"
+  },
+  "TM_HM56_Kit_B.png": {
+   "size": [
+    1024,
+    1024
+   ],
+   "mode": "RGB",
+   "bytes": 470868,
+   "sha256": "61e943250a1fc6ef98039ba961350ab9560fc224c501e4889deb64d3d964e90f"
+  }
+ },
+ "models": {
+  "TM_HM56_PLAYER_P0_H2_KITA.glb": {
+   "kind": "player",
+   "face": "P0",
+   "hair": "H2",
+   "kit": "A",
+   "bytes": 2308544,
+   "sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "actions": {
+    "Idle": {
+     "frames": [
+      0,
+      60
+     ],
+     "seconds": 2.0,
+     "loop": true,
+     "keys": 3
+    },
+    "Run": {
+     "frames": [
+      0,
+      20
+     ],
+     "seconds": 0.667,
+     "loop": true,
+     "keys": 5
+    },
+    "Kick": {
+     "frames": [
+      0,
+      40
+     ],
+     "seconds": 1.333,
+     "loop": false,
+     "keys": 6
+    },
+    "LookAround": {
+     "frames": [
+      0,
+      100
+     ],
+     "seconds": 3.333,
+     "loop": false,
+     "keys": 9
+    },
+    "ThrowIn": {
+     "frames": [
+      0,
+      45
+     ],
+     "seconds": 1.5,
+     "loop": false,
+     "keys": 5
+    },
+    "Header": {
+     "frames": [
+      0,
+      42
+     ],
+     "seconds": 1.4,
+     "loop": false,
+     "keys": 6
+    }
+   }
+  },
+  "TM_HM56_PLAYER_P0_H2_KITA.blend": {
+   "kind": "player_blend",
+   "bytes": 3392364,
+   "sha256": "59b90f302fee966dcc5891820d9485a04ede636692783bfe27b221d986380659"
+  },
+  "TM_HM56_BODY_KITA.glb": {
+   "kind": "body_module",
+   "bytes": 1146356,
+   "sha256": "e9e06cfab0a9d08f4a39747c09a63aec833551c79beabf0c949a70be5ad37f62"
+  },
+  "TM_HM56_BODY_KITB.glb": {
+   "kind": "body_module",
+   "bytes": 1099572,
+   "sha256": "c3984c2b2c80538cb9321753f23765d05704d9444228b6fa2d1f001dd1cf8f45"
+  },
+  "TM_HM56_HEAD_P0_NEUTRAL.glb": {
+   "kind": "head_module",
+   "bytes": 682072,
+   "sha256": "784488f103ef6492dabc8952607364fc28f051ca309d163fd6884872554c723e"
+  },
+  "TM_HM56_HAIR_P0_H2_SHORT_CROP.glb": {
+   "kind": "hair_module",
+   "bytes": 493728,
+   "sha256": "d12d64d63f11b0d4974dbba96db12fb77c669752a31e332c7be730242c79be37"
+  },
+  "TM_HM56_LIBRARY.blend": {
+   "kind": "library_blend",
+   "bytes": 4066980,
+   "sha256": "c085b09b814ae1e0a9ed10f957a272f9fac3e841dd86cb514349122b01496180"
+  }
+ },
+ "timing_s": {
+  "geometry": 5.4,
+  "textures": 59.4,
+  "hair": 31.5,
+  "players": 0.8,
+  "modules": 1.4,
+  "total": 98.4
+ },
+ "body": {
+  "vertices_before_weld": 1418,
+  "triangles": 2584,
+  "parts": {
+   "torso": {
+    "first": 0,
+    "count": 272,
+    "tris": 512,
+    "material": "kit",
+    "rect": [
+     0.005,
+     0.455,
+     0.615,
+     0.995
+    ]
+   },
+   "sleeve_L": {
+    "first": 272,
+    "count": 81,
+    "tris": 150,
+    "material": "kit",
+    "rect": [
+     0.635,
+     0.79,
+     0.81,
+     0.995
+    ]
+   },
+   "arm_L": {
+    "first": 353,
+    "count": 129,
+    "tris": 248,
+    "material": "skin",
+    "rect": [
+     0.01,
+     0.01,
+     0.24,
+     0.99
+    ]
+   },
+   "leg_L": {
+    "first": 482,
+    "count": 90,
+    "tris": 160,
+    "material": "skin",
+    "rect": [
+     0.51,
+     0.3,
+     0.74,
+     0.99
+    ]
+   },
+   "sock_L": {
+    "first": 572,
+    "count": 80,
+    "tris": 140,
+    "material": "kit",
+    "rect": [
+     0.635,
+     0.225,
+     0.81,
+     0.545
+    ]
+   },
+   "boot_L": {
+    "first": 652,
+    "count": 111,
+    "tris": 210,
+    "material": "kit",
+    "rect": [
+     0.005,
+     0.005,
+     0.3,
+     0.21
+    ]
+   },
+   "sleeve_R": {
+    "first": 763,
+    "count": 81,
+    "tris": 150,
+    "material": "kit",
+    "rect": [
+     0.825,
+     0.79,
+     0.995,
+     0.995
+    ]
+   },
+   "arm_R": {
+    "first": 844,
+    "count": 129,
+    "tris": 248,
+    "material": "skin",
+    "rect": [
+     0.26,
+     0.01,
+     0.49,
+     0.99
+    ]
+   },
+   "leg_R": {
+    "first": 973,
+    "count": 90,
+    "tris": 160,
+    "material": "skin",
+    "rect": [
+     0.76,
+     0.3,
+     0.99,
+     0.99
+    ]
+   },
+   "sock_R": {
+    "first": 1063,
+    "count": 80,
+    "tris": 140,
+    "material": "kit",
+    "rect": [
+     0.825,
+     0.225,
+     0.995,
+     0.545
+    ]
+   },
+   "boot_R": {
+    "first": 1143,
+    "count": 111,
+    "tris": 210,
+    "material": "kit",
+    "rect": [
+     0.315,
+     0.005,
+     0.61,
+     0.21
+    ]
+   },
+   "shorts": {
+    "first": 1254,
+    "count": 64,
+    "tris": 96,
+    "material": "kit",
+    "rect": [
+     0.005,
+     0.225,
+     0.615,
+     0.44
+    ]
+   },
+   "shorts_leg_L": {
+    "first": 1318,
+    "count": 50,
+    "tris": 80,
+    "material": "kit",
+    "rect": [
+     0.635,
+     0.56,
+     0.81,
+     0.775
+    ]
+   },
+   "shorts_leg_R": {
+    "first": 1368,
+    "count": 50,
+    "tris": 80,
+    "material": "kit",
+    "rect": [
+     0.825,
+     0.56,
+     0.995,
+     0.775
+    ]
+   }
+  },
+  "bones": [
+   "Root",
+   "Hips",
+   "Spine",
+   "Chest",
+   "Neck",
+   "Head",
+   "Shoulder_L",
+   "UpperArm_L",
+   "LowerArm_L",
+   "Hand_L",
+   "UpperLeg_L",
+   "LowerLeg_L",
+   "Foot_L",
+   "Toes_L",
+   "Shoulder_R",
+   "UpperArm_R",
+   "LowerArm_R",
+   "Hand_R",
+   "UpperLeg_R",
+   "LowerLeg_R",
+   "Foot_R",
+   "Toes_R"
+  ]
+ },
+ "skin_colour": {
+  "body_T2": {
+   "painted_mean_rgb": [
+    0.7941,
+    0.6075,
+    0.4739
+   ],
+   "final_mean_rgb": [
+    0.6942,
+    0.5286,
+    0.4117
+   ]
+  },
+  "head_P0": {
+   "tone": "T2",
+   "neck_painted_mean_rgb": [
+    0.8013,
+    0.616,
+    0.4808
+   ],
+   "neck_final_mean_rgb": [
+    0.7792,
+    0.5983,
+    0.4668
+   ],
+   "cheek_painted_mean_rgb": [
+    0.7931,
+    0.5965,
+    0.4646
+   ],
+   "neck_texels": 89088,
+   "back_seam_step_rgb_mean": 0.003
+  }
+ }
+}

@@ -1,0 +1,782 @@
+{
+ "status": "ORIGINAL CANDIDATE (HM56, improvement of HM55) authored by scripts in human_hm56/scripts. Not approved, not formally adopted.",
+ "blender": "4.2.23 LTS",
+ "models": {
+  "TM_HM55_PLAYER_P0_H2_KITA.glb": {
+   "glb": "TM_HM55_PLAYER_P0_H2_KITA.glb",
+   "sha256": "afa9297fbd4d815f62f829dc9c0d3c22a8f7187ee6b68ef6b49863313279bec3",
+   "edge_vertices": {
+    "shirt_hem": 17,
+    "collar": 17,
+    "sleeve_hem": 22,
+    "sock_top": 22,
+    "boot_top": 44,
+    "shorts_hem": 22
+   },
+   "rest": {
+    "edges": {
+     "shirt_hem": [
+      181.02766573429108,
+      212.4050259590149
+     ],
+     "collar": [
+      9.902129881083965,
+      12.380504980683327
+     ],
+     "sleeve_hem": [
+      5.433986894786358,
+      9.028520435094833
+     ],
+     "sock_top": [
+      0.6747575826011598,
+      1.5443764859810472
+     ],
+     "boot_top": [
+      311.41865253448486,
+      323.80571961402893
+     ],
+     "shorts_hem": [
+      7.676471024751663,
+      29.999058693647385
+     ]
+    },
+    "pairs": {},
+    "see_through": [
+     0,
+     51
+    ],
+    "stretch": [
+     1.0,
+     1.0,
+     1.0
+    ]
+   },
+   "actions": {
+    "Idle": {
+     "frames": [
+      0,
+      60
+     ],
+     "n_frames": 61,
+     "edges": {
+      "shirt_hem": {
+       "min_mm": 129.79,
+       "min_frame": 0,
+       "max_mm": 223.5,
+       "max_frame": 0
+      },
+      "collar": {
+       "min_mm": 9.9,
+       "min_frame": 11,
+       "max_mm": 12.38,
+       "max_frame": 18
+      },
+      "sleeve_hem": {
+       "min_mm": 5.43,
+       "min_frame": 54,
+       "max_mm": 9.03,
+       "max_frame": 58
+      },
+      "sock_top": {
+       "min_mm": 0.66,
+       "min_frame": 0,
+       "max_mm": 1.62,
+       "max_frame": 0
+      },
+      "boot_top": {
+       "min_mm": 310.71,
+       "min_frame": 0,
+       "max_mm": 324.84,
+       "max_frame": 1
+      },
+      "shorts_hem": {
+       "min_mm": 7.68,
+       "min_frame": 0,
+       "max_mm": 30.0,
+       "max_frame": 0
+      }
+     },
+     "pairs_max": {
+      "arm x shirt": 10
+     },
+     "pairs_frames": {
+      "arm x shirt": 61
+     },
+     "see_through_max": 0,
+     "see_through_rays": 51,
+     "stretch_body_p99_max": 1.055,
+     "stretch_head_p01_min": 0.974,
+     "stretch_head_p99_max": 1.026
+    },
+    "Run": {
+     "frames": [
+      0,
+      20
+     ],
+     "n_frames": 21,
+     "edges": {
+      "shirt_hem": {
+       "min_mm": 127.02,
+       "min_frame": 10,
+       "max_mm": 237.08,
+       "max_frame": 14
+      },
+      "collar": {
+       "min_mm": 9.89,
+       "min_frame": 10,
+       "max_mm": 12.48,
+       "max_frame": 10
+      },
+      "sleeve_hem": {
+       "min_mm": 5.43,
+       "min_frame": 11,
+       "max_mm": 9.03,
+       "max_frame": 0
+      },
+      "sock_top": {
+       "min_mm": 0.66,
+       "min_frame": 9,
+       "max_mm": 2.29,
+       "max_frame": 5
+      },
+      "boot_top": {
+       "min_mm": 115.97,
+       "min_frame": 6,
+       "max_mm": 332.96,
+       "max_frame": 0
+      },
+      "shorts_hem": {
+       "min_mm": 7.68,
+       "min_frame": 1,
+       "max_mm": 30.0,
+       "max_frame": 15
+      }
+     },
+     "pairs_max": {
+      "arm x shirt": 13,
+      "knee_thigh x sock": 29
+     },
+     "pairs_frames": {
+      "arm x shirt": 10,
+      "knee_thigh x sock": 9
+     },
+     "see_through_max": 0,
+     "see_through_rays": 51,
+     "stretch_body_p99_max": 1.362,
+     "stretch_head_p01_min": 0.89,
+     "stretch_head_p99_max": 1.229
+    },
+    "Kick": {
+     "frames": [
+      0,
+      40
+     ],
+     "n_frames": 41,
+     "edges": {
+      "shirt_hem": {
+       "min_mm": 73.67,
+       "min_frame": 18,
+       "max_mm": 238.21,
+       "max_frame": 18
+      },
+      "collar": {
+       "min_mm": 9.78,
+       "min_frame": 22,
+       "max_mm": 12.68,
+       "max_frame": 25
+      },
+      "sleeve_hem": {
+       "min_mm": 5.43,
+       "min_frame": 21,
+       "max_mm": 9.03,
+       "max_frame": 29
+      },
+      "sock_top": {
+       "min_mm": 0.66,
+       "min_frame": 31,
+       "max_mm": 2.29,
+       "max_frame": 14
+      },
+      "boot_top": {
+       "min_mm": 270.14,
+       "min_frame": 14,
+       "max_mm": 337.9,
+       "max_frame": 19
+      },
+      "shorts_hem": {
+       "min_mm": 7.68,
+       "min_frame": 8,
+       "max_mm": 30.0,
+       "max_frame": 26
+      }
+     },
+     "pairs_max": {
+      "arm x shirt": 15,
+      "arm x shirt_yoke": 3,
+      "knee_thigh x sock": 29
+     },
+     "pairs_frames": {
+      "arm x shirt": 38,
+      "arm x shirt_yoke": 17,
+      "knee_thigh x sock": 4
+     },
+     "see_through_max": 1,
+     "see_through_rays": 51,
+     "stretch_body_p99_max": 1.34,
+     "stretch_head_p01_min": 0.797,
+     "stretch_head_p99_max": 1.21
+    },
+    "LookAround": {
+     "frames": [
+      0,
+      100
+     ],
+     "n_frames": 101,
+     "edges": {
+      "shirt_hem": {
+       "min_mm": 126.05,
+       "min_frame": 45,
+       "max_mm": 223.5,
+       "max_frame": 0
+      },
+      "collar": {
+       "min_mm": 9.47,
+       "min_frame": 38,
+       "max_mm": 15.83,
+       "max_frame": 15
+      },
+      "sleeve_hem": {
+       "min_mm": 5.43,
+       "min_frame": 49,
+       "max_mm": 9.03,
+       "max_frame": 0
+      },
+      "sock_top": {
+       "min_mm": 0.66,
+       "min_frame": 0,
+       "max_mm": 1.62,
+       "max_frame": 0
+      },
+      "boot_top": {
+       "min_mm": 310.71,
+       "min_frame": 0,
+       "max_mm": 324.84,
+       "max_frame": 0
+      },
+      "shorts_hem": {
+       "min_mm": 7.68,
+       "min_frame": 0,
+       "max_mm": 30.0,
+       "max_frame": 0
+      }
+     },
+     "pairs_max": {
+      "arm x shirt": 10
+     },
+     "pairs_frames": {
+      "arm x shirt": 101
+     },
+     "see_through_max": 1,
+     "see_through_rays": 51,
+     "stretch_body_p99_max": 1.066,
+     "stretch_head_p01_min": 0.644,
+     "stretch_head_p99_max": 1.888
+    },
+    "ThrowIn": {
+     "frames": [
+      0,
+      45
+     ],
+     "n_frames": 46,
+     "edges": {
+      "shirt_hem": {
+       "min_mm": 129.79,
+       "min_frame": 45,
+       "max_mm": 243.13,
+       "max_frame": 13
+      },
+      "collar": {
+       "min_mm": 9.88,
+       "min_frame": 20,
+       "max_mm": 12.42,
+       "max_frame": 13
+      },
+      "sleeve_hem": {
+       "min_mm": 5.43,
+       "min_frame": 6,
+       "max_mm": 9.03,
+       "max_frame": 1
+      },
+      "sock_top": {
+       "min_mm": 0.66,
+       "min_frame": 16,
+       "max_mm": 1.82,
+       "max_frame": 13
+      },
+      "boot_top": {
+       "min_mm": 310.37,
+       "min_frame": 13,
+       "max_mm": 327.43,
+       "max_frame": 20
+      },
+      "shorts_hem": {
+       "min_mm": 7.68,
+       "min_frame": 28,
+       "max_mm": 30.0,
+       "max_frame": 7
+      }
+     },
+     "pairs_max": {
+      "arm x shirt": 13
+     },
+     "pairs_frames": {
+      "arm x shirt": 11
+     },
+     "see_through_max": 0,
+     "see_through_rays": 51,
+     "stretch_body_p99_max": 1.228,
+     "stretch_head_p01_min": 0.914,
+     "stretch_head_p99_max": 1.168
+    },
+    "Header": {
+     "frames": [
+      0,
+      42
+     ],
+     "n_frames": 43,
+     "edges": {
+      "shirt_hem": {
+       "min_mm": 117.55,
+       "min_frame": 9,
+       "max_mm": 308.54,
+       "max_frame": 9
+      },
+      "collar": {
+       "min_mm": 9.73,
+       "min_frame": 21,
+       "max_mm": 13.46,
+       "max_frame": 21
+      },
+      "sleeve_hem": {
+       "min_mm": 5.43,
+       "min_frame": 8,
+       "max_mm": 9.03,
+       "max_frame": 17
+      },
+      "sock_top": {
+       "min_mm": 0.66,
+       "min_frame": 38,
+       "max_mm": 2.25,
+       "max_frame": 9
+      },
+      "boot_top": {
+       "min_mm": 256.0,
+       "min_frame": 14,
+       "max_mm": 334.6,
+       "max_frame": 17
+      },
+      "shorts_hem": {
+       "min_mm": 7.68,
+       "min_frame": 34,
+       "max_mm": 30.0,
+       "max_frame": 40
+      }
+     },
+     "pairs_max": {
+      "arm x shirt": 10,
+      "knee_thigh x sock": 26
+     },
+     "pairs_frames": {
+      "arm x shirt": 17,
+      "knee_thigh x sock": 5
+     },
+     "see_through_max": 3,
+     "see_through_rays": 51,
+     "stretch_body_p99_max": 1.453,
+     "stretch_head_p01_min": 0.671,
+     "stretch_head_p99_max": 1.422
+    }
+   }
+  },
+  "TM_HM56_PLAYER_P0_H2_KITA.glb": {
+   "glb": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "edge_vertices": {
+    "shirt_hem": 17,
+    "collar": 17,
+    "sleeve_hem": 22,
+    "sock_top": 22,
+    "boot_top": 44,
+    "shorts_hem": 22
+   },
+   "rest": {
+    "edges": {
+     "shirt_hem": [
+      185.4100227355957,
+      212.86717057228088
+     ],
+     "collar": [
+      8.314915001392365,
+      9.52436588704586
+     ],
+     "sleeve_hem": [
+      5.433986894786358,
+      9.028520435094833
+     ],
+     "sock_top": [
+      0.992964836768806,
+      1.687987009063363
+     ],
+     "boot_top": [
+      311.39323115348816,
+      323.0073153972626
+     ],
+     "shorts_hem": [
+      10.794108733534813,
+      33.3571657538414
+     ]
+    },
+    "pairs": {},
+    "see_through": [
+     0,
+     51
+    ],
+    "stretch": [
+     1.0,
+     1.0,
+     1.0
+    ]
+   },
+   "actions": {
+    "Idle": {
+     "frames": [
+      0,
+      60
+     ],
+     "n_frames": 61,
+     "edges": {
+      "shirt_hem": {
+       "min_mm": 134.11,
+       "min_frame": 0,
+       "max_mm": 223.81,
+       "max_frame": 4
+      },
+      "collar": {
+       "min_mm": 8.31,
+       "min_frame": 27,
+       "max_mm": 9.52,
+       "max_frame": 14
+      },
+      "sleeve_hem": {
+       "min_mm": 5.43,
+       "min_frame": 54,
+       "max_mm": 9.03,
+       "max_frame": 58
+      },
+      "sock_top": {
+       "min_mm": 0.99,
+       "min_frame": 0,
+       "max_mm": 1.75,
+       "max_frame": 3
+      },
+      "boot_top": {
+       "min_mm": 310.83,
+       "min_frame": 0,
+       "max_mm": 323.9,
+       "max_frame": 1
+      },
+      "shorts_hem": {
+       "min_mm": 10.79,
+       "min_frame": 0,
+       "max_mm": 33.36,
+       "max_frame": 0
+      }
+     },
+     "pairs_max": {},
+     "pairs_frames": {},
+     "see_through_max": 0,
+     "see_through_rays": 51,
+     "stretch_body_p99_max": 1.055,
+     "stretch_head_p01_min": 0.971,
+     "stretch_head_p99_max": 1.057
+    },
+    "Run": {
+     "frames": [
+      0,
+      20
+     ],
+     "n_frames": 21,
+     "edges": {
+      "shirt_hem": {
+       "min_mm": 127.84,
+       "min_frame": 10,
+       "max_mm": 237.05,
+       "max_frame": 14
+      },
+      "collar": {
+       "min_mm": 8.31,
+       "min_frame": 4,
+       "max_mm": 9.52,
+       "max_frame": 7
+      },
+      "sleeve_hem": {
+       "min_mm": 5.43,
+       "min_frame": 11,
+       "max_mm": 9.03,
+       "max_frame": 0
+      },
+      "sock_top": {
+       "min_mm": 0.98,
+       "min_frame": 8,
+       "max_mm": 2.37,
+       "max_frame": 5
+      },
+      "boot_top": {
+       "min_mm": 126.66,
+       "min_frame": 6,
+       "max_mm": 331.67,
+       "max_frame": 10
+      },
+      "shorts_hem": {
+       "min_mm": 10.79,
+       "min_frame": 1,
+       "max_mm": 33.36,
+       "max_frame": 10
+      }
+     },
+     "pairs_max": {
+      "knee_thigh x sock": 25
+     },
+     "pairs_frames": {
+      "knee_thigh x sock": 8
+     },
+     "see_through_max": 0,
+     "see_through_rays": 51,
+     "stretch_body_p99_max": 1.342,
+     "stretch_head_p01_min": 0.892,
+     "stretch_head_p99_max": 1.506
+    },
+    "Kick": {
+     "frames": [
+      0,
+      40
+     ],
+     "n_frames": 41,
+     "edges": {
+      "shirt_hem": {
+       "min_mm": 77.62,
+       "min_frame": 18,
+       "max_mm": 238.3,
+       "max_frame": 18
+      },
+      "collar": {
+       "min_mm": 8.31,
+       "min_frame": 19,
+       "max_mm": 9.52,
+       "max_frame": 20
+      },
+      "sleeve_hem": {
+       "min_mm": 5.43,
+       "min_frame": 21,
+       "max_mm": 9.03,
+       "max_frame": 29
+      },
+      "sock_top": {
+       "min_mm": 0.92,
+       "min_frame": 12,
+       "max_mm": 2.37,
+       "max_frame": 14
+      },
+      "boot_top": {
+       "min_mm": 270.35,
+       "min_frame": 14,
+       "max_mm": 336.1,
+       "max_frame": 19
+      },
+      "shorts_hem": {
+       "min_mm": 10.79,
+       "min_frame": 13,
+       "max_mm": 33.36,
+       "max_frame": 22
+      }
+     },
+     "pairs_max": {
+      "arm x shirt": 13,
+      "arm x shirt_yoke": 2,
+      "knee_thigh x sock": 24
+     },
+     "pairs_frames": {
+      "arm x shirt": 19,
+      "arm x shirt_yoke": 14,
+      "knee_thigh x sock": 4
+     },
+     "see_through_max": 0,
+     "see_through_rays": 51,
+     "stretch_body_p99_max": 1.314,
+     "stretch_head_p01_min": 0.679,
+     "stretch_head_p99_max": 1.266
+    },
+    "LookAround": {
+     "frames": [
+      0,
+      100
+     ],
+     "n_frames": 101,
+     "edges": {
+      "shirt_hem": {
+       "min_mm": 130.66,
+       "min_frame": 45,
+       "max_mm": 223.81,
+       "max_frame": 0
+      },
+      "collar": {
+       "min_mm": 8.31,
+       "min_frame": 3,
+       "max_mm": 9.52,
+       "max_frame": 16
+      },
+      "sleeve_hem": {
+       "min_mm": 5.43,
+       "min_frame": 49,
+       "max_mm": 9.03,
+       "max_frame": 0
+      },
+      "sock_top": {
+       "min_mm": 0.99,
+       "min_frame": 0,
+       "max_mm": 1.75,
+       "max_frame": 0
+      },
+      "boot_top": {
+       "min_mm": 310.83,
+       "min_frame": 0,
+       "max_mm": 323.9,
+       "max_frame": 0
+      },
+      "shorts_hem": {
+       "min_mm": 10.79,
+       "min_frame": 0,
+       "max_mm": 33.36,
+       "max_frame": 0
+      }
+     },
+     "pairs_max": {},
+     "pairs_frames": {},
+     "see_through_max": 0,
+     "see_through_rays": 51,
+     "stretch_body_p99_max": 1.067,
+     "stretch_head_p01_min": 0.594,
+     "stretch_head_p99_max": 2.88
+    },
+    "ThrowIn": {
+     "frames": [
+      0,
+      45
+     ],
+     "n_frames": 46,
+     "edges": {
+      "shirt_hem": {
+       "min_mm": 134.11,
+       "min_frame": 45,
+       "max_mm": 243.16,
+       "max_frame": 13
+      },
+      "collar": {
+       "min_mm": 8.31,
+       "min_frame": 33,
+       "max_mm": 9.52,
+       "max_frame": 27
+      },
+      "sleeve_hem": {
+       "min_mm": 5.43,
+       "min_frame": 6,
+       "max_mm": 9.03,
+       "max_frame": 1
+      },
+      "sock_top": {
+       "min_mm": 0.98,
+       "min_frame": 13,
+       "max_mm": 1.92,
+       "max_frame": 13
+      },
+      "boot_top": {
+       "min_mm": 309.83,
+       "min_frame": 20,
+       "max_mm": 326.81,
+       "max_frame": 20
+      },
+      "shorts_hem": {
+       "min_mm": 10.79,
+       "min_frame": 40,
+       "max_mm": 33.36,
+       "max_frame": 7
+      }
+     },
+     "pairs_max": {},
+     "pairs_frames": {},
+     "see_through_max": 2,
+     "see_through_rays": 51,
+     "stretch_body_p99_max": 1.217,
+     "stretch_head_p01_min": 0.842,
+     "stretch_head_p99_max": 1.381
+    },
+    "Header": {
+     "frames": [
+      0,
+      42
+     ],
+     "n_frames": 43,
+     "edges": {
+      "shirt_hem": {
+       "min_mm": 119.5,
+       "min_frame": 9,
+       "max_mm": 307.68,
+       "max_frame": 9
+      },
+      "collar": {
+       "min_mm": 8.31,
+       "min_frame": 21,
+       "max_mm": 9.52,
+       "max_frame": 9
+      },
+      "sleeve_hem": {
+       "min_mm": 5.43,
+       "min_frame": 8,
+       "max_mm": 9.03,
+       "max_frame": 17
+      },
+      "sock_top": {
+       "min_mm": 0.25,
+       "min_frame": 9,
+       "max_mm": 2.31,
+       "max_frame": 10
+      },
+      "boot_top": {
+       "min_mm": 261.94,
+       "min_frame": 14,
+       "max_mm": 333.13,
+       "max_frame": 17
+      },
+      "shorts_hem": {
+       "min_mm": 10.79,
+       "min_frame": 16,
+       "max_mm": 33.36,
+       "max_frame": 38
+      }
+     },
+     "pairs_max": {
+      "knee_thigh x sock": 26
+     },
+     "pairs_frames": {
+      "knee_thigh x sock": 3
+     },
+     "see_through_max": 2,
+     "see_through_rays": 51,
+     "stretch_body_p99_max": 1.432,
+     "stretch_head_p01_min": 0.597,
+     "stretch_head_p99_max": 1.855
+    }
+   }
+  }
+ }
+}

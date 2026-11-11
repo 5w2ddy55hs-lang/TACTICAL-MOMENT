@@ -1,0 +1,14 @@
+18:56:48 | INFO: Data are loaded, start creating Blender stuff
+18:56:48 | INFO: Blender create Mesh node TM_HM56_Body
+18:56:48 | INFO: Blender create Mesh node TM_HM56_Hair
+18:56:48 | INFO: Blender create Mesh node TM_HM56_Head
+18:56:48 | INFO: glTF import finished in 0.08s
+motion TM_HM56_PLAYER_P0_H2_KITA.glb {"Idle": [8.99, 11.36, 0, 0, 0], "Run": [8.99, 11.36, 0, 0, 25], "Kick": [8.99, 11.36, 0, 0, 24], "LookAround": [8.99, 11.36, 0, 0, 0], "ThrowIn": [8.99, 11.36, 0, 2, 0], "Header": [8.99, 11.36, 0, 2, 26]}
+18:56:53 | INFO: Data are loaded, start creating Blender stuff
+18:56:53 | INFO: Blender create Mesh node TM_HM56_Body
+18:56:53 | INFO: Blender create Mesh node TM_HM56_Hair
+18:56:53 | INFO: Blender create Mesh node TM_HM56_Head
+18:56:53 | INFO: glTF import finished in 0.10s
+hair TM_HM56_PLAYER_P0_H2_KITA.glb {'hair_triangles': 1938, 'hair_vs_head_intersections': 0, 'hairline_edge_vertices': 71, 'hairline_edge_height_mm': {'min': 0.58, 'median': 1.09, 'max': 2.44}, 'hairline_edge_height_near_ears_mm': {'median': 0.98, 'max': 1.49, 'vertices': 24}, 'hair_to_ear_min_distance_mm': 7.32}
+skin {"P0": {"tone": "T2", "mean_srgb": {"neck": [0.78, 0.5989, 0.4672], "cheek": [0.781, 0.5872, 0.4573], "forearm": [0.7728, 0.5933, 0.4628], "knee": [0.7461, 0.5682, 0.4427]}, "deltaE76": {"neck_vs_forearm": 0.6, "neck_vs_knee": 3.06, "neck_vs_cheek": 1.68}}}
+VERIFY OK

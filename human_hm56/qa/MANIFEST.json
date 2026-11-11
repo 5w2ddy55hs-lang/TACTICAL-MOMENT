@@ -1,0 +1,24 @@
+{
+ "copied_from_build": [
+  "qa/QA_TABLES56.md",
+  "qa/anim_video56.json",
+  "qa/build_hm55.json",
+  "qa/gltf_validator.json",
+  "qa/render_ledger_compare.json",
+  "qa/rig_identity56.json",
+  "qa/verify_hm55.json",
+  "qa/verify_motion56.json",
+  "qa/webtest55_analysis.json",
+  "qa/webtest55_result.json",
+  "logs/00_build.log",
+  "logs/01_verify.log",
+  "logs/02_verify_motion.log",
+  "logs/03_compare.log",
+  "logs/04_video.log",
+  "logs/05_sheets.log",
+  "logs/06_webtest.log",
+  "dist/PACKAGE_VERIFICATION.json",
+  "TM_HM56_HUMAN_MODEL_20261111.zip:SHA256SUMS.txt"
+ ],
+ "note": "text only; models/images/textures stay in build/ (gitignored)"
+}
