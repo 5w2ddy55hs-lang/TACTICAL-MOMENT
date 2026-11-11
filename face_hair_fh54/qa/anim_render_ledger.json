@@ -1,0 +1,226 @@
+[
+  {
+    "png": "RIGID_id0039_start_f01_neck_side.png",
+    "mode": "RIGID",
+    "action": "REF_gamemtn0_id0039_normalized_phase",
+    "frame": 1,
+    "sha256": "154b624db23e84a4a562b2b65d6b30e01ab3fb49c7437174551baaf9aa7fd235"
+  },
+  {
+    "png": "RIGID_id0039_start_f01_neck_back.png",
+    "mode": "RIGID",
+    "action": "REF_gamemtn0_id0039_normalized_phase",
+    "frame": 1,
+    "sha256": "5c6cca5cb62418fd74ab06813f96cd3265d00e645fe4d4239a1dc02517a5b1fb"
+  },
+  {
+    "png": "RIGID_id0039_start_f01_neck_front.png",
+    "mode": "RIGID",
+    "action": "REF_gamemtn0_id0039_normalized_phase",
+    "frame": 1,
+    "sha256": "c1f1aeba77927a2ce02efc3dd580ef2fb7b5b37b56ed9b0fae8d64c25d456698"
+  },
+  {
+    "png": "RIGID_id0039_start_f01_body_quarter.png",
+    "mode": "RIGID",
+    "action": "REF_gamemtn0_id0039_normalized_phase",
+    "frame": 1,
+    "sha256": "e1ca447569e0e2e6ea26b441f98f3035852674ffbfdd9e63a234b216fee572a3"
+  },
+  {
+    "png": "RIGID_id0039_worst_f45_neck_side.png",
+    "mode": "RIGID",
+    "action": "REF_gamemtn0_id0039_normalized_phase",
+    "frame": 45,
+    "sha256": "330a35e22a3c5be3e87a19a21ac0c6dc1bf86e1de23f9be8d6d5b4ff7dcc55c5"
+  },
+  {
+    "png": "RIGID_id0039_worst_f45_neck_back.png",
+    "mode": "RIGID",
+    "action": "REF_gamemtn0_id0039_normalized_phase",
+    "frame": 45,
+    "sha256": "062866fa699753b198817dba7f76890072f6404b0f4ac30f97b444e9787898b0"
+  },
+  {
+    "png": "RIGID_id0039_worst_f45_neck_front.png",
+    "mode": "RIGID",
+    "action": "REF_gamemtn0_id0039_normalized_phase",
+    "frame": 45,
+    "sha256": "39e3cedf6b845849ae0057d6b3b5aaa743c316bc317934be2847e76f10f1a3cf"
+  },
+  {
+    "png": "RIGID_id0039_worst_f45_body_quarter.png",
+    "mode": "RIGID",
+    "action": "REF_gamemtn0_id0039_normalized_phase",
+    "frame": 45,
+    "sha256": "82017065d19c000df5e836a572e4fd45d6df24a405ea0df043e907a9b3f41e6a"
+  },
+  {
+    "png": "RIGID_id1012_start_f01_neck_side.png",
+    "mode": "RIGID",
+    "action": "REF_gamemtn0_id1012_normalized_phase",
+    "frame": 1,
+    "sha256": "8a94f51c23d9fcd9ca277ab7a46ff2b56d09b25608bcb3878ce10e4365b39ae1"
+  },
+  {
+    "png": "RIGID_id1012_start_f01_neck_back.png",
+    "mode": "RIGID",
+    "action": "REF_gamemtn0_id1012_normalized_phase",
+    "frame": 1,
+    "sha256": "f124da0bc68b46624564ad413cb462bb360adcdda5d08ebbd998b8300160b56b"
+  },
+  {
+    "png": "RIGID_id1012_start_f01_neck_front.png",
+    "mode": "RIGID",
+    "action": "REF_gamemtn0_id1012_normalized_phase",
+    "frame": 1,
+    "sha256": "2af12665e80188a59c8c53b9660bae0d8b1b88b53a1333a58f3e4e362cabbaf2"
+  },
+  {
+    "png": "RIGID_id1012_start_f01_body_quarter.png",
+    "mode": "RIGID",
+    "action": "REF_gamemtn0_id1012_normalized_phase",
+    "frame": 1,
+    "sha256": "ea801f507c19a05da23b46172fb238e4c1e3fc796908ae131ea817bceb7afbe3"
+  },
+  {
+    "png": "RIGID_id1012_worst_f03_neck_side.png",
+    "mode": "RIGID",
+    "action": "REF_gamemtn0_id1012_normalized_phase",
+    "frame": 3,
+    "sha256": "a65db3befbd1459022518af42e03f742c3bef5e0ea2d7cb56aab4651541d1ee9"
+  },
+  {
+    "png": "RIGID_id1012_worst_f03_neck_back.png",
+    "mode": "RIGID",
+    "action": "REF_gamemtn0_id1012_normalized_phase",
+    "frame": 3,
+    "sha256": "e32766d2741b02c48058b8a2c67007624c919a4923474eea0079feff64ea08a1"
+  },
+  {
+    "png": "RIGID_id1012_worst_f03_neck_front.png",
+    "mode": "RIGID",
+    "action": "REF_gamemtn0_id1012_normalized_phase",
+    "frame": 3,
+    "sha256": "a8b3e97c90880520326ed031f96a5c31b3830d2e8c7bcd894b1feb56af4b0824"
+  },
+  {
+    "png": "RIGID_id1012_worst_f03_body_quarter.png",
+    "mode": "RIGID",
+    "action": "REF_gamemtn0_id1012_normalized_phase",
+    "frame": 3,
+    "sha256": "eac03f647e4c814086a1f0ea8f799540af299c1c116457b59dfa5937d0f0a59f"
+  },
+  {
+    "png": "WEIGHTED_id0039_start_f01_neck_side.png",
+    "mode": "WEIGHTED",
+    "action": "REF_gamemtn0_id0039_normalized_phase",
+    "frame": 1,
+    "sha256": "0ce09c25281a6c54e38110827765030694d0af80c6839e74700335e328fff8c9"
+  },
+  {
+    "png": "WEIGHTED_id0039_start_f01_neck_back.png",
+    "mode": "WEIGHTED",
+    "action": "REF_gamemtn0_id0039_normalized_phase",
+    "frame": 1,
+    "sha256": "99886043d761da25f2f0aa17236ea32a0237f3d19987ccf88c9edc65397a05bf"
+  },
+  {
+    "png": "WEIGHTED_id0039_start_f01_neck_front.png",
+    "mode": "WEIGHTED",
+    "action": "REF_gamemtn0_id0039_normalized_phase",
+    "frame": 1,
+    "sha256": "cf5da088c1103acdd8c4019de0cfd6ea597551cddc91fb7b6c5fb5f8d0ca814a"
+  },
+  {
+    "png": "WEIGHTED_id0039_start_f01_body_quarter.png",
+    "mode": "WEIGHTED",
+    "action": "REF_gamemtn0_id0039_normalized_phase",
+    "frame": 1,
+    "sha256": "be8c1eefff92b9d26db102305325d86083230617b0bce7d04f74db7c964c96ad"
+  },
+  {
+    "png": "WEIGHTED_id0039_worst_f45_neck_side.png",
+    "mode": "WEIGHTED",
+    "action": "REF_gamemtn0_id0039_normalized_phase",
+    "frame": 45,
+    "sha256": "e4f856f22a2ceb8b253925b6c6ff22d4190bc2058e3c210647c9139af0b1e0ed"
+  },
+  {
+    "png": "WEIGHTED_id0039_worst_f45_neck_back.png",
+    "mode": "WEIGHTED",
+    "action": "REF_gamemtn0_id0039_normalized_phase",
+    "frame": 45,
+    "sha256": "3b30a456ed09ef6edd5cd76814831bf86f683e26c9402491815242b1c433e2dd"
+  },
+  {
+    "png": "WEIGHTED_id0039_worst_f45_neck_front.png",
+    "mode": "WEIGHTED",
+    "action": "REF_gamemtn0_id0039_normalized_phase",
+    "frame": 45,
+    "sha256": "14381696bb1930399ad0bf3619a29f7d7ab9efe32716b6120cbfc6da36f7ab26"
+  },
+  {
+    "png": "WEIGHTED_id0039_worst_f45_body_quarter.png",
+    "mode": "WEIGHTED",
+    "action": "REF_gamemtn0_id0039_normalized_phase",
+    "frame": 45,
+    "sha256": "ec530bbbea5a882c755dc81fd70c854538a4214c8ac82f360d1059509197e80a"
+  },
+  {
+    "png": "WEIGHTED_id1012_start_f01_neck_side.png",
+    "mode": "WEIGHTED",
+    "action": "REF_gamemtn0_id1012_normalized_phase",
+    "frame": 1,
+    "sha256": "cd1299c35bf08fded0e8fc33b009f9688f487078fab7a5acdde204e3ee9f3871"
+  },
+  {
+    "png": "WEIGHTED_id1012_start_f01_neck_back.png",
+    "mode": "WEIGHTED",
+    "action": "REF_gamemtn0_id1012_normalized_phase",
+    "frame": 1,
+    "sha256": "d6175530c72a132bdaa843a356ecd6214c6687a9ef2a9f6fa3cafb09051b59a3"
+  },
+  {
+    "png": "WEIGHTED_id1012_start_f01_neck_front.png",
+    "mode": "WEIGHTED",
+    "action": "REF_gamemtn0_id1012_normalized_phase",
+    "frame": 1,
+    "sha256": "409debadf19d847e2c1868fb82dc04daaf32c80d19716d4cec694da22950a407"
+  },
+  {
+    "png": "WEIGHTED_id1012_start_f01_body_quarter.png",
+    "mode": "WEIGHTED",
+    "action": "REF_gamemtn0_id1012_normalized_phase",
+    "frame": 1,
+    "sha256": "dc983832719aa3d838fc7b94facd84f987d71f3d00be3d4ebfb71f8918c0ddfe"
+  },
+  {
+    "png": "WEIGHTED_id1012_worst_f01_neck_side.png",
+    "mode": "WEIGHTED",
+    "action": "REF_gamemtn0_id1012_normalized_phase",
+    "frame": 1,
+    "sha256": "1e352f10fdc8fb25916b1ee29dfce69232cb9b910af8b1aef08bc32a48079bfc"
+  },
+  {
+    "png": "WEIGHTED_id1012_worst_f01_neck_back.png",
+    "mode": "WEIGHTED",
+    "action": "REF_gamemtn0_id1012_normalized_phase",
+    "frame": 1,
+    "sha256": "4a05f699873d38f0b3eaa2318d3add7a7ee7badae9398e72335e3ed0dae7eef0"
+  },
+  {
+    "png": "WEIGHTED_id1012_worst_f01_neck_front.png",
+    "mode": "WEIGHTED",
+    "action": "REF_gamemtn0_id1012_normalized_phase",
+    "frame": 1,
+    "sha256": "71220b963bdc129385f6195ea48bb230e874e4ac316f47d51c3bc486166c1abb"
+  },
+  {
+    "png": "WEIGHTED_id1012_worst_f01_body_quarter.png",
+    "mode": "WEIGHTED",
+    "action": "REF_gamemtn0_id1012_normalized_phase",
+    "frame": 1,
+    "sha256": "923b32dcd3b64e5b3a940b7d504660a95a41dae2d6d31ec31ad79fe522849a10"
+  }
+]

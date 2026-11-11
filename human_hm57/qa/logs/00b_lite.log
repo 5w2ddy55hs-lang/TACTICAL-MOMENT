@@ -1,0 +1,22 @@
+<REPO>/human_hm57/scripts/hm_hair.py:216: RuntimeWarning: divide by zero encountered in divide
+  alpha = 1 - np.clip((tvals - f0)/(1.0 - f0), 0, 1); alpha = alpha*alpha*(3 - 2*alpha)
+hair P0 H1 tris 2138 cap overlap left 0
+ERROR Draco mesh compression is not available because library could not be found at <REPO>/human_hm57/4.2/python/lib/python3.11/site-packages/libextern_draco.so
+20:47:02 | INFO: Starting glTF 2.0 export
+20:47:02 | INFO: Extracting primitive: TM_HM57_Body.001
+20:47:02 | INFO: Primitives created: 2
+20:47:02 | INFO: Extracting primitive: TM_HM57_Hair
+20:47:02 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+20:47:02 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+20:47:02 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+20:47:02 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+20:47:02 | INFO: Primitives created: 3
+20:47:02 | INFO: Extracting primitive: TM_HM57_Head.001
+20:47:02 | INFO: Primitives created: 1
+20:47:03 | INFO: Finished glTF 2.0 export in 0.47287940979003906 s
+Info: Total files 6 | Changed 6 | Failed 0
+
+Info: No new files have been packed
+Info: Saved "TM_HM57_PLAYER_P0_H1_KITA_LITE.blend"
+player TM_HM57_PLAYER_P0_H1_KITA_LITE 0.75 MB
+LITE BUILD OK {'geometry': 6.4, 'hair': 35.0, 'players': 2.3}

@@ -1,0 +1,8 @@
+FH53_64px_front {'pairs': 6, 'mean_pair_diff': 3.1, 'min_pair_diff': 2.25}
+FH53_64px_quarter_R {'pairs': 6, 'mean_pair_diff': 2.54, 'min_pair_diff': 1.88}
+FH53_128px_front {'pairs': 6, 'mean_pair_diff': 3.64, 'min_pair_diff': 2.58}
+FH53_128px_quarter_R {'pairs': 6, 'mean_pair_diff': 2.83, 'min_pair_diff': 2.18}
+FH54_64px_front {'pairs': 6, 'mean_pair_diff': 7.68, 'min_pair_diff': 3.95}
+FH54_64px_quarter_R {'pairs': 6, 'mean_pair_diff': 6.37, 'min_pair_diff': 3.64}
+FH54_128px_front {'pairs': 6, 'mean_pair_diff': 8.36, 'min_pair_diff': 4.47}
+FH54_128px_quarter_R {'pairs': 6, 'mean_pair_diff': 6.69, 'min_pair_diff': 3.95}

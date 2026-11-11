@@ -1,0 +1,111 @@
+{
+ "FACE52": {
+  "transparent_primitives": [
+   "TM18_HairCap_Detail",
+   "SOURCE_APPEARANCE04_slot_13"
+  ],
+  "order_flips_in_sweep": 1,
+  "flip_frames_elevation_deg": [
+   5.5
+  ],
+  "max_pct_head_pixels_changed_by_order": 0.008,
+  "max_pct_changed_over_8_of_255": 0.017,
+  "frames_with_any_order_change_over_0.5pct": 0
+ },
+ "FH53_H1": {
+  "transparent_primitives": [
+   "TMH53_H1_Cap",
+   "TMH53_H1_Cards"
+  ],
+  "order_flips_in_sweep": 1,
+  "flip_frames_elevation_deg": [
+   20.5
+  ],
+  "max_pct_head_pixels_changed_by_order": 0.009,
+  "max_pct_changed_over_8_of_255": 0.009,
+  "frames_with_any_order_change_over_0.5pct": 0
+ },
+ "FH54_H1": {
+  "transparent_primitives": [
+   "TMH54_H1_CapEdge",
+   "TMH54_H1_Cards"
+  ],
+  "order_flips_in_sweep": 1,
+  "flip_frames_elevation_deg": [
+   22.0
+  ],
+  "max_pct_head_pixels_changed_by_order": 0.009,
+  "max_pct_changed_over_8_of_255": 0.009,
+  "frames_with_any_order_change_over_0.5pct": 0
+ },
+ "FH53_H2": {
+  "transparent_primitives": [
+   "TMH53_H2_Cap",
+   "TMH53_H2_Cards"
+  ],
+  "order_flips_in_sweep": 0,
+  "flip_frames_elevation_deg": [],
+  "max_pct_head_pixels_changed_by_order": 0.009,
+  "max_pct_changed_over_8_of_255": 0.009,
+  "frames_with_any_order_change_over_0.5pct": 0
+ },
+ "FH54_H2": {
+  "transparent_primitives": [
+   "TMH54_H2_CapEdge",
+   "TMH54_H2_Cards"
+  ],
+  "order_flips_in_sweep": 0,
+  "flip_frames_elevation_deg": [],
+  "max_pct_head_pixels_changed_by_order": 0.009,
+  "max_pct_changed_over_8_of_255": 0.009,
+  "frames_with_any_order_change_over_0.5pct": 0
+ },
+ "FH53_H3": {
+  "transparent_primitives": [
+   "TMH53_H3_Cap",
+   "TMH53_H3_Cards"
+  ],
+  "order_flips_in_sweep": 0,
+  "flip_frames_elevation_deg": [],
+  "max_pct_head_pixels_changed_by_order": 0.009,
+  "max_pct_changed_over_8_of_255": 0.009,
+  "frames_with_any_order_change_over_0.5pct": 0
+ },
+ "FH54_H3": {
+  "transparent_primitives": [
+   "TMH54_H3_CapEdge",
+   "TMH54_H3_Cards"
+  ],
+  "order_flips_in_sweep": 0,
+  "flip_frames_elevation_deg": [],
+  "max_pct_head_pixels_changed_by_order": 0.009,
+  "max_pct_changed_over_8_of_255": 0.009,
+  "frames_with_any_order_change_over_0.5pct": 0
+ },
+ "FH53_H4": {
+  "transparent_primitives": [
+   "TMH53_H4_Cap",
+   "TMH53_H4_Cards"
+  ],
+  "order_flips_in_sweep": 1,
+  "flip_frames_elevation_deg": [
+   13.0
+  ],
+  "max_pct_head_pixels_changed_by_order": 0.009,
+  "max_pct_changed_over_8_of_255": 0.009,
+  "frames_with_any_order_change_over_0.5pct": 0
+ },
+ "FH54_H4": {
+  "transparent_primitives": [
+   "TMH54_H4_CapEdge",
+   "TMH54_H4_Cards"
+  ],
+  "order_flips_in_sweep": 1,
+  "flip_frames_elevation_deg": [
+   -9.5
+  ],
+  "max_pct_head_pixels_changed_by_order": 0.009,
+  "max_pct_changed_over_8_of_255": 0.009,
+  "frames_with_any_order_change_over_0.5pct": 0
+ }
+}

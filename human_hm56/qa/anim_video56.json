@@ -1,0 +1,102 @@
+{
+ "fps": 30,
+ "clips": [
+  {
+   "kind": "full",
+   "action": "Run",
+   "frames": 40,
+   "source_frames": [
+    0,
+    20
+   ],
+   "loops": 2,
+   "view": "quarter_L"
+  },
+  {
+   "kind": "full",
+   "action": "Kick",
+   "frames": 41,
+   "source_frames": [
+    0,
+    40
+   ],
+   "loops": 1,
+   "view": "quarter_L"
+  },
+  {
+   "kind": "full",
+   "action": "Header",
+   "frames": 43,
+   "source_frames": [
+    0,
+    42
+   ],
+   "loops": 1,
+   "view": "side_L"
+  },
+  {
+   "kind": "full",
+   "action": "ThrowIn",
+   "frames": 46,
+   "source_frames": [
+    0,
+    45
+   ],
+   "loops": 1,
+   "view": "side_L"
+  },
+  {
+   "kind": "neck",
+   "action": "LookAround",
+   "frames": 101,
+   "source_frames": [
+    0,
+    100
+   ],
+   "loops": 1,
+   "view": "front"
+  },
+  {
+   "kind": "knee",
+   "action": "Kick",
+   "frames": 41,
+   "source_frames": [
+    0,
+    40
+   ],
+   "loops": 1,
+   "view": [
+    0.75,
+    0.55,
+    0.1
+   ]
+  }
+ ],
+ "outputs": {
+  "HM55_vs_HM56_motion_full.mp4": {
+   "bytes": 1141583,
+   "sha256": "0bfffa84e441a56342670dc04f925fa8295b6c000be11ea20e8e3b6fe062a0f6"
+  },
+  "HM55_vs_HM56_neck_knee_closeup.mp4": {
+   "bytes": 1210972,
+   "sha256": "cd4425f0c1c1f4f4330479edddb810f8355576f3b337343df5d439774f53f238"
+  },
+  "HM55_vs_HM56_run.gif": {
+   "bytes": 560844,
+   "sha256": "c773c9f6bdae2b50776c4a9948f4dbeec7d21f3a399c903eb88e88d75cc953e6"
+  }
+ },
+ "ffprobe_full": {
+  "programs": [],
+  "streams": [
+   {
+    "codec_name": "h264",
+    "width": 726,
+    "height": 574,
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1",
+    "nb_frames": "170"
+   }
+  ]
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "three": "0.186.1",
+ "models": {
+  "TM_HM56_PLAYER_P0_H2_KITA": {
+   "prims": [
+    {
+     "name": "TM_HM56_Body_1",
+     "mat": "TM_HM56_Kit_A",
+     "transparent": false,
+     "depthWrite": true,
+     "side": 2,
+     "skinned": true,
+     "tris": 1768
+    },
+    {
+     "name": "TM_HM56_Body_2",
+     "mat": "TM_HM56_BodySkin_T2",
+     "transparent": false,
+     "depthWrite": true,
+     "side": 0,
+     "skinned": true,
+     "tris": 816
+    },
+    {
+     "name": "TM_HM56_Hair_1",
+     "mat": "TMH55_H2_Cap",
+     "transparent": false,
+     "depthWrite": true,
+     "side": 2,
+     "skinned": true,
+     "tris": 1330
+    },
+    {
+     "name": "TM_HM56_Hair_2",
+     "mat": "TMH55_H2_CapEdge",
+     "transparent": true,
+     "depthWrite": false,
+     "side": 2,
+     "skinned": true,
+     "tris": 560
+    },
+    {
+     "name": "TM_HM56_Hair_3",
+     "mat": "TMH55_H2_Cards",
+     "transparent": true,
+     "depthWrite": false,
+     "side": 2,
+     "skinned": true,
+     "tris": 48
+    },
+    {
+     "name": "TM_HM56_Head",
+     "mat": "TM_HM56_Head_P0",
+     "transparent": false,
+     "depthWrite": true,
+     "side": 0,
+     "skinned": true,
+     "tris": 4678
+    }
+   ],
+   "skinned": 6,
+   "bones": 22,
+   "clips": [
+    {
+     "name": "TM_HM55_Header",
+     "duration": 1.399999976158142,
+     "tracks": 66
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "duration": 2,
+     "tracks": 66
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "duration": 1.3333333730697632,
+     "tracks": 66
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "duration": 3.3333332538604736,
+     "tracks": 66
+    },
+    {
+     "name": "TM_HM55_Run",
+     "duration": 0.6666666865348816,
+     "tracks": 66
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "duration": 1.5,
+     "tracks": 66
+    }
+   ],
+   "playback": {
+    "TM_HM55_Run": 21,
+    "TM_HM55_Kick": 41,
+    "TM_HM55_Header": 43,
+    "TM_HM55_LookAround": 101
+   }
+  }
+ },
+ "perf": {
+  "TM_HM56_PLAYER_P0_H2_KITA_x22_idle": {
+   "calls": 158,
+   "triangles": 197966,
+   "ms_per_frame": 4.104166666666667,
+   "gl_renderer": "WebKit WebGL"
+  },
+  "TM_HM56_PLAYER_P0_H2_KITA_x22_run": {
+   "calls": 158,
+   "triangles": 197966,
+   "ms_per_frame": 2.563333333330229,
+   "gl_renderer": "WebKit WebGL"
+  }
+ },
+ "page_errors": []
+}

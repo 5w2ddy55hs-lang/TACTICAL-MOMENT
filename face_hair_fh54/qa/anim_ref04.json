@@ -1,0 +1,2392 @@
+{
+  "blender": "4.2.23 LTS",
+  "scope": "FH54 provisional neck/weight test on the Reference04 body with its EXISTING actions (review copy only).\n\nThe FACE52/FH54 head meshes have no bones or weights. In a NEW review file (Reference04 source never written):\n  (A) rigid    : head objects parented to bone REF_joint_20 (world transform kept at rest)\n  (B) weighted : Armature modifier on the head meshes; each vertex takes the body's weights near the neck,\n                 blended to 100% REF_joint_20 above:  w = lerp(nearest body vertex weights, {joint_20: 1},\n                 smoothstep(z_local -0.050 .. -0.010))  (head-local z; neck boundary is at z ~ -0.05)\nFor every action (3 clips; source fps unknown, phase-normalised 61 frames = '1.0 display s' per the source\nmetadata - meanings/speeds NOT inferred) every 2nd frame: distance from each head neck-boundary vertex to the\nevaluated body surface (Reference04 head hidden), and the head bone rotation relative to its parent.\nUsage: python anim_ref04.py\n",
+  "runs": {
+    "F1_H1_rigid": {
+      "combo": "F1_H1",
+      "mode": "rigid",
+      "neck_boundary_vertices": 43,
+      "rest_gap_mm": {
+        "mean": 0.09143592646310926,
+        "max": 1.3458875473588705
+      },
+      "actions": {
+        "REF_gamemtn0_id0001_normalized_phase": {
+          "frames": 31,
+          "gap_max_mm": 1.4672785764560103,
+          "gap_max_frame": 17,
+          "gap_mean_mm": 0.284705077251451,
+          "head_rot_vs_neck_deg_max": 0.8695254498598184,
+          "per_frame": [
+            {
+              "frame": 1,
+              "gap_mean_mm": 0.09134440673859724,
+              "gap_max_mm": 1.3457807945087552,
+              "head_rot_vs_neck_deg": 0.0
+            },
+            {
+              "frame": 3,
+              "gap_mean_mm": 0.09469946653273792,
+              "gap_max_mm": 1.3627703301608562,
+              "head_rot_vs_neck_deg": 0.055952909680744456
+            },
+            {
+              "frame": 5,
+              "gap_mean_mm": 0.10817821760941122,
+              "gap_max_mm": 1.3796520652249455,
+              "head_rot_vs_neck_deg": 0.11190581936148891
+            },
+            {
+              "frame": 7,
+              "gap_mean_mm": 0.12330215676450532,
+              "gap_max_mm": 1.3966088881716132,
+              "head_rot_vs_neck_deg": 0.16785874238244658
+            },
+            {
+              "frame": 9,
+              "gap_mean_mm": 0.13925999777098483,
+              "gap_max_mm": 1.4137624530121684,
+              "head_rot_vs_neck_deg": 0.23069980445965635
+            },
+            {
+              "frame": 11,
+              "gap_mean_mm": 0.15702397173108998,
+              "gap_max_mm": 1.4313417486846447,
+              "head_rot_vs_neck_deg": 0.2907399153479923
+            },
+            {
+              "frame": 13,
+              "gap_mean_mm": 0.17387176771797688,
+              "gap_max_mm": 1.4484234852716327,
+              "head_rot_vs_neck_deg": 0.34717880899643905
+            },
+            {
+              "frame": 15,
+              "gap_mean_mm": 0.1907731392375046,
+              "gap_max_mm": 1.4658599393442273,
+              "head_rot_vs_neck_deg": 0.4054175642128899
+            },
+            {
+              "frame": 17,
+              "gap_mean_mm": 0.21063770249184824,
+              "gap_max_mm": 1.4672785764560103,
+              "head_rot_vs_neck_deg": 0.45283876720749505
+            },
+            {
+              "frame": 19,
+              "gap_mean_mm": 0.24441049614490404,
+              "gap_max_mm": 1.4032445615157485,
+              "head_rot_vs_neck_deg": 0.45799459953550264
+            },
+            {
+              "frame": 21,
+              "gap_mean_mm": 0.280998215556246,
+              "gap_max_mm": 1.3312178198248148,
+              "head_rot_vs_neck_deg": 0.4813254585232084
+            },
+            {
+              "frame": 23,
+              "gap_mean_mm": 0.3138469640030377,
+              "gap_max_mm": 1.2670804280787706,
+              "head_rot_vs_neck_deg": 0.5263743447199978
+            },
+            {
+              "frame": 25,
+              "gap_mean_mm": 0.35012171821930743,
+              "gap_max_mm": 1.202757004648447,
+              "head_rot_vs_neck_deg": 0.5908273714619702
+            },
+            {
+              "frame": 27,
+              "gap_mean_mm": 0.38540031284813847,
+              "gap_max_mm": 1.1384531389921904,
+              "head_rot_vs_neck_deg": 0.659675998460816
+            },
+            {
+              "frame": 29,
+              "gap_mean_mm": 0.42427531096152765,
+              "gap_max_mm": 1.0661809938028455,
+              "head_rot_vs_neck_deg": 0.7433541934473761
+            },
+            {
+              "frame": 31,
+              "gap_mean_mm": 0.4561193125411767,
+              "gap_max_mm": 1.114287180826068,
+              "head_rot_vs_neck_deg": 0.8261366197964596
+            },
+            {
+              "frame": 33,
+              "gap_mean_mm": 0.47038477525605127,
+              "gap_max_mm": 1.1568948393687606,
+              "head_rot_vs_neck_deg": 0.8695254498598184
+            },
+            {
+              "frame": 35,
+              "gap_mean_mm": 0.46376297148494094,
+              "gap_max_mm": 1.12205243203789,
+              "head_rot_vs_neck_deg": 0.8439454309227686
+            },
+            {
+              "frame": 37,
+              "gap_mean_mm": 0.45482384735358866,
+              "gap_max_mm": 1.089991652406752,
+              "head_rot_vs_neck_deg": 0.8242395881153414
+            },
+            {
+              "frame": 39,
+              "gap_mean_mm": 0.4463802760673829,
+              "gap_max_mm": 1.061625313013792,
+              "head_rot_vs_neck_deg": 0.8050238647417154
+            },
+            {
+              "frame": 41,
+              "gap_mean_mm": 0.43713072944839837,
+              "gap_max_mm": 1.03588099591434,
+              "head_rot_vs_neck_deg": 0.7873287655929164
+            },
+            {
+              "frame": 43,
+              "gap_mean_mm": 0.42741697078320534,
+              "gap_max_mm": 1.0508046252653003,
+              "head_rot_vs_neck_deg": 0.7692267899408257
+            },
+            {
+              "frame": 45,
+              "gap_mean_mm": 0.4177776903642183,
+              "gap_max_mm": 1.0656225495040417,
+              "head_rot_vs_neck_deg": 0.7527707831570023
+            },
+            {
+              "frame": 47,
+              "gap_mean_mm": 0.4081183510667247,
+              "gap_max_mm": 1.0805436177179217,
+              "head_rot_vs_neck_deg": 0.7359469066533502
+            },
+            {
+              "frame": 49,
+              "gap_mean_mm": 0.3697697282779758,
+              "gap_max_mm": 1.1124941520392895,
+              "head_rot_vs_neck_deg": 0.6549129020100842
+            },
+            {
+              "frame": 51,
+              "gap_mean_mm": 0.3189133323053713,
+              "gap_max_mm": 1.152495387941599,
+              "head_rot_vs_neck_deg": 0.5453620038083687
+            },
+            {
+              "frame": 53,
+              "gap_mean_mm": 0.2693505190231167,
+              "gap_max_mm": 1.185001339763403,
+              "head_rot_vs_neck_deg": 0.4387938172006861
+            },
+            {
+              "frame": 55,
+              "gap_mean_mm": 0.21955088248557156,
+              "gap_max_mm": 1.2252789456397295,
+              "head_rot_vs_neck_deg": 0.3310219965147739
+            },
+            {
+              "frame": 57,
+              "gap_mean_mm": 0.16882307920113415,
+              "gap_max_mm": 1.2652232544496655,
+              "head_rot_vs_neck_deg": 0.22381166540340428
+            },
+            {
+              "frame": 59,
+              "gap_mean_mm": 0.11964689757844606,
+              "gap_max_mm": 1.305421581491828,
+              "head_rot_vs_neck_deg": 0.11190581936148891
+            },
+            {
+              "frame": 61,
+              "gap_mean_mm": 0.08974418722986094,
+              "gap_max_mm": 1.3379615265876055,
+              "head_rot_vs_neck_deg": 0.0
+            }
+          ]
+        },
+        "REF_gamemtn0_id0039_normalized_phase": {
+          "frames": 31,
+          "gap_max_mm": 12.088402174413204,
+          "gap_max_frame": 45,
+          "gap_mean_mm": 2.745191707529989,
+          "head_rot_vs_neck_deg_max": 7.486902467199368,
+          "per_frame": [
+            {
+              "frame": 1,
+              "gap_mean_mm": 2.6067859308860815,
+              "gap_max_mm": 10.245448909699917,
+              "head_rot_vs_neck_deg": 6.1522519137539655
+            },
+            {
+              "frame": 3,
+              "gap_mean_mm": 2.6000819266293385,
+              "gap_max_mm": 10.219586081802845,
+              "head_rot_vs_neck_deg": 6.135810794648099
+            },
+            {
+              "frame": 5,
+              "gap_mean_mm": 2.593412090537121,
+              "gap_max_mm": 10.193453170359135,
+              "head_rot_vs_neck_deg": 6.1200932487074295
+            },
+            {
+              "frame": 7,
+              "gap_mean_mm": 2.58681973912747,
+              "gap_max_mm": 10.167890228331089,
+              "head_rot_vs_neck_deg": 6.104720200433023
+            },
+            {
+              "frame": 9,
+              "gap_mean_mm": 2.580281324328903,
+              "gap_max_mm": 10.142195969820023,
+              "head_rot_vs_neck_deg": 6.089565718212057
+            },
+            {
+              "frame": 11,
+              "gap_mean_mm": 2.5736076407111415,
+              "gap_max_mm": 10.116315446794033,
+              "head_rot_vs_neck_deg": 6.07488892234617
+            },
+            {
+              "frame": 13,
+              "gap_mean_mm": 2.569223792928868,
+              "gap_max_mm": 10.098898783326149,
+              "head_rot_vs_neck_deg": 6.06585898537659
+            },
+            {
+              "frame": 15,
+              "gap_mean_mm": 2.562552722305082,
+              "gap_max_mm": 10.073043406009674,
+              "head_rot_vs_neck_deg": 6.05215976033566
+            },
+            {
+              "frame": 17,
+              "gap_mean_mm": 2.5558799242715984,
+              "gap_max_mm": 10.046915151178837,
+              "head_rot_vs_neck_deg": 6.038559573037695
+            },
+            {
+              "frame": 19,
+              "gap_mean_mm": 2.5492902449846877,
+              "gap_max_mm": 10.021294467151165,
+              "head_rot_vs_neck_deg": 6.02544817115221
+            },
+            {
+              "frame": 21,
+              "gap_mean_mm": 2.542609827058022,
+              "gap_max_mm": 9.995251893997192,
+              "head_rot_vs_neck_deg": 6.0126991961795575
+            },
+            {
+              "frame": 23,
+              "gap_mean_mm": 2.53595861891745,
+              "gap_max_mm": 9.969349019229412,
+              "head_rot_vs_neck_deg": 6.0004449830349085
+            },
+            {
+              "frame": 25,
+              "gap_mean_mm": 2.5756126993485062,
+              "gap_max_mm": 10.116751305758953,
+              "head_rot_vs_neck_deg": 6.095477673825527
+            },
+            {
+              "frame": 27,
+              "gap_mean_mm": 2.626294626011951,
+              "gap_max_mm": 10.305850766599178,
+              "head_rot_vs_neck_deg": 6.218085545842779
+            },
+            {
+              "frame": 29,
+              "gap_mean_mm": 2.6791180828063808,
+              "gap_max_mm": 10.503118857741356,
+              "head_rot_vs_neck_deg": 6.348693703812232
+            },
+            {
+              "frame": 31,
+              "gap_mean_mm": 2.733619169095564,
+              "gap_max_mm": 10.708698071539402,
+              "head_rot_vs_neck_deg": 6.487785383617664
+            },
+            {
+              "frame": 33,
+              "gap_mean_mm": 2.7829661261739207,
+              "gap_max_mm": 10.897735133767128,
+              "head_rot_vs_neck_deg": 6.618282977899929
+            },
+            {
+              "frame": 35,
+              "gap_mean_mm": 2.8378880337895827,
+              "gap_max_mm": 11.102770455181599,
+              "head_rot_vs_neck_deg": 6.762723122712304
+            },
+            {
+              "frame": 37,
+              "gap_mean_mm": 2.9012035767611657,
+              "gap_max_mm": 11.300083249807358,
+              "head_rot_vs_neck_deg": 6.9034651469759405
+            },
+            {
+              "frame": 39,
+              "gap_mean_mm": 2.9617197521501093,
+              "gap_max_mm": 11.48904673755169,
+              "head_rot_vs_neck_deg": 7.040508196917192
+            },
+            {
+              "frame": 41,
+              "gap_mean_mm": 3.0273661178792737,
+              "gap_max_mm": 11.6944070905447,
+              "head_rot_vs_neck_deg": 7.191291879921216
+            },
+            {
+              "frame": 43,
+              "gap_mean_mm": 3.078396434184402,
+              "gap_max_mm": 11.891290545463562,
+              "head_rot_vs_neck_deg": 7.338342437657006
+            },
+            {
+              "frame": 45,
+              "gap_mean_mm": 3.1304873209614494,
+              "gap_max_mm": 12.088402174413204,
+              "head_rot_vs_neck_deg": 7.486902467199368
+            },
+            {
+              "frame": 47,
+              "gap_mean_mm": 3.128309164500258,
+              "gap_max_mm": 12.080385349690914,
+              "head_rot_vs_neck_deg": 7.4806229620311875
+            },
+            {
+              "frame": 49,
+              "gap_mean_mm": 3.0571353677991246,
+              "gap_max_mm": 11.810023337602615,
+              "head_rot_vs_neck_deg": 7.275961466193634
+            },
+            {
+              "frame": 51,
+              "gap_mean_mm": 2.9801761081961433,
+              "gap_max_mm": 11.556659825146198,
+              "head_rot_vs_neck_deg": 7.085969509145974
+            },
+            {
+              "frame": 53,
+              "gap_mean_mm": 2.8928480387124242,
+              "gap_max_mm": 11.28724217414856,
+              "head_rot_vs_neck_deg": 6.887678445369925
+            },
+            {
+              "frame": 55,
+              "gap_mean_mm": 2.816399322458724,
+              "gap_max_mm": 11.026300489902496,
+              "head_rot_vs_neck_deg": 6.698261931759839
+            },
+            {
+              "frame": 57,
+              "gap_mean_mm": 2.7490204828652636,
+              "gap_max_mm": 10.77367551624775,
+              "head_rot_vs_neck_deg": 6.51801153201591
+            },
+            {
+              "frame": 59,
+              "gap_mean_mm": 2.6791027942181245,
+              "gap_max_mm": 10.513451881706715,
+              "head_rot_vs_neck_deg": 6.335976318464492
+            },
+            {
+              "frame": 61,
+              "gap_mean_mm": 2.6067759328315216,
+              "gap_max_mm": 10.245274752378464,
+              "head_rot_vs_neck_deg": 6.1522519137539655
+            }
+          ]
+        },
+        "REF_gamemtn0_id1012_normalized_phase": {
+          "frames": 31,
+          "gap_max_mm": 14.24572616815567,
+          "gap_max_frame": 3,
+          "gap_mean_mm": 3.29573532389875,
+          "head_rot_vs_neck_deg_max": 19.847255897776847,
+          "per_frame": [
+            {
+              "frame": 1,
+              "gap_mean_mm": 3.8141666919616495,
+              "gap_max_mm": 14.243224635720253,
+              "head_rot_vs_neck_deg": 19.847255897776847
+            },
+            {
+              "frame": 3,
+              "gap_mean_mm": 3.836240457869282,
+              "gap_max_mm": 14.24572616815567,
+              "head_rot_vs_neck_deg": 19.32490181307449
+            },
+            {
+              "frame": 5,
+              "gap_mean_mm": 3.858756626727736,
+              "gap_max_mm": 14.245563186705112,
+              "head_rot_vs_neck_deg": 18.80966820058187
+            },
+            {
+              "frame": 7,
+              "gap_mean_mm": 3.879277444564126,
+              "gap_max_mm": 14.217070303857327,
+              "head_rot_vs_neck_deg": 18.291014370862367
+            },
+            {
+              "frame": 9,
+              "gap_mean_mm": 3.897097532804007,
+              "gap_max_mm": 14.058290049433708,
+              "head_rot_vs_neck_deg": 17.793467533225495
+            },
+            {
+              "frame": 11,
+              "gap_mean_mm": 3.913424338672953,
+              "gap_max_mm": 13.890388421714306,
+              "head_rot_vs_neck_deg": 17.303348526311012
+            },
+            {
+              "frame": 13,
+              "gap_mean_mm": 3.9280035356808836,
+              "gap_max_mm": 13.70950322598219,
+              "head_rot_vs_neck_deg": 16.80736750954137
+            },
+            {
+              "frame": 15,
+              "gap_mean_mm": 3.918208981974542,
+              "gap_max_mm": 13.310805894434452,
+              "head_rot_vs_neck_deg": 15.960114986399843
+            },
+            {
+              "frame": 17,
+              "gap_mean_mm": 3.8943018203985313,
+              "gap_max_mm": 12.805174104869366,
+              "head_rot_vs_neck_deg": 15.012479173026641
+            },
+            {
+              "frame": 19,
+              "gap_mean_mm": 3.784616222673652,
+              "gap_max_mm": 12.068415060639381,
+              "head_rot_vs_neck_deg": 13.94165833665132
+            },
+            {
+              "frame": 21,
+              "gap_mean_mm": 3.674989149488985,
+              "gap_max_mm": 11.350764892995358,
+              "head_rot_vs_neck_deg": 12.893594836816836
+            },
+            {
+              "frame": 23,
+              "gap_mean_mm": 3.5657024616425073,
+              "gap_max_mm": 10.673916898667812,
+              "head_rot_vs_neck_deg": 11.88243997170981
+            },
+            {
+              "frame": 25,
+              "gap_mean_mm": 3.4550669195134773,
+              "gap_max_mm": 10.085671208798885,
+              "head_rot_vs_neck_deg": 10.902583594700719
+            },
+            {
+              "frame": 27,
+              "gap_mean_mm": 3.2991726939045285,
+              "gap_max_mm": 9.56702884286642,
+              "head_rot_vs_neck_deg": 9.89590677236828
+            },
+            {
+              "frame": 29,
+              "gap_mean_mm": 3.1395367260666536,
+              "gap_max_mm": 9.032988920807838,
+              "head_rot_vs_neck_deg": 8.974059191980109
+            },
+            {
+              "frame": 31,
+              "gap_mean_mm": 2.97771009710783,
+              "gap_max_mm": 8.480136282742023,
+              "head_rot_vs_neck_deg": 8.10675494098272
+            },
+            {
+              "frame": 33,
+              "gap_mean_mm": 2.8139086065265553,
+              "gap_max_mm": 8.404668420553207,
+              "head_rot_vs_neck_deg": 7.343676815398786
+            },
+            {
+              "frame": 35,
+              "gap_mean_mm": 2.673072597280159,
+              "gap_max_mm": 8.57044942677021,
+              "head_rot_vs_neck_deg": 6.890975292304926
+            },
+            {
+              "frame": 37,
+              "gap_mean_mm": 2.50115746664978,
+              "gap_max_mm": 8.763573132455349,
+              "head_rot_vs_neck_deg": 6.698495865738912
+            },
+            {
+              "frame": 39,
+              "gap_mean_mm": 2.325398718902745,
+              "gap_max_mm": 8.976162411272526,
+              "head_rot_vs_neck_deg": 6.607269297863283
+            },
+            {
+              "frame": 41,
+              "gap_mean_mm": 2.2791733528851084,
+              "gap_max_mm": 9.46054607629776,
+              "head_rot_vs_neck_deg": 6.797375233692717
+            },
+            {
+              "frame": 43,
+              "gap_mean_mm": 2.488011603618546,
+              "gap_max_mm": 10.634014382958412,
+              "head_rot_vs_neck_deg": 7.714540719404845
+            },
+            {
+              "frame": 45,
+              "gap_mean_mm": 2.7377677884313805,
+              "gap_max_mm": 11.652053333818913,
+              "head_rot_vs_neck_deg": 8.842222026846876
+            },
+            {
+              "frame": 47,
+              "gap_mean_mm": 2.7084730072909164,
+              "gap_max_mm": 11.347770690917969,
+              "head_rot_vs_neck_deg": 10.06651977519332
+            },
+            {
+              "frame": 49,
+              "gap_mean_mm": 2.7351876057121998,
+              "gap_max_mm": 10.909161530435085,
+              "head_rot_vs_neck_deg": 11.381157020596941
+            },
+            {
+              "frame": 51,
+              "gap_mean_mm": 2.9086346181591796,
+              "gap_max_mm": 10.78620832413435,
+              "head_rot_vs_neck_deg": 12.771231997836058
+            },
+            {
+              "frame": 53,
+              "gap_mean_mm": 3.082820888724859,
+              "gap_max_mm": 11.553989723324776,
+              "head_rot_vs_neck_deg": 14.212442893843768
+            },
+            {
+              "frame": 55,
+              "gap_mean_mm": 3.2509774009173547,
+              "gap_max_mm": 12.281730771064758,
+              "head_rot_vs_neck_deg": 15.694557231469746
+            },
+            {
+              "frame": 57,
+              "gap_mean_mm": 3.4163051826254787,
+              "gap_max_mm": 12.976904399693012,
+              "head_rot_vs_neck_deg": 17.20645546274521
+            },
+            {
+              "frame": 59,
+              "gap_mean_mm": 3.5974360379615518,
+              "gap_max_mm": 13.709211722016335,
+              "head_rot_vs_neck_deg": 18.787167849908556
+            },
+            {
+              "frame": 61,
+              "gap_mean_mm": 3.8131984641241057,
+              "gap_max_mm": 14.242222532629967,
+              "head_rot_vs_neck_deg": 19.84618697317174
+            }
+          ]
+        }
+      },
+      "review_blend": "TM_FH54_REVIEW_REF04_ANIM_RIGID_F1_H1.blend"
+    },
+    "F1_H1_weighted": {
+      "combo": "F1_H1",
+      "mode": "weighted",
+      "neck_boundary_vertices": 43,
+      "rest_gap_mm": {
+        "mean": 0.09138964228835285,
+        "max": 1.3458908069878817
+      },
+      "actions": {
+        "REF_gamemtn0_id0001_normalized_phase": {
+          "frames": 31,
+          "gap_max_mm": 1.345957862213254,
+          "gap_max_frame": 13,
+          "gap_mean_mm": 0.103365384005091,
+          "head_rot_vs_neck_deg_max": 0.8695254498598184,
+          "per_frame": [
+            {
+              "frame": 1,
+              "gap_mean_mm": 0.09138879899640495,
+              "gap_max_mm": 1.3458875473588705,
+              "head_rot_vs_neck_deg": 0.0
+            },
+            {
+              "frame": 3,
+              "gap_mean_mm": 0.09096079366352418,
+              "gap_max_mm": 1.345847500488162,
+              "head_rot_vs_neck_deg": 0.055952909680744456
+            },
+            {
+              "frame": 5,
+              "gap_mean_mm": 0.09052295536031914,
+              "gap_max_mm": 1.3458883622661233,
+              "head_rot_vs_neck_deg": 0.11190581936148891
+            },
+            {
+              "frame": 7,
+              "gap_mean_mm": 0.09019594805280257,
+              "gap_max_mm": 1.3458526227623224,
+              "head_rot_vs_neck_deg": 0.16785874238244658
+            },
+            {
+              "frame": 9,
+              "gap_mean_mm": 0.09124550190347434,
+              "gap_max_mm": 1.3459320180118084,
+              "head_rot_vs_neck_deg": 0.23069980445965635
+            },
+            {
+              "frame": 11,
+              "gap_mean_mm": 0.09278808926282191,
+              "gap_max_mm": 1.345912110991776,
+              "head_rot_vs_neck_deg": 0.2907399153479923
+            },
+            {
+              "frame": 13,
+              "gap_mean_mm": 0.09420466303831243,
+              "gap_max_mm": 1.345957862213254,
+              "head_rot_vs_neck_deg": 0.34717880899643905
+            },
+            {
+              "frame": 15,
+              "gap_mean_mm": 0.09564032136810158,
+              "gap_max_mm": 1.345842843875289,
+              "head_rot_vs_neck_deg": 0.4054175642128899
+            },
+            {
+              "frame": 17,
+              "gap_mean_mm": 0.0973578507854777,
+              "gap_max_mm": 1.3458810281008482,
+              "head_rot_vs_neck_deg": 0.45283876720749505
+            },
+            {
+              "frame": 19,
+              "gap_mean_mm": 0.09963194032260198,
+              "gap_max_mm": 1.34579511359334,
+              "head_rot_vs_neck_deg": 0.45799459953550264
+            },
+            {
+              "frame": 21,
+              "gap_mean_mm": 0.10206308599278631,
+              "gap_max_mm": 1.3458397006615996,
+              "head_rot_vs_neck_deg": 0.4813254585232084
+            },
+            {
+              "frame": 23,
+              "gap_mean_mm": 0.10464035368482255,
+              "gap_max_mm": 1.3459475012496114,
+              "head_rot_vs_neck_deg": 0.5263743447199978
+            },
+            {
+              "frame": 25,
+              "gap_mean_mm": 0.10775911715729088,
+              "gap_max_mm": 1.345803146250546,
+              "head_rot_vs_neck_deg": 0.5908273714619702
+            },
+            {
+              "frame": 27,
+              "gap_mean_mm": 0.11076470199806267,
+              "gap_max_mm": 1.3459058245643973,
+              "head_rot_vs_neck_deg": 0.659675998460816
+            },
+            {
+              "frame": 29,
+              "gap_mean_mm": 0.1139484531131265,
+              "gap_max_mm": 1.3458684552460909,
+              "head_rot_vs_neck_deg": 0.7433541934473761
+            },
+            {
+              "frame": 31,
+              "gap_mean_mm": 0.11692967122539773,
+              "gap_max_mm": 1.3457981403917074,
+              "head_rot_vs_neck_deg": 0.8261366197964596
+            },
+            {
+              "frame": 33,
+              "gap_mean_mm": 0.11843921252876581,
+              "gap_max_mm": 1.3459022156894207,
+              "head_rot_vs_neck_deg": 0.8695254498598184
+            },
+            {
+              "frame": 35,
+              "gap_mean_mm": 0.1173534845508758,
+              "gap_max_mm": 1.3458485482260585,
+              "head_rot_vs_neck_deg": 0.8439454309227686
+            },
+            {
+              "frame": 37,
+              "gap_mean_mm": 0.1164042568768417,
+              "gap_max_mm": 1.345868338830769,
+              "head_rot_vs_neck_deg": 0.8242395881153414
+            },
+            {
+              "frame": 39,
+              "gap_mean_mm": 0.11554490728157518,
+              "gap_max_mm": 1.3458604225888848,
+              "head_rot_vs_neck_deg": 0.8050238647417154
+            },
+            {
+              "frame": 41,
+              "gap_mean_mm": 0.11468201757410529,
+              "gap_max_mm": 1.345849595963955,
+              "head_rot_vs_neck_deg": 0.7873287655929164
+            },
+            {
+              "frame": 43,
+              "gap_mean_mm": 0.1138436697240086,
+              "gap_max_mm": 1.3458931352943182,
+              "head_rot_vs_neck_deg": 0.7692267899408257
+            },
+            {
+              "frame": 45,
+              "gap_mean_mm": 0.11298655686299208,
+              "gap_max_mm": 1.3457732275128365,
+              "head_rot_vs_neck_deg": 0.7527707831570023
+            },
+            {
+              "frame": 47,
+              "gap_mean_mm": 0.11211214073733534,
+              "gap_max_mm": 1.3458861503750086,
+              "head_rot_vs_neck_deg": 0.7359469066533502
+            },
+            {
+              "frame": 49,
+              "gap_mean_mm": 0.1090124133886141,
+              "gap_max_mm": 1.3458899920806289,
+              "head_rot_vs_neck_deg": 0.6549129020100842
+            },
+            {
+              "frame": 51,
+              "gap_mean_mm": 0.10493619905613455,
+              "gap_max_mm": 1.3459022156894207,
+              "head_rot_vs_neck_deg": 0.5453620038083687
+            },
+            {
+              "frame": 53,
+              "gap_mean_mm": 0.10152979955658703,
+              "gap_max_mm": 1.3458279427140951,
+              "head_rot_vs_neck_deg": 0.4387938172006861
+            },
+            {
+              "frame": 55,
+              "gap_mean_mm": 0.09832848054887354,
+              "gap_max_mm": 1.3458668254315853,
+              "head_rot_vs_neck_deg": 0.3310219965147739
+            },
+            {
+              "frame": 57,
+              "gap_mean_mm": 0.09508333522130517,
+              "gap_max_mm": 1.3458221219480038,
+              "head_rot_vs_neck_deg": 0.22381166540340428
+            },
+            {
+              "frame": 59,
+              "gap_mean_mm": 0.09242319745414646,
+              "gap_max_mm": 1.3458802131935954,
+              "head_rot_vs_neck_deg": 0.11190581936148891
+            },
+            {
+              "frame": 61,
+              "gap_mean_mm": 0.09160498687033318,
+              "gap_max_mm": 1.3459129258990288,
+              "head_rot_vs_neck_deg": 0.0
+            }
+          ]
+        },
+        "REF_gamemtn0_id0039_normalized_phase": {
+          "frames": 31,
+          "gap_max_mm": 1.4506540028378367,
+          "gap_max_frame": 45,
+          "gap_mean_mm": 0.3521705180224673,
+          "head_rot_vs_neck_deg_max": 7.486902467199368,
+          "per_frame": [
+            {
+              "frame": 1,
+              "gap_mean_mm": 0.33941089609678715,
+              "gap_max_mm": 1.3458189787343144,
+              "head_rot_vs_neck_deg": 6.1522519137539655
+            },
+            {
+              "frame": 3,
+              "gap_mean_mm": 0.33877047677669037,
+              "gap_max_mm": 1.3458057073876262,
+              "head_rot_vs_neck_deg": 6.135810794648099
+            },
+            {
+              "frame": 5,
+              "gap_mean_mm": 0.33813129135115116,
+              "gap_max_mm": 1.3458695029839873,
+              "head_rot_vs_neck_deg": 6.1200932487074295
+            },
+            {
+              "frame": 7,
+              "gap_mean_mm": 0.337476692736995,
+              "gap_max_mm": 1.3457786990329623,
+              "head_rot_vs_neck_deg": 6.104720200433023
+            },
+            {
+              "frame": 9,
+              "gap_mean_mm": 0.3368501974765709,
+              "gap_max_mm": 1.345913507975638,
+              "head_rot_vs_neck_deg": 6.089565718212057
+            },
+            {
+              "frame": 11,
+              "gap_mean_mm": 0.33616158217911524,
+              "gap_max_mm": 1.345737837255001,
+              "head_rot_vs_neck_deg": 6.07488892234617
+            },
+            {
+              "frame": 13,
+              "gap_mean_mm": 0.33575795459500496,
+              "gap_max_mm": 1.345925498753786,
+              "head_rot_vs_neck_deg": 6.06585898537659
+            },
+            {
+              "frame": 15,
+              "gap_mean_mm": 0.3350793281018755,
+              "gap_max_mm": 1.3458458706736565,
+              "head_rot_vs_neck_deg": 6.05215976033566
+            },
+            {
+              "frame": 17,
+              "gap_mean_mm": 0.33442079516855444,
+              "gap_max_mm": 1.3458119938150048,
+              "head_rot_vs_neck_deg": 6.038559573037695
+            },
+            {
+              "frame": 19,
+              "gap_mean_mm": 0.33374750539518355,
+              "gap_max_mm": 1.3458620524033904,
+              "head_rot_vs_neck_deg": 6.02544817115221
+            },
+            {
+              "frame": 21,
+              "gap_mean_mm": 0.33308217108061616,
+              "gap_max_mm": 1.345947152003646,
+              "head_rot_vs_neck_deg": 6.0126991961795575
+            },
+            {
+              "frame": 23,
+              "gap_mean_mm": 0.3324084436714985,
+              "gap_max_mm": 1.3458378380164504,
+              "head_rot_vs_neck_deg": 6.0004449830349085
+            },
+            {
+              "frame": 25,
+              "gap_mean_mm": 0.3363741185995783,
+              "gap_max_mm": 1.3458793982863426,
+              "head_rot_vs_neck_deg": 6.095477673825527
+            },
+            {
+              "frame": 27,
+              "gap_mean_mm": 0.34141600767536945,
+              "gap_max_mm": 1.3458778848871589,
+              "head_rot_vs_neck_deg": 6.218085545842779
+            },
+            {
+              "frame": 29,
+              "gap_mean_mm": 0.34665176102917655,
+              "gap_max_mm": 1.345755998045206,
+              "head_rot_vs_neck_deg": 6.348693703812232
+            },
+            {
+              "frame": 31,
+              "gap_mean_mm": 0.3520071162460739,
+              "gap_max_mm": 1.345865661278367,
+              "head_rot_vs_neck_deg": 6.487785383617664
+            },
+            {
+              "frame": 33,
+              "gap_mean_mm": 0.356819810400219,
+              "gap_max_mm": 1.3459583278745413,
+              "head_rot_vs_neck_deg": 6.618282977899929
+            },
+            {
+              "frame": 35,
+              "gap_mean_mm": 0.3620163430895218,
+              "gap_max_mm": 1.3459110632538795,
+              "head_rot_vs_neck_deg": 6.762723122712304
+            },
+            {
+              "frame": 37,
+              "gap_mean_mm": 0.3669678358518293,
+              "gap_max_mm": 1.3458800967782736,
+              "head_rot_vs_neck_deg": 6.9034651469759405
+            },
+            {
+              "frame": 39,
+              "gap_mean_mm": 0.3716987320948115,
+              "gap_max_mm": 1.360774622298777,
+              "head_rot_vs_neck_deg": 7.040508196917192
+            },
+            {
+              "frame": 41,
+              "gap_mean_mm": 0.3768170019204724,
+              "gap_max_mm": 1.391707337461412,
+              "head_rot_vs_neck_deg": 7.191291879921216
+            },
+            {
+              "frame": 43,
+              "gap_mean_mm": 0.3816671550151663,
+              "gap_max_mm": 1.4212665846571326,
+              "head_rot_vs_neck_deg": 7.338342437657006
+            },
+            {
+              "frame": 45,
+              "gap_mean_mm": 0.3865019674465883,
+              "gap_max_mm": 1.4506540028378367,
+              "head_rot_vs_neck_deg": 7.486902467199368
+            },
+            {
+              "frame": 47,
+              "gap_mean_mm": 0.3864824715453435,
+              "gap_max_mm": 1.4492080081254244,
+              "head_rot_vs_neck_deg": 7.4806229620311875
+            },
+            {
+              "frame": 49,
+              "gap_mean_mm": 0.3802098803726271,
+              "gap_max_mm": 1.4082049019634724,
+              "head_rot_vs_neck_deg": 7.275961466193634
+            },
+            {
+              "frame": 51,
+              "gap_mean_mm": 0.37382154423995834,
+              "gap_max_mm": 1.3693979708477855,
+              "head_rot_vs_neck_deg": 7.085969509145974
+            },
+            {
+              "frame": 53,
+              "gap_mean_mm": 0.3669198807071472,
+              "gap_max_mm": 1.3458826579153538,
+              "head_rot_vs_neck_deg": 6.887678445369925
+            },
+            {
+              "frame": 55,
+              "gap_mean_mm": 0.3601238700213447,
+              "gap_max_mm": 1.345830736681819,
+              "head_rot_vs_neck_deg": 6.698261931759839
+            },
+            {
+              "frame": 57,
+              "gap_mean_mm": 0.3534876126766819,
+              "gap_max_mm": 1.345902681350708,
+              "head_rot_vs_neck_deg": 6.51801153201591
+            },
+            {
+              "frame": 59,
+              "gap_mean_mm": 0.3465832771589015,
+              "gap_max_mm": 1.3458783505484462,
+              "head_rot_vs_neck_deg": 6.335976318464492
+            },
+            {
+              "frame": 61,
+              "gap_mean_mm": 0.33942233797563204,
+              "gap_max_mm": 1.3458154862746596,
+              "head_rot_vs_neck_deg": 6.1522519137539655
+            }
+          ]
+        },
+        "REF_gamemtn0_id1012_normalized_phase": {
+          "frames": 31,
+          "gap_max_mm": 4.517441615462303,
+          "gap_max_frame": 1,
+          "gap_mean_mm": 0.5142887431786789,
+          "head_rot_vs_neck_deg_max": 19.847255897776847,
+          "per_frame": [
+            {
+              "frame": 1,
+              "gap_mean_mm": 0.6200833399051815,
+              "gap_max_mm": 4.517441615462303,
+              "head_rot_vs_neck_deg": 19.847255897776847
+            },
+            {
+              "frame": 3,
+              "gap_mean_mm": 0.617627604924647,
+              "gap_max_mm": 4.447021055966616,
+              "head_rot_vs_neck_deg": 19.32490181307449
+            },
+            {
+              "frame": 5,
+              "gap_mean_mm": 0.615055428953227,
+              "gap_max_mm": 4.373770207166672,
+              "head_rot_vs_neck_deg": 18.80966820058187
+            },
+            {
+              "frame": 7,
+              "gap_mean_mm": 0.612190241455984,
+              "gap_max_mm": 4.295228980481625,
+              "head_rot_vs_neck_deg": 18.291014370862367
+            },
+            {
+              "frame": 9,
+              "gap_mean_mm": 0.6096435318281405,
+              "gap_max_mm": 4.217342939227819,
+              "head_rot_vs_neck_deg": 17.793467533225495
+            },
+            {
+              "frame": 11,
+              "gap_mean_mm": 0.6067222339160198,
+              "gap_max_mm": 4.135691560804844,
+              "head_rot_vs_neck_deg": 17.303348526311012
+            },
+            {
+              "frame": 13,
+              "gap_mean_mm": 0.6034348880528375,
+              "gap_max_mm": 4.048032220453024,
+              "head_rot_vs_neck_deg": 16.80736750954137
+            },
+            {
+              "frame": 15,
+              "gap_mean_mm": 0.5925794303665125,
+              "gap_max_mm": 3.8752262480556965,
+              "head_rot_vs_neck_deg": 15.960114986399843
+            },
+            {
+              "frame": 17,
+              "gap_mean_mm": 0.5849979921591978,
+              "gap_max_mm": 3.6626423243433237,
+              "head_rot_vs_neck_deg": 15.012479173026641
+            },
+            {
+              "frame": 19,
+              "gap_mean_mm": 0.5632193379329721,
+              "gap_max_mm": 3.3850749023258686,
+              "head_rot_vs_neck_deg": 13.94165833665132
+            },
+            {
+              "frame": 21,
+              "gap_mean_mm": 0.5422250462373106,
+              "gap_max_mm": 3.1016641296446323,
+              "head_rot_vs_neck_deg": 12.893594836816836
+            },
+            {
+              "frame": 23,
+              "gap_mean_mm": 0.5217788856161113,
+              "gap_max_mm": 2.814381383359432,
+              "head_rot_vs_neck_deg": 11.88243997170981
+            },
+            {
+              "frame": 25,
+              "gap_mean_mm": 0.5006862137274449,
+              "gap_max_mm": 2.7165913488715887,
+              "head_rot_vs_neck_deg": 10.902583594700719
+            },
+            {
+              "frame": 27,
+              "gap_mean_mm": 0.47778876369404827,
+              "gap_max_mm": 2.579111373052001,
+              "head_rot_vs_neck_deg": 9.89590677236828
+            },
+            {
+              "frame": 29,
+              "gap_mean_mm": 0.45112505049896856,
+              "gap_max_mm": 2.4182952474802732,
+              "head_rot_vs_neck_deg": 8.974059191980109
+            },
+            {
+              "frame": 31,
+              "gap_mean_mm": 0.4233475865253815,
+              "gap_max_mm": 2.2589280270040035,
+              "head_rot_vs_neck_deg": 8.10675494098272
+            },
+            {
+              "frame": 33,
+              "gap_mean_mm": 0.3950049003199025,
+              "gap_max_mm": 2.1022234577685595,
+              "head_rot_vs_neck_deg": 7.343676815398786
+            },
+            {
+              "frame": 35,
+              "gap_mean_mm": 0.3770795468149071,
+              "gap_max_mm": 1.9775331020355225,
+              "head_rot_vs_neck_deg": 6.890975292304926
+            },
+            {
+              "frame": 37,
+              "gap_mean_mm": 0.3720433027552294,
+              "gap_max_mm": 1.8468030029907823,
+              "head_rot_vs_neck_deg": 6.698495865738912
+            },
+            {
+              "frame": 39,
+              "gap_mean_mm": 0.3705299206008339,
+              "gap_max_mm": 1.7076288349926472,
+              "head_rot_vs_neck_deg": 6.607269297863283
+            },
+            {
+              "frame": 41,
+              "gap_mean_mm": 0.3760484777596971,
+              "gap_max_mm": 1.5925768529996276,
+              "head_rot_vs_neck_deg": 6.797375233692717
+            },
+            {
+              "frame": 43,
+              "gap_mean_mm": 0.3968920075715133,
+              "gap_max_mm": 1.5840784180909395,
+              "head_rot_vs_neck_deg": 7.714540719404845
+            },
+            {
+              "frame": 45,
+              "gap_mean_mm": 0.41626835571993287,
+              "gap_max_mm": 1.8797514494508505,
+              "head_rot_vs_neck_deg": 8.842222026846876
+            },
+            {
+              "frame": 47,
+              "gap_mean_mm": 0.44518895887195803,
+              "gap_max_mm": 2.2373434621840715,
+              "head_rot_vs_neck_deg": 10.06651977519332
+            },
+            {
+              "frame": 49,
+              "gap_mean_mm": 0.4747381888507313,
+              "gap_max_mm": 2.594604855403304,
+              "head_rot_vs_neck_deg": 11.381157020596941
+            },
+            {
+              "frame": 51,
+              "gap_mean_mm": 0.49870231615871885,
+              "gap_max_mm": 2.9438158962875605,
+              "head_rot_vs_neck_deg": 12.771231997836058
+            },
+            {
+              "frame": 53,
+              "gap_mean_mm": 0.5240665624364308,
+              "gap_max_mm": 3.2853048760443926,
+              "head_rot_vs_neck_deg": 14.212442893843768
+            },
+            {
+              "frame": 55,
+              "gap_mean_mm": 0.5511276685219498,
+              "gap_max_mm": 3.6172468680888414,
+              "head_rot_vs_neck_deg": 15.694557231469746
+            },
+            {
+              "frame": 57,
+              "gap_mean_mm": 0.5780649159879427,
+              "gap_max_mm": 3.9401231333613396,
+              "head_rot_vs_neck_deg": 17.20645546274521
+            },
+            {
+              "frame": 59,
+              "gap_mean_mm": 0.6046090543237782,
+              "gap_max_mm": 4.277227912098169,
+              "head_rot_vs_neck_deg": 18.787167849908556
+            },
+            {
+              "frame": 61,
+              "gap_mean_mm": 0.6200812860515361,
+              "gap_max_mm": 4.516981542110443,
+              "head_rot_vs_neck_deg": 19.84618697317174
+            }
+          ]
+        }
+      },
+      "review_blend": "TM_FH54_REVIEW_REF04_ANIM_WEIGHTED_F1_H1.blend"
+    },
+    "F0_H0_rigid": {
+      "combo": "F0_H0",
+      "mode": "rigid",
+      "neck_boundary_vertices": 43,
+      "rest_gap_mm": {
+        "mean": 0.09143592646310926,
+        "max": 1.3458875473588705
+      },
+      "actions": {
+        "REF_gamemtn0_id0001_normalized_phase": {
+          "frames": 31,
+          "gap_max_mm": 1.4672785764560103,
+          "gap_max_frame": 17,
+          "gap_mean_mm": 0.284705077251451,
+          "head_rot_vs_neck_deg_max": 0.8695254498598184,
+          "per_frame": [
+            {
+              "frame": 1,
+              "gap_mean_mm": 0.09134440673859724,
+              "gap_max_mm": 1.3457807945087552,
+              "head_rot_vs_neck_deg": 0.0
+            },
+            {
+              "frame": 3,
+              "gap_mean_mm": 0.09469946653273792,
+              "gap_max_mm": 1.3627703301608562,
+              "head_rot_vs_neck_deg": 0.055952909680744456
+            },
+            {
+              "frame": 5,
+              "gap_mean_mm": 0.10817821760941122,
+              "gap_max_mm": 1.3796520652249455,
+              "head_rot_vs_neck_deg": 0.11190581936148891
+            },
+            {
+              "frame": 7,
+              "gap_mean_mm": 0.12330215676450532,
+              "gap_max_mm": 1.3966088881716132,
+              "head_rot_vs_neck_deg": 0.16785874238244658
+            },
+            {
+              "frame": 9,
+              "gap_mean_mm": 0.13925999777098483,
+              "gap_max_mm": 1.4137624530121684,
+              "head_rot_vs_neck_deg": 0.23069980445965635
+            },
+            {
+              "frame": 11,
+              "gap_mean_mm": 0.15702397173108998,
+              "gap_max_mm": 1.4313417486846447,
+              "head_rot_vs_neck_deg": 0.2907399153479923
+            },
+            {
+              "frame": 13,
+              "gap_mean_mm": 0.17387176771797688,
+              "gap_max_mm": 1.4484234852716327,
+              "head_rot_vs_neck_deg": 0.34717880899643905
+            },
+            {
+              "frame": 15,
+              "gap_mean_mm": 0.1907731392375046,
+              "gap_max_mm": 1.4658599393442273,
+              "head_rot_vs_neck_deg": 0.4054175642128899
+            },
+            {
+              "frame": 17,
+              "gap_mean_mm": 0.21063770249184824,
+              "gap_max_mm": 1.4672785764560103,
+              "head_rot_vs_neck_deg": 0.45283876720749505
+            },
+            {
+              "frame": 19,
+              "gap_mean_mm": 0.24441049614490404,
+              "gap_max_mm": 1.4032445615157485,
+              "head_rot_vs_neck_deg": 0.45799459953550264
+            },
+            {
+              "frame": 21,
+              "gap_mean_mm": 0.280998215556246,
+              "gap_max_mm": 1.3312178198248148,
+              "head_rot_vs_neck_deg": 0.4813254585232084
+            },
+            {
+              "frame": 23,
+              "gap_mean_mm": 0.3138469640030377,
+              "gap_max_mm": 1.2670804280787706,
+              "head_rot_vs_neck_deg": 0.5263743447199978
+            },
+            {
+              "frame": 25,
+              "gap_mean_mm": 0.35012171821930743,
+              "gap_max_mm": 1.202757004648447,
+              "head_rot_vs_neck_deg": 0.5908273714619702
+            },
+            {
+              "frame": 27,
+              "gap_mean_mm": 0.38540031284813847,
+              "gap_max_mm": 1.1384531389921904,
+              "head_rot_vs_neck_deg": 0.659675998460816
+            },
+            {
+              "frame": 29,
+              "gap_mean_mm": 0.42427531096152765,
+              "gap_max_mm": 1.0661809938028455,
+              "head_rot_vs_neck_deg": 0.7433541934473761
+            },
+            {
+              "frame": 31,
+              "gap_mean_mm": 0.4561193125411767,
+              "gap_max_mm": 1.114287180826068,
+              "head_rot_vs_neck_deg": 0.8261366197964596
+            },
+            {
+              "frame": 33,
+              "gap_mean_mm": 0.47038477525605127,
+              "gap_max_mm": 1.1568948393687606,
+              "head_rot_vs_neck_deg": 0.8695254498598184
+            },
+            {
+              "frame": 35,
+              "gap_mean_mm": 0.46376297148494094,
+              "gap_max_mm": 1.12205243203789,
+              "head_rot_vs_neck_deg": 0.8439454309227686
+            },
+            {
+              "frame": 37,
+              "gap_mean_mm": 0.45482384735358866,
+              "gap_max_mm": 1.089991652406752,
+              "head_rot_vs_neck_deg": 0.8242395881153414
+            },
+            {
+              "frame": 39,
+              "gap_mean_mm": 0.4463802760673829,
+              "gap_max_mm": 1.061625313013792,
+              "head_rot_vs_neck_deg": 0.8050238647417154
+            },
+            {
+              "frame": 41,
+              "gap_mean_mm": 0.43713072944839837,
+              "gap_max_mm": 1.03588099591434,
+              "head_rot_vs_neck_deg": 0.7873287655929164
+            },
+            {
+              "frame": 43,
+              "gap_mean_mm": 0.42741697078320534,
+              "gap_max_mm": 1.0508046252653003,
+              "head_rot_vs_neck_deg": 0.7692267899408257
+            },
+            {
+              "frame": 45,
+              "gap_mean_mm": 0.4177776903642183,
+              "gap_max_mm": 1.0656225495040417,
+              "head_rot_vs_neck_deg": 0.7527707831570023
+            },
+            {
+              "frame": 47,
+              "gap_mean_mm": 0.4081183510667247,
+              "gap_max_mm": 1.0805436177179217,
+              "head_rot_vs_neck_deg": 0.7359469066533502
+            },
+            {
+              "frame": 49,
+              "gap_mean_mm": 0.3697697282779758,
+              "gap_max_mm": 1.1124941520392895,
+              "head_rot_vs_neck_deg": 0.6549129020100842
+            },
+            {
+              "frame": 51,
+              "gap_mean_mm": 0.3189133323053713,
+              "gap_max_mm": 1.152495387941599,
+              "head_rot_vs_neck_deg": 0.5453620038083687
+            },
+            {
+              "frame": 53,
+              "gap_mean_mm": 0.2693505190231167,
+              "gap_max_mm": 1.185001339763403,
+              "head_rot_vs_neck_deg": 0.4387938172006861
+            },
+            {
+              "frame": 55,
+              "gap_mean_mm": 0.21955088248557156,
+              "gap_max_mm": 1.2252789456397295,
+              "head_rot_vs_neck_deg": 0.3310219965147739
+            },
+            {
+              "frame": 57,
+              "gap_mean_mm": 0.16882307920113415,
+              "gap_max_mm": 1.2652232544496655,
+              "head_rot_vs_neck_deg": 0.22381166540340428
+            },
+            {
+              "frame": 59,
+              "gap_mean_mm": 0.11964689757844606,
+              "gap_max_mm": 1.305421581491828,
+              "head_rot_vs_neck_deg": 0.11190581936148891
+            },
+            {
+              "frame": 61,
+              "gap_mean_mm": 0.08974418722986094,
+              "gap_max_mm": 1.3379615265876055,
+              "head_rot_vs_neck_deg": 0.0
+            }
+          ]
+        },
+        "REF_gamemtn0_id0039_normalized_phase": {
+          "frames": 31,
+          "gap_max_mm": 12.088402174413204,
+          "gap_max_frame": 45,
+          "gap_mean_mm": 2.745191707529989,
+          "head_rot_vs_neck_deg_max": 7.486902467199368,
+          "per_frame": [
+            {
+              "frame": 1,
+              "gap_mean_mm": 2.6067859308860815,
+              "gap_max_mm": 10.245448909699917,
+              "head_rot_vs_neck_deg": 6.1522519137539655
+            },
+            {
+              "frame": 3,
+              "gap_mean_mm": 2.6000819266293385,
+              "gap_max_mm": 10.219586081802845,
+              "head_rot_vs_neck_deg": 6.135810794648099
+            },
+            {
+              "frame": 5,
+              "gap_mean_mm": 2.593412090537121,
+              "gap_max_mm": 10.193453170359135,
+              "head_rot_vs_neck_deg": 6.1200932487074295
+            },
+            {
+              "frame": 7,
+              "gap_mean_mm": 2.58681973912747,
+              "gap_max_mm": 10.167890228331089,
+              "head_rot_vs_neck_deg": 6.104720200433023
+            },
+            {
+              "frame": 9,
+              "gap_mean_mm": 2.580281324328903,
+              "gap_max_mm": 10.142195969820023,
+              "head_rot_vs_neck_deg": 6.089565718212057
+            },
+            {
+              "frame": 11,
+              "gap_mean_mm": 2.5736076407111415,
+              "gap_max_mm": 10.116315446794033,
+              "head_rot_vs_neck_deg": 6.07488892234617
+            },
+            {
+              "frame": 13,
+              "gap_mean_mm": 2.569223792928868,
+              "gap_max_mm": 10.098898783326149,
+              "head_rot_vs_neck_deg": 6.06585898537659
+            },
+            {
+              "frame": 15,
+              "gap_mean_mm": 2.562552722305082,
+              "gap_max_mm": 10.073043406009674,
+              "head_rot_vs_neck_deg": 6.05215976033566
+            },
+            {
+              "frame": 17,
+              "gap_mean_mm": 2.5558799242715984,
+              "gap_max_mm": 10.046915151178837,
+              "head_rot_vs_neck_deg": 6.038559573037695
+            },
+            {
+              "frame": 19,
+              "gap_mean_mm": 2.5492902449846877,
+              "gap_max_mm": 10.021294467151165,
+              "head_rot_vs_neck_deg": 6.02544817115221
+            },
+            {
+              "frame": 21,
+              "gap_mean_mm": 2.542609827058022,
+              "gap_max_mm": 9.995251893997192,
+              "head_rot_vs_neck_deg": 6.0126991961795575
+            },
+            {
+              "frame": 23,
+              "gap_mean_mm": 2.53595861891745,
+              "gap_max_mm": 9.969349019229412,
+              "head_rot_vs_neck_deg": 6.0004449830349085
+            },
+            {
+              "frame": 25,
+              "gap_mean_mm": 2.5756126993485062,
+              "gap_max_mm": 10.116751305758953,
+              "head_rot_vs_neck_deg": 6.095477673825527
+            },
+            {
+              "frame": 27,
+              "gap_mean_mm": 2.626294626011951,
+              "gap_max_mm": 10.305850766599178,
+              "head_rot_vs_neck_deg": 6.218085545842779
+            },
+            {
+              "frame": 29,
+              "gap_mean_mm": 2.6791180828063808,
+              "gap_max_mm": 10.503118857741356,
+              "head_rot_vs_neck_deg": 6.348693703812232
+            },
+            {
+              "frame": 31,
+              "gap_mean_mm": 2.733619169095564,
+              "gap_max_mm": 10.708698071539402,
+              "head_rot_vs_neck_deg": 6.487785383617664
+            },
+            {
+              "frame": 33,
+              "gap_mean_mm": 2.7829661261739207,
+              "gap_max_mm": 10.897735133767128,
+              "head_rot_vs_neck_deg": 6.618282977899929
+            },
+            {
+              "frame": 35,
+              "gap_mean_mm": 2.8378880337895827,
+              "gap_max_mm": 11.102770455181599,
+              "head_rot_vs_neck_deg": 6.762723122712304
+            },
+            {
+              "frame": 37,
+              "gap_mean_mm": 2.9012035767611657,
+              "gap_max_mm": 11.300083249807358,
+              "head_rot_vs_neck_deg": 6.9034651469759405
+            },
+            {
+              "frame": 39,
+              "gap_mean_mm": 2.9617197521501093,
+              "gap_max_mm": 11.48904673755169,
+              "head_rot_vs_neck_deg": 7.040508196917192
+            },
+            {
+              "frame": 41,
+              "gap_mean_mm": 3.0273661178792737,
+              "gap_max_mm": 11.6944070905447,
+              "head_rot_vs_neck_deg": 7.191291879921216
+            },
+            {
+              "frame": 43,
+              "gap_mean_mm": 3.078396434184402,
+              "gap_max_mm": 11.891290545463562,
+              "head_rot_vs_neck_deg": 7.338342437657006
+            },
+            {
+              "frame": 45,
+              "gap_mean_mm": 3.1304873209614494,
+              "gap_max_mm": 12.088402174413204,
+              "head_rot_vs_neck_deg": 7.486902467199368
+            },
+            {
+              "frame": 47,
+              "gap_mean_mm": 3.128309164500258,
+              "gap_max_mm": 12.080385349690914,
+              "head_rot_vs_neck_deg": 7.4806229620311875
+            },
+            {
+              "frame": 49,
+              "gap_mean_mm": 3.0571353677991246,
+              "gap_max_mm": 11.810023337602615,
+              "head_rot_vs_neck_deg": 7.275961466193634
+            },
+            {
+              "frame": 51,
+              "gap_mean_mm": 2.9801761081961433,
+              "gap_max_mm": 11.556659825146198,
+              "head_rot_vs_neck_deg": 7.085969509145974
+            },
+            {
+              "frame": 53,
+              "gap_mean_mm": 2.8928480387124242,
+              "gap_max_mm": 11.28724217414856,
+              "head_rot_vs_neck_deg": 6.887678445369925
+            },
+            {
+              "frame": 55,
+              "gap_mean_mm": 2.816399322458724,
+              "gap_max_mm": 11.026300489902496,
+              "head_rot_vs_neck_deg": 6.698261931759839
+            },
+            {
+              "frame": 57,
+              "gap_mean_mm": 2.7490204828652636,
+              "gap_max_mm": 10.77367551624775,
+              "head_rot_vs_neck_deg": 6.51801153201591
+            },
+            {
+              "frame": 59,
+              "gap_mean_mm": 2.6791027942181245,
+              "gap_max_mm": 10.513451881706715,
+              "head_rot_vs_neck_deg": 6.335976318464492
+            },
+            {
+              "frame": 61,
+              "gap_mean_mm": 2.6067759328315216,
+              "gap_max_mm": 10.245274752378464,
+              "head_rot_vs_neck_deg": 6.1522519137539655
+            }
+          ]
+        },
+        "REF_gamemtn0_id1012_normalized_phase": {
+          "frames": 31,
+          "gap_max_mm": 14.24572616815567,
+          "gap_max_frame": 3,
+          "gap_mean_mm": 3.29573532389875,
+          "head_rot_vs_neck_deg_max": 19.847255897776847,
+          "per_frame": [
+            {
+              "frame": 1,
+              "gap_mean_mm": 3.8141666919616495,
+              "gap_max_mm": 14.243224635720253,
+              "head_rot_vs_neck_deg": 19.847255897776847
+            },
+            {
+              "frame": 3,
+              "gap_mean_mm": 3.836240457869282,
+              "gap_max_mm": 14.24572616815567,
+              "head_rot_vs_neck_deg": 19.32490181307449
+            },
+            {
+              "frame": 5,
+              "gap_mean_mm": 3.858756626727736,
+              "gap_max_mm": 14.245563186705112,
+              "head_rot_vs_neck_deg": 18.80966820058187
+            },
+            {
+              "frame": 7,
+              "gap_mean_mm": 3.879277444564126,
+              "gap_max_mm": 14.217070303857327,
+              "head_rot_vs_neck_deg": 18.291014370862367
+            },
+            {
+              "frame": 9,
+              "gap_mean_mm": 3.897097532804007,
+              "gap_max_mm": 14.058290049433708,
+              "head_rot_vs_neck_deg": 17.793467533225495
+            },
+            {
+              "frame": 11,
+              "gap_mean_mm": 3.913424338672953,
+              "gap_max_mm": 13.890388421714306,
+              "head_rot_vs_neck_deg": 17.303348526311012
+            },
+            {
+              "frame": 13,
+              "gap_mean_mm": 3.9280035356808836,
+              "gap_max_mm": 13.70950322598219,
+              "head_rot_vs_neck_deg": 16.80736750954137
+            },
+            {
+              "frame": 15,
+              "gap_mean_mm": 3.918208981974542,
+              "gap_max_mm": 13.310805894434452,
+              "head_rot_vs_neck_deg": 15.960114986399843
+            },
+            {
+              "frame": 17,
+              "gap_mean_mm": 3.8943018203985313,
+              "gap_max_mm": 12.805174104869366,
+              "head_rot_vs_neck_deg": 15.012479173026641
+            },
+            {
+              "frame": 19,
+              "gap_mean_mm": 3.784616222673652,
+              "gap_max_mm": 12.068415060639381,
+              "head_rot_vs_neck_deg": 13.94165833665132
+            },
+            {
+              "frame": 21,
+              "gap_mean_mm": 3.674989149488985,
+              "gap_max_mm": 11.350764892995358,
+              "head_rot_vs_neck_deg": 12.893594836816836
+            },
+            {
+              "frame": 23,
+              "gap_mean_mm": 3.5657024616425073,
+              "gap_max_mm": 10.673916898667812,
+              "head_rot_vs_neck_deg": 11.88243997170981
+            },
+            {
+              "frame": 25,
+              "gap_mean_mm": 3.4550669195134773,
+              "gap_max_mm": 10.085671208798885,
+              "head_rot_vs_neck_deg": 10.902583594700719
+            },
+            {
+              "frame": 27,
+              "gap_mean_mm": 3.2991726939045285,
+              "gap_max_mm": 9.56702884286642,
+              "head_rot_vs_neck_deg": 9.89590677236828
+            },
+            {
+              "frame": 29,
+              "gap_mean_mm": 3.1395367260666536,
+              "gap_max_mm": 9.032988920807838,
+              "head_rot_vs_neck_deg": 8.974059191980109
+            },
+            {
+              "frame": 31,
+              "gap_mean_mm": 2.97771009710783,
+              "gap_max_mm": 8.480136282742023,
+              "head_rot_vs_neck_deg": 8.10675494098272
+            },
+            {
+              "frame": 33,
+              "gap_mean_mm": 2.8139086065265553,
+              "gap_max_mm": 8.404668420553207,
+              "head_rot_vs_neck_deg": 7.343676815398786
+            },
+            {
+              "frame": 35,
+              "gap_mean_mm": 2.673072597280159,
+              "gap_max_mm": 8.57044942677021,
+              "head_rot_vs_neck_deg": 6.890975292304926
+            },
+            {
+              "frame": 37,
+              "gap_mean_mm": 2.50115746664978,
+              "gap_max_mm": 8.763573132455349,
+              "head_rot_vs_neck_deg": 6.698495865738912
+            },
+            {
+              "frame": 39,
+              "gap_mean_mm": 2.325398718902745,
+              "gap_max_mm": 8.976162411272526,
+              "head_rot_vs_neck_deg": 6.607269297863283
+            },
+            {
+              "frame": 41,
+              "gap_mean_mm": 2.2791733528851084,
+              "gap_max_mm": 9.46054607629776,
+              "head_rot_vs_neck_deg": 6.797375233692717
+            },
+            {
+              "frame": 43,
+              "gap_mean_mm": 2.488011603618546,
+              "gap_max_mm": 10.634014382958412,
+              "head_rot_vs_neck_deg": 7.714540719404845
+            },
+            {
+              "frame": 45,
+              "gap_mean_mm": 2.7377677884313805,
+              "gap_max_mm": 11.652053333818913,
+              "head_rot_vs_neck_deg": 8.842222026846876
+            },
+            {
+              "frame": 47,
+              "gap_mean_mm": 2.7084730072909164,
+              "gap_max_mm": 11.347770690917969,
+              "head_rot_vs_neck_deg": 10.06651977519332
+            },
+            {
+              "frame": 49,
+              "gap_mean_mm": 2.7351876057121998,
+              "gap_max_mm": 10.909161530435085,
+              "head_rot_vs_neck_deg": 11.381157020596941
+            },
+            {
+              "frame": 51,
+              "gap_mean_mm": 2.9086346181591796,
+              "gap_max_mm": 10.78620832413435,
+              "head_rot_vs_neck_deg": 12.771231997836058
+            },
+            {
+              "frame": 53,
+              "gap_mean_mm": 3.082820888724859,
+              "gap_max_mm": 11.553989723324776,
+              "head_rot_vs_neck_deg": 14.212442893843768
+            },
+            {
+              "frame": 55,
+              "gap_mean_mm": 3.2509774009173547,
+              "gap_max_mm": 12.281730771064758,
+              "head_rot_vs_neck_deg": 15.694557231469746
+            },
+            {
+              "frame": 57,
+              "gap_mean_mm": 3.4163051826254787,
+              "gap_max_mm": 12.976904399693012,
+              "head_rot_vs_neck_deg": 17.20645546274521
+            },
+            {
+              "frame": 59,
+              "gap_mean_mm": 3.5974360379615518,
+              "gap_max_mm": 13.709211722016335,
+              "head_rot_vs_neck_deg": 18.787167849908556
+            },
+            {
+              "frame": 61,
+              "gap_mean_mm": 3.8131984641241057,
+              "gap_max_mm": 14.242222532629967,
+              "head_rot_vs_neck_deg": 19.84618697317174
+            }
+          ]
+        }
+      }
+    },
+    "F0_H0_weighted": {
+      "combo": "F0_H0",
+      "mode": "weighted",
+      "neck_boundary_vertices": 43,
+      "rest_gap_mm": {
+        "mean": 0.09138964228835285,
+        "max": 1.3458908069878817
+      },
+      "actions": {
+        "REF_gamemtn0_id0001_normalized_phase": {
+          "frames": 31,
+          "gap_max_mm": 1.345957862213254,
+          "gap_max_frame": 13,
+          "gap_mean_mm": 0.103365384005091,
+          "head_rot_vs_neck_deg_max": 0.8695254498598184,
+          "per_frame": [
+            {
+              "frame": 1,
+              "gap_mean_mm": 0.09138879899640495,
+              "gap_max_mm": 1.3458875473588705,
+              "head_rot_vs_neck_deg": 0.0
+            },
+            {
+              "frame": 3,
+              "gap_mean_mm": 0.09096079366352418,
+              "gap_max_mm": 1.345847500488162,
+              "head_rot_vs_neck_deg": 0.055952909680744456
+            },
+            {
+              "frame": 5,
+              "gap_mean_mm": 0.09052295536031914,
+              "gap_max_mm": 1.3458883622661233,
+              "head_rot_vs_neck_deg": 0.11190581936148891
+            },
+            {
+              "frame": 7,
+              "gap_mean_mm": 0.09019594805280257,
+              "gap_max_mm": 1.3458526227623224,
+              "head_rot_vs_neck_deg": 0.16785874238244658
+            },
+            {
+              "frame": 9,
+              "gap_mean_mm": 0.09124550190347434,
+              "gap_max_mm": 1.3459320180118084,
+              "head_rot_vs_neck_deg": 0.23069980445965635
+            },
+            {
+              "frame": 11,
+              "gap_mean_mm": 0.09278808926282191,
+              "gap_max_mm": 1.345912110991776,
+              "head_rot_vs_neck_deg": 0.2907399153479923
+            },
+            {
+              "frame": 13,
+              "gap_mean_mm": 0.09420466303831243,
+              "gap_max_mm": 1.345957862213254,
+              "head_rot_vs_neck_deg": 0.34717880899643905
+            },
+            {
+              "frame": 15,
+              "gap_mean_mm": 0.09564032136810158,
+              "gap_max_mm": 1.345842843875289,
+              "head_rot_vs_neck_deg": 0.4054175642128899
+            },
+            {
+              "frame": 17,
+              "gap_mean_mm": 0.0973578507854777,
+              "gap_max_mm": 1.3458810281008482,
+              "head_rot_vs_neck_deg": 0.45283876720749505
+            },
+            {
+              "frame": 19,
+              "gap_mean_mm": 0.09963194032260198,
+              "gap_max_mm": 1.34579511359334,
+              "head_rot_vs_neck_deg": 0.45799459953550264
+            },
+            {
+              "frame": 21,
+              "gap_mean_mm": 0.10206308599278631,
+              "gap_max_mm": 1.3458397006615996,
+              "head_rot_vs_neck_deg": 0.4813254585232084
+            },
+            {
+              "frame": 23,
+              "gap_mean_mm": 0.10464035368482255,
+              "gap_max_mm": 1.3459475012496114,
+              "head_rot_vs_neck_deg": 0.5263743447199978
+            },
+            {
+              "frame": 25,
+              "gap_mean_mm": 0.10775911715729088,
+              "gap_max_mm": 1.345803146250546,
+              "head_rot_vs_neck_deg": 0.5908273714619702
+            },
+            {
+              "frame": 27,
+              "gap_mean_mm": 0.11076470199806267,
+              "gap_max_mm": 1.3459058245643973,
+              "head_rot_vs_neck_deg": 0.659675998460816
+            },
+            {
+              "frame": 29,
+              "gap_mean_mm": 0.1139484531131265,
+              "gap_max_mm": 1.3458684552460909,
+              "head_rot_vs_neck_deg": 0.7433541934473761
+            },
+            {
+              "frame": 31,
+              "gap_mean_mm": 0.11692967122539773,
+              "gap_max_mm": 1.3457981403917074,
+              "head_rot_vs_neck_deg": 0.8261366197964596
+            },
+            {
+              "frame": 33,
+              "gap_mean_mm": 0.11843921252876581,
+              "gap_max_mm": 1.3459022156894207,
+              "head_rot_vs_neck_deg": 0.8695254498598184
+            },
+            {
+              "frame": 35,
+              "gap_mean_mm": 0.1173534845508758,
+              "gap_max_mm": 1.3458485482260585,
+              "head_rot_vs_neck_deg": 0.8439454309227686
+            },
+            {
+              "frame": 37,
+              "gap_mean_mm": 0.1164042568768417,
+              "gap_max_mm": 1.345868338830769,
+              "head_rot_vs_neck_deg": 0.8242395881153414
+            },
+            {
+              "frame": 39,
+              "gap_mean_mm": 0.11554490728157518,
+              "gap_max_mm": 1.3458604225888848,
+              "head_rot_vs_neck_deg": 0.8050238647417154
+            },
+            {
+              "frame": 41,
+              "gap_mean_mm": 0.11468201757410529,
+              "gap_max_mm": 1.345849595963955,
+              "head_rot_vs_neck_deg": 0.7873287655929164
+            },
+            {
+              "frame": 43,
+              "gap_mean_mm": 0.1138436697240086,
+              "gap_max_mm": 1.3458931352943182,
+              "head_rot_vs_neck_deg": 0.7692267899408257
+            },
+            {
+              "frame": 45,
+              "gap_mean_mm": 0.11298655686299208,
+              "gap_max_mm": 1.3457732275128365,
+              "head_rot_vs_neck_deg": 0.7527707831570023
+            },
+            {
+              "frame": 47,
+              "gap_mean_mm": 0.11211214073733534,
+              "gap_max_mm": 1.3458861503750086,
+              "head_rot_vs_neck_deg": 0.7359469066533502
+            },
+            {
+              "frame": 49,
+              "gap_mean_mm": 0.1090124133886141,
+              "gap_max_mm": 1.3458899920806289,
+              "head_rot_vs_neck_deg": 0.6549129020100842
+            },
+            {
+              "frame": 51,
+              "gap_mean_mm": 0.10493619905613455,
+              "gap_max_mm": 1.3459022156894207,
+              "head_rot_vs_neck_deg": 0.5453620038083687
+            },
+            {
+              "frame": 53,
+              "gap_mean_mm": 0.10152979955658703,
+              "gap_max_mm": 1.3458279427140951,
+              "head_rot_vs_neck_deg": 0.4387938172006861
+            },
+            {
+              "frame": 55,
+              "gap_mean_mm": 0.09832848054887354,
+              "gap_max_mm": 1.3458668254315853,
+              "head_rot_vs_neck_deg": 0.3310219965147739
+            },
+            {
+              "frame": 57,
+              "gap_mean_mm": 0.09508333522130517,
+              "gap_max_mm": 1.3458221219480038,
+              "head_rot_vs_neck_deg": 0.22381166540340428
+            },
+            {
+              "frame": 59,
+              "gap_mean_mm": 0.09242319745414646,
+              "gap_max_mm": 1.3458802131935954,
+              "head_rot_vs_neck_deg": 0.11190581936148891
+            },
+            {
+              "frame": 61,
+              "gap_mean_mm": 0.09160498687033318,
+              "gap_max_mm": 1.3459129258990288,
+              "head_rot_vs_neck_deg": 0.0
+            }
+          ]
+        },
+        "REF_gamemtn0_id0039_normalized_phase": {
+          "frames": 31,
+          "gap_max_mm": 1.4506540028378367,
+          "gap_max_frame": 45,
+          "gap_mean_mm": 0.3521705180224673,
+          "head_rot_vs_neck_deg_max": 7.486902467199368,
+          "per_frame": [
+            {
+              "frame": 1,
+              "gap_mean_mm": 0.33941089609678715,
+              "gap_max_mm": 1.3458189787343144,
+              "head_rot_vs_neck_deg": 6.1522519137539655
+            },
+            {
+              "frame": 3,
+              "gap_mean_mm": 0.33877047677669037,
+              "gap_max_mm": 1.3458057073876262,
+              "head_rot_vs_neck_deg": 6.135810794648099
+            },
+            {
+              "frame": 5,
+              "gap_mean_mm": 0.33813129135115116,
+              "gap_max_mm": 1.3458695029839873,
+              "head_rot_vs_neck_deg": 6.1200932487074295
+            },
+            {
+              "frame": 7,
+              "gap_mean_mm": 0.337476692736995,
+              "gap_max_mm": 1.3457786990329623,
+              "head_rot_vs_neck_deg": 6.104720200433023
+            },
+            {
+              "frame": 9,
+              "gap_mean_mm": 0.3368501974765709,
+              "gap_max_mm": 1.345913507975638,
+              "head_rot_vs_neck_deg": 6.089565718212057
+            },
+            {
+              "frame": 11,
+              "gap_mean_mm": 0.33616158217911524,
+              "gap_max_mm": 1.345737837255001,
+              "head_rot_vs_neck_deg": 6.07488892234617
+            },
+            {
+              "frame": 13,
+              "gap_mean_mm": 0.33575795459500496,
+              "gap_max_mm": 1.345925498753786,
+              "head_rot_vs_neck_deg": 6.06585898537659
+            },
+            {
+              "frame": 15,
+              "gap_mean_mm": 0.3350793281018755,
+              "gap_max_mm": 1.3458458706736565,
+              "head_rot_vs_neck_deg": 6.05215976033566
+            },
+            {
+              "frame": 17,
+              "gap_mean_mm": 0.33442079516855444,
+              "gap_max_mm": 1.3458119938150048,
+              "head_rot_vs_neck_deg": 6.038559573037695
+            },
+            {
+              "frame": 19,
+              "gap_mean_mm": 0.33374750539518355,
+              "gap_max_mm": 1.3458620524033904,
+              "head_rot_vs_neck_deg": 6.02544817115221
+            },
+            {
+              "frame": 21,
+              "gap_mean_mm": 0.33308217108061616,
+              "gap_max_mm": 1.345947152003646,
+              "head_rot_vs_neck_deg": 6.0126991961795575
+            },
+            {
+              "frame": 23,
+              "gap_mean_mm": 0.3324084436714985,
+              "gap_max_mm": 1.3458378380164504,
+              "head_rot_vs_neck_deg": 6.0004449830349085
+            },
+            {
+              "frame": 25,
+              "gap_mean_mm": 0.3363741185995783,
+              "gap_max_mm": 1.3458793982863426,
+              "head_rot_vs_neck_deg": 6.095477673825527
+            },
+            {
+              "frame": 27,
+              "gap_mean_mm": 0.34141600767536945,
+              "gap_max_mm": 1.3458778848871589,
+              "head_rot_vs_neck_deg": 6.218085545842779
+            },
+            {
+              "frame": 29,
+              "gap_mean_mm": 0.34665176102917655,
+              "gap_max_mm": 1.345755998045206,
+              "head_rot_vs_neck_deg": 6.348693703812232
+            },
+            {
+              "frame": 31,
+              "gap_mean_mm": 0.3520071162460739,
+              "gap_max_mm": 1.345865661278367,
+              "head_rot_vs_neck_deg": 6.487785383617664
+            },
+            {
+              "frame": 33,
+              "gap_mean_mm": 0.356819810400219,
+              "gap_max_mm": 1.3459583278745413,
+              "head_rot_vs_neck_deg": 6.618282977899929
+            },
+            {
+              "frame": 35,
+              "gap_mean_mm": 0.3620163430895218,
+              "gap_max_mm": 1.3459110632538795,
+              "head_rot_vs_neck_deg": 6.762723122712304
+            },
+            {
+              "frame": 37,
+              "gap_mean_mm": 0.3669678358518293,
+              "gap_max_mm": 1.3458800967782736,
+              "head_rot_vs_neck_deg": 6.9034651469759405
+            },
+            {
+              "frame": 39,
+              "gap_mean_mm": 0.3716987320948115,
+              "gap_max_mm": 1.360774622298777,
+              "head_rot_vs_neck_deg": 7.040508196917192
+            },
+            {
+              "frame": 41,
+              "gap_mean_mm": 0.3768170019204724,
+              "gap_max_mm": 1.391707337461412,
+              "head_rot_vs_neck_deg": 7.191291879921216
+            },
+            {
+              "frame": 43,
+              "gap_mean_mm": 0.3816671550151663,
+              "gap_max_mm": 1.4212665846571326,
+              "head_rot_vs_neck_deg": 7.338342437657006
+            },
+            {
+              "frame": 45,
+              "gap_mean_mm": 0.3865019674465883,
+              "gap_max_mm": 1.4506540028378367,
+              "head_rot_vs_neck_deg": 7.486902467199368
+            },
+            {
+              "frame": 47,
+              "gap_mean_mm": 0.3864824715453435,
+              "gap_max_mm": 1.4492080081254244,
+              "head_rot_vs_neck_deg": 7.4806229620311875
+            },
+            {
+              "frame": 49,
+              "gap_mean_mm": 0.3802098803726271,
+              "gap_max_mm": 1.4082049019634724,
+              "head_rot_vs_neck_deg": 7.275961466193634
+            },
+            {
+              "frame": 51,
+              "gap_mean_mm": 0.37382154423995834,
+              "gap_max_mm": 1.3693979708477855,
+              "head_rot_vs_neck_deg": 7.085969509145974
+            },
+            {
+              "frame": 53,
+              "gap_mean_mm": 0.3669198807071472,
+              "gap_max_mm": 1.3458826579153538,
+              "head_rot_vs_neck_deg": 6.887678445369925
+            },
+            {
+              "frame": 55,
+              "gap_mean_mm": 0.3601238700213447,
+              "gap_max_mm": 1.345830736681819,
+              "head_rot_vs_neck_deg": 6.698261931759839
+            },
+            {
+              "frame": 57,
+              "gap_mean_mm": 0.3534876126766819,
+              "gap_max_mm": 1.345902681350708,
+              "head_rot_vs_neck_deg": 6.51801153201591
+            },
+            {
+              "frame": 59,
+              "gap_mean_mm": 0.3465832771589015,
+              "gap_max_mm": 1.3458783505484462,
+              "head_rot_vs_neck_deg": 6.335976318464492
+            },
+            {
+              "frame": 61,
+              "gap_mean_mm": 0.33942233797563204,
+              "gap_max_mm": 1.3458154862746596,
+              "head_rot_vs_neck_deg": 6.1522519137539655
+            }
+          ]
+        },
+        "REF_gamemtn0_id1012_normalized_phase": {
+          "frames": 31,
+          "gap_max_mm": 4.517441615462303,
+          "gap_max_frame": 1,
+          "gap_mean_mm": 0.5142887431786789,
+          "head_rot_vs_neck_deg_max": 19.847255897776847,
+          "per_frame": [
+            {
+              "frame": 1,
+              "gap_mean_mm": 0.6200833399051815,
+              "gap_max_mm": 4.517441615462303,
+              "head_rot_vs_neck_deg": 19.847255897776847
+            },
+            {
+              "frame": 3,
+              "gap_mean_mm": 0.617627604924647,
+              "gap_max_mm": 4.447021055966616,
+              "head_rot_vs_neck_deg": 19.32490181307449
+            },
+            {
+              "frame": 5,
+              "gap_mean_mm": 0.615055428953227,
+              "gap_max_mm": 4.373770207166672,
+              "head_rot_vs_neck_deg": 18.80966820058187
+            },
+            {
+              "frame": 7,
+              "gap_mean_mm": 0.612190241455984,
+              "gap_max_mm": 4.295228980481625,
+              "head_rot_vs_neck_deg": 18.291014370862367
+            },
+            {
+              "frame": 9,
+              "gap_mean_mm": 0.6096435318281405,
+              "gap_max_mm": 4.217342939227819,
+              "head_rot_vs_neck_deg": 17.793467533225495
+            },
+            {
+              "frame": 11,
+              "gap_mean_mm": 0.6067222339160198,
+              "gap_max_mm": 4.135691560804844,
+              "head_rot_vs_neck_deg": 17.303348526311012
+            },
+            {
+              "frame": 13,
+              "gap_mean_mm": 0.6034348880528375,
+              "gap_max_mm": 4.048032220453024,
+              "head_rot_vs_neck_deg": 16.80736750954137
+            },
+            {
+              "frame": 15,
+              "gap_mean_mm": 0.5925794303665125,
+              "gap_max_mm": 3.8752262480556965,
+              "head_rot_vs_neck_deg": 15.960114986399843
+            },
+            {
+              "frame": 17,
+              "gap_mean_mm": 0.5849979921591978,
+              "gap_max_mm": 3.6626423243433237,
+              "head_rot_vs_neck_deg": 15.012479173026641
+            },
+            {
+              "frame": 19,
+              "gap_mean_mm": 0.5632193379329721,
+              "gap_max_mm": 3.3850749023258686,
+              "head_rot_vs_neck_deg": 13.94165833665132
+            },
+            {
+              "frame": 21,
+              "gap_mean_mm": 0.5422250462373106,
+              "gap_max_mm": 3.1016641296446323,
+              "head_rot_vs_neck_deg": 12.893594836816836
+            },
+            {
+              "frame": 23,
+              "gap_mean_mm": 0.5217788856161113,
+              "gap_max_mm": 2.814381383359432,
+              "head_rot_vs_neck_deg": 11.88243997170981
+            },
+            {
+              "frame": 25,
+              "gap_mean_mm": 0.5006862137274449,
+              "gap_max_mm": 2.7165913488715887,
+              "head_rot_vs_neck_deg": 10.902583594700719
+            },
+            {
+              "frame": 27,
+              "gap_mean_mm": 0.47778876369404827,
+              "gap_max_mm": 2.579111373052001,
+              "head_rot_vs_neck_deg": 9.89590677236828
+            },
+            {
+              "frame": 29,
+              "gap_mean_mm": 0.45112505049896856,
+              "gap_max_mm": 2.4182952474802732,
+              "head_rot_vs_neck_deg": 8.974059191980109
+            },
+            {
+              "frame": 31,
+              "gap_mean_mm": 0.4233475865253815,
+              "gap_max_mm": 2.2589280270040035,
+              "head_rot_vs_neck_deg": 8.10675494098272
+            },
+            {
+              "frame": 33,
+              "gap_mean_mm": 0.3950049003199025,
+              "gap_max_mm": 2.1022234577685595,
+              "head_rot_vs_neck_deg": 7.343676815398786
+            },
+            {
+              "frame": 35,
+              "gap_mean_mm": 0.3770795468149071,
+              "gap_max_mm": 1.9775331020355225,
+              "head_rot_vs_neck_deg": 6.890975292304926
+            },
+            {
+              "frame": 37,
+              "gap_mean_mm": 0.3720433027552294,
+              "gap_max_mm": 1.8468030029907823,
+              "head_rot_vs_neck_deg": 6.698495865738912
+            },
+            {
+              "frame": 39,
+              "gap_mean_mm": 0.3705299206008339,
+              "gap_max_mm": 1.7076288349926472,
+              "head_rot_vs_neck_deg": 6.607269297863283
+            },
+            {
+              "frame": 41,
+              "gap_mean_mm": 0.3760484777596971,
+              "gap_max_mm": 1.5925768529996276,
+              "head_rot_vs_neck_deg": 6.797375233692717
+            },
+            {
+              "frame": 43,
+              "gap_mean_mm": 0.3968920075715133,
+              "gap_max_mm": 1.5840784180909395,
+              "head_rot_vs_neck_deg": 7.714540719404845
+            },
+            {
+              "frame": 45,
+              "gap_mean_mm": 0.41626835571993287,
+              "gap_max_mm": 1.8797514494508505,
+              "head_rot_vs_neck_deg": 8.842222026846876
+            },
+            {
+              "frame": 47,
+              "gap_mean_mm": 0.44518895887195803,
+              "gap_max_mm": 2.2373434621840715,
+              "head_rot_vs_neck_deg": 10.06651977519332
+            },
+            {
+              "frame": 49,
+              "gap_mean_mm": 0.4747381888507313,
+              "gap_max_mm": 2.594604855403304,
+              "head_rot_vs_neck_deg": 11.381157020596941
+            },
+            {
+              "frame": 51,
+              "gap_mean_mm": 0.49870231615871885,
+              "gap_max_mm": 2.9438158962875605,
+              "head_rot_vs_neck_deg": 12.771231997836058
+            },
+            {
+              "frame": 53,
+              "gap_mean_mm": 0.5240665624364308,
+              "gap_max_mm": 3.2853048760443926,
+              "head_rot_vs_neck_deg": 14.212442893843768
+            },
+            {
+              "frame": 55,
+              "gap_mean_mm": 0.5511276685219498,
+              "gap_max_mm": 3.6172468680888414,
+              "head_rot_vs_neck_deg": 15.694557231469746
+            },
+            {
+              "frame": 57,
+              "gap_mean_mm": 0.5780649159879427,
+              "gap_max_mm": 3.9401231333613396,
+              "head_rot_vs_neck_deg": 17.20645546274521
+            },
+            {
+              "frame": 59,
+              "gap_mean_mm": 0.6046090543237782,
+              "gap_max_mm": 4.277227912098169,
+              "head_rot_vs_neck_deg": 18.787167849908556
+            },
+            {
+              "frame": 61,
+              "gap_mean_mm": 0.6200812860515361,
+              "gap_max_mm": 4.516981542110443,
+              "head_rot_vs_neck_deg": 19.84618697317174
+            }
+          ]
+        }
+      }
+    }
+  }
+}

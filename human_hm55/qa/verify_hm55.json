@@ -1,0 +1,5444 @@
+{
+ "status": "ORIGINAL CANDIDATE authored by scripts in human_hm55/scripts. Not approved, not formally adopted.",
+ "blender": "4.2.23 LTS",
+ "structure": {
+  "TM_HM55_PLAYER_P0_H1_KITA.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM55_Body": [
+     {
+      "material": "TM_HM55_Kit_A",
+      "triangles": 1736,
+      "vertices": 1084,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM55_BodySkin_T2",
+      "triangles": 816,
+      "vertices": 502,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Hair": [
+     {
+      "material": "TMH55_H1_Cap",
+      "triangles": 1330,
+      "vertices": 784,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H1_CapEdge",
+      "triangles": 560,
+      "vertices": 355,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H1_Cards",
+      "triangles": 248,
+      "vertices": 310,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Head": [
+     {
+      "material": "TM_HM55_Head_P0",
+      "triangles": 1988,
+      "vertices": 1112,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM55_Kit_A",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_BodySkin_T2",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H1_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H1_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H1_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_Head_P0",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 6678,
+   "attribute_vertices": 4147,
+   "primitives": 6
+  },
+  "TM_HM55_PLAYER_P0_H1_KITB.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM55_Body": [
+     {
+      "material": "TM_HM55_Kit_B",
+      "triangles": 1736,
+      "vertices": 1084,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM55_BodySkin_T2",
+      "triangles": 816,
+      "vertices": 502,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Hair": [
+     {
+      "material": "TMH55_H1_Cap",
+      "triangles": 1330,
+      "vertices": 784,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H1_CapEdge",
+      "triangles": 560,
+      "vertices": 355,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H1_Cards",
+      "triangles": 248,
+      "vertices": 310,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Head": [
+     {
+      "material": "TM_HM55_Head_P0",
+      "triangles": 1988,
+      "vertices": 1112,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM55_Kit_B",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_BodySkin_T2",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H1_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H1_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H1_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_Head_P0",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 6678,
+   "attribute_vertices": 4147,
+   "primitives": 6
+  },
+  "TM_HM55_PLAYER_P0_H2_KITA.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM55_Body": [
+     {
+      "material": "TM_HM55_Kit_A",
+      "triangles": 1736,
+      "vertices": 1084,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM55_BodySkin_T2",
+      "triangles": 816,
+      "vertices": 502,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Hair": [
+     {
+      "material": "TMH55_H2_Cap",
+      "triangles": 1330,
+      "vertices": 780,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H2_CapEdge",
+      "triangles": 560,
+      "vertices": 355,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H2_Cards",
+      "triangles": 48,
+      "vertices": 72,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Head": [
+     {
+      "material": "TM_HM55_Head_P0",
+      "triangles": 1988,
+      "vertices": 1112,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM55_Kit_A",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_BodySkin_T2",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H2_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H2_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H2_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_Head_P0",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 6478,
+   "attribute_vertices": 3905,
+   "primitives": 6
+  },
+  "TM_HM55_PLAYER_P0_H3_KITA.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM55_Body": [
+     {
+      "material": "TM_HM55_Kit_A",
+      "triangles": 1736,
+      "vertices": 1084,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM55_BodySkin_T2",
+      "triangles": 816,
+      "vertices": 502,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Hair": [
+     {
+      "material": "TMH55_H3_Cap",
+      "triangles": 1368,
+      "vertices": 795,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H3_CapEdge",
+      "triangles": 576,
+      "vertices": 365,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H3_Cards",
+      "triangles": 270,
+      "vertices": 318,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Head": [
+     {
+      "material": "TM_HM55_Head_P0",
+      "triangles": 1988,
+      "vertices": 1112,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM55_Kit_A",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_BodySkin_T2",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H3_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H3_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H3_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_Head_P0",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 6754,
+   "attribute_vertices": 4176,
+   "primitives": 6
+  },
+  "TM_HM55_PLAYER_P0_H4_KITA.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM55_Body": [
+     {
+      "material": "TM_HM55_Kit_A",
+      "triangles": 1736,
+      "vertices": 1084,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM55_BodySkin_T2",
+      "triangles": 816,
+      "vertices": 502,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Hair": [
+     {
+      "material": "TMH55_H4_Cap",
+      "triangles": 1330,
+      "vertices": 815,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H4_CapEdge",
+      "triangles": 560,
+      "vertices": 355,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H4_Cards",
+      "triangles": 340,
+      "vertices": 404,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Head": [
+     {
+      "material": "TM_HM55_Head_P0",
+      "triangles": 1988,
+      "vertices": 1112,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM55_Kit_A",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_BodySkin_T2",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H4_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H4_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H4_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_Head_P0",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 6770,
+   "attribute_vertices": 4272,
+   "primitives": 6
+  },
+  "TM_HM55_PLAYER_P1_H1_KITA.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM55_Body": [
+     {
+      "material": "TM_HM55_Kit_A",
+      "triangles": 1736,
+      "vertices": 1084,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM55_BodySkin_T3",
+      "triangles": 816,
+      "vertices": 502,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Hair": [
+     {
+      "material": "TMH55_H1_Cap",
+      "triangles": 1330,
+      "vertices": 784,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H1_CapEdge",
+      "triangles": 560,
+      "vertices": 355,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H1_Cards",
+      "triangles": 248,
+      "vertices": 310,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Head": [
+     {
+      "material": "TM_HM55_Head_P1",
+      "triangles": 1988,
+      "vertices": 1112,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM55_Kit_A",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_BodySkin_T3",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H1_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H1_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H1_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_Head_P1",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 6678,
+   "attribute_vertices": 4147,
+   "primitives": 6
+  },
+  "TM_HM55_PLAYER_P1_H2_KITA.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM55_Body": [
+     {
+      "material": "TM_HM55_Kit_A",
+      "triangles": 1736,
+      "vertices": 1084,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM55_BodySkin_T3",
+      "triangles": 816,
+      "vertices": 502,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Hair": [
+     {
+      "material": "TMH55_H2_Cap",
+      "triangles": 1330,
+      "vertices": 780,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H2_CapEdge",
+      "triangles": 560,
+      "vertices": 355,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H2_Cards",
+      "triangles": 48,
+      "vertices": 72,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Head": [
+     {
+      "material": "TM_HM55_Head_P1",
+      "triangles": 1988,
+      "vertices": 1112,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM55_Kit_A",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_BodySkin_T3",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H2_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H2_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H2_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_Head_P1",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 6478,
+   "attribute_vertices": 3905,
+   "primitives": 6
+  },
+  "TM_HM55_PLAYER_P1_H2_KITB.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM55_Body": [
+     {
+      "material": "TM_HM55_Kit_B",
+      "triangles": 1736,
+      "vertices": 1084,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM55_BodySkin_T3",
+      "triangles": 816,
+      "vertices": 502,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Hair": [
+     {
+      "material": "TMH55_H2_Cap",
+      "triangles": 1330,
+      "vertices": 780,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H2_CapEdge",
+      "triangles": 560,
+      "vertices": 355,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H2_Cards",
+      "triangles": 48,
+      "vertices": 72,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Head": [
+     {
+      "material": "TM_HM55_Head_P1",
+      "triangles": 1988,
+      "vertices": 1112,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM55_Kit_B",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_BodySkin_T3",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H2_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H2_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H2_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_Head_P1",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 6478,
+   "attribute_vertices": 3905,
+   "primitives": 6
+  },
+  "TM_HM55_PLAYER_P1_H3_KITA.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM55_Body": [
+     {
+      "material": "TM_HM55_Kit_A",
+      "triangles": 1736,
+      "vertices": 1084,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM55_BodySkin_T3",
+      "triangles": 816,
+      "vertices": 502,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Hair": [
+     {
+      "material": "TMH55_H3_Cap",
+      "triangles": 1368,
+      "vertices": 795,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H3_CapEdge",
+      "triangles": 576,
+      "vertices": 365,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H3_Cards",
+      "triangles": 270,
+      "vertices": 318,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Head": [
+     {
+      "material": "TM_HM55_Head_P1",
+      "triangles": 1988,
+      "vertices": 1112,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM55_Kit_A",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_BodySkin_T3",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H3_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H3_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H3_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_Head_P1",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 6754,
+   "attribute_vertices": 4176,
+   "primitives": 6
+  },
+  "TM_HM55_PLAYER_P1_H4_KITA.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM55_Body": [
+     {
+      "material": "TM_HM55_Kit_A",
+      "triangles": 1736,
+      "vertices": 1084,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM55_BodySkin_T3",
+      "triangles": 816,
+      "vertices": 502,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Hair": [
+     {
+      "material": "TMH55_H4_Cap",
+      "triangles": 1330,
+      "vertices": 815,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H4_CapEdge",
+      "triangles": 560,
+      "vertices": 355,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H4_Cards",
+      "triangles": 340,
+      "vertices": 404,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Head": [
+     {
+      "material": "TM_HM55_Head_P1",
+      "triangles": 1988,
+      "vertices": 1112,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM55_Kit_A",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_BodySkin_T3",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H4_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H4_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H4_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_Head_P1",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 6770,
+   "attribute_vertices": 4272,
+   "primitives": 6
+  },
+  "TM_HM55_PLAYER_P2_H1_KITA.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM55_Body": [
+     {
+      "material": "TM_HM55_Kit_A",
+      "triangles": 1736,
+      "vertices": 1084,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM55_BodySkin_T1",
+      "triangles": 816,
+      "vertices": 502,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Hair": [
+     {
+      "material": "TMH55_H1_Cap",
+      "triangles": 1330,
+      "vertices": 784,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H1_CapEdge",
+      "triangles": 560,
+      "vertices": 355,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H1_Cards",
+      "triangles": 248,
+      "vertices": 310,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Head": [
+     {
+      "material": "TM_HM55_Head_P2",
+      "triangles": 1988,
+      "vertices": 1112,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM55_Kit_A",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_BodySkin_T1",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H1_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H1_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H1_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_Head_P2",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 6678,
+   "attribute_vertices": 4147,
+   "primitives": 6
+  },
+  "TM_HM55_PLAYER_P2_H2_KITA.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM55_Body": [
+     {
+      "material": "TM_HM55_Kit_A",
+      "triangles": 1736,
+      "vertices": 1084,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM55_BodySkin_T1",
+      "triangles": 816,
+      "vertices": 502,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Hair": [
+     {
+      "material": "TMH55_H2_Cap",
+      "triangles": 1330,
+      "vertices": 780,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H2_CapEdge",
+      "triangles": 560,
+      "vertices": 355,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H2_Cards",
+      "triangles": 48,
+      "vertices": 72,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Head": [
+     {
+      "material": "TM_HM55_Head_P2",
+      "triangles": 1988,
+      "vertices": 1112,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM55_Kit_A",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_BodySkin_T1",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H2_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H2_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H2_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_Head_P2",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 6478,
+   "attribute_vertices": 3905,
+   "primitives": 6
+  },
+  "TM_HM55_PLAYER_P2_H3_KITA.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM55_Body": [
+     {
+      "material": "TM_HM55_Kit_A",
+      "triangles": 1736,
+      "vertices": 1084,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM55_BodySkin_T1",
+      "triangles": 816,
+      "vertices": 502,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Hair": [
+     {
+      "material": "TMH55_H3_Cap",
+      "triangles": 1368,
+      "vertices": 795,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H3_CapEdge",
+      "triangles": 576,
+      "vertices": 365,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H3_Cards",
+      "triangles": 270,
+      "vertices": 318,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Head": [
+     {
+      "material": "TM_HM55_Head_P2",
+      "triangles": 1988,
+      "vertices": 1112,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM55_Kit_A",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_BodySkin_T1",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H3_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H3_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H3_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_Head_P2",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 6754,
+   "attribute_vertices": 4176,
+   "primitives": 6
+  },
+  "TM_HM55_PLAYER_P2_H3_KITB.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM55_Body": [
+     {
+      "material": "TM_HM55_Kit_B",
+      "triangles": 1736,
+      "vertices": 1084,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM55_BodySkin_T1",
+      "triangles": 816,
+      "vertices": 502,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Hair": [
+     {
+      "material": "TMH55_H3_Cap",
+      "triangles": 1368,
+      "vertices": 795,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H3_CapEdge",
+      "triangles": 576,
+      "vertices": 365,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H3_Cards",
+      "triangles": 270,
+      "vertices": 318,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Head": [
+     {
+      "material": "TM_HM55_Head_P2",
+      "triangles": 1988,
+      "vertices": 1112,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM55_Kit_B",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_BodySkin_T1",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H3_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H3_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H3_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_Head_P2",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 6754,
+   "attribute_vertices": 4176,
+   "primitives": 6
+  },
+  "TM_HM55_PLAYER_P2_H4_KITA.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM55_Body": [
+     {
+      "material": "TM_HM55_Kit_A",
+      "triangles": 1736,
+      "vertices": 1084,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM55_BodySkin_T1",
+      "triangles": 816,
+      "vertices": 502,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Hair": [
+     {
+      "material": "TMH55_H4_Cap",
+      "triangles": 1330,
+      "vertices": 815,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H4_CapEdge",
+      "triangles": 560,
+      "vertices": 355,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H4_Cards",
+      "triangles": 340,
+      "vertices": 404,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Head": [
+     {
+      "material": "TM_HM55_Head_P2",
+      "triangles": 1988,
+      "vertices": 1112,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM55_Kit_A",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_BodySkin_T1",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H4_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H4_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H4_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_Head_P2",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 6770,
+   "attribute_vertices": 4272,
+   "primitives": 6
+  },
+  "TM_HM55_PLAYER_P3_H1_KITA.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM55_Body": [
+     {
+      "material": "TM_HM55_Kit_A",
+      "triangles": 1736,
+      "vertices": 1084,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM55_BodySkin_T2",
+      "triangles": 816,
+      "vertices": 502,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Hair": [
+     {
+      "material": "TMH55_H1_Cap",
+      "triangles": 1330,
+      "vertices": 784,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H1_CapEdge",
+      "triangles": 560,
+      "vertices": 355,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H1_Cards",
+      "triangles": 248,
+      "vertices": 310,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Head": [
+     {
+      "material": "TM_HM55_Head_P3",
+      "triangles": 1988,
+      "vertices": 1112,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM55_Kit_A",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_BodySkin_T2",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H1_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H1_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H1_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_Head_P3",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 6678,
+   "attribute_vertices": 4147,
+   "primitives": 6
+  },
+  "TM_HM55_PLAYER_P3_H2_KITA.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM55_Body": [
+     {
+      "material": "TM_HM55_Kit_A",
+      "triangles": 1736,
+      "vertices": 1084,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM55_BodySkin_T2",
+      "triangles": 816,
+      "vertices": 502,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Hair": [
+     {
+      "material": "TMH55_H2_Cap",
+      "triangles": 1330,
+      "vertices": 780,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H2_CapEdge",
+      "triangles": 560,
+      "vertices": 355,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H2_Cards",
+      "triangles": 48,
+      "vertices": 72,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Head": [
+     {
+      "material": "TM_HM55_Head_P3",
+      "triangles": 1988,
+      "vertices": 1112,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM55_Kit_A",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_BodySkin_T2",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H2_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H2_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H2_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_Head_P3",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 6478,
+   "attribute_vertices": 3905,
+   "primitives": 6
+  },
+  "TM_HM55_PLAYER_P3_H3_KITA.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM55_Body": [
+     {
+      "material": "TM_HM55_Kit_A",
+      "triangles": 1736,
+      "vertices": 1084,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM55_BodySkin_T2",
+      "triangles": 816,
+      "vertices": 502,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Hair": [
+     {
+      "material": "TMH55_H3_Cap",
+      "triangles": 1368,
+      "vertices": 795,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H3_CapEdge",
+      "triangles": 576,
+      "vertices": 365,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H3_Cards",
+      "triangles": 270,
+      "vertices": 318,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Head": [
+     {
+      "material": "TM_HM55_Head_P3",
+      "triangles": 1988,
+      "vertices": 1112,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM55_Kit_A",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_BodySkin_T2",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H3_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H3_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H3_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_Head_P3",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 6754,
+   "attribute_vertices": 4176,
+   "primitives": 6
+  },
+  "TM_HM55_PLAYER_P3_H4_KITA.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM55_Body": [
+     {
+      "material": "TM_HM55_Kit_A",
+      "triangles": 1736,
+      "vertices": 1084,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM55_BodySkin_T2",
+      "triangles": 816,
+      "vertices": 502,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Hair": [
+     {
+      "material": "TMH55_H4_Cap",
+      "triangles": 1330,
+      "vertices": 815,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H4_CapEdge",
+      "triangles": 560,
+      "vertices": 355,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H4_Cards",
+      "triangles": 340,
+      "vertices": 404,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Head": [
+     {
+      "material": "TM_HM55_Head_P3",
+      "triangles": 1988,
+      "vertices": 1112,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM55_Kit_A",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_BodySkin_T2",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H4_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H4_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H4_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_Head_P3",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 6770,
+   "attribute_vertices": 4272,
+   "primitives": 6
+  },
+  "TM_HM55_PLAYER_P3_H4_KITB.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM55_Body": [
+     {
+      "material": "TM_HM55_Kit_B",
+      "triangles": 1736,
+      "vertices": 1084,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM55_BodySkin_T2",
+      "triangles": 816,
+      "vertices": 502,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Hair": [
+     {
+      "material": "TMH55_H4_Cap",
+      "triangles": 1330,
+      "vertices": 815,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H4_CapEdge",
+      "triangles": 560,
+      "vertices": 355,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H4_Cards",
+      "triangles": 340,
+      "vertices": 404,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM55_Head": [
+     {
+      "material": "TM_HM55_Head_P3",
+      "triangles": 1988,
+      "vertices": 1112,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM55_Kit_B",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_BodySkin_T2",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H4_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H4_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H4_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM55_Head_P3",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 6770,
+   "attribute_vertices": 4272,
+   "primitives": 6
+  }
+ },
+ "motion": {
+  "TM_HM55_PLAYER_P0_H2_KITA.glb": {
+   "collar_vertices": 17,
+   "actions": {
+    "Idle": {
+     "frames": [
+      0,
+      60
+     ],
+     "head_vs_chest_deg_max": 3.6,
+     "gap_min_mm": 11.32,
+     "gap_min_frame": 6,
+     "gap_max_mm": 15.84,
+     "gap_max_frame": 30,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 10,
+     "skin_cloth_frames_with_any": 61,
+     "skin_cloth_kinds_at_worst_frame": {
+      "arm x shirt": 10
+     },
+     "skin_cloth_worst_frame": 0,
+     "stretch_body_max_at_rest_xyz": [
+      -0.098,
+      -0.065,
+      0.523
+     ],
+     "stretch_body_p99_max": 1.06,
+     "stretch_head_min_at_rest_xyz": [
+      0.033,
+      0.085,
+      1.521
+     ],
+     "stretch_head_p01_min": 0.97,
+     "stretch_head_p99_max": 1.03,
+     "stretch_body_max": 1.13,
+     "stretch_head_max": 1.06,
+     "stretch_head_min": 0.95
+    },
+    "Run": {
+     "frames": [
+      0,
+      20
+     ],
+     "head_vs_chest_deg_max": 10.7,
+     "gap_min_mm": 11.35,
+     "gap_min_frame": 0,
+     "gap_max_mm": 16.29,
+     "gap_max_frame": 10,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 39,
+     "skin_cloth_frames_with_any": 11,
+     "skin_cloth_kinds_at_worst_frame": {
+      "arm x shirt": 11,
+      "knee_thigh x sock": 26,
+      "shorts x sock": 2
+     },
+     "skin_cloth_worst_frame": 14,
+     "stretch_body_max_at_rest_xyz": [
+      -0.005,
+      0.016,
+      0.808
+     ],
+     "stretch_body_p99_max": 1.36,
+     "stretch_head_min_at_rest_xyz": [
+      0.048,
+      0.07,
+      1.521
+     ],
+     "stretch_head_p01_min": 0.89,
+     "stretch_head_p99_max": 1.23,
+     "stretch_body_max": 2.1,
+     "stretch_head_max": 1.44,
+     "stretch_head_min": 0.81
+    },
+    "Kick": {
+     "frames": [
+      0,
+      40
+     ],
+     "head_vs_chest_deg_max": 24.9,
+     "gap_min_mm": 10.75,
+     "gap_min_frame": 15,
+     "gap_max_mm": 16.36,
+     "gap_max_frame": 26,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 29,
+     "skin_cloth_frames_with_any": 41,
+     "skin_cloth_kinds_at_worst_frame": {
+      "knee_thigh x sock": 27,
+      "shorts x sock": 2
+     },
+     "skin_cloth_worst_frame": 13,
+     "stretch_body_max_at_rest_xyz": [
+      -0.005,
+      0.016,
+      0.808
+     ],
+     "stretch_body_p99_max": 1.34,
+     "stretch_head_min_at_rest_xyz": [
+      -0.009,
+      -0.029,
+      1.521
+     ],
+     "stretch_head_p01_min": 0.8,
+     "stretch_head_p99_max": 1.21,
+     "stretch_body_max": 3.66,
+     "stretch_head_max": 1.41,
+     "stretch_head_min": 0.48
+    },
+    "LookAround": {
+     "frames": [
+      0,
+      100
+     ],
+     "head_vs_chest_deg_max": 66.1,
+     "gap_min_mm": 10.14,
+     "gap_min_frame": 38,
+     "gap_max_mm": 20.52,
+     "gap_max_frame": 15,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 10,
+     "skin_cloth_frames_with_any": 101,
+     "skin_cloth_kinds_at_worst_frame": {
+      "arm x shirt": 10
+     },
+     "skin_cloth_worst_frame": 0,
+     "stretch_body_max_at_rest_xyz": [
+      -0.098,
+      -0.065,
+      0.523
+     ],
+     "stretch_body_p99_max": 1.07,
+     "stretch_head_min_at_rest_xyz": [
+      -0.009,
+      -0.029,
+      1.521
+     ],
+     "stretch_head_p01_min": 0.64,
+     "stretch_head_p99_max": 1.89,
+     "stretch_body_max": 1.13,
+     "stretch_head_max": 2.55,
+     "stretch_head_min": 0.47
+    },
+    "ThrowIn": {
+     "frames": [
+      0,
+      45
+     ],
+     "head_vs_chest_deg_max": 8.9,
+     "gap_min_mm": 11.24,
+     "gap_min_frame": 20,
+     "gap_max_mm": 15.85,
+     "gap_max_frame": 13,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 13,
+     "skin_cloth_frames_with_any": 11,
+     "skin_cloth_kinds_at_worst_frame": {
+      "arm x shirt": 13
+     },
+     "skin_cloth_worst_frame": 36,
+     "stretch_body_max_at_rest_xyz": [
+      0.313,
+      0.063,
+      1.126
+     ],
+     "stretch_body_p99_max": 1.23,
+     "stretch_head_min_at_rest_xyz": [
+      -0.009,
+      -0.029,
+      1.521
+     ],
+     "stretch_head_p01_min": 0.91,
+     "stretch_head_p99_max": 1.17,
+     "stretch_body_max": 1.52,
+     "stretch_head_max": 1.33,
+     "stretch_head_min": 0.81
+    },
+    "Header": {
+     "frames": [
+      0,
+      42
+     ],
+     "head_vs_chest_deg_max": 44.9,
+     "gap_min_mm": 10.26,
+     "gap_min_frame": 21,
+     "gap_max_mm": 16.84,
+     "gap_max_frame": 21,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 26,
+     "skin_cloth_frames_with_any": 22,
+     "skin_cloth_kinds_at_worst_frame": {
+      "knee_thigh x sock": 26
+     },
+     "skin_cloth_worst_frame": 8,
+     "stretch_body_max_at_rest_xyz": [
+      -0.005,
+      0.016,
+      0.808
+     ],
+     "stretch_body_p99_max": 1.45,
+     "stretch_head_min_at_rest_xyz": [
+      -0.009,
+      -0.029,
+      1.521
+     ],
+     "stretch_head_p01_min": 0.67,
+     "stretch_head_p99_max": 1.42,
+     "stretch_body_max": 2.43,
+     "stretch_head_max": 1.75,
+     "stretch_head_min": 0.47
+    }
+   },
+   "rest": {
+    "gap_min_mm": 11.32,
+    "gap_max_mm": 15.77,
+    "neck_shirt_intersections": 0,
+    "see_through_misses": 0,
+    "see_through_rays": 27,
+    "skin_cloth_intersections": 0,
+    "skin_cloth_kinds": {},
+    "stretch_body_max": 1.0,
+    "stretch_body_max_at_rest_xyz": [
+     0.025,
+     -0.111,
+     0.887
+    ],
+    "stretch_head_max": 1.0,
+    "stretch_head_min": 1.0,
+    "stretch_head_min_at_rest_xyz": [
+     -0.012,
+     0.102,
+     1.419
+    ],
+    "stretch_body_p99": 1.0,
+    "stretch_head_p01": 1.0,
+    "stretch_head_p99": 1.0
+   },
+   "weights": {
+    "TM_HM55_Body": {
+     "vertices": 1586,
+     "weight_sum_min": 1.0,
+     "weight_sum_max": 1.0,
+     "max_influences": 2
+    },
+    "TM_HM55_Hair": {
+     "vertices": 1207,
+     "weight_sum_min": 1.0,
+     "weight_sum_max": 1.0,
+     "max_influences": 1
+    },
+    "TM_HM55_Head": {
+     "vertices": 1112,
+     "weight_sum_min": 1.0,
+     "weight_sum_max": 1.0,
+     "max_influences": 3
+    }
+   }
+  },
+  "TM_HM55_PLAYER_P1_H2_KITA.glb": {
+   "collar_vertices": 17,
+   "actions": {
+    "Idle": {
+     "frames": [
+      0,
+      60
+     ],
+     "head_vs_chest_deg_max": 3.6,
+     "gap_min_mm": 11.32,
+     "gap_min_frame": 6,
+     "gap_max_mm": 15.84,
+     "gap_max_frame": 30,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 10,
+     "skin_cloth_frames_with_any": 61,
+     "skin_cloth_kinds_at_worst_frame": {
+      "arm x shirt": 10
+     },
+     "skin_cloth_worst_frame": 0,
+     "stretch_body_max_at_rest_xyz": [
+      -0.098,
+      -0.065,
+      0.523
+     ],
+     "stretch_body_p99_max": 1.06,
+     "stretch_head_min_at_rest_xyz": [
+      0.033,
+      0.085,
+      1.521
+     ],
+     "stretch_head_p01_min": 0.98,
+     "stretch_head_p99_max": 1.03,
+     "stretch_body_max": 1.13,
+     "stretch_head_max": 1.06,
+     "stretch_head_min": 0.95
+    },
+    "Run": {
+     "frames": [
+      0,
+      20
+     ],
+     "head_vs_chest_deg_max": 10.7,
+     "gap_min_mm": 11.35,
+     "gap_min_frame": 0,
+     "gap_max_mm": 16.29,
+     "gap_max_frame": 10,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 39,
+     "skin_cloth_frames_with_any": 11,
+     "skin_cloth_kinds_at_worst_frame": {
+      "arm x shirt": 11,
+      "knee_thigh x sock": 26,
+      "shorts x sock": 2
+     },
+     "skin_cloth_worst_frame": 14,
+     "stretch_body_max_at_rest_xyz": [
+      -0.005,
+      0.016,
+      0.808
+     ],
+     "stretch_body_p99_max": 1.36,
+     "stretch_head_min_at_rest_xyz": [
+      0.048,
+      0.07,
+      1.521
+     ],
+     "stretch_head_p01_min": 0.89,
+     "stretch_head_p99_max": 1.24,
+     "stretch_body_max": 2.1,
+     "stretch_head_max": 1.37,
+     "stretch_head_min": 0.81
+    },
+    "Kick": {
+     "frames": [
+      0,
+      40
+     ],
+     "head_vs_chest_deg_max": 24.9,
+     "gap_min_mm": 10.75,
+     "gap_min_frame": 15,
+     "gap_max_mm": 16.36,
+     "gap_max_frame": 26,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 29,
+     "skin_cloth_frames_with_any": 41,
+     "skin_cloth_kinds_at_worst_frame": {
+      "knee_thigh x sock": 27,
+      "shorts x sock": 2
+     },
+     "skin_cloth_worst_frame": 13,
+     "stretch_body_max_at_rest_xyz": [
+      -0.005,
+      0.016,
+      0.808
+     ],
+     "stretch_body_p99_max": 1.34,
+     "stretch_head_min_at_rest_xyz": [
+      -0.009,
+      -0.03,
+      1.521
+     ],
+     "stretch_head_p01_min": 0.78,
+     "stretch_head_p99_max": 1.22,
+     "stretch_body_max": 3.66,
+     "stretch_head_max": 1.41,
+     "stretch_head_min": 0.5
+    },
+    "LookAround": {
+     "frames": [
+      0,
+      100
+     ],
+     "head_vs_chest_deg_max": 66.1,
+     "gap_min_mm": 10.14,
+     "gap_min_frame": 38,
+     "gap_max_mm": 20.52,
+     "gap_max_frame": 15,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 10,
+     "skin_cloth_frames_with_any": 101,
+     "skin_cloth_kinds_at_worst_frame": {
+      "arm x shirt": 10
+     },
+     "skin_cloth_worst_frame": 0,
+     "stretch_body_max_at_rest_xyz": [
+      -0.098,
+      -0.065,
+      0.523
+     ],
+     "stretch_body_p99_max": 1.07,
+     "stretch_head_min_at_rest_xyz": [
+      -0.009,
+      -0.03,
+      1.521
+     ],
+     "stretch_head_p01_min": 0.67,
+     "stretch_head_p99_max": 1.98,
+     "stretch_body_max": 1.13,
+     "stretch_head_max": 2.32,
+     "stretch_head_min": 0.33
+    },
+    "ThrowIn": {
+     "frames": [
+      0,
+      45
+     ],
+     "head_vs_chest_deg_max": 8.9,
+     "gap_min_mm": 11.24,
+     "gap_min_frame": 20,
+     "gap_max_mm": 15.85,
+     "gap_max_frame": 13,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 13,
+     "skin_cloth_frames_with_any": 11,
+     "skin_cloth_kinds_at_worst_frame": {
+      "arm x shirt": 13
+     },
+     "skin_cloth_worst_frame": 36,
+     "stretch_body_max_at_rest_xyz": [
+      0.313,
+      0.063,
+      1.126
+     ],
+     "stretch_body_p99_max": 1.23,
+     "stretch_head_min_at_rest_xyz": [
+      0.0,
+      0.101,
+      1.499
+     ],
+     "stretch_head_p01_min": 0.91,
+     "stretch_head_p99_max": 1.18,
+     "stretch_body_max": 1.52,
+     "stretch_head_max": 1.26,
+     "stretch_head_min": 0.83
+    },
+    "Header": {
+     "frames": [
+      0,
+      42
+     ],
+     "head_vs_chest_deg_max": 44.9,
+     "gap_min_mm": 10.26,
+     "gap_min_frame": 21,
+     "gap_max_mm": 16.84,
+     "gap_max_frame": 21,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 2,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 26,
+     "skin_cloth_frames_with_any": 22,
+     "skin_cloth_kinds_at_worst_frame": {
+      "knee_thigh x sock": 26
+     },
+     "skin_cloth_worst_frame": 8,
+     "stretch_body_max_at_rest_xyz": [
+      -0.005,
+      0.016,
+      0.808
+     ],
+     "stretch_body_p99_max": 1.45,
+     "stretch_head_min_at_rest_xyz": [
+      -0.009,
+      -0.03,
+      1.521
+     ],
+     "stretch_head_p01_min": 0.65,
+     "stretch_head_p99_max": 1.42,
+     "stretch_body_max": 2.43,
+     "stretch_head_max": 1.75,
+     "stretch_head_min": 0.35
+    }
+   },
+   "rest": {
+    "gap_min_mm": 11.32,
+    "gap_max_mm": 15.77,
+    "neck_shirt_intersections": 0,
+    "see_through_misses": 0,
+    "see_through_rays": 27,
+    "skin_cloth_intersections": 0,
+    "skin_cloth_kinds": {},
+    "stretch_body_max": 1.0,
+    "stretch_body_max_at_rest_xyz": [
+     0.025,
+     -0.111,
+     0.887
+    ],
+    "stretch_head_max": 1.0,
+    "stretch_head_min": 1.0,
+    "stretch_head_min_at_rest_xyz": [
+     -0.012,
+     0.102,
+     1.419
+    ],
+    "stretch_body_p99": 1.0,
+    "stretch_head_p01": 1.0,
+    "stretch_head_p99": 1.0
+   },
+   "weights": {
+    "TM_HM55_Body": {
+     "vertices": 1586,
+     "weight_sum_min": 1.0,
+     "weight_sum_max": 1.0,
+     "max_influences": 2
+    },
+    "TM_HM55_Hair": {
+     "vertices": 1207,
+     "weight_sum_min": 1.0,
+     "weight_sum_max": 1.0,
+     "max_influences": 1
+    },
+    "TM_HM55_Head": {
+     "vertices": 1112,
+     "weight_sum_min": 1.0,
+     "weight_sum_max": 1.0,
+     "max_influences": 3
+    }
+   }
+  },
+  "TM_HM55_PLAYER_P2_H2_KITA.glb": {
+   "collar_vertices": 17,
+   "actions": {
+    "Idle": {
+     "frames": [
+      0,
+      60
+     ],
+     "head_vs_chest_deg_max": 3.6,
+     "gap_min_mm": 11.32,
+     "gap_min_frame": 6,
+     "gap_max_mm": 15.84,
+     "gap_max_frame": 30,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 10,
+     "skin_cloth_frames_with_any": 61,
+     "skin_cloth_kinds_at_worst_frame": {
+      "arm x shirt": 10
+     },
+     "skin_cloth_worst_frame": 0,
+     "stretch_body_max_at_rest_xyz": [
+      -0.098,
+      -0.065,
+      0.523
+     ],
+     "stretch_body_p99_max": 1.06,
+     "stretch_head_min_at_rest_xyz": [
+      0.033,
+      0.085,
+      1.521
+     ],
+     "stretch_head_p01_min": 0.97,
+     "stretch_head_p99_max": 1.02,
+     "stretch_body_max": 1.13,
+     "stretch_head_max": 1.06,
+     "stretch_head_min": 0.95
+    },
+    "Run": {
+     "frames": [
+      0,
+      20
+     ],
+     "head_vs_chest_deg_max": 10.7,
+     "gap_min_mm": 11.35,
+     "gap_min_frame": 0,
+     "gap_max_mm": 16.29,
+     "gap_max_frame": 10,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 39,
+     "skin_cloth_frames_with_any": 11,
+     "skin_cloth_kinds_at_worst_frame": {
+      "arm x shirt": 11,
+      "knee_thigh x sock": 26,
+      "shorts x sock": 2
+     },
+     "skin_cloth_worst_frame": 14,
+     "stretch_body_max_at_rest_xyz": [
+      -0.005,
+      0.016,
+      0.808
+     ],
+     "stretch_body_p99_max": 1.36,
+     "stretch_head_min_at_rest_xyz": [
+      0.048,
+      0.07,
+      1.521
+     ],
+     "stretch_head_p01_min": 0.89,
+     "stretch_head_p99_max": 1.21,
+     "stretch_body_max": 2.1,
+     "stretch_head_max": 1.46,
+     "stretch_head_min": 0.81
+    },
+    "Kick": {
+     "frames": [
+      0,
+      40
+     ],
+     "head_vs_chest_deg_max": 24.9,
+     "gap_min_mm": 10.75,
+     "gap_min_frame": 15,
+     "gap_max_mm": 16.36,
+     "gap_max_frame": 26,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 29,
+     "skin_cloth_frames_with_any": 41,
+     "skin_cloth_kinds_at_worst_frame": {
+      "knee_thigh x sock": 27,
+      "shorts x sock": 2
+     },
+     "skin_cloth_worst_frame": 13,
+     "stretch_body_max_at_rest_xyz": [
+      -0.005,
+      0.016,
+      0.808
+     ],
+     "stretch_body_p99_max": 1.34,
+     "stretch_head_min_at_rest_xyz": [
+      -0.009,
+      -0.029,
+      1.521
+     ],
+     "stretch_head_p01_min": 0.81,
+     "stretch_head_p99_max": 1.22,
+     "stretch_body_max": 3.66,
+     "stretch_head_max": 1.41,
+     "stretch_head_min": 0.5
+    },
+    "LookAround": {
+     "frames": [
+      0,
+      100
+     ],
+     "head_vs_chest_deg_max": 66.1,
+     "gap_min_mm": 10.14,
+     "gap_min_frame": 38,
+     "gap_max_mm": 20.52,
+     "gap_max_frame": 15,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 10,
+     "skin_cloth_frames_with_any": 101,
+     "skin_cloth_kinds_at_worst_frame": {
+      "arm x shirt": 10
+     },
+     "skin_cloth_worst_frame": 0,
+     "stretch_body_max_at_rest_xyz": [
+      -0.098,
+      -0.065,
+      0.523
+     ],
+     "stretch_body_p99_max": 1.07,
+     "stretch_head_min_at_rest_xyz": [
+      -0.025,
+      -0.023,
+      1.536
+     ],
+     "stretch_head_p01_min": 0.65,
+     "stretch_head_p99_max": 1.85,
+     "stretch_body_max": 1.13,
+     "stretch_head_max": 2.66,
+     "stretch_head_min": 0.39
+    },
+    "ThrowIn": {
+     "frames": [
+      0,
+      45
+     ],
+     "head_vs_chest_deg_max": 8.9,
+     "gap_min_mm": 11.24,
+     "gap_min_frame": 20,
+     "gap_max_mm": 15.85,
+     "gap_max_frame": 13,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 13,
+     "skin_cloth_frames_with_any": 11,
+     "skin_cloth_kinds_at_worst_frame": {
+      "arm x shirt": 13
+     },
+     "skin_cloth_worst_frame": 36,
+     "stretch_body_max_at_rest_xyz": [
+      0.313,
+      0.063,
+      1.126
+     ],
+     "stretch_body_p99_max": 1.23,
+     "stretch_head_min_at_rest_xyz": [
+      -0.006,
+      -0.031,
+      1.521
+     ],
+     "stretch_head_p01_min": 0.91,
+     "stretch_head_p99_max": 1.16,
+     "stretch_body_max": 1.52,
+     "stretch_head_max": 1.35,
+     "stretch_head_min": 0.81
+    },
+    "Header": {
+     "frames": [
+      0,
+      42
+     ],
+     "head_vs_chest_deg_max": 44.9,
+     "gap_min_mm": 10.26,
+     "gap_min_frame": 21,
+     "gap_max_mm": 16.84,
+     "gap_max_frame": 21,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 26,
+     "skin_cloth_frames_with_any": 22,
+     "skin_cloth_kinds_at_worst_frame": {
+      "knee_thigh x sock": 26
+     },
+     "skin_cloth_worst_frame": 8,
+     "stretch_body_max_at_rest_xyz": [
+      -0.005,
+      0.016,
+      0.808
+     ],
+     "stretch_body_p99_max": 1.45,
+     "stretch_head_min_at_rest_xyz": [
+      -0.009,
+      -0.029,
+      1.521
+     ],
+     "stretch_head_p01_min": 0.67,
+     "stretch_head_p99_max": 1.4,
+     "stretch_body_max": 2.43,
+     "stretch_head_max": 1.75,
+     "stretch_head_min": 0.49
+    }
+   },
+   "rest": {
+    "gap_min_mm": 11.32,
+    "gap_max_mm": 15.77,
+    "neck_shirt_intersections": 0,
+    "see_through_misses": 0,
+    "see_through_rays": 27,
+    "skin_cloth_intersections": 0,
+    "skin_cloth_kinds": {},
+    "stretch_body_max": 1.0,
+    "stretch_body_max_at_rest_xyz": [
+     0.025,
+     -0.111,
+     0.887
+    ],
+    "stretch_head_max": 1.0,
+    "stretch_head_min": 1.0,
+    "stretch_head_min_at_rest_xyz": [
+     -0.012,
+     0.102,
+     1.419
+    ],
+    "stretch_body_p99": 1.0,
+    "stretch_head_p01": 1.0,
+    "stretch_head_p99": 1.0
+   },
+   "weights": {
+    "TM_HM55_Body": {
+     "vertices": 1586,
+     "weight_sum_min": 1.0,
+     "weight_sum_max": 1.0,
+     "max_influences": 2
+    },
+    "TM_HM55_Hair": {
+     "vertices": 1207,
+     "weight_sum_min": 1.0,
+     "weight_sum_max": 1.0,
+     "max_influences": 1
+    },
+    "TM_HM55_Head": {
+     "vertices": 1112,
+     "weight_sum_min": 1.0,
+     "weight_sum_max": 1.0,
+     "max_influences": 3
+    }
+   }
+  },
+  "TM_HM55_PLAYER_P3_H2_KITA.glb": {
+   "collar_vertices": 17,
+   "actions": {
+    "Idle": {
+     "frames": [
+      0,
+      60
+     ],
+     "head_vs_chest_deg_max": 3.6,
+     "gap_min_mm": 11.32,
+     "gap_min_frame": 6,
+     "gap_max_mm": 15.84,
+     "gap_max_frame": 30,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 10,
+     "skin_cloth_frames_with_any": 61,
+     "skin_cloth_kinds_at_worst_frame": {
+      "arm x shirt": 10
+     },
+     "skin_cloth_worst_frame": 0,
+     "stretch_body_max_at_rest_xyz": [
+      -0.098,
+      -0.065,
+      0.523
+     ],
+     "stretch_body_p99_max": 1.06,
+     "stretch_head_min_at_rest_xyz": [
+      0.033,
+      0.085,
+      1.521
+     ],
+     "stretch_head_p01_min": 0.97,
+     "stretch_head_p99_max": 1.03,
+     "stretch_body_max": 1.13,
+     "stretch_head_max": 1.06,
+     "stretch_head_min": 0.95
+    },
+    "Run": {
+     "frames": [
+      0,
+      20
+     ],
+     "head_vs_chest_deg_max": 10.7,
+     "gap_min_mm": 11.35,
+     "gap_min_frame": 0,
+     "gap_max_mm": 16.29,
+     "gap_max_frame": 10,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 39,
+     "skin_cloth_frames_with_any": 11,
+     "skin_cloth_kinds_at_worst_frame": {
+      "arm x shirt": 11,
+      "knee_thigh x sock": 26,
+      "shorts x sock": 2
+     },
+     "skin_cloth_worst_frame": 14,
+     "stretch_body_max_at_rest_xyz": [
+      -0.005,
+      0.016,
+      0.808
+     ],
+     "stretch_body_p99_max": 1.36,
+     "stretch_head_min_at_rest_xyz": [
+      0.048,
+      0.07,
+      1.521
+     ],
+     "stretch_head_p01_min": 0.89,
+     "stretch_head_p99_max": 1.22,
+     "stretch_body_max": 2.1,
+     "stretch_head_max": 1.38,
+     "stretch_head_min": 0.81
+    },
+    "Kick": {
+     "frames": [
+      0,
+      40
+     ],
+     "head_vs_chest_deg_max": 24.9,
+     "gap_min_mm": 10.75,
+     "gap_min_frame": 15,
+     "gap_max_mm": 16.36,
+     "gap_max_frame": 26,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 29,
+     "skin_cloth_frames_with_any": 41,
+     "skin_cloth_kinds_at_worst_frame": {
+      "knee_thigh x sock": 27,
+      "shorts x sock": 2
+     },
+     "skin_cloth_worst_frame": 13,
+     "stretch_body_max_at_rest_xyz": [
+      -0.005,
+      0.016,
+      0.808
+     ],
+     "stretch_body_p99_max": 1.34,
+     "stretch_head_min_at_rest_xyz": [
+      -0.009,
+      -0.03,
+      1.521
+     ],
+     "stretch_head_p01_min": 0.79,
+     "stretch_head_p99_max": 1.22,
+     "stretch_body_max": 3.66,
+     "stretch_head_max": 1.41,
+     "stretch_head_min": 0.48
+    },
+    "LookAround": {
+     "frames": [
+      0,
+      100
+     ],
+     "head_vs_chest_deg_max": 66.1,
+     "gap_min_mm": 10.14,
+     "gap_min_frame": 38,
+     "gap_max_mm": 20.52,
+     "gap_max_frame": 15,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 10,
+     "skin_cloth_frames_with_any": 101,
+     "skin_cloth_kinds_at_worst_frame": {
+      "arm x shirt": 10
+     },
+     "skin_cloth_worst_frame": 0,
+     "stretch_body_max_at_rest_xyz": [
+      -0.098,
+      -0.065,
+      0.523
+     ],
+     "stretch_body_p99_max": 1.07,
+     "stretch_head_min_at_rest_xyz": [
+      -0.042,
+      -0.007,
+      1.536
+     ],
+     "stretch_head_p01_min": 0.65,
+     "stretch_head_p99_max": 1.87,
+     "stretch_body_max": 1.13,
+     "stretch_head_max": 2.35,
+     "stretch_head_min": 0.39
+    },
+    "ThrowIn": {
+     "frames": [
+      0,
+      45
+     ],
+     "head_vs_chest_deg_max": 8.9,
+     "gap_min_mm": 11.24,
+     "gap_min_frame": 20,
+     "gap_max_mm": 15.85,
+     "gap_max_frame": 13,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 13,
+     "skin_cloth_frames_with_any": 11,
+     "skin_cloth_kinds_at_worst_frame": {
+      "arm x shirt": 13
+     },
+     "skin_cloth_worst_frame": 36,
+     "stretch_body_max_at_rest_xyz": [
+      0.313,
+      0.063,
+      1.126
+     ],
+     "stretch_body_p99_max": 1.23,
+     "stretch_head_min_at_rest_xyz": [
+      0.0,
+      0.101,
+      1.499
+     ],
+     "stretch_head_p01_min": 0.91,
+     "stretch_head_p99_max": 1.18,
+     "stretch_body_max": 1.52,
+     "stretch_head_max": 1.28,
+     "stretch_head_min": 0.83
+    },
+    "Header": {
+     "frames": [
+      0,
+      42
+     ],
+     "head_vs_chest_deg_max": 44.9,
+     "gap_min_mm": 10.26,
+     "gap_min_frame": 21,
+     "gap_max_mm": 16.84,
+     "gap_max_frame": 21,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 2,
+     "see_through_rays": 27,
+     "skin_cloth_intersections_max": 26,
+     "skin_cloth_frames_with_any": 22,
+     "skin_cloth_kinds_at_worst_frame": {
+      "knee_thigh x sock": 26
+     },
+     "skin_cloth_worst_frame": 8,
+     "stretch_body_max_at_rest_xyz": [
+      -0.005,
+      0.016,
+      0.808
+     ],
+     "stretch_body_p99_max": 1.45,
+     "stretch_head_min_at_rest_xyz": [
+      -0.009,
+      -0.03,
+      1.521
+     ],
+     "stretch_head_p01_min": 0.67,
+     "stretch_head_p99_max": 1.42,
+     "stretch_body_max": 2.43,
+     "stretch_head_max": 1.75,
+     "stretch_head_min": 0.41
+    }
+   },
+   "rest": {
+    "gap_min_mm": 11.32,
+    "gap_max_mm": 15.77,
+    "neck_shirt_intersections": 0,
+    "see_through_misses": 0,
+    "see_through_rays": 27,
+    "skin_cloth_intersections": 0,
+    "skin_cloth_kinds": {},
+    "stretch_body_max": 1.0,
+    "stretch_body_max_at_rest_xyz": [
+     0.025,
+     -0.111,
+     0.887
+    ],
+    "stretch_head_max": 1.0,
+    "stretch_head_min": 1.0,
+    "stretch_head_min_at_rest_xyz": [
+     -0.012,
+     0.102,
+     1.419
+    ],
+    "stretch_body_p99": 1.0,
+    "stretch_head_p01": 1.0,
+    "stretch_head_p99": 1.0
+   },
+   "weights": {
+    "TM_HM55_Body": {
+     "vertices": 1586,
+     "weight_sum_min": 1.0,
+     "weight_sum_max": 1.0,
+     "max_influences": 2
+    },
+    "TM_HM55_Hair": {
+     "vertices": 1207,
+     "weight_sum_min": 1.0,
+     "weight_sum_max": 1.0,
+     "max_influences": 1
+    },
+    "TM_HM55_Head": {
+     "vertices": 1112,
+     "weight_sum_min": 1.0,
+     "weight_sum_max": 1.0,
+     "max_influences": 3
+    }
+   }
+  }
+ },
+ "hair": {
+  "TM_HM55_PLAYER_P0_H1_KITA.glb": {
+   "hair_triangles": 2138,
+   "hair_vs_head_intersections": 0,
+   "hairline_edge_vertices": 71,
+   "hairline_edge_height_mm": {
+    "min": 0.69,
+    "median": 1.25,
+    "max": 2.59
+   },
+   "hairline_edge_height_near_ears_mm": {
+    "median": 1.11,
+    "max": 1.44,
+    "vertices": 23
+   },
+   "hair_to_ear_min_distance_mm": 4.76
+  },
+  "TM_HM55_PLAYER_P0_H2_KITA.glb": {
+   "hair_triangles": 1938,
+   "hair_vs_head_intersections": 0,
+   "hairline_edge_vertices": 71,
+   "hairline_edge_height_mm": {
+    "min": 0.6,
+    "median": 1.09,
+    "max": 2.5
+   },
+   "hairline_edge_height_near_ears_mm": {
+    "median": 1.07,
+    "max": 1.37,
+    "vertices": 24
+   },
+   "hair_to_ear_min_distance_mm": 7.31
+  },
+  "TM_HM55_PLAYER_P0_H3_KITA.glb": {
+   "hair_triangles": 2214,
+   "hair_vs_head_intersections": 0,
+   "hairline_edge_vertices": 73,
+   "hairline_edge_height_mm": {
+    "min": 0.81,
+    "median": 1.35,
+    "max": 2.76
+   },
+   "hairline_edge_height_near_ears_mm": {
+    "median": 1.24,
+    "max": 1.54,
+    "vertices": 26
+   },
+   "hair_to_ear_min_distance_mm": 10.06
+  },
+  "TM_HM55_PLAYER_P0_H4_KITA.glb": {
+   "hair_triangles": 2230,
+   "hair_vs_head_intersections": 0,
+   "hairline_edge_vertices": 71,
+   "hairline_edge_height_mm": {
+    "min": 0.79,
+    "median": 1.36,
+    "max": 2.73
+   },
+   "hairline_edge_height_near_ears_mm": {
+    "median": 1.22,
+    "max": 1.51,
+    "vertices": 23
+   },
+   "hair_to_ear_min_distance_mm": 4.85
+  },
+  "TM_HM55_PLAYER_P1_H1_KITA.glb": {
+   "hair_triangles": 2138,
+   "hair_vs_head_intersections": 0,
+   "hairline_edge_vertices": 71,
+   "hairline_edge_height_mm": {
+    "min": 0.76,
+    "median": 1.25,
+    "max": 2.89
+   },
+   "hairline_edge_height_near_ears_mm": {
+    "median": 1.1,
+    "max": 1.41,
+    "vertices": 23
+   },
+   "hair_to_ear_min_distance_mm": 5.93
+  },
+  "TM_HM55_PLAYER_P1_H2_KITA.glb": {
+   "hair_triangles": 1938,
+   "hair_vs_head_intersections": 0,
+   "hairline_edge_vertices": 71,
+   "hairline_edge_height_mm": {
+    "min": 0.69,
+    "median": 1.08,
+    "max": 2.79
+   },
+   "hairline_edge_height_near_ears_mm": {
+    "median": 1.06,
+    "max": 1.32,
+    "vertices": 24
+   },
+   "hair_to_ear_min_distance_mm": 8.96
+  },
+  "TM_HM55_PLAYER_P1_H3_KITA.glb": {
+   "hair_triangles": 2214,
+   "hair_vs_head_intersections": 0,
+   "hairline_edge_vertices": 73,
+   "hairline_edge_height_mm": {
+    "min": 0.88,
+    "median": 1.37,
+    "max": 2.99
+   },
+   "hairline_edge_height_near_ears_mm": {
+    "median": 1.22,
+    "max": 1.5,
+    "vertices": 26
+   },
+   "hair_to_ear_min_distance_mm": 11.61
+  },
+  "TM_HM55_PLAYER_P1_H4_KITA.glb": {
+   "hair_triangles": 2230,
+   "hair_vs_head_intersections": 0,
+   "hairline_edge_vertices": 71,
+   "hairline_edge_height_mm": {
+    "min": 0.84,
+    "median": 1.35,
+    "max": 2.99
+   },
+   "hairline_edge_height_near_ears_mm": {
+    "median": 1.19,
+    "max": 1.5,
+    "vertices": 23
+   },
+   "hair_to_ear_min_distance_mm": 6.0
+  },
+  "TM_HM55_PLAYER_P2_H1_KITA.glb": {
+   "hair_triangles": 2138,
+   "hair_vs_head_intersections": 0,
+   "hairline_edge_vertices": 71,
+   "hairline_edge_height_mm": {
+    "min": 0.66,
+    "median": 1.21,
+    "max": 2.35
+   },
+   "hairline_edge_height_near_ears_mm": {
+    "median": 1.15,
+    "max": 1.44,
+    "vertices": 23
+   },
+   "hair_to_ear_min_distance_mm": 3.32
+  },
+  "TM_HM55_PLAYER_P2_H2_KITA.glb": {
+   "hair_triangles": 1938,
+   "hair_vs_head_intersections": 0,
+   "hairline_edge_vertices": 71,
+   "hairline_edge_height_mm": {
+    "min": 0.38,
+    "median": 1.09,
+    "max": 2.25
+   },
+   "hairline_edge_height_near_ears_mm": {
+    "median": 1.08,
+    "max": 1.41,
+    "vertices": 24
+   },
+   "hair_to_ear_min_distance_mm": 5.29
+  },
+  "TM_HM55_PLAYER_P2_H3_KITA.glb": {
+   "hair_triangles": 2214,
+   "hair_vs_head_intersections": 0,
+   "hairline_edge_vertices": 73,
+   "hairline_edge_height_mm": {
+    "min": 0.82,
+    "median": 1.35,
+    "max": 2.47
+   },
+   "hairline_edge_height_near_ears_mm": {
+    "median": 1.27,
+    "max": 1.55,
+    "vertices": 26
+   },
+   "hair_to_ear_min_distance_mm": 6.21
+  },
+  "TM_HM55_PLAYER_P2_H4_KITA.glb": {
+   "hair_triangles": 2230,
+   "hair_vs_head_intersections": 0,
+   "hairline_edge_vertices": 71,
+   "hairline_edge_height_mm": {
+    "min": 0.77,
+    "median": 1.33,
+    "max": 2.45
+   },
+   "hairline_edge_height_near_ears_mm": {
+    "median": 1.25,
+    "max": 1.52,
+    "vertices": 23
+   },
+   "hair_to_ear_min_distance_mm": 3.47
+  },
+  "TM_HM55_PLAYER_P3_H1_KITA.glb": {
+   "hair_triangles": 2138,
+   "hair_vs_head_intersections": 0,
+   "hairline_edge_vertices": 71,
+   "hairline_edge_height_mm": {
+    "min": 0.69,
+    "median": 1.26,
+    "max": 2.88
+   },
+   "hairline_edge_height_near_ears_mm": {
+    "median": 1.09,
+    "max": 1.47,
+    "vertices": 23
+   },
+   "hair_to_ear_min_distance_mm": 6.58
+  },
+  "TM_HM55_PLAYER_P3_H2_KITA.glb": {
+   "hair_triangles": 1938,
+   "hair_vs_head_intersections": 0,
+   "hairline_edge_vertices": 71,
+   "hairline_edge_height_mm": {
+    "min": 0.61,
+    "median": 1.08,
+    "max": 2.79
+   },
+   "hairline_edge_height_near_ears_mm": {
+    "median": 1.01,
+    "max": 1.37,
+    "vertices": 24
+   },
+   "hair_to_ear_min_distance_mm": 8.69
+  },
+  "TM_HM55_PLAYER_P3_H3_KITA.glb": {
+   "hair_triangles": 2214,
+   "hair_vs_head_intersections": 0,
+   "hairline_edge_vertices": 73,
+   "hairline_edge_height_mm": {
+    "min": 0.82,
+    "median": 1.38,
+    "max": 3.05
+   },
+   "hairline_edge_height_near_ears_mm": {
+    "median": 1.21,
+    "max": 1.55,
+    "vertices": 26
+   },
+   "hair_to_ear_min_distance_mm": 10.54
+  },
+  "TM_HM55_PLAYER_P3_H4_KITA.glb": {
+   "hair_triangles": 2230,
+   "hair_vs_head_intersections": 0,
+   "hairline_edge_vertices": 71,
+   "hairline_edge_height_mm": {
+    "min": 0.77,
+    "median": 1.36,
+    "max": 3.04
+   },
+   "hairline_edge_height_near_ears_mm": {
+    "median": 1.18,
+    "max": 1.57,
+    "vertices": 23
+   },
+   "hair_to_ear_min_distance_mm": 6.69
+  }
+ },
+ "skin_colour": {
+  "P0": {
+   "tone": "T2",
+   "mean_srgb": {
+    "neck": [
+     0.7805,
+     0.5994,
+     0.4676
+    ],
+    "cheek": [
+     0.7848,
+     0.5904,
+     0.4597
+    ],
+    "forearm": [
+     0.7702,
+     0.5912,
+     0.4612
+    ],
+    "knee": [
+     0.7425,
+     0.5657,
+     0.4408
+    ]
+   },
+   "deltaE76": {
+    "neck_vs_forearm": 0.86,
+    "neck_vs_knee": 3.39,
+    "neck_vs_cheek": 1.63
+   }
+  },
+  "P1": {
+   "tone": "T3",
+   "mean_srgb": {
+    "neck": [
+     0.6891,
+     0.5106,
+     0.386
+    ],
+    "cheek": [
+     0.6411,
+     0.4738,
+     0.3632
+    ],
+    "forearm": [
+     0.6884,
+     0.5095,
+     0.3843
+    ],
+    "knee": [
+     0.6636,
+     0.4875,
+     0.3673
+    ]
+   },
+   "deltaE76": {
+    "neck_vs_forearm": 0.15,
+    "neck_vs_knee": 2.35,
+    "neck_vs_cheek": 4.39
+   }
+  },
+  "P2": {
+   "tone": "T1",
+   "mean_srgb": {
+    "neck": [
+     0.8399,
+     0.6692,
+     0.5429
+    ],
+    "cheek": [
+     0.8448,
+     0.6424,
+     0.5188
+    ],
+    "forearm": [
+     0.8328,
+     0.6633,
+     0.538
+    ],
+    "knee": [
+     0.8028,
+     0.6347,
+     0.5142
+    ]
+   },
+   "deltaE76": {
+    "neck_vs_forearm": 0.6,
+    "neck_vs_knee": 3.33,
+    "neck_vs_cheek": 3.98
+   }
+  },
+  "P3": {
+   "tone": "T2",
+   "mean_srgb": {
+    "neck": [
+     0.782,
+     0.6006,
+     0.4686
+    ],
+    "cheek": [
+     0.7845,
+     0.5945,
+     0.4634
+    ],
+    "forearm": [
+     0.7702,
+     0.5912,
+     0.4612
+    ],
+    "knee": [
+     0.7425,
+     0.5657,
+     0.4408
+    ]
+   },
+   "deltaE76": {
+    "neck_vs_forearm": 0.99,
+    "neck_vs_knee": 3.51,
+    "neck_vs_cheek": 1.05
+   }
+  }
+ }
+}

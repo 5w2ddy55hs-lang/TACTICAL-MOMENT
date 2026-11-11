@@ -1,0 +1,4373 @@
+{
+ "count": 324,
+ "renders": [
+  {
+   "png": "renders/COMPARE/BODY/HM56_front.png",
+   "png_sha256": "684b09959c76234ca02aee5031f56ceda8c0a4f016212b66312dbc65f2a771aa",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "front",
+   "pixels": [
+    420,
+    840
+   ],
+   "samples": 40,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/BODY/HM56_quarter_L.png",
+   "png_sha256": "305daf57458d0ba7a318e469c4b699267e28a49de3de49f875e6aad96d980a5d",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    420,
+    840
+   ],
+   "samples": 40,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/BODY/HM56_side_L.png",
+   "png_sha256": "ee6333ab246fb8ccfbd60e044194a7f7fa4702389f7cff829c127c0ad664fd03",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    420,
+    840
+   ],
+   "samples": 40,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/BODY/HM56_back.png",
+   "png_sha256": "193f8dadda3d8160bcfabad33b2c2935ddae4ac520682dc61a509d980aeb5673",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "back",
+   "pixels": [
+    420,
+    840
+   ],
+   "samples": 40,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/FACE/HM56_front.png",
+   "png_sha256": "63982ae9ffccd56629df6a567016d2bc57af4866f58b4cc7fec7d7289e58dd5b",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "front",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 48,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/FACE/HM56_quarter_L.png",
+   "png_sha256": "16c12465c87993e0bf89c1f71e2b3190dede3365fe0eeb463de187ff6ff58c35",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 48,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/FACE/HM56_side_L.png",
+   "png_sha256": "f1a05e99416e1b3f63a899124bf868c78250ce43a729f19796fe57e7b3c8fc69",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 48,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/FACE/HM56_low.png",
+   "png_sha256": "24ef2a7dc58c21147de0e1067527272aa7d0ac286aa04f82546adb61ad2fb8d7",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": [
+    0.45,
+    -0.85,
+    -0.3
+   ],
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 48,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM56_neck_front.png",
+   "png_sha256": "33572f81d1931dfbbd4e30b2ce948b70691016c874f24664d2381508b1953508",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "front",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM56_neck_quarter.png",
+   "png_sha256": "2bba97febacf88fa4730d0bafc874ed5753391f898a9e90398e3fc19dc8a8d8f",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM56_neck_side.png",
+   "png_sha256": "6c32c7f77d3710158efda05294c658a1365e4a9bb6f285310ca1ba0c9fae786a",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM56_neck_back.png",
+   "png_sha256": "4039819521653962018817d73b2b721a149e8bcfdecdc2771273673e9cce75b3",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "back",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM56_legs_front.png",
+   "png_sha256": "1a3110a856edc19c6c70f500020bb37ad56584e42cc24ed673eaed96a343ef79",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "front",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM56_legs_side.png",
+   "png_sha256": "00d3168b6d2d10258e0bdbdde8f55f7c4fbbad11fa38e980b27c10cec76763b3",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM56_legs_quarter.png",
+   "png_sha256": "48a068a60a912bfd1015b5812cc4170d2a816ef2316fae24ea31f07f3cf41aaf",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM56_boot_side.png",
+   "png_sha256": "e0efe5aa90acbab08c029556b8d984c0a9794083f2741ff8e6284aee883ecafc",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_turn_left_front.png",
+   "png_sha256": "0864428defc7a3cb82202c6368d6ce6e8b886195fc4047af509427e66c6e8477",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 15"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_turn_left_side_L.png",
+   "png_sha256": "28449800ecd48b72c8ebe9d5f7c4f0ff2ee1a83965914a0a52c5c2245382e6a7",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 15"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_turn_left_back.png",
+   "png_sha256": "2798f31fa5ce0b25e9c6c694898900852508077d287fb4e565727ac78d79f9f3",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "back",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 15"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_turn_left_above.png",
+   "png_sha256": "778d92e7ad6fa71802c0b9ac653d1e919678110def6b1e4058e38bf2370a0617",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": [
+    0.25,
+    -0.55,
+    0.8
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 15"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_turn_right_front.png",
+   "png_sha256": "a31f75472d86bbed1a01431787fe70dee7dd7facb32f98c511073ef2641e192b",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 45"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_turn_right_side_L.png",
+   "png_sha256": "00d89e4a2c63c265511bb339e7cf501aa610091981eb31473d1b34a8018e70b0",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 45"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_turn_right_back.png",
+   "png_sha256": "76180347d17f2f05776b202ab5945b46a1c18d18d07df278dd69d12b1ae8c32a",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "back",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 45"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_turn_right_above.png",
+   "png_sha256": "53db5b99c83e06b11e8553f14cfc7054d47a2961e432094265a5c410399d2c0e",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": [
+    0.25,
+    -0.55,
+    0.8
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 45"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_look_up_front.png",
+   "png_sha256": "274ea33b757c660583b2635623754992370b0eebe38028d29656904a5a1af7a7",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 70"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_look_up_side_L.png",
+   "png_sha256": "a8b8c820b502c6f7a432d7fb1ff6052fbad45a7a4aacb0c00a6eda9f1d883a94",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 70"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_look_up_back.png",
+   "png_sha256": "af88708ca55bc799b8e224f742b78c306380916b153d884af0ff3d544f0bc001",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "back",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 70"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_look_up_above.png",
+   "png_sha256": "f1ff913985512a7a8096f45d1dcba10e97bfda6b09070263db991f34ab6800b8",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": [
+    0.25,
+    -0.55,
+    0.8
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 70"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_look_down_front.png",
+   "png_sha256": "f990ce53f25030175470c4e5f17e5777bdd033c50301cdbf93e8ec5693ecf6cc",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 80"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_look_down_side_L.png",
+   "png_sha256": "1bce31edcdb178cfc348ee658229dcd79653a7332f3af5698f25a4cd0d57be9a",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 80"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_look_down_back.png",
+   "png_sha256": "6c3de48a09f07fb0b0f469f6ac164bc5f1fbb5e1da2d7434ddfccbe8f4e523b2",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "back",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 80"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_look_down_above.png",
+   "png_sha256": "938e7c6f65884f77f6d510cd91074fe894d6661c5dda748e6b6f44b11ae2617f",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": [
+    0.25,
+    -0.55,
+    0.8
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 80"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_tilt_front.png",
+   "png_sha256": "460e8fd43f366c5f75e5bd17afdcdf589522337cb27c79ea9d2e9e4f51899fb9",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 90"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_tilt_side_L.png",
+   "png_sha256": "978394a22a51575a80ab67031f75b72a22eb627a4dee1209b5c75140ad812a1c",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 90"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_tilt_back.png",
+   "png_sha256": "5a5b2101266dc43faf4d8ddb8f1b8c43a4486db429ba85fbe8e5bb2e5b3a6b93",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "back",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 90"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_tilt_above.png",
+   "png_sha256": "175375eb2b69ac2f46d56bcdd548b7dc5350c45ae6276c52f67b4fd4a0780e78",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": [
+    0.25,
+    -0.55,
+    0.8
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 90"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_header_front.png",
+   "png_sha256": "b8ee6cd5f4e2a016ee40e203076e546f917ef360dcc1e6c77451f3ac2ff15968",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Header frame 21"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_header_side_L.png",
+   "png_sha256": "3acb2147d5a7e325f949ef9c889fda20943e2af0ecda7c0847351b33a433b44d",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Header frame 21"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_header_back.png",
+   "png_sha256": "14938e0c6df17f907e001ce30d524f7fc67f854ae9ff9555aef8d55f291eaf04",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "back",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Header frame 21"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_header_above.png",
+   "png_sha256": "ce0e62f857f9749a51594d4858e4f673272d46a3ba73c88ebba3172393fce17b",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": [
+    0.25,
+    -0.55,
+    0.8
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Header frame 21"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_throw_front.png",
+   "png_sha256": "908693cb51d6a9733198c46c16d37065b2a717f4edd11e0e66c79193f07f8621",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_throw_side_L.png",
+   "png_sha256": "a53cde9b7c88f6b694c5ca685f3efffd10addee3c06e2ef7235ae3de168f59b9",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_throw_back.png",
+   "png_sha256": "70d700d41ed2583286973f8c7b824618eccf509f624f29b27dc23e0be84deb37",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "back",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_throw_above.png",
+   "png_sha256": "68a2bd64ec6099180b0c548238091e8b96d4670736bb8ad6c920822c490ec052",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": [
+    0.25,
+    -0.55,
+    0.8
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_armpit_kick_front.png",
+   "png_sha256": "ddce1b3757fc1e7fed60baec0c9fffd4111f47e17099d589ad5c61b802f09698",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Kick frame 19"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_armpit_kick_side_low.png",
+   "png_sha256": "9e1c1a6721f6de06d7955135e6cd3f1e94eda0922ec83c92a2cc7219f2ce9b41",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": [
+    0.9,
+    0.2,
+    -0.2
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Kick frame 19"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_armpit_throw_front.png",
+   "png_sha256": "55fef791a86ee6c979dd58d22a705e02873270cad2531e60eaae55b0bf00d018",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_armpit_throw_side_low.png",
+   "png_sha256": "bfd61c85e861b795e318414ce34a326c0dd9054814f0bce9ac9da0c8e15d8d5a",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": [
+    0.9,
+    0.2,
+    -0.2
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_knee_run_side_L.png",
+   "png_sha256": "075c7ef542b0fe49b05812cd1030744e567237b0b3dfd87ba298d4dc6b5a59ab",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Run frame 5"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_knee_run_back_quarter.png",
+   "png_sha256": "18c468f2606117c19a07cc2bf532806eb367ac459b1738543267f7ef8f5fcf8c",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": [
+    0.6,
+    0.75,
+    0.1
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Run frame 5"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_knee_kick_side_L.png",
+   "png_sha256": "1372ce93b62b1f7ca0450d929417443ccae120466a2cd93ad52876d4f9dc2151",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Kick frame 14"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_knee_kick_back_quarter.png",
+   "png_sha256": "8a4b9f6ad7ddf1f78ab28f5cfa1e99361e8cf8c76ebc2585e27c79dc0bd7c167",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": [
+    0.6,
+    0.75,
+    0.1
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Kick frame 14"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_knee_header_side_L.png",
+   "png_sha256": "100849cbf9c85843ed7dc4209eec9057ef9aa9591598e45dd68774c78edf84f7",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Header frame 10"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM56_knee_header_back_quarter.png",
+   "png_sha256": "5eb3a8c9a866dc924a6b3cf35e340ce6bc0d882d20328b18f8968cb36e79f26a",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": [
+    0.6,
+    0.75,
+    0.1
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Header frame 10"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Run_000_quarter_L.png",
+   "png_sha256": "135d9913915f2d2fb59203afb60c759a0058480a187c4824bc51e53afa20e137",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 0"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Run_000_side_L.png",
+   "png_sha256": "227b28ecdf00376ca8e81acc037c3ea3ea9a93b5d259a5fd24f7a9de431a1c1f",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 0"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Run_005_quarter_L.png",
+   "png_sha256": "11dc5147d1e2fb62ad7624837aadaa4eaa88d57f2932288bd4dc6757d3245953",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 5"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Run_005_side_L.png",
+   "png_sha256": "1c6c4fb63bf7d8e0f3613be1c48a9344780875fa5f6a9380e38ac897d3d06def",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 5"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Run_010_quarter_L.png",
+   "png_sha256": "7934d88a15ade5a44b2b7e1048f8b18e3acd84803a5f035657809eb06cb593c1",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 10"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Run_010_side_L.png",
+   "png_sha256": "e53a5ee6ee88551fb596de03de9bd49a8664b43b4d06d2e747e43ac42f400e73",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 10"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Run_015_quarter_L.png",
+   "png_sha256": "2692c2e279d225321bb4e9c1af0da8781dbc9dcf80f48b7991da08b59f483db2",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 15"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Run_015_side_L.png",
+   "png_sha256": "ad79f2850062ae4afecd212102ec3d0211a53eba7aadd5c3467a950802ca802e",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 15"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Kick_008_quarter_L.png",
+   "png_sha256": "28abe2da3c3eef9a9adbfa7ee42a5917ad62f317820db932b6334cce9dc6e157",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 8"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Kick_008_side_L.png",
+   "png_sha256": "79d98cd1a582d61dd01204ae31234b1d0151089753f3a810871703c7f2b206fc",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 8"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Kick_014_quarter_L.png",
+   "png_sha256": "9044c5180d60e78b8cb802d693e1f9e279cc9d6a9e58bd6b5299507db380a92a",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 14"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Kick_014_side_L.png",
+   "png_sha256": "bfab539a549a7673ed51f43e36c11fe640257ce7792e3731e20376f96b3e10cf",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 14"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Kick_019_quarter_L.png",
+   "png_sha256": "c7383b16cc599e08c016f9c931173c4f57454ceba3f8095d01e6f8103108d2f6",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 19"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Kick_019_side_L.png",
+   "png_sha256": "1d9ed9129104e1316076c821aeefd4fe44a2c4ae0ebd517d26b7baeff5d00cc6",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 19"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Kick_025_quarter_L.png",
+   "png_sha256": "0824572725be614f4e5e193560d2ee8024353a5b28036e8537a621223d5f9a1f",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 25"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Kick_025_side_L.png",
+   "png_sha256": "ea7ef27863baaec0a78c04083b33228668f1e0cd0949bac80e563a6d214f7c7c",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 25"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Header_009_quarter_L.png",
+   "png_sha256": "bc90b06edb67d8d860327af0c92741052f42f84cbc58a167fa4b662ac83ead74",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 9"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Header_009_side_L.png",
+   "png_sha256": "1e3464760baff5dddde301f26be1088b1535fffec6b2fea9a54c348c208d51eb",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 9"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Header_017_quarter_L.png",
+   "png_sha256": "261284e9362c40b9411ba678eb9e4b0e62a66a65fc78d5eff529cf6ba45b820f",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 17"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Header_017_side_L.png",
+   "png_sha256": "ea48b95f0e5922e9a0dc29255ce2253523ec4c483a28c5e04b6bf40aeb60fc21",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 17"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Header_021_quarter_L.png",
+   "png_sha256": "59f49aa15522dd67dd05dfee7cdb78b7b236927c20d6b30b04ba96737e1ab635",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 21"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Header_021_side_L.png",
+   "png_sha256": "bc64e709fbe1034ba27ab944f71e565ef53d2542c576a53fff0a17ebb0218f6a",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 21"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Header_030_quarter_L.png",
+   "png_sha256": "0d9e25afb7f9a3f1e0e083e559472ab2227fcbfa07c13ed09f938c8e1736ee74",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 30"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_Header_030_side_L.png",
+   "png_sha256": "d7b8824734517fde0005529e484ad298228f7a698ab671039c073fae0e55aed1",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 30"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_LookAround_015_quarter_L.png",
+   "png_sha256": "3e052e1c3e34fcd5c75e21dd22c7f8e325473e9d7be66ab8486eaa73b9b74ca2",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 15"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_LookAround_015_side_L.png",
+   "png_sha256": "52315b3af443f8fa78739d2f3cbf09d2355d22d76ed7f38d62aa3bda7f996c62",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 15"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_LookAround_045_quarter_L.png",
+   "png_sha256": "0501f93f2b5dcdc526235d9b321003561d6b18549aa3b55255f3c038d8ad3cb5",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 45"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_LookAround_045_side_L.png",
+   "png_sha256": "f54915072d6300a30bb232996612a659dbc6fb84f35e6eba68b74798ce7c12f5",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 45"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_LookAround_070_quarter_L.png",
+   "png_sha256": "45271ef3c35ab6048f55f8fd0813ef3a1c98680beac8c0f64f21acea47505fb7",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 70"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_LookAround_070_side_L.png",
+   "png_sha256": "60b77e43b39560ba76da4f536d6da7772d350d4646547f3e930560136880a191",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 70"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_LookAround_080_quarter_L.png",
+   "png_sha256": "0ac2a2ec8e99b7181b39d40107989b1a8a58493ef2682386401fb52535e33ceb",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 80"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_LookAround_080_side_L.png",
+   "png_sha256": "bf908dbc28733ebaa2f9f8655dfb4637f2a089ef4fca798c9df5e74948af3dfc",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 80"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_ThrowIn_000_quarter_L.png",
+   "png_sha256": "457e198ab21118a63fc12e7d6efc8913ac4ab6c0a14090bbef0cf7bcacbaf847",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 0"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_ThrowIn_000_side_L.png",
+   "png_sha256": "117446ff391d5b5cbcc99916af6bbb1dd90024a7c56ef694308d20819af1fad3",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 0"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_ThrowIn_013_quarter_L.png",
+   "png_sha256": "97ffdf8d049bd037732e4090d4e68f34feec449eea04bf02a3ae3a8cad405596",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_ThrowIn_013_side_L.png",
+   "png_sha256": "750634952f9174ec941afcc32df8450613b58f0c3a0a86bdbf664c14592a66f1",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_ThrowIn_020_quarter_L.png",
+   "png_sha256": "e00abd8235bf72629464d76158c996d663e05521a453bb78bb79da65f4ea7f96",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 20"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_ThrowIn_020_side_L.png",
+   "png_sha256": "a8f3673562b9875d3e397b8ed6d943fd9da3a0b6f1d2b21b2829e34678338327",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 20"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_ThrowIn_029_quarter_L.png",
+   "png_sha256": "115c5356a87a765015253cb564ebcbb8ac1f64cefb3962adc680ae4831bb9c23",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 29"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM56_ThrowIn_029_side_L.png",
+   "png_sha256": "e465050f2d67a4a6343bb2b5b3f20351c4f939de8a513c1fa572538c9a0a86d4",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 29"
+  },
+  {
+   "png": "renders/COMPARE/MATCH/HM56_broadcast_stand.png",
+   "png_sha256": "91224ad6234566ef6b2a6242f3a2a6acb1f2b0e45c03854cdd64c0c7d3a6636e",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "broadcast_25m_85mm",
+   "pixels": [
+    1280,
+    720
+   ],
+   "samples": 32,
+   "note": "stand; camera 25 m away, 12 m high, 85 mm lens"
+  },
+  {
+   "png": "renders/COMPARE/MATCH/HM56_broadcast_run.png",
+   "png_sha256": "03591483bf7708e6d5dcbd6db0acfb9a1941e3688c348efb863b42dd0138b067",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "broadcast_25m_85mm",
+   "pixels": [
+    1280,
+    720
+   ],
+   "samples": 32,
+   "note": "run; camera 25 m away, 12 m high, 85 mm lens"
+  },
+  {
+   "png": "renders/COMPARE/MATCH/HM56_broadcast_kick.png",
+   "png_sha256": "05d76ef58ad7194d58e92d1512d48ed0559aee8170f5a290e981cb74944d23b4",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "broadcast_25m_85mm",
+   "pixels": [
+    1280,
+    720
+   ],
+   "samples": 32,
+   "note": "kick; camera 25 m away, 12 m high, 85 mm lens"
+  },
+  {
+   "png": "renders/COMPARE/MATCH/HM56_broadcast_header.png",
+   "png_sha256": "5abbb606ab77ea2f78ced2a86357e86e736dd8fd4f8ce63b288c2ba1990d5d67",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "broadcast_25m_85mm",
+   "pixels": [
+    1280,
+    720
+   ],
+   "samples": 32,
+   "note": "header; camera 25 m away, 12 m high, 85 mm lens"
+  },
+  {
+   "png": "renders/COMPARE/SMALL/HM56_32px_run.png",
+   "png_sha256": "1b1f465abe9de63fe3fe3068dca94088e4e539b8fe2df1aeee0d50c60514b737",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    32,
+    64
+   ],
+   "samples": 24,
+   "note": "rendered at this pixel size (player height = image height)"
+  },
+  {
+   "png": "renders/COMPARE/SMALL/HM56_48px_run.png",
+   "png_sha256": "f3e8dce0a9abe640743e37e25b4fa5ac1876ae49c6c01902987c43cc07cad10e",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    48,
+    96
+   ],
+   "samples": 24,
+   "note": "rendered at this pixel size (player height = image height)"
+  },
+  {
+   "png": "renders/COMPARE/SMALL/HM56_72px_run.png",
+   "png_sha256": "1f4129e34f1f3f125f3c212ebc8d6a8f1aca64c88e1dc3d64c9d03362b6a813f",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    72,
+    144
+   ],
+   "samples": 24,
+   "note": "rendered at this pixel size (player height = image height)"
+  },
+  {
+   "png": "renders/COMPARE/SMALL/HM56_96px_run.png",
+   "png_sha256": "d3101229132ff2be17249011ca32e2d6ca329ee4f45aefeb85d9cafb0d51d718",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "quarter_L",
+   "pixels": [
+    96,
+    192
+   ],
+   "samples": 24,
+   "note": "rendered at this pixel size (player height = image height)"
+  },
+  {
+   "png": "renders/COMPARE/REPLAY/HM56_replay_kick.png",
+   "png_sha256": "1e8281ff12c1433d9fe92c5d5df8150a39fe3e1d4451efcd391527774a5af014",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "replay_3.6m_50mm",
+   "pixels": [
+    960,
+    540
+   ],
+   "samples": 40,
+   "note": "kick; replay camera ~3.6 m, 50 mm"
+  },
+  {
+   "png": "renders/COMPARE/REPLAY/HM56_replay_header.png",
+   "png_sha256": "bceaec54552cb47735d2c79ecb671de98c02fd0b90280ef6a35f8396b9ab9894",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "replay_3.6m_50mm",
+   "pixels": [
+    960,
+    540
+   ],
+   "samples": 40,
+   "note": "header; replay camera ~3.6 m, 50 mm"
+  },
+  {
+   "png": "renders/COMPARE/REPLAY/HM56_replay_run.png",
+   "png_sha256": "7fe9ea577a7870ab872f3d811155a07bd0ff2475a6e11e5ba45e93e05f6ea270",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "replay_3.6m_50mm",
+   "pixels": [
+    960,
+    540
+   ],
+   "samples": 40,
+   "note": "run; replay camera ~3.6 m, 50 mm"
+  },
+  {
+   "png": "renders/COMPARE/REPLAY/HM56_replay_throw.png",
+   "png_sha256": "ae1c70bdd19fb7c323f299a8ec7c5f11c3442a7679d7b91097f3ad9fc313731f",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "replay_3.6m_50mm",
+   "pixels": [
+    960,
+    540
+   ],
+   "samples": 40,
+   "note": "throw; replay camera ~3.6 m, 50 mm"
+  },
+  {
+   "png": "renders/COMPARE/PHONE/HM56_phone_run.png",
+   "png_sha256": "f1efb994cff069e232c121c15537fdb8ef55eb8d17072bebc503ccd372be7cb7",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "phone_match_50mm",
+   "pixels": [
+    2532,
+    1170
+   ],
+   "samples": 24,
+   "note": "run; iPhone landscape 844x390 pt at 3x, match camera 25 m with a 50 mm lens (wider match view)"
+  },
+  {
+   "png": "renders/COMPARE/PHONE/HM56_phone_kick.png",
+   "png_sha256": "733e642755e5e3c53689c2b8aba5002b5f9e792dec9805196f9aa613dbda5608",
+   "source": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "source_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+   "view": "phone_match_50mm",
+   "pixels": [
+    2532,
+    1170
+   ],
+   "samples": 24,
+   "note": "kick; iPhone landscape 844x390 pt at 3x, match camera 25 m with a 50 mm lens (wider match view)"
+  },
+  {
+   "png": "renders/COMPARE/BODY/HM57_front.png",
+   "png_sha256": "7a370745460e35aa5d32ff7b7180e262428814f3a378b1e13dc4eff4c62d3585",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "front",
+   "pixels": [
+    420,
+    840
+   ],
+   "samples": 40,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/BODY/HM57_quarter_L.png",
+   "png_sha256": "39243eea6b278971d1c7898d0064158db13edf9d629527cf9f85b6b2c7e44ac7",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    420,
+    840
+   ],
+   "samples": 40,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/BODY/HM57_side_L.png",
+   "png_sha256": "45b4cd207d66943689a4408e8185f3e2218846bb0365c7a61eddf86268c635d5",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    420,
+    840
+   ],
+   "samples": 40,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/BODY/HM57_back.png",
+   "png_sha256": "4909f11377c93eed16373f676706577d0cd5715217a98642479b6cb47f8282c5",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "back",
+   "pixels": [
+    420,
+    840
+   ],
+   "samples": 40,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/FACE/HM57_front.png",
+   "png_sha256": "52e6dfdce1a676a7a272c1af32c0a9fa3b193a2c57e5cd3cb317e2d2cae51fb0",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "front",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 48,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/FACE/HM57_quarter_L.png",
+   "png_sha256": "57346cfdfd229ac5d2f84006fa65a39eef011e0c8c9ae204fb76cdd593784a9c",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 48,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/FACE/HM57_side_L.png",
+   "png_sha256": "9164775622333a5a500094bc7c6a16428d6409c4340d0d6f1ce058d74ddf1720",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 48,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/FACE/HM57_low.png",
+   "png_sha256": "9747bf5a3e9b5cf47fd3a11a69aabf0671daabc51862274346d2e8a0f7c69937",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": [
+    0.45,
+    -0.85,
+    -0.3
+   ],
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 48,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM57_neck_front.png",
+   "png_sha256": "9d763453f3bb528e63ccc6de4fcc9fb8ac4f39d5fb0291af4e9afa80237be75d",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "front",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM57_neck_quarter.png",
+   "png_sha256": "bae449c03c0bfd1eb43b1db9fda36b6e79fcea8c50aa74edda94b3fe29cc04e3",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM57_neck_side.png",
+   "png_sha256": "a55c9e76741c61155cda8f232bd38999bcf37becd9df8d86c5e6a3281605f9ca",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM57_neck_back.png",
+   "png_sha256": "052785f806624851e563ecf096202a91c12526c9cd809c5bcf624e4f36666ede",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "back",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM57_legs_front.png",
+   "png_sha256": "21d84c4b957e63e4f10dce7ec811892df6dd4384aa3e63f996418eecf03031f1",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "front",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM57_legs_side.png",
+   "png_sha256": "5064ea7baac915453fe383647c8e61e50ab89d8baefad827ea76a272357aa07c",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM57_legs_quarter.png",
+   "png_sha256": "c0980a6679be5fc9c064e239cddf4db689ca20fc2cb79b84c96302eeb38d46b8",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM57_boot_side.png",
+   "png_sha256": "fc4e63ec671f56c168a2e4b4365a7ebaaa557900f8304543046ea9b0e951d65b",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_turn_left_front.png",
+   "png_sha256": "1baad6b7f157a9c9338d7f576596377c1fb728e926a1abcd027912a71213538f",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 15"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_turn_left_side_L.png",
+   "png_sha256": "9d6a4192e105b3c8035dd7d947370212cdf818c69798c03784799a191502f5da",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 15"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_turn_left_back.png",
+   "png_sha256": "e47e96e249feef2ff28e16363311b2847b313aaf15198073a26355dee828d315",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "back",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 15"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_turn_left_above.png",
+   "png_sha256": "97a2ba93bec6ddd8577f9a9ec290e1e90fe4508a7a1d5c3ac2d7c0edb6fba978",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": [
+    0.25,
+    -0.55,
+    0.8
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 15"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_turn_right_front.png",
+   "png_sha256": "3e323a91e8f705253fd25e7e6800b3ee3a075eb40f361ab19624c3251fe2c129",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 45"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_turn_right_side_L.png",
+   "png_sha256": "4b966b9c87c051ec33326d03663b3a658d5d2e9e9c44d4b46b924615bb3542ec",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 45"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_turn_right_back.png",
+   "png_sha256": "4f3bcef82ed7da302d4b3deebff063ca7c0ae8155d136a8ac5f1af65eb4d4b40",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "back",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 45"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_turn_right_above.png",
+   "png_sha256": "24cbc5a6b530292bccf8a593468f7d5baee2a49259e0a5e814dcae2870b8e2af",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": [
+    0.25,
+    -0.55,
+    0.8
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 45"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_look_up_front.png",
+   "png_sha256": "b3031f880c96375538a88419cb6a1de1957992006921c79ddf72387e67bad345",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 70"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_look_up_side_L.png",
+   "png_sha256": "e338c035341a7d2a2594f1df047dd282a0041092be9013258f993cae34772a17",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 70"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_look_up_back.png",
+   "png_sha256": "6e7b14a1f75d5ca372c56f79337b9eaccb5a06eeee64a4c646a37573960b0ece",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "back",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 70"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_look_up_above.png",
+   "png_sha256": "e3e28be1025875ea4c9919c8d76df1be3eb429fe3cd33a5037d2496e0b333a0b",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": [
+    0.25,
+    -0.55,
+    0.8
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 70"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_look_down_front.png",
+   "png_sha256": "fd42334285db03b4770b4753d31b19f5fd306916376e59d2dadac9659216b9c8",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 80"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_look_down_side_L.png",
+   "png_sha256": "e2b74d60a5de0df9cce6b1203294ced890dd27af37b009e497c6fbfb94e96243",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 80"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_look_down_back.png",
+   "png_sha256": "6db7e45c622c7cafe5ad6891d350a57165488bef6a28224390512d1cdf681d16",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "back",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 80"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_look_down_above.png",
+   "png_sha256": "4489f911adff1cb89b43e7939bf6f00a8c5ee06a5719600051e124dfbdb215fd",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": [
+    0.25,
+    -0.55,
+    0.8
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 80"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_tilt_front.png",
+   "png_sha256": "048f78378ff261a2477eb6ca219434205d7193f5840d7eb47c91ca4a4c695dea",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 90"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_tilt_side_L.png",
+   "png_sha256": "b58c6ac31deb9c16ad3c66c915a7857452e9a02cafaca583e5821b76d6761873",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 90"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_tilt_back.png",
+   "png_sha256": "298afe63460a09ec4bf0e497af83f1995b2be0e17a1902c271540a6aa49620fe",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "back",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 90"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_tilt_above.png",
+   "png_sha256": "3c81538cd5cc595ca5f958bfda91d9bfd15df2c3e118940de7b5b8996bb089a1",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": [
+    0.25,
+    -0.55,
+    0.8
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 90"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_header_front.png",
+   "png_sha256": "7da73a8055a0449dfe714b5d4d6c6b996fe975811550b3535b573b9159dc192c",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Header frame 21"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_header_side_L.png",
+   "png_sha256": "a19ee2c65267eb8ae87f27d95aeba322a6e67336819b1fcdcb4458e27bb30c02",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Header frame 21"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_header_back.png",
+   "png_sha256": "f0c08459c23abda1f611cd31b12cad6efc60ea13d9f04ef662f0a03f21b51128",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "back",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Header frame 21"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_header_above.png",
+   "png_sha256": "9ac123c57c5dce6fd13fe3678c48dbf8c4efd49a5006050b0130879c1f6a4abc",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": [
+    0.25,
+    -0.55,
+    0.8
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Header frame 21"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_throw_front.png",
+   "png_sha256": "74c51c099effd212e012b14d9f6c791096667882b1e22621794ff96d474ea388",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_throw_side_L.png",
+   "png_sha256": "f529a14c348cdc6633f2e5facc588679b5205db4996cb25c25e0b215967bcffd",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_throw_back.png",
+   "png_sha256": "c1f08ed458675c86752d8ac2394dec4f70fc63bf3da3e5e6bc7330117de0702c",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "back",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_throw_above.png",
+   "png_sha256": "f16581662288e9f6551a9b89f18ab169e566d1679fd569aaa2b7ff5807fb10fc",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": [
+    0.25,
+    -0.55,
+    0.8
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_armpit_kick_front.png",
+   "png_sha256": "3059e0418433f68c192b55a57251f1e8899acbc2a0fe0dfc98f3ad1c7477b2af",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Kick frame 19"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_armpit_kick_side_low.png",
+   "png_sha256": "22d9e4594dd898b0694f4750f7ee1ceaff1125237913b40e03a740010ce18dc8",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": [
+    0.9,
+    0.2,
+    -0.2
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Kick frame 19"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_armpit_throw_front.png",
+   "png_sha256": "524f7971b1ee50520d1858d7a4d7296980f1a72dc818723615266c7bf40e7525",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_armpit_throw_side_low.png",
+   "png_sha256": "86cf931915823e59fc9e9e7f35ef904ba5e9afd6052118ca096df78256188430",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": [
+    0.9,
+    0.2,
+    -0.2
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_knee_run_side_L.png",
+   "png_sha256": "e9a0b5fcbfa21a6335f60eceab4316ae99aaa779b302dc60e7376fbbe6c5a64d",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Run frame 5"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_knee_run_back_quarter.png",
+   "png_sha256": "6294597da987ea6667109cf5054ff9de422c74f3cbe4aa4180844897c563558c",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": [
+    0.6,
+    0.75,
+    0.1
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Run frame 5"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_knee_kick_side_L.png",
+   "png_sha256": "caeaac3f20ff06b4fd9cec7bff4502132e75bbd90f6d182fe1022eb0e53a8d42",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Kick frame 14"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_knee_kick_back_quarter.png",
+   "png_sha256": "2ff4ee1ff74276d25b08a095283fbc50d38689010b15edfd4bae703cf0b283b8",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": [
+    0.6,
+    0.75,
+    0.1
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Kick frame 14"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_knee_header_side_L.png",
+   "png_sha256": "cac735db346c1db1e3c0395e432a4f39fbeaef76ea2309c147aa1ad1067fce6b",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Header frame 10"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57_knee_header_back_quarter.png",
+   "png_sha256": "7dc6db216ea901036cf3c89286ddf05f493a0ecf488a7ed1542ac98b0326add7",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": [
+    0.6,
+    0.75,
+    0.1
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Header frame 10"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Run_000_quarter_L.png",
+   "png_sha256": "393a15030a3b71fd89223c0ad11a012414c07bc6fa1519cce9cf080d15e7845e",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 0"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Run_000_side_L.png",
+   "png_sha256": "ce038e743327b7669c6665906b89cd87b854bf0207588cefb5f34206fe20c9a9",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 0"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Run_005_quarter_L.png",
+   "png_sha256": "a3b73a86d17a5cd67103d2a2d7d947a7f61761b1d647a74ab671f6adccb93a71",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 5"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Run_005_side_L.png",
+   "png_sha256": "771c80e587e76f700573c065871e11a839738b047867745d1932dba685eccb77",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 5"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Run_010_quarter_L.png",
+   "png_sha256": "00e4ed999caedbca4dd99715938b8f356cf288dc62c7fd8fc0d8883fd11327fa",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 10"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Run_010_side_L.png",
+   "png_sha256": "ada690ffe43e55624aa32d332f96ad9ac79ccde231c505e38f704b0d89ff160d",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 10"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Run_015_quarter_L.png",
+   "png_sha256": "cd7345b200c793f8b3858c7f31fd3e42757c2d22628bf097aa009877e0d0fbba",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 15"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Run_015_side_L.png",
+   "png_sha256": "1435de132c09444ac6a4a005b82d7a5067ecbb5f0aa6574541000be185f8ab25",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 15"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Kick_008_quarter_L.png",
+   "png_sha256": "c50e85740a74ce02574856dc3daecae344ee3ca36c9ff926e4888a10a23f376f",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 8"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Kick_008_side_L.png",
+   "png_sha256": "09d3642de09c4a3ecec96d05623ccfa64844a1c44eab97a5667b01541efe5383",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 8"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Kick_014_quarter_L.png",
+   "png_sha256": "aea12663fecc5c2149486bc39bd0c798399f96755a8b6477b819aded687ed6a9",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 14"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Kick_014_side_L.png",
+   "png_sha256": "62225c2fade33dac5ec0faa2d640ca39655191c8b4d2a6b6732b207d81881010",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 14"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Kick_019_quarter_L.png",
+   "png_sha256": "ccd235a1c2a65f05412f386dcb0987890c38f06e15ea90a4be5eaa19146fba11",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 19"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Kick_019_side_L.png",
+   "png_sha256": "b6a346bfd94679ef4a01cdae1f857693000d21710ae1f9dbe9e50bc6a7496530",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 19"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Kick_025_quarter_L.png",
+   "png_sha256": "4c6a330a08f04a22ca26d929cfd6e526f03b69140cba890a135c8e547c8100f7",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 25"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Kick_025_side_L.png",
+   "png_sha256": "1b3cdf086d4549909ccb487f614b345dc12f6496818b4e6e0d03a43024639e3b",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 25"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Header_009_quarter_L.png",
+   "png_sha256": "d3c5352522098cd57a6ecbb7cc33f2b419b849bc75dedcd4b1a8b99ec7a5e4ca",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 9"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Header_009_side_L.png",
+   "png_sha256": "b623c200df368ec230d791f4dc85547d328fca797dabe564e5be0f4aa1fd8298",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 9"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Header_017_quarter_L.png",
+   "png_sha256": "872d4358f01f532ec3a8d42738abc8ecf03b574f6df13d4505d6a0c94afaa17e",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 17"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Header_017_side_L.png",
+   "png_sha256": "1773903a67f514453a83abfe92d850982a0001b65423964488f840f3bc4966ff",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 17"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Header_021_quarter_L.png",
+   "png_sha256": "568b0c582d40b79c10d641b72d2877de4183c03a32c7423ef8456033f8d79d24",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 21"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Header_021_side_L.png",
+   "png_sha256": "cc019580fa4968dec994a266ddbb8e12d85bc3b73e63a52287cab35e4571dbc4",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 21"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Header_030_quarter_L.png",
+   "png_sha256": "f4c2abce381e9e9675231948fbf4947308914212f90062eef15572a8f6717d3f",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 30"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_Header_030_side_L.png",
+   "png_sha256": "59c9a5f5731fb332b1304f980e160206c7d7060d6429739ad2c0856454f4e563",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 30"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_LookAround_015_quarter_L.png",
+   "png_sha256": "99798dcde902b4e23c2666c45845716d2619aaafec281fe9220ec0c67ffa3298",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 15"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_LookAround_015_side_L.png",
+   "png_sha256": "490d9efe738c230a920e0b2084ed9593ee126e3d0d83577f5c71faf90a551f39",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 15"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_LookAround_045_quarter_L.png",
+   "png_sha256": "0769bda9756056e52367ca94520ef0c692274ee69c27b8a1a1b34c379dbb3f40",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 45"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_LookAround_045_side_L.png",
+   "png_sha256": "2dfb3d4e42fe48f63b57809921587efb7af8aa64bbec55b821d70c2ca4dcbe17",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 45"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_LookAround_070_quarter_L.png",
+   "png_sha256": "1e6f81444997ccffc319335292b0305c19689642530ce4801cf54ab791158f15",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 70"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_LookAround_070_side_L.png",
+   "png_sha256": "e426791a95c69f0b1ca6125970d837caa8a7e70613ac37f28f0dcc13fab60bc5",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 70"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_LookAround_080_quarter_L.png",
+   "png_sha256": "f4c467bbeab23be053288e1f62cc1d576fd1613d1d716b31cf933253f0c5bf85",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 80"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_LookAround_080_side_L.png",
+   "png_sha256": "64642e804a10a5be17bd11219d41454634386bf2ecc13b6ef70fd63ec8ca9b90",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 80"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_ThrowIn_000_quarter_L.png",
+   "png_sha256": "08a83970aa33c1707a77e68dfab9aa391eeae52289d71b729833abad09242119",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 0"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_ThrowIn_000_side_L.png",
+   "png_sha256": "f5372b6aaa7570bd9eb617bf846bed70bb09592ae4a4d64bc9bd7e36ab82dcc6",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 0"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_ThrowIn_013_quarter_L.png",
+   "png_sha256": "644679241c4f59a19965d0fcbbb7b94f35ab1a85ebb12440b5e08ba516c8c679",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_ThrowIn_013_side_L.png",
+   "png_sha256": "ca93a2708c671d21cb7f83b96a5e6a7e6ec248237268092bbc85e4a833be1077",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_ThrowIn_020_quarter_L.png",
+   "png_sha256": "0d9ea9e73d1dd27f2fb692ef755bab2849c6ac06da170e04404f8f3410ba9ab7",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 20"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_ThrowIn_020_side_L.png",
+   "png_sha256": "5f46c5268592129632cccc43fdaacc5a3789121722abebd896772386baa27ffb",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 20"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_ThrowIn_029_quarter_L.png",
+   "png_sha256": "198267464b7706624b083488202cd3d3197cd497280e38e890102487e2a54e99",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 29"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57_ThrowIn_029_side_L.png",
+   "png_sha256": "ea43d823596aede76e39e7537f8081c475432e85a4762a476aef658cdcda4273",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 29"
+  },
+  {
+   "png": "renders/COMPARE/MATCH/HM57_broadcast_stand.png",
+   "png_sha256": "f7142bb332f6c7ae8754de6eb1dab3937a32a96f1d61b879a8013611462fec8c",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "broadcast_25m_85mm",
+   "pixels": [
+    1280,
+    720
+   ],
+   "samples": 32,
+   "note": "stand; camera 25 m away, 12 m high, 85 mm lens"
+  },
+  {
+   "png": "renders/COMPARE/MATCH/HM57_broadcast_run.png",
+   "png_sha256": "61761083bae9bccecb5130a3078f05c93bf8bced1a9cc03ba0fa59d1e1117ac0",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "broadcast_25m_85mm",
+   "pixels": [
+    1280,
+    720
+   ],
+   "samples": 32,
+   "note": "run; camera 25 m away, 12 m high, 85 mm lens"
+  },
+  {
+   "png": "renders/COMPARE/MATCH/HM57_broadcast_kick.png",
+   "png_sha256": "3ea4c7d2b8c1a7c4fbd04dcf9d6b6764de7648b47822392ac95b1603228e6e33",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "broadcast_25m_85mm",
+   "pixels": [
+    1280,
+    720
+   ],
+   "samples": 32,
+   "note": "kick; camera 25 m away, 12 m high, 85 mm lens"
+  },
+  {
+   "png": "renders/COMPARE/MATCH/HM57_broadcast_header.png",
+   "png_sha256": "43c2343e0ec2e8e2b9214e8968292c8f67b97f54b187fdceb7603e364cb08424",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "broadcast_25m_85mm",
+   "pixels": [
+    1280,
+    720
+   ],
+   "samples": 32,
+   "note": "header; camera 25 m away, 12 m high, 85 mm lens"
+  },
+  {
+   "png": "renders/COMPARE/SMALL/HM57_32px_run.png",
+   "png_sha256": "4c600ace20a92bb8fc9d11a098fd4917dc6a4fa01610232d06cd0366bd675325",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    32,
+    64
+   ],
+   "samples": 24,
+   "note": "rendered at this pixel size (player height = image height)"
+  },
+  {
+   "png": "renders/COMPARE/SMALL/HM57_48px_run.png",
+   "png_sha256": "6ff5ede938a36d6ccfe94ae0420a8ebbeb6c86b0a2a82ee426d587b6fd4ef13c",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    48,
+    96
+   ],
+   "samples": 24,
+   "note": "rendered at this pixel size (player height = image height)"
+  },
+  {
+   "png": "renders/COMPARE/SMALL/HM57_72px_run.png",
+   "png_sha256": "08842f7af2e6008c273e4a6391951b96fe5b11a920640ae7647a3024d0c57d03",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    72,
+    144
+   ],
+   "samples": 24,
+   "note": "rendered at this pixel size (player height = image height)"
+  },
+  {
+   "png": "renders/COMPARE/SMALL/HM57_96px_run.png",
+   "png_sha256": "12895511013fe9c32799f74786cfba4e149271fcccf61879525434322561e00b",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "quarter_L",
+   "pixels": [
+    96,
+    192
+   ],
+   "samples": 24,
+   "note": "rendered at this pixel size (player height = image height)"
+  },
+  {
+   "png": "renders/COMPARE/REPLAY/HM57_replay_kick.png",
+   "png_sha256": "86f558266e4816286b6b5776adb596a481d949bd9134e27d16a3ff6e6bd98e83",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "replay_3.6m_50mm",
+   "pixels": [
+    960,
+    540
+   ],
+   "samples": 40,
+   "note": "kick; replay camera ~3.6 m, 50 mm"
+  },
+  {
+   "png": "renders/COMPARE/REPLAY/HM57_replay_header.png",
+   "png_sha256": "22930f7f1b8edfcaac2c62d5f7c8dc101a82de3906f5a1e600237f0f2db54470",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "replay_3.6m_50mm",
+   "pixels": [
+    960,
+    540
+   ],
+   "samples": 40,
+   "note": "header; replay camera ~3.6 m, 50 mm"
+  },
+  {
+   "png": "renders/COMPARE/REPLAY/HM57_replay_run.png",
+   "png_sha256": "3be1068fd83d2f1f18c8059a5b37f46955362f4ec26aca9ed8785eed11478aba",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "replay_3.6m_50mm",
+   "pixels": [
+    960,
+    540
+   ],
+   "samples": 40,
+   "note": "run; replay camera ~3.6 m, 50 mm"
+  },
+  {
+   "png": "renders/COMPARE/REPLAY/HM57_replay_throw.png",
+   "png_sha256": "2e153327bad6545ed041db47923b65dcaf6837761a5325addde0ec3d8180d1ca",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "replay_3.6m_50mm",
+   "pixels": [
+    960,
+    540
+   ],
+   "samples": 40,
+   "note": "throw; replay camera ~3.6 m, 50 mm"
+  },
+  {
+   "png": "renders/COMPARE/PHONE/HM57_phone_run.png",
+   "png_sha256": "e20dce05215e7d18c803fd8d5f970ebec46ed15df40080a1bad2b9a5c4ed743d",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "phone_match_50mm",
+   "pixels": [
+    2532,
+    1170
+   ],
+   "samples": 24,
+   "note": "run; iPhone landscape 844x390 pt at 3x, match camera 25 m with a 50 mm lens (wider match view)"
+  },
+  {
+   "png": "renders/COMPARE/PHONE/HM57_phone_kick.png",
+   "png_sha256": "eb49bbd5e0430d2a5f4f9223b527dd63ae9a207a269b3c8b6871129e3a3cc5f6",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "source_sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "view": "phone_match_50mm",
+   "pixels": [
+    2532,
+    1170
+   ],
+   "samples": 24,
+   "note": "kick; iPhone landscape 844x390 pt at 3x, match camera 25 m with a 50 mm lens (wider match view)"
+  },
+  {
+   "png": "renders/COMPARE/BODY/HM57L_front.png",
+   "png_sha256": "2df0905752c9b1a27af0199c35714f12ce3abf925d81bb9c52e4ad1feb80a9a1",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "front",
+   "pixels": [
+    420,
+    840
+   ],
+   "samples": 40,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/BODY/HM57L_quarter_L.png",
+   "png_sha256": "92d9b494e6b8579291009a58e50b87771e1b3d45665713147715435a317bf772",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    420,
+    840
+   ],
+   "samples": 40,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/BODY/HM57L_side_L.png",
+   "png_sha256": "68a03361e2fbf433730eb7709fa87e26270dc4dc4b1f58af6e699b4d0c12cba7",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    420,
+    840
+   ],
+   "samples": 40,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/BODY/HM57L_back.png",
+   "png_sha256": "0489d738fc9965da62644f9760969d3385da76738c09f59752dcd1376ef94c41",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "back",
+   "pixels": [
+    420,
+    840
+   ],
+   "samples": 40,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/FACE/HM57L_front.png",
+   "png_sha256": "8d677ebd46b2c7b502047dba91df75eea636d62b460642132b04f5150c90202a",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "front",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 48,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/FACE/HM57L_quarter_L.png",
+   "png_sha256": "fbf726b5a3b363614ce9d8148aaa3ed448a31b6cdd89574fa1d2248a6231fbab",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 48,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/FACE/HM57L_side_L.png",
+   "png_sha256": "0410dba153326a9f4a37c176cdbbe0536d63f79781c0ab2e07e2f064290c8d5b",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 48,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/FACE/HM57L_low.png",
+   "png_sha256": "c0f9dcba5f88c648c8eb16ef89e5034d8e46bde051cd24e45c77c9be3fc427c7",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": [
+    0.45,
+    -0.85,
+    -0.3
+   ],
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 48,
+   "note": "rest pose"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM57L_neck_front.png",
+   "png_sha256": "9844e2dfecb6a746e2ad32c0551fd725a84fa8f9907d66dd433893e0f4bb12ce",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "front",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM57L_neck_quarter.png",
+   "png_sha256": "84ff0889a22360abea512b4ad72d9ca89177c2b9c541944c0f9928ff7bcd1f43",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM57L_neck_side.png",
+   "png_sha256": "6b06890314ab0d37c26108540a3f0f5e18b7ca320d3701932365100a5adf3fdc",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM57L_neck_back.png",
+   "png_sha256": "376c5947744802d89e957655272427affaf49f1259ea7957221578b4502872a7",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "back",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM57L_legs_front.png",
+   "png_sha256": "c590f70f0cc5af784e2d5e0cc7d10ecc83bf39d3efe7005870708f717af5cc2e",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "front",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM57L_legs_side.png",
+   "png_sha256": "d5c62542183f3f8cf2d789c2b7451273d89ba9f0d7ef440b389d631624492959",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM57L_legs_quarter.png",
+   "png_sha256": "c7b127f2a752f40f0e92478dd374ef4fe48742f45177a82409a99685890cfae9",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/PARTS/HM57L_boot_side.png",
+   "png_sha256": "e6977b8aa2663fa0bc892ffea0b6d758e701725d1cdf8a96dffcef1dd0669ea6",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    480,
+    480
+   ],
+   "samples": 40,
+   "note": "rest pose close-up"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_turn_left_front.png",
+   "png_sha256": "1b62b154419d2e4ed5fcf6437b9f8d426c7cf2f2a1105d53a87963b41c43ad88",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 15"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_turn_left_side_L.png",
+   "png_sha256": "7549487b22368183e3cfcdaf0188070e28194c69765a15a8b8b30e73cee3b5a2",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 15"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_turn_left_back.png",
+   "png_sha256": "6579effa5e40a422f355d731b6adb820f7465f8f86a8e6d380fa25594464ff27",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "back",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 15"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_turn_left_above.png",
+   "png_sha256": "0a680f7485cbd4db9d9dc7c602d8c93af5fde068da6fa9f8f5a4d1fc9fdd64f7",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": [
+    0.25,
+    -0.55,
+    0.8
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 15"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_turn_right_front.png",
+   "png_sha256": "c161297d04cdaee0ee08df0581bbf4cf8f16dc3b276454f2eb1946d4de8d3b39",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 45"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_turn_right_side_L.png",
+   "png_sha256": "acd21dd7a31f11cbd78c53ab3209a226a300840dee471e4f6bf77514932b05d4",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 45"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_turn_right_back.png",
+   "png_sha256": "afcc9de17a4ea216a01af8a4521c9b113809a95ecaae8eb165e82885452c8c1f",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "back",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 45"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_turn_right_above.png",
+   "png_sha256": "5279ad90b1ba88dc2a2cdd9a1add4c9f33939b07bbd0a5eafc522403df3e020b",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": [
+    0.25,
+    -0.55,
+    0.8
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 45"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_look_up_front.png",
+   "png_sha256": "65cc1686690c3e4303e35709ae0e4a21ab7e1c04fb0d9dfa7787c01427accea9",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 70"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_look_up_side_L.png",
+   "png_sha256": "92ed03aeccf38921505b5e25b222c61db26de25c64cf2868d254f17c82b65adf",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 70"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_look_up_back.png",
+   "png_sha256": "6404899493397ba9d4ff337498804b9317304d411ff71b64ccc7b2d7cad59fa4",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "back",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 70"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_look_up_above.png",
+   "png_sha256": "4d164e0868eecdf2eca99987b084ede232cc54e23cfa09b702b448fe12826dfd",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": [
+    0.25,
+    -0.55,
+    0.8
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 70"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_look_down_front.png",
+   "png_sha256": "612d4cc2ded630d08cfdfd99d1df10ac2d01662454bedc67e9e9207f6a7b3e61",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 80"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_look_down_side_L.png",
+   "png_sha256": "ee24c3457e9f4b336178a4bee3aa02cea2892d4bbc85045a0294d1f489651298",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 80"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_look_down_back.png",
+   "png_sha256": "00f5774d09d43b0831a0ba96ec5304353704d086abc02bc53ea5dfef6872019f",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "back",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 80"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_look_down_above.png",
+   "png_sha256": "8afd957b1c576fb2fd2eb9dbaef553f80cc736501c275a9817ee3a7814829404",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": [
+    0.25,
+    -0.55,
+    0.8
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 80"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_tilt_front.png",
+   "png_sha256": "bd3cbbeba48268c60e667f5f70520faea398e76d0547361614b14dbc90fc37a3",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 90"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_tilt_side_L.png",
+   "png_sha256": "ba4c5506f2d6a2815e555a2899d52f780f40d3cbb8e5f0ccae212731d3ecd742",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 90"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_tilt_back.png",
+   "png_sha256": "bb3f30332b99ce2a0c308344dc8d7d1ed4a5e9d3a173658bdbf2183b66c14116",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "back",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 90"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_tilt_above.png",
+   "png_sha256": "ac5eb267f1bbcea1c328bf131bafd1ab42817520f4fc4b52e0e9d8a9d5a5d899",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": [
+    0.25,
+    -0.55,
+    0.8
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "LookAround frame 90"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_header_front.png",
+   "png_sha256": "ac5894d64658e73f52929c21ac8871f37ad966ee844236fedd7f35f7a2af96e8",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Header frame 21"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_header_side_L.png",
+   "png_sha256": "8104b8d041d0d37cf96f0ae3837d7581d485f26172537de3edb0c91a71cb34e9",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Header frame 21"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_header_back.png",
+   "png_sha256": "6810496241cf8cbb208a0e3fe7e2a379d89dc42dbd57e3adf1afce8d116da4c0",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "back",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Header frame 21"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_header_above.png",
+   "png_sha256": "7f5f53e4a074e09ed20fae4b907b9a4bf57c095fabdf4f3540bc0d2dfc21edcf",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": [
+    0.25,
+    -0.55,
+    0.8
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Header frame 21"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_throw_front.png",
+   "png_sha256": "016d49007ad2fc67367386730a2483747e91b2e0fa4aea74ca6f7fde2655403c",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_throw_side_L.png",
+   "png_sha256": "b9a7858b7218d2a78aad1f1e7f0f5f62974a3ede6b0e3b8c5129c09fca8d581c",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_throw_back.png",
+   "png_sha256": "7e974a36ac378c0743b7d9e842153525db9403e6553c4857c891ce4b4138d825",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "back",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_throw_above.png",
+   "png_sha256": "590fa0c67ef031e8fd0bfd56eaac38c5a4ad5f64cbe5f804713e2d853e58ed6b",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": [
+    0.25,
+    -0.55,
+    0.8
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_armpit_kick_front.png",
+   "png_sha256": "a24c64484fbf940658b6173ea490cab81e39eca8cab31e7b28d1bb2d4da2a5c2",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Kick frame 19"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_armpit_kick_side_low.png",
+   "png_sha256": "fb78f268f0d0722d61f124e6b11ea48fc62802d33c946527904ceadd41f70546",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": [
+    0.9,
+    0.2,
+    -0.2
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Kick frame 19"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_armpit_throw_front.png",
+   "png_sha256": "87e437b42fbc1d1d78073860273d0a367cf03b3bf91e8468864bc71117c75413",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "front",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_armpit_throw_side_low.png",
+   "png_sha256": "e6cbf92180353d71a99e1882557aaff9331bb64a1b26433d2ae75536eb9b4fae",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": [
+    0.9,
+    0.2,
+    -0.2
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_knee_run_side_L.png",
+   "png_sha256": "f980a28d16f8354cf0ef3d4c6e6553ea41fad69d5ea4b483c34690bf73b285c0",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Run frame 5"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_knee_run_back_quarter.png",
+   "png_sha256": "3a3ebef351863ee609c4d30055693e8f37680dc0d2282feca89e586f4b409c2b",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": [
+    0.6,
+    0.75,
+    0.1
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Run frame 5"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_knee_kick_side_L.png",
+   "png_sha256": "3b81c252a18663374d4b0be04578404c8f71874c2a23623b45cbd8aeac37ea24",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Kick frame 14"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_knee_kick_back_quarter.png",
+   "png_sha256": "5a15c9def6df01534ec5ea996be8b9fd980202dd5f6cf19159b7d46eae6529ff",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": [
+    0.6,
+    0.75,
+    0.1
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Kick frame 14"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_knee_header_side_L.png",
+   "png_sha256": "ff63d31906b5baabcf1ce16665ab1059eafd1f0886d191e4317187dc10a358c2",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Header frame 10"
+  },
+  {
+   "png": "renders/COMPARE/NECKMOTION/HM57L_knee_header_back_quarter.png",
+   "png_sha256": "1f97f07774e1c42372e4d36a69318e7da426f9f567188ac65e2cf016ffaac3ad",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": [
+    0.6,
+    0.75,
+    0.1
+   ],
+   "pixels": [
+    420,
+    420
+   ],
+   "samples": 40,
+   "note": "Header frame 10"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Run_000_quarter_L.png",
+   "png_sha256": "d920325e78169ac5aa5f36275af8366f1d06e3b1389e20b7da78b7af4fa6070d",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 0"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Run_000_side_L.png",
+   "png_sha256": "1dfa219d241b0f49a380df1ff5e3b1866f72c7c3f82e3a29c4b84c9873ee4071",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 0"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Run_005_quarter_L.png",
+   "png_sha256": "dd30d2ea0c9ee4d9d4892a78fed8269bf56e1793896cf70c9fff68b807dd0b22",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 5"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Run_005_side_L.png",
+   "png_sha256": "5dd322b1fcfdd85cd7e4d129f831a88dabaacafec9ae0532802f4c697a2f6ed2",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 5"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Run_010_quarter_L.png",
+   "png_sha256": "6491450a7596bce800df6a94a5e317b1dc000ecbaa2b2175e1070fb79a600a56",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 10"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Run_010_side_L.png",
+   "png_sha256": "88de7f90239856326791bd820d511d133a2dfb68afe6be2d5e7ca84add8dd42c",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 10"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Run_015_quarter_L.png",
+   "png_sha256": "3e8c1ec25d7daea8b893e26a9733b7631f370de6d29380e5099f325f031248d3",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 15"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Run_015_side_L.png",
+   "png_sha256": "297e88371d0fcc728bce1129b5d2ce22df3174aab5b9da8d61eb68249f6c3cad",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Run frame 15"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Kick_008_quarter_L.png",
+   "png_sha256": "9a601daffc7a5b5ebc040039fe05253a5bdeec1b4311e7db911a3649571fc6bc",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 8"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Kick_008_side_L.png",
+   "png_sha256": "008af5066f85554117e7ded8f856c3120aa23ecb6104e8246675f4fe6a6138c3",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 8"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Kick_014_quarter_L.png",
+   "png_sha256": "f150c18a109bee9d5dd6fdfad0baa170fd480dfd9113d03f5413cd37c2bb8bd1",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 14"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Kick_014_side_L.png",
+   "png_sha256": "c4e32bac0fa7b76fc1a5f2f2ac84b9f57b26963f36267463f68ab52a54b6dcc2",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 14"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Kick_019_quarter_L.png",
+   "png_sha256": "7ccae5e60a297d44594b13c2dd55fc228330dda8bd56bd0972e544221bb89ca6",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 19"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Kick_019_side_L.png",
+   "png_sha256": "ca7d5fa6806e1a4a92045e6872cf8277c146db62a47022757631bfa32405a099",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 19"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Kick_025_quarter_L.png",
+   "png_sha256": "32737494201ba18dd0c76025f35f4e432f0692568295c50699cdb31ca0392a0c",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 25"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Kick_025_side_L.png",
+   "png_sha256": "887698fc15e297c33f878597bd46b097ef09a28632ee274085cf2e7dd6f8c1eb",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Kick frame 25"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Header_009_quarter_L.png",
+   "png_sha256": "b8e2adb7ce60b8eab2a47a8ddf16d24a0451d40d9eea2204d8c201204bbb2511",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 9"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Header_009_side_L.png",
+   "png_sha256": "58d7e7a8542e991f0321078a0098f8f96b22aa226b010cd9c19dee4d4faf90a7",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 9"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Header_017_quarter_L.png",
+   "png_sha256": "0bb71f6ca0026788de1ef6038848bf6120fadbef8d33153263612a3a3f0e190b",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 17"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Header_017_side_L.png",
+   "png_sha256": "fca55c38f05d62e857fe3f866a1fb22e74ae4743c13961962f2f7ee7f34e8921",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 17"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Header_021_quarter_L.png",
+   "png_sha256": "edc5842f843d843a05ddbb492fb2dcd8953c8d0b54fe12579644593eac2446fb",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 21"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Header_021_side_L.png",
+   "png_sha256": "5a8a4f61c7b454b10c3452dd213316ed6057e54a9de0067dfe446ad831fa4558",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 21"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Header_030_quarter_L.png",
+   "png_sha256": "27ad02d8fedb160cd7797c8e3b1dd92373b4c37087aafb7eb52bf66314926b3d",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 30"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_Header_030_side_L.png",
+   "png_sha256": "f0f8e11d461447a31694d8b4c8635bb67ae896edf14e920709493b60753014e3",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "Header frame 30"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_LookAround_015_quarter_L.png",
+   "png_sha256": "bdd1ac0546abf668c0c4bb60cad446b5ad9df3d6ec24dba9281d9d681a54d599",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 15"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_LookAround_015_side_L.png",
+   "png_sha256": "c0361f22a14e9b6432f334c704f63dde914004a167048909419b3379e04d4b0e",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 15"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_LookAround_045_quarter_L.png",
+   "png_sha256": "198f150437c6a488c0e13eb7d28f5aea59d857f2ca475358de8187d226253bde",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 45"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_LookAround_045_side_L.png",
+   "png_sha256": "0060043f9bc29b34c4dea0b7c8b37fb359849f5d0594b01914946a844024c521",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 45"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_LookAround_070_quarter_L.png",
+   "png_sha256": "77b6e2a4db682de4341bc6c0fcafcd890032cf7d604056c584bd17b8ad137450",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 70"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_LookAround_070_side_L.png",
+   "png_sha256": "53fcbe51832279349dbcd4bd479879bc3f7330ba20764c1c3431af0f1a90ab65",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 70"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_LookAround_080_quarter_L.png",
+   "png_sha256": "7f6e9bb30c8538cfab5c34767e258dc25be88fdd0f8f93de86cf341e10977bd2",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 80"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_LookAround_080_side_L.png",
+   "png_sha256": "6e8641691440697b3cdab3fe02b92ed9c970c806edd49310d3d2f7ad6c37fb8b",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "LookAround frame 80"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_ThrowIn_000_quarter_L.png",
+   "png_sha256": "990139929947e60d1aa51a1c4dc5d73263bd563116fd335ba5faeaa9956e8424",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 0"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_ThrowIn_000_side_L.png",
+   "png_sha256": "4369268998029c4eea6c1368d1f64ca4c0cdc05160d54df70ba9d3cde4de4913",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 0"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_ThrowIn_013_quarter_L.png",
+   "png_sha256": "586f8adcfd861c84ac1d4d83c3f0d63379a72d8ff05053a881e40d95d9df4061",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_ThrowIn_013_side_L.png",
+   "png_sha256": "32dc8a3309784d95d0b926d0e7909116f4ff1560cc479876315b817ca6180de6",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 13"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_ThrowIn_020_quarter_L.png",
+   "png_sha256": "85e4ea816ca0ba55f609713fabf15f067ee02c3dbb894542b6a062992f18489b",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 20"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_ThrowIn_020_side_L.png",
+   "png_sha256": "ec8c39cf976b25d0ab12adfd5704e1006c7d9286ea82dbdc63ffab1ab8c71c97",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 20"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_ThrowIn_029_quarter_L.png",
+   "png_sha256": "1ada02d5aceb0e64b9e102e17c7aa3f9dddff2aea66b4d1ad1b510f651bb04a9",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 29"
+  },
+  {
+   "png": "renders/COMPARE/MOTION/HM57L_ThrowIn_029_side_L.png",
+   "png_sha256": "5c742f6603a45d9479f599dbbcd31d7db4f1bee7b59f8b22b7af47030be0509f",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "side_L",
+   "pixels": [
+    320,
+    512
+   ],
+   "samples": 24,
+   "note": "ThrowIn frame 29"
+  },
+  {
+   "png": "renders/COMPARE/MATCH/HM57L_broadcast_stand.png",
+   "png_sha256": "83c764f69818740d80d39f3116c82930a21c102c4bfdccb69138cab701fe82e6",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "broadcast_25m_85mm",
+   "pixels": [
+    1280,
+    720
+   ],
+   "samples": 32,
+   "note": "stand; camera 25 m away, 12 m high, 85 mm lens"
+  },
+  {
+   "png": "renders/COMPARE/MATCH/HM57L_broadcast_run.png",
+   "png_sha256": "7ffd025b2510e52c515acb63fc047cc8065e551db5b5d88765a2ec1156d6a71f",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "broadcast_25m_85mm",
+   "pixels": [
+    1280,
+    720
+   ],
+   "samples": 32,
+   "note": "run; camera 25 m away, 12 m high, 85 mm lens"
+  },
+  {
+   "png": "renders/COMPARE/MATCH/HM57L_broadcast_kick.png",
+   "png_sha256": "a5d969668717cff8751c4e588a880af7c166c9a9e3f601a98bb1a9f2d2bfa33b",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "broadcast_25m_85mm",
+   "pixels": [
+    1280,
+    720
+   ],
+   "samples": 32,
+   "note": "kick; camera 25 m away, 12 m high, 85 mm lens"
+  },
+  {
+   "png": "renders/COMPARE/MATCH/HM57L_broadcast_header.png",
+   "png_sha256": "7f8e35322434d25c1a8e6a91810a7af3a8093e7bb47c003b6249524a890b1ed1",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "broadcast_25m_85mm",
+   "pixels": [
+    1280,
+    720
+   ],
+   "samples": 32,
+   "note": "header; camera 25 m away, 12 m high, 85 mm lens"
+  },
+  {
+   "png": "renders/COMPARE/SMALL/HM57L_32px_run.png",
+   "png_sha256": "1816ac622e462b399e701f12c5de7b3ed69100eef3e2d57ebcd5241930aa334a",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    32,
+    64
+   ],
+   "samples": 24,
+   "note": "rendered at this pixel size (player height = image height)"
+  },
+  {
+   "png": "renders/COMPARE/SMALL/HM57L_48px_run.png",
+   "png_sha256": "7e5c03a2a4a3a3aaa717dc7f9cf11c39b7347bcc301828af505f7c24e18e4401",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    48,
+    96
+   ],
+   "samples": 24,
+   "note": "rendered at this pixel size (player height = image height)"
+  },
+  {
+   "png": "renders/COMPARE/SMALL/HM57L_72px_run.png",
+   "png_sha256": "18e7493ca31ba77f60a173b18a962149f52de34449e65b6aa88be52386b0d061",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    72,
+    144
+   ],
+   "samples": 24,
+   "note": "rendered at this pixel size (player height = image height)"
+  },
+  {
+   "png": "renders/COMPARE/SMALL/HM57L_96px_run.png",
+   "png_sha256": "52d83b116bbd5a7a2156937ce070d7601fcaa21d88a37d26d43eec2bd381ba7a",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "quarter_L",
+   "pixels": [
+    96,
+    192
+   ],
+   "samples": 24,
+   "note": "rendered at this pixel size (player height = image height)"
+  },
+  {
+   "png": "renders/COMPARE/REPLAY/HM57L_replay_kick.png",
+   "png_sha256": "f1c786cfd6189c15cc2a814614ed8ae9cf693894855b9f4eac0036f272beb352",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "replay_3.6m_50mm",
+   "pixels": [
+    960,
+    540
+   ],
+   "samples": 40,
+   "note": "kick; replay camera ~3.6 m, 50 mm"
+  },
+  {
+   "png": "renders/COMPARE/REPLAY/HM57L_replay_header.png",
+   "png_sha256": "66785d24ea9fa4f2ee1a230ab7ceb4b2e7eaf6adb32c6ff30f0be77e2ddffa29",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "replay_3.6m_50mm",
+   "pixels": [
+    960,
+    540
+   ],
+   "samples": 40,
+   "note": "header; replay camera ~3.6 m, 50 mm"
+  },
+  {
+   "png": "renders/COMPARE/REPLAY/HM57L_replay_run.png",
+   "png_sha256": "c60f897600b06c7baa6e04e064d77a9790df50bad29b17138792230d4c86a667",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "replay_3.6m_50mm",
+   "pixels": [
+    960,
+    540
+   ],
+   "samples": 40,
+   "note": "run; replay camera ~3.6 m, 50 mm"
+  },
+  {
+   "png": "renders/COMPARE/REPLAY/HM57L_replay_throw.png",
+   "png_sha256": "0266f87c0785b24c7a105997e96445a73969f84c67d7690b9bcbdba79f7b03e4",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "replay_3.6m_50mm",
+   "pixels": [
+    960,
+    540
+   ],
+   "samples": 40,
+   "note": "throw; replay camera ~3.6 m, 50 mm"
+  },
+  {
+   "png": "renders/COMPARE/PHONE/HM57L_phone_run.png",
+   "png_sha256": "a94a3c0348932e6cf6cd6c238bdf6171e532db174b54bf5859658f21e66d9357",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "phone_match_50mm",
+   "pixels": [
+    2532,
+    1170
+   ],
+   "samples": 24,
+   "note": "run; iPhone landscape 844x390 pt at 3x, match camera 25 m with a 50 mm lens (wider match view)"
+  },
+  {
+   "png": "renders/COMPARE/PHONE/HM57L_phone_kick.png",
+   "png_sha256": "b87884ce05d4ad776abdffd41820993e0c9c2ee274791120f4e7af3d4e163527",
+   "source": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "source_sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d",
+   "view": "phone_match_50mm",
+   "pixels": [
+    2532,
+    1170
+   ],
+   "samples": 24,
+   "note": "kick; iPhone landscape 844x390 pt at 3x, match camera 25 m with a 50 mm lens (wider match view)"
+  }
+ ]
+}

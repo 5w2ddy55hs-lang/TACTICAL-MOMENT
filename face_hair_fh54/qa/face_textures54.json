@@ -1,0 +1,273 @@
+{
+  "inputs": {
+    "FACE52_BLEND": {
+      "path": "<FH53_INPUTS>/CODEX/face52_work/models/TM_FACE52_F0_H0.blend",
+      "sha256": "5197ef43a63fbbd386291b778b8090178ee71429a8cb4423bd7f4383eea749c2"
+    },
+    "FACE52_GLB": {
+      "path": "<FH53_INPUTS>/CODEX/face52_work/models/TM_FACE52_F0_H0.glb",
+      "sha256": "f31adb0a69cecdadb0e60f87e6d881b842198e431d09a70b388afaddd1fd1b1a"
+    },
+    "FACE52_RAW": {
+      "path": "<FH53_INPUTS>/CODEX/face52_work/models/TM_FACE52_F0_H0_RAW.glb",
+      "sha256": "1b3b8de350f48a633060e5aabc6b54ad2aa6470b6eabd5f176654186416cb62b"
+    }
+  },
+  "faces": {
+    "F1": {
+      "label": "F1_LONG_ANGULAR",
+      "params": {
+        "tone": [
+          0.92,
+          0.86,
+          0.8
+        ],
+        "lift": 0.0,
+        "brow": {
+          "x_in": 372,
+          "x_out": 92,
+          "y_in": 414,
+          "y_peak": 404,
+          "x_peak": 200,
+          "y_out": 414,
+          "th_in": 30,
+          "th_mid": 26,
+          "th_out": 14,
+          "color": [
+            26,
+            19,
+            16
+          ],
+          "density": 1.3,
+          "angle_in": -55,
+          "angle_out": -12
+        },
+        "crease": null,
+        "lash": {
+          "strength": 0.22,
+          "width": 3
+        },
+        "under_eye": 0.1,
+        "lips": {
+          "sat": 0.75,
+          "dark": 0.95
+        },
+        "blush": null,
+        "contour": {
+          "strength": 0.1
+        },
+        "stubble": {
+          "strength": 0.16
+        },
+        "nose_shade": 0.1,
+        "mole": null,
+        "iris": [
+          0.8,
+          0.7,
+          0.62
+        ]
+      },
+      "side_ratio": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "neck_ratio": [
+        1.084,
+        1.0638,
+        1.0969
+      ],
+      "brow_pixels_removed": 34876,
+      "files": {
+        "FACE": {
+          "png": "TMF54_F1_FACE.png",
+          "sha256": "616561277487a8761cf7b75084b63d973e9f0217b38049f47d9a5fb19ecf63b2"
+        },
+        "SIDE": {
+          "png": "TMF54_F1_SIDE.png",
+          "sha256": "4864902d7c0452110e92fd7f95f91e93abf8ff315ed11f8bf98b91491ff100ab"
+        },
+        "NECK": {
+          "png": "TMF54_F1_NECK.png",
+          "sha256": "c0c4351c4e8987e92d08737602acc5cf0522dc407a6a3dd53f28bf03b8cbde9e"
+        },
+        "EYE": {
+          "png": "TMF54_F1_EYE.png",
+          "sha256": "7ba3b1b42038be22606d754dbb103df8857a33ecb10ea8eb47ef35835e2538cc"
+        }
+      }
+    },
+    "F2": {
+      "label": "F2_ROUND_SOFT",
+      "params": {
+        "tone": [
+          1.0,
+          0.97,
+          0.97
+        ],
+        "lift": 0.035,
+        "brow": {
+          "x_in": 366,
+          "x_out": 118,
+          "y_in": 416,
+          "y_peak": 388,
+          "x_peak": 228,
+          "y_out": 406,
+          "th_in": 20,
+          "th_mid": 17,
+          "th_out": 9,
+          "color": [
+            50,
+            35,
+            27
+          ],
+          "density": 1.0,
+          "angle_in": -60,
+          "angle_out": -20
+        },
+        "crease": {
+          "offset": 13,
+          "strength": 0.2
+        },
+        "lash": {
+          "strength": 0.14,
+          "width": 2
+        },
+        "under_eye": 0.0,
+        "lips": {
+          "sat": 1.25,
+          "dark": 1.0,
+          "pink": 0.06
+        },
+        "blush": {
+          "strength": 0.1
+        },
+        "contour": null,
+        "stubble": null,
+        "nose_shade": 0.0,
+        "mole": null,
+        "iris": [
+          1.05,
+          0.95,
+          0.8
+        ]
+      },
+      "side_ratio": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "neck_ratio": [
+        1.084,
+        1.0638,
+        1.0969
+      ],
+      "brow_pixels_removed": 34876,
+      "files": {
+        "FACE": {
+          "png": "TMF54_F2_FACE.png",
+          "sha256": "111fe97703c6fa0c782c1aef4beda4537b3d676ed32e7196ff55af33a3292a52"
+        },
+        "SIDE": {
+          "png": "TMF54_F2_SIDE.png",
+          "sha256": "812457d2b8025ce27c531713ed89ee61731dcc653440ad6dffe5d5795dc2ae4b"
+        },
+        "NECK": {
+          "png": "TMF54_F2_NECK.png",
+          "sha256": "7d739a24d609dede5986561d7798bce06e035b8d48ba0217ea9d182b38a35a92"
+        },
+        "EYE": {
+          "png": "TMF54_F2_EYE.png",
+          "sha256": "cdecf6f8c27ecdb64e25753b4fb04fbb7020bcc38de9edf535e554eac40737dd"
+        }
+      }
+    },
+    "F3": {
+      "label": "F3_NARROW_SHARP",
+      "params": {
+        "tone": [
+          0.97,
+          0.94,
+          0.94
+        ],
+        "lift": 0.0,
+        "brow": {
+          "x_in": 360,
+          "x_out": 110,
+          "y_in": 420,
+          "y_peak": 384,
+          "x_peak": 178,
+          "y_out": 412,
+          "th_in": 23,
+          "th_mid": 19,
+          "th_out": 7,
+          "color": [
+            32,
+            23,
+            20
+          ],
+          "density": 1.15,
+          "angle_in": -40,
+          "angle_out": -35
+        },
+        "crease": null,
+        "lash": {
+          "strength": 0.32,
+          "width": 3
+        },
+        "under_eye": 0.04,
+        "lips": {
+          "sat": 0.95,
+          "dark": 0.97,
+          "pink": 0.02
+        },
+        "blush": null,
+        "contour": {
+          "strength": 0.16,
+          "high": true
+        },
+        "stubble": null,
+        "nose_shade": 0.06,
+        "mole": {
+          "x": 716,
+          "y": 566,
+          "r": 3.2
+        },
+        "iris": [
+          1.1,
+          1.0,
+          0.78
+        ]
+      },
+      "side_ratio": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "neck_ratio": [
+        1.084,
+        1.0638,
+        1.0969
+      ],
+      "brow_pixels_removed": 34876,
+      "files": {
+        "FACE": {
+          "png": "TMF54_F3_FACE.png",
+          "sha256": "72439e35793a07e7d925035f47825ada70322fde8b8807579a17e096a7001c93"
+        },
+        "SIDE": {
+          "png": "TMF54_F3_SIDE.png",
+          "sha256": "989d440bf6a60204db275a8628c74fc5998544af80ecd8075aff9ad6c1aa29a4"
+        },
+        "NECK": {
+          "png": "TMF54_F3_NECK.png",
+          "sha256": "1f282486dc5bf8efb98e94c79de9b0adfb4db4bc5ab2b980de8ff3abf0297b47"
+        },
+        "EYE": {
+          "png": "TMF54_F3_EYE.png",
+          "sha256": "65fa29fa1213ad50d7a0abd24b96803b8562488ce98ca34da13358c8398bcc4a"
+        }
+      }
+    }
+  }
+}

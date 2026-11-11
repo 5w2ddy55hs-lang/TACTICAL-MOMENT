@@ -1,0 +1,169 @@
+{
+ "fps": 30,
+ "models": {
+  "HM56": {
+   "glb": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+   "sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598"
+  },
+  "HM57": {
+   "glb": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+   "sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35"
+  },
+  "HM57L": {
+   "glb": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+   "sha256": "c7ee9643402f2ee047729a659525374a45546e6201e05968782ae53b23db1a7d"
+  }
+ },
+ "clips": [
+  {
+   "video": "HM57_motion_full.mp4",
+   "action": "Run",
+   "frames": 40,
+   "source_frames": [
+    0,
+    20
+   ],
+   "loops": 2,
+   "view": "quarter_L"
+  },
+  {
+   "video": "HM57_motion_full.mp4",
+   "action": "Kick",
+   "frames": 41,
+   "source_frames": [
+    0,
+    40
+   ],
+   "loops": 1,
+   "view": "quarter_L"
+  },
+  {
+   "video": "HM57_motion_full.mp4",
+   "action": "Header",
+   "frames": 43,
+   "source_frames": [
+    0,
+    42
+   ],
+   "loops": 1,
+   "view": "side_L"
+  },
+  {
+   "video": "HM57_motion_full.mp4",
+   "action": "ThrowIn",
+   "frames": 46,
+   "source_frames": [
+    0,
+    45
+   ],
+   "loops": 1,
+   "view": "side_L"
+  },
+  {
+   "video": "HM57_closeups.mp4",
+   "action": "LookAround",
+   "part": "neck",
+   "frames": 101,
+   "source_frames": [
+    0,
+    100
+   ],
+   "view": "front"
+  },
+  {
+   "video": "HM57_closeups.mp4",
+   "action": "Kick",
+   "part": "knee",
+   "frames": 41,
+   "source_frames": [
+    0,
+    40
+   ],
+   "view": [
+    0.75,
+    0.55,
+    0.1
+   ]
+  },
+  {
+   "video": "HM57_closeups.mp4",
+   "action": "ThrowIn",
+   "part": "armpit",
+   "frames": 46,
+   "source_frames": [
+    0,
+    45
+   ],
+   "view": [
+    0.9,
+    0.2,
+    -0.2
+   ]
+  }
+ ],
+ "match_replay": {
+  "frames": 290,
+  "match_camera": "25 m away, 12 m high, 85 mm, following the hips; Run x2, Kick, Header at normal speed",
+  "replay_camera": "3.6 m, 50 mm; Kick and Header at half speed (animation sampled every 0.5 frame)"
+ },
+ "outputs": {
+  "HM57_closeups.mp4": {
+   "bytes": 2042596,
+   "sha256": "2350f506c3383f586f20e000faba5470551945b7667221ca2e73a306c7b70c3a",
+   "ffprobe": {
+    "programs": [],
+    "streams": [
+     {
+      "codec_name": "h264",
+      "profile": "Main",
+      "width": 908,
+      "height": 330,
+      "pix_fmt": "yuv420p",
+      "r_frame_rate": "30/1",
+      "nb_frames": "188"
+     }
+    ]
+   }
+  },
+  "HM57_match_replay.mp4": {
+   "bytes": 3518982,
+   "sha256": "9a11ed44175cdd1ddb523604d233deb34849f9473e77187c3d1adb3ec82ddacb",
+   "ffprobe": {
+    "programs": [],
+    "streams": [
+     {
+      "codec_name": "h264",
+      "profile": "Main",
+      "width": 640,
+      "height": 784,
+      "pix_fmt": "yuv420p",
+      "r_frame_rate": "30/1",
+      "nb_frames": "290"
+     }
+    ]
+   }
+  },
+  "HM57_motion_full.mp4": {
+   "bytes": 1241766,
+   "sha256": "67beb9151a641ca6f76b36a539156395d1462d8b6a4634376381bf5293630457",
+   "ffprobe": {
+    "programs": [],
+    "streams": [
+     {
+      "codec_name": "h264",
+      "profile": "Main",
+      "width": 908,
+      "height": 480,
+      "pix_fmt": "yuv420p",
+      "r_frame_rate": "30/1",
+      "nb_frames": "170"
+     }
+    ]
+   }
+  },
+  "HM57_run.gif": {
+   "bytes": 607960,
+   "sha256": "9d522235402de37a94d24bd040c228dce52137ee8475484afe30653d5c146c76"
+  }
+ }
+}

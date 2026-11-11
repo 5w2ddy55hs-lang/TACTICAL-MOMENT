@@ -1,0 +1,741 @@
+{
+ "status": "ORIGINAL CANDIDATE (HM57, match-presentation revision of HM56) authored by scripts in human_hm57/scripts. Not approved, not formally adopted.",
+ "blender": "4.2.23 LTS",
+ "structure": {
+  "TM_HM57_PLAYER_P0_H1_KITA.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM57_Body": [
+     {
+      "material": "TM_HM57_Kit_A",
+      "triangles": 2036,
+      "vertices": 1249,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM57_BodySkin_T2",
+      "triangles": 1128,
+      "vertices": 674,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM57_Hair": [
+     {
+      "material": "TMH55_H1_Cap",
+      "triangles": 1330,
+      "vertices": 784,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H1_CapEdge",
+      "triangles": 560,
+      "vertices": 355,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H1_Cards",
+      "triangles": 248,
+      "vertices": 310,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM57_Head.001": [
+     {
+      "material": "TM_HM57_Head_P0",
+      "triangles": 2800,
+      "vertices": 1470,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM57_Kit_A",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM57_BodySkin_T2",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H1_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H1_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H1_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM57_Head_P0",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 8102,
+   "attribute_vertices": 4842,
+   "primitives": 6
+  },
+  "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb": {
+   "nodes": 26,
+   "meshes": {
+    "TM_HM57_Body.001": [
+     {
+      "material": "TM_HM57_Kit_A_LITE",
+      "triangles": 1448,
+      "vertices": 924,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TM_HM57_BodySkin_T2_LITE",
+      "triangles": 350,
+      "vertices": 242,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM57_Hair": [
+     {
+      "material": "TMH55_H1_Cap",
+      "triangles": 288,
+      "vertices": 197,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H1_CapEdge",
+      "triangles": 192,
+      "vertices": 132,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     },
+     {
+      "material": "TMH55_H1_Cards",
+      "triangles": 248,
+      "vertices": 310,
+      "attributes": [
+       "COLOR_0",
+       "COLOR_1",
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ],
+    "TM_HM57_Head.001": [
+     {
+      "material": "TM_HM57_Head_P0_LITE",
+      "triangles": 900,
+      "vertices": 513,
+      "attributes": [
+       "JOINTS_0",
+       "NORMAL",
+       "POSITION",
+       "TEXCOORD_0",
+       "WEIGHTS_0"
+      ]
+     }
+    ]
+   },
+   "skins": [
+    {
+     "name": "TM_HM55_Rig",
+     "joints": 22,
+     "joint_names": [
+      "Root",
+      "Hips",
+      "Spine",
+      "Chest",
+      "Neck",
+      "Head",
+      "Shoulder_L",
+      "UpperArm_L",
+      "LowerArm_L",
+      "Hand_L",
+      "Shoulder_R",
+      "UpperArm_R",
+      "LowerArm_R",
+      "Hand_R",
+      "UpperLeg_L",
+      "LowerLeg_L",
+      "Foot_L",
+      "Toes_L",
+      "UpperLeg_R",
+      "LowerLeg_R",
+      "Foot_R",
+      "Toes_R"
+     ]
+    }
+   ],
+   "animations": [
+    {
+     "name": "TM_HM55_Header",
+     "channels": 66,
+     "seconds": 1.4,
+     "keys": 43
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "channels": 66,
+     "seconds": 2,
+     "keys": 61
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "channels": 66,
+     "seconds": 1.333,
+     "keys": 41
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "channels": 66,
+     "seconds": 3.333,
+     "keys": 101
+    },
+    {
+     "name": "TM_HM55_Run",
+     "channels": 66,
+     "seconds": 0.667,
+     "keys": 21
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "channels": 66,
+     "seconds": 1.5,
+     "keys": 46
+    }
+   ],
+   "materials": [
+    {
+     "name": "TM_HM57_Kit_A_LITE",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM57_BodySkin_T2_LITE",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H1_Cap",
+     "alphaMode": "OPAQUE",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H1_CapEdge",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TMH55_H1_Cards",
+     "alphaMode": "BLEND",
+     "doubleSided": true,
+     "texture": true
+    },
+    {
+     "name": "TM_HM57_Head_P0_LITE",
+     "alphaMode": "OPAQUE",
+     "doubleSided": false,
+     "texture": true
+    }
+   ],
+   "images": 6,
+   "triangles": 3426,
+   "attribute_vertices": 2318,
+   "primitives": 6
+  }
+ },
+ "motion": {
+  "TM_HM57_PLAYER_P0_H1_KITA.glb": {
+   "collar_vertices": 21,
+   "actions": {
+    "Idle": {
+     "frames": [
+      0,
+      60
+     ],
+     "head_vs_chest_deg_max": 3.6,
+     "gap_min_mm": 9.38,
+     "gap_min_frame": 40,
+     "gap_max_mm": 12.04,
+     "gap_max_frame": 16,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 33,
+     "skin_cloth_intersections_max": 14,
+     "skin_cloth_frames_with_any": 61,
+     "skin_cloth_kinds_at_worst_frame": {
+      "arm x shirt": 14
+     },
+     "skin_cloth_worst_frame": 0,
+     "stretch_body_max_at_rest_xyz": [
+      -0.098,
+      -0.059,
+      0.523
+     ],
+     "stretch_body_p99_max": 1.06,
+     "stretch_head_min_at_rest_xyz": [
+      -0.058,
+      0.03,
+      1.556
+     ],
+     "stretch_head_p01_min": 0.98,
+     "stretch_head_p99_max": 1.04,
+     "stretch_body_max": 1.12,
+     "stretch_head_max": 1.16,
+     "stretch_head_min": 0.92
+    },
+    "Run": {
+     "frames": [
+      0,
+      20
+     ],
+     "head_vs_chest_deg_max": 10.7,
+     "gap_min_mm": 8.92,
+     "gap_min_frame": 5,
+     "gap_max_mm": 12.05,
+     "gap_max_frame": 0,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 33,
+     "skin_cloth_intersections_max": 36,
+     "skin_cloth_frames_with_any": 9,
+     "skin_cloth_kinds_at_worst_frame": {
+      "knee_thigh x sock": 20,
+      "shorts x sock": 2,
+      "arm x shirt": 14
+     },
+     "skin_cloth_worst_frame": 15,
+     "stretch_body_max_at_rest_xyz": [
+      -0.004,
+      0.015,
+      0.807
+     ],
+     "stretch_body_p99_max": 1.35,
+     "stretch_head_min_at_rest_xyz": [
+      0.051,
+      0.052,
+      1.577
+     ],
+     "stretch_head_p01_min": 0.96,
+     "stretch_head_p99_max": 1.22,
+     "stretch_body_max": 2.14,
+     "stretch_head_max": 1.8,
+     "stretch_head_min": 0.81
+    },
+    "Kick": {
+     "frames": [
+      0,
+      40
+     ],
+     "head_vs_chest_deg_max": 24.9,
+     "gap_min_mm": 9.38,
+     "gap_min_frame": 8,
+     "gap_max_mm": 12.06,
+     "gap_max_frame": 25,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 33,
+     "skin_cloth_intersections_max": 22,
+     "skin_cloth_frames_with_any": 35,
+     "skin_cloth_kinds_at_worst_frame": {
+      "knee_thigh x sock": 20,
+      "shorts x sock": 2
+     },
+     "skin_cloth_worst_frame": 14,
+     "stretch_body_max_at_rest_xyz": [
+      -0.004,
+      0.015,
+      0.807
+     ],
+     "stretch_body_p99_max": 1.32,
+     "stretch_head_min_at_rest_xyz": [
+      -0.006,
+      -0.035,
+      1.523
+     ],
+     "stretch_head_p01_min": 0.79,
+     "stretch_head_p99_max": 1.12,
+     "stretch_body_max": 3.68,
+     "stretch_head_max": 1.5,
+     "stretch_head_min": 0.4
+    },
+    "LookAround": {
+     "frames": [
+      0,
+      100
+     ],
+     "head_vs_chest_deg_max": 66.1,
+     "gap_min_mm": 7.79,
+     "gap_min_frame": 70,
+     "gap_max_mm": 12.4,
+     "gap_max_frame": 80,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 33,
+     "skin_cloth_intersections_max": 14,
+     "skin_cloth_frames_with_any": 101,
+     "skin_cloth_kinds_at_worst_frame": {
+      "arm x shirt": 14
+     },
+     "skin_cloth_worst_frame": 0,
+     "stretch_body_max_at_rest_xyz": [
+      -0.098,
+      -0.059,
+      0.523
+     ],
+     "stretch_body_p99_max": 1.07,
+     "stretch_head_min_at_rest_xyz": [
+      -0.034,
+      -0.019,
+      1.536
+     ],
+     "stretch_head_p01_min": 0.71,
+     "stretch_head_p99_max": 1.87,
+     "stretch_body_max": 1.12,
+     "stretch_head_max": 4.04,
+     "stretch_head_min": 0.09
+    },
+    "ThrowIn": {
+     "frames": [
+      0,
+      45
+     ],
+     "head_vs_chest_deg_max": 8.9,
+     "gap_min_mm": 8.81,
+     "gap_min_frame": 13,
+     "gap_max_mm": 12.04,
+     "gap_max_frame": 13,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 33,
+     "skin_cloth_intersections_max": 14,
+     "skin_cloth_frames_with_any": 11,
+     "skin_cloth_kinds_at_worst_frame": {
+      "arm x shirt": 14
+     },
+     "skin_cloth_worst_frame": 42,
+     "stretch_body_max_at_rest_xyz": [
+      0.313,
+      0.067,
+      1.126
+     ],
+     "stretch_body_p99_max": 1.26,
+     "stretch_head_min_at_rest_xyz": [
+      0.0,
+      -0.038,
+      1.526
+     ],
+     "stretch_head_p01_min": 0.91,
+     "stretch_head_p99_max": 1.16,
+     "stretch_body_max": 1.57,
+     "stretch_head_max": 1.68,
+     "stretch_head_min": 0.7
+    },
+    "Header": {
+     "frames": [
+      0,
+      42
+     ],
+     "head_vs_chest_deg_max": 44.9,
+     "gap_min_mm": 8.11,
+     "gap_min_frame": 17,
+     "gap_max_mm": 12.11,
+     "gap_max_frame": 21,
+     "neck_shirt_intersections_max": 0,
+     "see_through_misses_max": 0,
+     "see_through_rays": 33,
+     "skin_cloth_intersections_max": 20,
+     "skin_cloth_frames_with_any": 20,
+     "skin_cloth_kinds_at_worst_frame": {
+      "knee_thigh x sock": 20
+     },
+     "skin_cloth_worst_frame": 9,
+     "stretch_body_max_at_rest_xyz": [
+      -0.004,
+      0.015,
+      0.807
+     ],
+     "stretch_body_p99_max": 1.44,
+     "stretch_head_min_at_rest_xyz": [
+      0.0,
+      -0.038,
+      1.526
+     ],
+     "stretch_head_p01_min": 0.72,
+     "stretch_head_p99_max": 1.35,
+     "stretch_body_max": 2.46,
+     "stretch_head_max": 2.52,
+     "stretch_head_min": 0.29
+    }
+   },
+   "rest": {
+    "gap_min_mm": 9.38,
+    "gap_max_mm": 12.04,
+    "neck_shirt_intersections": 0,
+    "see_through_misses": 0,
+    "see_through_rays": 33,
+    "skin_cloth_intersections": 0,
+    "skin_cloth_kinds": {},
+    "stretch_body_max": 1.0,
+    "stretch_body_max_at_rest_xyz": [
+     0.022,
+     -0.127,
+     0.887
+    ],
+    "stretch_head_max": 1.0,
+    "stretch_head_min": 1.0,
+    "stretch_head_min_at_rest_xyz": [
+     -0.012,
+     0.102,
+     1.419
+    ],
+    "stretch_body_p99": 1.0,
+    "stretch_head_p01": 1.0,
+    "stretch_head_p99": 1.0
+   },
+   "weights": {
+    "TM_HM57_Body": {
+     "vertices": 1923,
+     "weight_sum_min": 1.0,
+     "weight_sum_max": 1.0,
+     "max_influences": 2
+    },
+    "TM_HM57_Hair": {
+     "vertices": 1449,
+     "weight_sum_min": 1.0,
+     "weight_sum_max": 1.0,
+     "max_influences": 1
+    },
+    "TM_HM57_Head": {
+     "vertices": 1470,
+     "weight_sum_min": 1.0,
+     "weight_sum_max": 1.0,
+     "max_influences": 3
+    }
+   }
+  }
+ },
+ "hair": {
+  "TM_HM57_PLAYER_P0_H1_KITA.glb": {
+   "hair_triangles": 2138,
+   "hair_vs_head_intersections": 0,
+   "hairline_edge_vertices": 71,
+   "hairline_edge_height_mm": {
+    "min": 0.7,
+    "median": 1.22,
+    "max": 2.56
+   },
+   "hairline_edge_height_near_ears_mm": {
+    "median": 1.0,
+    "max": 1.68,
+    "vertices": 23
+   },
+   "hair_to_ear_min_distance_mm": 5.96
+  },
+  "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb": {
+   "hair_triangles": 728,
+   "hair_vs_head_intersections": 0,
+   "hairline_edge_vertices": 33,
+   "hairline_edge_height_mm": {
+    "min": 0.7,
+    "median": 1.35,
+    "max": 2.8
+   },
+   "hairline_edge_height_near_ears_mm": {
+    "median": 1.12,
+    "max": 1.54,
+    "vertices": 12
+   },
+   "hair_to_ear_min_distance_mm": 5.98
+  }
+ },
+ "skin_colour": {
+  "P0": {
+   "tone": "T2",
+   "mean_srgb": {
+    "neck": [
+     0.7863,
+     0.604,
+     0.4713
+    ],
+    "cheek": [
+     0.7792,
+     0.5861,
+     0.4564
+    ],
+    "forearm": [
+     0.7688,
+     0.5901,
+     0.4603
+    ],
+    "knee": [
+     0.7495,
+     0.5712,
+     0.4451
+    ]
+   },
+   "deltaE76": {
+    "neck_vs_forearm": 1.47,
+    "neck_vs_knee": 3.29,
+    "neck_vs_cheek": 1.93
+   }
+  }
+ }
+}

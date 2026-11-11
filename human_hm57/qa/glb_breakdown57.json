@@ -1,0 +1,314 @@
+{
+ "HM56": {
+  "bytes": 2308544,
+  "triangles": 9200,
+  "attribute_vertices": 5307,
+  "primitives": 6,
+  "images": [
+   {
+    "name": "TM_HM56_Kit_A",
+    "mime": "image/png",
+    "px": [
+     1024,
+     1024
+    ],
+    "bytes": 517564
+   },
+   {
+    "name": "TM_HM56_BodySkin_T2",
+    "mime": "image/png",
+    "px": [
+     512,
+     512
+    ],
+    "bytes": 153245
+   },
+   {
+    "name": "TMH55_CAP_STRANDS_512",
+    "mime": "image/png",
+    "px": [
+     512,
+     512
+    ],
+    "bytes": 150276
+   },
+   {
+    "name": "TMH55_EDGE_STRANDS_512x256",
+    "mime": "image/png",
+    "px": [
+     512,
+     256
+    ],
+    "bytes": 94791
+   },
+   {
+    "name": "TMH55_CARD_STRANDS_512",
+    "mime": "image/png",
+    "px": [
+     512,
+     512
+    ],
+    "bytes": 141476
+   },
+   {
+    "name": "TM_HM56_Head_P0",
+    "mime": "image/png",
+    "px": [
+     1024,
+     1024
+    ],
+    "bytes": 515003
+   }
+  ],
+  "image_bytes": 1572355,
+  "joints": 22,
+  "clips": 6,
+  "head": {
+   "hidden": 378,
+   "neck": 588,
+   "contour": 568,
+   "face": 2370,
+   "hairline": 128,
+   "scalp": 646
+  },
+  "body": {
+   "shirt": 256,
+   "shoulder": 256,
+   "sleeve": 300,
+   "sock": 280,
+   "boot": 420,
+   "shorts": 256,
+   "arm": 496,
+   "leg": 320
+  },
+  "hair": 1938,
+  "weights": {
+   "TM_HM56_Body": {
+    "vertices": 1603,
+    "sum_min": 1.0,
+    "sum_max": 1.0,
+    "max_influences": 2
+   },
+   "TM_HM56_Hair": {
+    "vertices": 1207,
+    "sum_min": 1.0,
+    "sum_max": 1.0,
+    "max_influences": 1
+   },
+   "TM_HM56_Head": {
+    "vertices": 2497,
+    "sum_min": 1.0,
+    "sum_max": 1.0,
+    "max_influences": 3
+   }
+  }
+ },
+ "HM57": {
+  "bytes": 2266152,
+  "triangles": 8102,
+  "attribute_vertices": 4842,
+  "primitives": 6,
+  "images": [
+   {
+    "name": "TM_HM57_Kit_A",
+    "mime": "image/png",
+    "px": [
+     1024,
+     1024
+    ],
+    "bytes": 504152
+   },
+   {
+    "name": "TM_HM57_BodySkin_T2",
+    "mime": "image/png",
+    "px": [
+     512,
+     512
+    ],
+    "bytes": 153362
+   },
+   {
+    "name": "TMH55_CAP_STRANDS_512",
+    "mime": "image/png",
+    "px": [
+     512,
+     512
+    ],
+    "bytes": 150276
+   },
+   {
+    "name": "TMH55_EDGE_STRANDS_512x256",
+    "mime": "image/png",
+    "px": [
+     512,
+     256
+    ],
+    "bytes": 94791
+   },
+   {
+    "name": "TMH55_CARD_STRANDS_512",
+    "mime": "image/png",
+    "px": [
+     512,
+     512
+    ],
+    "bytes": 141476
+   },
+   {
+    "name": "TM_HM57_Head_P0",
+    "mime": "image/png",
+    "px": [
+     1024,
+     1024
+    ],
+    "bytes": 512173
+   }
+  ],
+  "image_bytes": 1556230,
+  "joints": 22,
+  "clips": 6,
+  "head": {
+   "hidden": 74,
+   "neck": 130,
+   "contour": 140,
+   "face": 2338,
+   "scalp": 50,
+   "hairline": 68
+  },
+  "body": {
+   "shirt": 320,
+   "shoulder": 320,
+   "sleeve": 300,
+   "sock": 336,
+   "boot": 504,
+   "shorts": 256,
+   "arm": 744,
+   "leg": 384
+  },
+  "hair": 2138,
+  "weights": {
+   "TM_HM57_Body": {
+    "vertices": 1923,
+    "sum_min": 1.0,
+    "sum_max": 1.0,
+    "max_influences": 2
+   },
+   "TM_HM57_Hair": {
+    "vertices": 1449,
+    "sum_min": 1.0,
+    "sum_max": 1.0,
+    "max_influences": 1
+   },
+   "TM_HM57_Head.001": {
+    "vertices": 1470,
+    "sum_min": 1.0,
+    "sum_max": 1.0,
+    "max_influences": 3
+   }
+  }
+ },
+ "HM57L": {
+  "bytes": 749184,
+  "triangles": 3426,
+  "attribute_vertices": 2318,
+  "primitives": 6,
+  "images": [
+   {
+    "name": "TM_HM57_Kit_A_LITE",
+    "mime": "image/jpeg",
+    "px": [
+     512,
+     512
+    ],
+    "bytes": 33587
+   },
+   {
+    "name": "TM_HM57_BodySkin_T2_LITE",
+    "mime": "image/jpeg",
+    "px": [
+     256,
+     256
+    ],
+    "bytes": 5540
+   },
+   {
+    "name": "TMH55_CAP_STRANDS_512_LITE",
+    "mime": "image/png",
+    "px": [
+     256,
+     256
+    ],
+    "bytes": 44376
+   },
+   {
+    "name": "TMH55_EDGE_STRANDS_512x256_LITE",
+    "mime": "image/png",
+    "px": [
+     256,
+     128
+    ],
+    "bytes": 41732
+   },
+   {
+    "name": "TMH55_CARD_STRANDS_512_LITE",
+    "mime": "image/png",
+    "px": [
+     256,
+     256
+    ],
+    "bytes": 63317
+   },
+   {
+    "name": "TM_HM57_Head_P0_LITE",
+    "mime": "image/jpeg",
+    "px": [
+     512,
+     512
+    ],
+    "bytes": 23379
+   }
+  ],
+  "image_bytes": 211931,
+  "joints": 22,
+  "clips": 6,
+  "head": {
+   "hidden": 68,
+   "neck": 92,
+   "contour": 88,
+   "face": 576,
+   "scalp": 38,
+   "hairline": 38
+  },
+  "body": {
+   "shirt": 320,
+   "shoulder": 320,
+   "sleeve": 300,
+   "sock": 220,
+   "boot": 96,
+   "shorts": 192,
+   "arm": 206,
+   "leg": 144
+  },
+  "hair": 728,
+  "weights": {
+   "TM_HM57_Body.001": {
+    "vertices": 1166,
+    "sum_min": 1.0,
+    "sum_max": 1.0,
+    "max_influences": 2
+   },
+   "TM_HM57_Hair": {
+    "vertices": 639,
+    "sum_min": 1.0,
+    "sum_max": 1.0,
+    "max_influences": 1
+   },
+   "TM_HM57_Head.001": {
+    "vertices": 513,
+    "sum_min": 1.0,
+    "sum_max": 1.0,
+    "max_influences": 3
+   }
+  }
+ }
+}

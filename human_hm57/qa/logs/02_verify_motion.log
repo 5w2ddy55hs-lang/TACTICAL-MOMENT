@@ -1,0 +1,34 @@
+20:47:19 | INFO: Data are loaded, start creating Blender stuff
+20:47:19 | INFO: Blender create Mesh node TM_HM56_Body
+20:47:19 | INFO: Blender create Mesh node TM_HM56_Hair
+20:47:19 | INFO: Blender create Mesh node TM_HM56_Head
+20:47:19 | INFO: glTF import finished in 0.09s
+TM_HM56_PLAYER_P0_H2_KITA.glb Idle {"pairs_max": {"shirt x shorts (cloth)": 21}, "see": 0}
+TM_HM56_PLAYER_P0_H2_KITA.glb Run {"pairs_max": {"knee_thigh x sock": 25, "shirt x shorts (cloth)": 41}, "see": 0}
+TM_HM56_PLAYER_P0_H2_KITA.glb Kick {"pairs_max": {"arm x shirt": 13, "arm x shirt_yoke": 2, "knee_thigh x sock": 24, "shirt x shorts (cloth)": 87}, "see": 0}
+TM_HM56_PLAYER_P0_H2_KITA.glb LookAround {"pairs_max": {"shirt x shorts (cloth)": 21}, "see": 0}
+TM_HM56_PLAYER_P0_H2_KITA.glb ThrowIn {"pairs_max": {"shirt x shorts (cloth)": 72}, "see": 2}
+TM_HM56_PLAYER_P0_H2_KITA.glb Header {"pairs_max": {"knee_thigh x sock": 26, "shirt x shorts (cloth)": 57}, "see": 2}
+20:47:26 | INFO: Data are loaded, start creating Blender stuff
+20:47:26 | INFO: Blender create Mesh node TM_HM57_Body
+20:47:26 | INFO: Blender create Mesh node TM_HM57_Hair
+20:47:26 | INFO: Blender create Mesh node TM_HM57_Head.001
+20:47:26 | INFO: glTF import finished in 0.07s
+TM_HM57_PLAYER_P0_H1_KITA.glb Idle {"pairs_max": {"arm x shirt": 14}, "see": 0}
+TM_HM57_PLAYER_P0_H1_KITA.glb Run {"pairs_max": {"arm x shirt": 14, "knee_thigh x sock": 22}, "see": 0}
+TM_HM57_PLAYER_P0_H1_KITA.glb Kick {"pairs_max": {"arm x shirt": 17, "knee_thigh x sock": 22, "shirt x shorts (cloth)": 35}, "see": 0}
+TM_HM57_PLAYER_P0_H1_KITA.glb LookAround {"pairs_max": {"arm x shirt": 14}, "see": 0}
+TM_HM57_PLAYER_P0_H1_KITA.glb ThrowIn {"pairs_max": {"arm x shirt": 14}, "see": 2}
+TM_HM57_PLAYER_P0_H1_KITA.glb Header {"pairs_max": {"arm x shirt": 14, "knee_thigh x sock": 20, "shirt x shorts (cloth)": 18}, "see": 2}
+20:47:33 | INFO: Data are loaded, start creating Blender stuff
+20:47:33 | INFO: Blender create Mesh node TM_HM57_Body.001
+20:47:33 | INFO: Blender create Mesh node TM_HM57_Hair
+20:47:33 | INFO: Blender create Mesh node TM_HM57_Head.001
+20:47:33 | INFO: glTF import finished in 0.06s
+TM_HM57_PLAYER_P0_H1_KITA_LITE.glb Idle {"pairs_max": {"arm x shirt": 8, "knee_thigh x sock": 4, "shin x sock": 2}, "see": 0}
+TM_HM57_PLAYER_P0_H1_KITA_LITE.glb Run {"pairs_max": {"arm x shirt": 8, "knee_thigh x sock": 23, "shin x sock": 2}, "see": 0}
+TM_HM57_PLAYER_P0_H1_KITA_LITE.glb Kick {"pairs_max": {"arm x shirt": 14, "knee_thigh x sock": 23, "shin x sock": 2, "shirt x shorts (cloth)": 29}, "see": 0}
+TM_HM57_PLAYER_P0_H1_KITA_LITE.glb LookAround {"pairs_max": {"arm x shirt": 8, "knee_thigh x sock": 4, "shin x sock": 2}, "see": 0}
+TM_HM57_PLAYER_P0_H1_KITA_LITE.glb ThrowIn {"pairs_max": {"arm x shirt": 8, "knee_thigh x sock": 4, "shin x sock": 2}, "see": 2}
+TM_HM57_PLAYER_P0_H1_KITA_LITE.glb Header {"pairs_max": {"arm x shirt": 8, "knee_thigh x sock": 20, "shin x sock": 2, "shirt x shorts (cloth)": 16}, "see": 2}
+VERIFY_MOTION OK

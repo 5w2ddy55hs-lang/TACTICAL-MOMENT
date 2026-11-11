@@ -1,0 +1,233 @@
+{
+  "blender": "4.2.23 LTS",
+  "source_ref04_blend_sha256": "ea61c3ea4ee8164293c9b629836355b33bd97adba50bd4dec6b363f224efc374",
+  "hidden_reference_head_faces": 614,
+  "head_translation": [
+    0.0,
+    -0.0393775999546051,
+    1.59796941280365
+  ],
+  "combos": [
+    "F0_H0",
+    "F1_H1",
+    "F2_H2",
+    "F3_H3",
+    "F2_H4",
+    "F3_H1"
+  ],
+  "review_blend": "TM_FH54_REVIEW_REF04_PROVISIONAL.blend",
+  "review_blend_sha256": "0e98a6d104f58d6cbffbc5265bdaef4476a2d63e77766d77a8fafa226e045513",
+  "renders": [
+    {
+      "combo": "REF04_original_head",
+      "shot": "body_front",
+      "png": "REF04_original_body_front.png",
+      "sha256": "403430e03854f190178e978d3049aa73425db975c99f973ecdf70538706840e5"
+    },
+    {
+      "combo": "REF04_original_head",
+      "shot": "body_quarterR",
+      "png": "REF04_original_body_quarterR.png",
+      "sha256": "49274a0d73ed69b1b3c410275f19799733eec66d403f8dd274312cc0ad230f16"
+    },
+    {
+      "combo": "REF04_original_head",
+      "shot": "head_front",
+      "png": "REF04_original_head_front.png",
+      "sha256": "43adf532f256283d82bdd5b0e7242766dedaa7eaf840b427d08d6e700977f1d9"
+    },
+    {
+      "combo": "REF04_original_head",
+      "shot": "head_side",
+      "png": "REF04_original_head_side.png",
+      "sha256": "29be73fc95edbe1e8fb1e4c13044115bc5203a44bdae4cd661785b0049aa40a8"
+    },
+    {
+      "combo": "REF04_original_head",
+      "shot": "head_back",
+      "png": "REF04_original_head_back.png",
+      "sha256": "22a526a4c2ab1738856af731a0dd692c7fc672bee47bc969d76eaec0b9a2eb8f"
+    },
+    {
+      "combo": "F0_H0",
+      "shot": "body_front",
+      "png": "F0_H0_body_front.png",
+      "sha256": "83f8f276789504b4527d71e6323c16b7f826f5809682b15c071a0fa3e9f8aca0"
+    },
+    {
+      "combo": "F0_H0",
+      "shot": "body_quarterR",
+      "png": "F0_H0_body_quarterR.png",
+      "sha256": "d0d4374bfb21f6408f3060cbbdbe8be375ced243050f2ac069c45813f66c8190"
+    },
+    {
+      "combo": "F0_H0",
+      "shot": "head_front",
+      "png": "F0_H0_head_front.png",
+      "sha256": "69eb0f9601f07d4b2447573a81634626752a5273a253167eba0eae0816ad2b54"
+    },
+    {
+      "combo": "F0_H0",
+      "shot": "head_side",
+      "png": "F0_H0_head_side.png",
+      "sha256": "022783e6da28b97c41631b61a9925006b42abda2745d65fdb809aad6cd9b3863"
+    },
+    {
+      "combo": "F0_H0",
+      "shot": "head_back",
+      "png": "F0_H0_head_back.png",
+      "sha256": "132516fb0f178c0fed08c29c4a15d2f2a01b8c49150164f42a695cf48beff213"
+    },
+    {
+      "combo": "F1_H1",
+      "shot": "body_front",
+      "png": "F1_H1_body_front.png",
+      "sha256": "09fbf4aab9b07aa08ca56244b5a41e3667eb31133a71bbfc5568445c146c89bb"
+    },
+    {
+      "combo": "F1_H1",
+      "shot": "body_quarterR",
+      "png": "F1_H1_body_quarterR.png",
+      "sha256": "66a0800c1bdbab6ef6d0cb0b3b64d5f33130c0749fd90e2b7655f51e5d097a03"
+    },
+    {
+      "combo": "F1_H1",
+      "shot": "head_front",
+      "png": "F1_H1_head_front.png",
+      "sha256": "3a92fb4c714e0b0c8897775497bf04eaf06b7e77ae1919ff199f2a8af8a8379f"
+    },
+    {
+      "combo": "F1_H1",
+      "shot": "head_side",
+      "png": "F1_H1_head_side.png",
+      "sha256": "654b03635604ef56039ba3cd5c47b0d2289f1f26d95f004ed417ae4926e2fdb7"
+    },
+    {
+      "combo": "F1_H1",
+      "shot": "head_back",
+      "png": "F1_H1_head_back.png",
+      "sha256": "a5be4d6b6fa360dd4c203808e03aea8736b50cb9c82cf4d89ce38c629cc035d3"
+    },
+    {
+      "combo": "F2_H2",
+      "shot": "body_front",
+      "png": "F2_H2_body_front.png",
+      "sha256": "3fb3069bb263135458c0820be4e7946cf0861a861de1dfa1098412ff6bea42d2"
+    },
+    {
+      "combo": "F2_H2",
+      "shot": "body_quarterR",
+      "png": "F2_H2_body_quarterR.png",
+      "sha256": "c587c5dbfff799d1d798e6d25bf81bbc0dc26f7876fc3672716d319165f0b64f"
+    },
+    {
+      "combo": "F2_H2",
+      "shot": "head_front",
+      "png": "F2_H2_head_front.png",
+      "sha256": "6fb62b8b2e6fcd01950c20208b5db2a75b366adbb3757291f9128f61aebacd14"
+    },
+    {
+      "combo": "F2_H2",
+      "shot": "head_side",
+      "png": "F2_H2_head_side.png",
+      "sha256": "f52ad4ce0235f07e57deba92f8f1dbee970859d8d42168e17fd7a4d3cd6db7a0"
+    },
+    {
+      "combo": "F2_H2",
+      "shot": "head_back",
+      "png": "F2_H2_head_back.png",
+      "sha256": "45222342b5d1e6436d5c7392d72e951cb5fcc35cc95516aa6f0fc49a64fbe8ac"
+    },
+    {
+      "combo": "F3_H3",
+      "shot": "body_front",
+      "png": "F3_H3_body_front.png",
+      "sha256": "403e85f83738929360fe0d3983beaa1ab186730dca6d82f0c460cffee1840ea5"
+    },
+    {
+      "combo": "F3_H3",
+      "shot": "body_quarterR",
+      "png": "F3_H3_body_quarterR.png",
+      "sha256": "5550665896a364c5f75c00e4a6b2d5d44c2afa950a08091e0491955bdfc4b9fa"
+    },
+    {
+      "combo": "F3_H3",
+      "shot": "head_front",
+      "png": "F3_H3_head_front.png",
+      "sha256": "c78da196119e38fc3d459b8ce834d610eee4a77d49e24bb0fa9eab84a544739e"
+    },
+    {
+      "combo": "F3_H3",
+      "shot": "head_side",
+      "png": "F3_H3_head_side.png",
+      "sha256": "71bca2f53ffc8e65ff6c04904104993c87f6492dca8edf39528b47842c9d9b3a"
+    },
+    {
+      "combo": "F3_H3",
+      "shot": "head_back",
+      "png": "F3_H3_head_back.png",
+      "sha256": "c40f05a1ecda9731069f4f04ee46be4b4a2ebaa88b55570e70e76f627b3fcea4"
+    },
+    {
+      "combo": "F2_H4",
+      "shot": "body_front",
+      "png": "F2_H4_body_front.png",
+      "sha256": "c85928fefdde70090ac4b6493756150d555129507fe1cab50feef7f05ebd1ce9"
+    },
+    {
+      "combo": "F2_H4",
+      "shot": "body_quarterR",
+      "png": "F2_H4_body_quarterR.png",
+      "sha256": "3c579cd56fa825f92505da231cad3bc9d16163bf35d2597a8fd84bc331b0b847"
+    },
+    {
+      "combo": "F2_H4",
+      "shot": "head_front",
+      "png": "F2_H4_head_front.png",
+      "sha256": "34901772818724d444bc5d8d82ca1e64e0cdf0458d6fcd37d6a5e153ff34adee"
+    },
+    {
+      "combo": "F2_H4",
+      "shot": "head_side",
+      "png": "F2_H4_head_side.png",
+      "sha256": "5d5018f34f5140850fc45882d94cc18093d14bcd9ddf29bc03062bf8c14d790e"
+    },
+    {
+      "combo": "F2_H4",
+      "shot": "head_back",
+      "png": "F2_H4_head_back.png",
+      "sha256": "6924b5fab5019f94762a2318f7ad61d08f2fb2db2f7513dc4e70275b3f607b7a"
+    },
+    {
+      "combo": "F3_H1",
+      "shot": "body_front",
+      "png": "F3_H1_body_front.png",
+      "sha256": "64100207d9cea9bf74a66bf95507021cd43629b81c75b5de5374b4da007a482a"
+    },
+    {
+      "combo": "F3_H1",
+      "shot": "body_quarterR",
+      "png": "F3_H1_body_quarterR.png",
+      "sha256": "68211c4aeaca32a52f495ddce8a91e2b40dd9aebfb5e1a2a84b876526aec935f"
+    },
+    {
+      "combo": "F3_H1",
+      "shot": "head_front",
+      "png": "F3_H1_head_front.png",
+      "sha256": "d1837cdc1ac1a4a99f55408e34040df54537a820ea512636d9009d34b7ea9921"
+    },
+    {
+      "combo": "F3_H1",
+      "shot": "head_side",
+      "png": "F3_H1_head_side.png",
+      "sha256": "0cd00b975e8c276cf930c233ac82e3e576ed92c858672643335640ebe8ab8dd5"
+    },
+    {
+      "combo": "F3_H1",
+      "shot": "head_back",
+      "png": "F3_H1_head_back.png",
+      "sha256": "39aa5d294206c8c4dc890bfd60e9683cfb8a3705f25daa059649aea1514f3b48"
+    }
+  ],
+  "scope": "FH53 provisional full-body review with the Reference04 body (NOT a join, NOT rigged, NOT animated).\n\n* Opens the Reference04 study .blend read-only and saves a NEW review file; the source file is never written.\n* Reference04's own head is hidden non-destructively: face attribute 'fh53_hide_ref_head' + a Geometry Nodes\n  Delete Geometry modifier after the armature modifier (mesh data, UVs, weights and rig are unchanged).\n  Hidden faces: materials SOURCE_APPEARANCE04_slot_13/14/15/16, and slot_02 faces whose lowest vertex is above\n  z = 1.536 (back-of-head skin; FACE52's REF14_BackScalp takes this role).\n* Head modules are parented to an Empty at the static attachment translation (0, -0.0393776, 1.5979694),\n  rotation 0, scale 1. Head meshes have no bones/weights: the head does not follow the rig.\nRenders: same world colour as the FACE52 review; three area lights scaled to body size; Cycles CPU seed 0.\nUsage: python review_ref04.py\n"
+}

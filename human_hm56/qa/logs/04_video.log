@@ -1,0 +1,1895 @@
+19:02:56 | INFO: Data are loaded, start creating Blender stuff
+19:02:56 | INFO: Blender create Mesh node TM_HM55_Body
+19:02:56 | INFO: Blender create Mesh node TM_HM55_Hair
+19:02:56 | INFO: Blender create Mesh node TM_HM55_Head
+19:02:56 | INFO: glTF import finished in 0.08s
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0000.png'
+Time: 00:00.31 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0001.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0002.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0003.png'
+Time: 00:00.34 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0004.png'
+Time: 00:00.39 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0005.png'
+Time: 00:00.34 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0006.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0007.png'
+Time: 00:00.38 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0008.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0009.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0010.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0011.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0012.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0013.png'
+Time: 00:00.35 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0014.png'
+Time: 00:00.36 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0015.png'
+Time: 00:00.31 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0016.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0017.png'
+Time: 00:00.36 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0018.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0019.png'
+Time: 00:00.34 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0020.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0021.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0022.png'
+Time: 00:00.35 (Saving: 00:00.03)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0023.png'
+Time: 00:00.29 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0024.png'
+Time: 00:00.34 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0025.png'
+Time: 00:00.35 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0026.png'
+Time: 00:00.35 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0027.png'
+Time: 00:00.33 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0028.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0029.png'
+Time: 00:00.37 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0030.png'
+Time: 00:00.37 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0031.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0032.png'
+Time: 00:00.38 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0033.png'
+Time: 00:00.34 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0034.png'
+Time: 00:00.33 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0035.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0036.png'
+Time: 00:00.28 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0037.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0038.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM55/0039.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+frames HM55 full Run 40
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0000.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0001.png'
+Time: 00:00.34 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0002.png'
+Time: 00:00.37 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0003.png'
+Time: 00:00.37 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0004.png'
+Time: 00:00.38 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0005.png'
+Time: 00:00.38 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0006.png'
+Time: 00:00.40 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0007.png'
+Time: 00:00.34 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0008.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0009.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0010.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0011.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0012.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0013.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0014.png'
+Time: 00:00.31 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0015.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0016.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0017.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0018.png'
+Time: 00:00.34 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0019.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0020.png'
+Time: 00:00.32 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0021.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0022.png'
+Time: 00:00.34 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0023.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0024.png'
+Time: 00:00.38 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0025.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0026.png'
+Time: 00:00.35 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0027.png'
+Time: 00:00.35 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0028.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0029.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0030.png'
+Time: 00:00.36 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0031.png'
+Time: 00:00.34 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0032.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0033.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0034.png'
+Time: 00:00.34 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0035.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0036.png'
+Time: 00:00.35 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0037.png'
+Time: 00:00.37 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0038.png'
+Time: 00:00.38 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0039.png'
+Time: 00:00.36 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM55/0040.png'
+Time: 00:00.35 (Saving: 00:00.01)
+
+frames HM55 full Kick 41
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0000.png'
+Time: 00:00.23 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0001.png'
+Time: 00:00.24 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0002.png'
+Time: 00:00.23 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0003.png'
+Time: 00:00.22 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0004.png'
+Time: 00:00.25 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0005.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0006.png'
+Time: 00:00.24 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0007.png'
+Time: 00:00.23 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0008.png'
+Time: 00:00.30 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0009.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0010.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0011.png'
+Time: 00:00.25 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0012.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0013.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0014.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0015.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0016.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0017.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0018.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0019.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0020.png'
+Time: 00:00.28 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0021.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0022.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0023.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0024.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0025.png'
+Time: 00:00.30 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0026.png'
+Time: 00:00.28 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0027.png'
+Time: 00:00.25 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0028.png'
+Time: 00:00.29 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0029.png'
+Time: 00:00.24 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0030.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0031.png'
+Time: 00:00.24 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0032.png'
+Time: 00:00.25 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0033.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0034.png'
+Time: 00:00.28 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0035.png'
+Time: 00:00.27 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0036.png'
+Time: 00:00.23 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0037.png'
+Time: 00:00.21 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0038.png'
+Time: 00:00.23 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0039.png'
+Time: 00:00.22 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0040.png'
+Time: 00:00.22 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0041.png'
+Time: 00:00.23 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM55/0042.png'
+Time: 00:00.22 (Saving: 00:00.01)
+
+frames HM55 full Header 43
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0000.png'
+Time: 00:00.24 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0001.png'
+Time: 00:00.25 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0002.png'
+Time: 00:00.24 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0003.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0004.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0005.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0006.png'
+Time: 00:00.29 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0007.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0008.png'
+Time: 00:00.24 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0009.png'
+Time: 00:00.24 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0010.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0011.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0012.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0013.png'
+Time: 00:00.25 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0014.png'
+Time: 00:00.25 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0015.png'
+Time: 00:00.27 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0016.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0017.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0018.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0019.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0020.png'
+Time: 00:00.26 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0021.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0022.png'
+Time: 00:00.30 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0023.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0024.png'
+Time: 00:00.25 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0025.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0026.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0027.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0028.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0029.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0030.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0031.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0032.png'
+Time: 00:00.28 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0033.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0034.png'
+Time: 00:00.25 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0035.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0036.png'
+Time: 00:00.29 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0037.png'
+Time: 00:00.29 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0038.png'
+Time: 00:00.24 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0039.png'
+Time: 00:00.23 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0040.png'
+Time: 00:00.22 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0041.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0042.png'
+Time: 00:00.24 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0043.png'
+Time: 00:00.24 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0044.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM55/0045.png'
+Time: 00:00.24 (Saving: 00:00.01)
+
+frames HM55 full ThrowIn 46
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0000.png'
+Time: 00:00.52 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0001.png'
+Time: 00:00.47 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0002.png'
+Time: 00:00.48 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0003.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0004.png'
+Time: 00:00.45 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0005.png'
+Time: 00:00.51 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0006.png'
+Time: 00:00.44 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0007.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0008.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0009.png'
+Time: 00:00.48 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0010.png'
+Time: 00:00.54 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0011.png'
+Time: 00:00.53 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0012.png'
+Time: 00:00.58 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0013.png'
+Time: 00:00.51 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0014.png'
+Time: 00:00.52 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0015.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0016.png'
+Time: 00:00.51 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0017.png'
+Time: 00:00.51 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0018.png'
+Time: 00:00.51 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0019.png'
+Time: 00:00.56 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0020.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0021.png'
+Time: 00:00.50 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0022.png'
+Time: 00:00.45 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0023.png'
+Time: 00:00.47 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0024.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0025.png'
+Time: 00:00.48 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0026.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0027.png'
+Time: 00:00.48 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0028.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0029.png'
+Time: 00:00.48 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0030.png'
+Time: 00:00.46 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0031.png'
+Time: 00:00.48 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0032.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0033.png'
+Time: 00:00.49 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0034.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0035.png'
+Time: 00:00.48 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0036.png'
+Time: 00:00.46 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0037.png'
+Time: 00:00.52 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0038.png'
+Time: 00:00.52 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0039.png'
+Time: 00:00.56 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0040.png'
+Time: 00:00.51 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0041.png'
+Time: 00:00.51 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0042.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0043.png'
+Time: 00:00.53 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0044.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0045.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0046.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0047.png'
+Time: 00:00.51 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0048.png'
+Time: 00:00.57 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0049.png'
+Time: 00:00.55 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0050.png'
+Time: 00:00.54 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0051.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0052.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0053.png'
+Time: 00:00.46 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0054.png'
+Time: 00:00.51 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0055.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0056.png'
+Time: 00:00.44 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0057.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0058.png'
+Time: 00:00.61 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0059.png'
+Time: 00:00.46 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0060.png'
+Time: 00:00.47 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0061.png'
+Time: 00:00.47 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0062.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0063.png'
+Time: 00:00.41 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0064.png'
+Time: 00:00.40 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0065.png'
+Time: 00:00.42 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0066.png'
+Time: 00:00.47 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0067.png'
+Time: 00:00.49 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0068.png'
+Time: 00:00.44 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0069.png'
+Time: 00:00.47 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0070.png'
+Time: 00:00.43 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0071.png'
+Time: 00:00.43 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0072.png'
+Time: 00:00.45 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0073.png'
+Time: 00:00.49 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0074.png'
+Time: 00:00.43 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0075.png'
+Time: 00:00.46 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0076.png'
+Time: 00:00.45 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0077.png'
+Time: 00:00.47 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0078.png'
+Time: 00:00.52 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0079.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0080.png'
+Time: 00:00.46 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0081.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0082.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0083.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0084.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0085.png'
+Time: 00:00.52 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0086.png'
+Time: 00:00.46 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0087.png'
+Time: 00:00.47 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0088.png'
+Time: 00:00.52 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0089.png'
+Time: 00:00.47 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0090.png'
+Time: 00:00.48 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0091.png'
+Time: 00:00.48 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0092.png'
+Time: 00:00.49 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0093.png'
+Time: 00:00.48 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0094.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0095.png'
+Time: 00:00.51 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0096.png'
+Time: 00:00.45 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0097.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0098.png'
+Time: 00:00.59 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0099.png'
+Time: 00:00.47 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM55/0100.png'
+Time: 00:00.47 (Saving: 00:00.01)
+
+frames HM55 neck LookAround 101
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0000.png'
+Time: 00:00.39 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0001.png'
+Time: 00:00.37 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0002.png'
+Time: 00:00.43 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0003.png'
+Time: 00:00.43 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0004.png'
+Time: 00:00.43 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0005.png'
+Time: 00:00.39 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0006.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0007.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0008.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0009.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0010.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0011.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0012.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0013.png'
+Time: 00:00.34 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0014.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0015.png'
+Time: 00:00.31 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0016.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0017.png'
+Time: 00:00.44 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0018.png'
+Time: 00:00.39 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0019.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0020.png'
+Time: 00:00.34 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0021.png'
+Time: 00:00.37 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0022.png'
+Time: 00:00.34 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0023.png'
+Time: 00:00.36 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0024.png'
+Time: 00:00.41 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0025.png'
+Time: 00:00.34 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0026.png'
+Time: 00:00.34 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0027.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0028.png'
+Time: 00:00.35 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0029.png'
+Time: 00:00.34 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0030.png'
+Time: 00:00.34 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0031.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0032.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0033.png'
+Time: 00:00.35 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0034.png'
+Time: 00:00.36 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0035.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0036.png'
+Time: 00:00.34 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0037.png'
+Time: 00:00.43 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0038.png'
+Time: 00:00.42 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0039.png'
+Time: 00:00.46 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM55/0040.png'
+Time: 00:00.38 (Saving: 00:00.01)
+
+frames HM55 knee Kick 41
+19:04:53 | INFO: Data are loaded, start creating Blender stuff
+19:04:53 | INFO: Blender create Mesh node TM_HM56_Body
+19:04:53 | INFO: Blender create Mesh node TM_HM56_Hair
+19:04:53 | INFO: Blender create Mesh node TM_HM56_Head
+19:04:53 | INFO: glTF import finished in 0.08s
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0000.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0001.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0002.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0003.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0004.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0005.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0006.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0007.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0008.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0009.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0010.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0011.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0012.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0013.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0014.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0015.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0016.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0017.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0018.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0019.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0020.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0021.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0022.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0023.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0024.png'
+Time: 00:00.34 (Saving: 00:00.03)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0025.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0026.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0027.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0028.png'
+Time: 00:00.33 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0029.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0030.png'
+Time: 00:00.33 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0031.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0032.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0033.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0034.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0035.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0036.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0037.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0038.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Run_HM56/0039.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+frames HM56 full Run 40
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0000.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0001.png'
+Time: 00:00.34 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0002.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0003.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0004.png'
+Time: 00:00.31 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0005.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0006.png'
+Time: 00:00.34 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0007.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0008.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0009.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0010.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0011.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0012.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0013.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0014.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0015.png'
+Time: 00:00.33 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0016.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0017.png'
+Time: 00:00.34 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0018.png'
+Time: 00:00.35 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0019.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0020.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0021.png'
+Time: 00:00.32 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0022.png'
+Time: 00:00.35 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0023.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0024.png'
+Time: 00:00.35 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0025.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0026.png'
+Time: 00:00.35 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0027.png'
+Time: 00:00.34 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0028.png'
+Time: 00:00.32 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0029.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0030.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0031.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0032.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0033.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0034.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0035.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0036.png'
+Time: 00:00.34 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0037.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0038.png'
+Time: 00:00.35 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0039.png'
+Time: 00:00.34 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Kick_HM56/0040.png'
+Time: 00:00.35 (Saving: 00:00.01)
+
+frames HM56 full Kick 41
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0000.png'
+Time: 00:00.25 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0001.png'
+Time: 00:00.24 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0002.png'
+Time: 00:00.25 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0003.png'
+Time: 00:00.25 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0004.png'
+Time: 00:00.28 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0005.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0006.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0007.png'
+Time: 00:00.31 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0008.png'
+Time: 00:00.30 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0009.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0010.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0011.png'
+Time: 00:00.23 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0012.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0013.png'
+Time: 00:00.31 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0014.png'
+Time: 00:00.31 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0015.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0016.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0017.png'
+Time: 00:00.32 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0018.png'
+Time: 00:00.32 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0019.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0020.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0021.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0022.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0023.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0024.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0025.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0026.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0027.png'
+Time: 00:00.24 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0028.png'
+Time: 00:00.24 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0029.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0030.png'
+Time: 00:00.24 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0031.png'
+Time: 00:00.23 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0032.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0033.png'
+Time: 00:00.22 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0034.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0035.png'
+Time: 00:00.31 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0036.png'
+Time: 00:00.25 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0037.png'
+Time: 00:00.26 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0038.png'
+Time: 00:00.24 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0039.png'
+Time: 00:00.25 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0040.png'
+Time: 00:00.24 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0041.png'
+Time: 00:00.24 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_Header_HM56/0042.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+frames HM56 full Header 43
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0000.png'
+Time: 00:00.24 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0001.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0002.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0003.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0004.png'
+Time: 00:00.27 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0005.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0006.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0007.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0008.png'
+Time: 00:00.29 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0009.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0010.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0011.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0012.png'
+Time: 00:00.30 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0013.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0014.png'
+Time: 00:00.28 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0015.png'
+Time: 00:00.27 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0016.png'
+Time: 00:00.33 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0017.png'
+Time: 00:00.34 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0018.png'
+Time: 00:00.31 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0019.png'
+Time: 00:00.32 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0020.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0021.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0022.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0023.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0024.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0025.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0026.png'
+Time: 00:00.23 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0027.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0028.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0029.png'
+Time: 00:00.23 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0030.png'
+Time: 00:00.28 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0031.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0032.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0033.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0034.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0035.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0036.png'
+Time: 00:00.24 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0037.png'
+Time: 00:00.26 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0038.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0039.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0040.png'
+Time: 00:00.26 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0041.png'
+Time: 00:00.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0042.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0043.png'
+Time: 00:00.25 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0044.png'
+Time: 00:00.23 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/video/frames/full_ThrowIn_HM56/0045.png'
+Time: 00:00.27 (Saving: 00:00.01)
+
+frames HM56 full ThrowIn 46
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0000.png'
+Time: 00:00.51 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0001.png'
+Time: 00:00.47 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0002.png'
+Time: 00:00.47 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0003.png'
+Time: 00:00.47 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0004.png'
+Time: 00:00.45 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0005.png'
+Time: 00:00.52 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0006.png'
+Time: 00:00.49 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0007.png'
+Time: 00:00.46 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0008.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0009.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0010.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0011.png'
+Time: 00:00.48 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0012.png'
+Time: 00:00.47 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0013.png'
+Time: 00:00.58 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0014.png'
+Time: 00:00.55 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0015.png'
+Time: 00:00.46 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0016.png'
+Time: 00:00.56 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0017.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0018.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0019.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0020.png'
+Time: 00:00.51 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0021.png'
+Time: 00:00.44 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0022.png'
+Time: 00:00.48 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0023.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0024.png'
+Time: 00:00.54 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0025.png'
+Time: 00:00.52 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0026.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0027.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0028.png'
+Time: 00:00.52 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0029.png'
+Time: 00:00.48 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0030.png'
+Time: 00:00.48 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0031.png'
+Time: 00:00.50 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0032.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0033.png'
+Time: 00:00.55 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0034.png'
+Time: 00:00.56 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0035.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0036.png'
+Time: 00:00.51 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0037.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0038.png'
+Time: 00:00.58 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0039.png'
+Time: 00:00.51 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0040.png'
+Time: 00:00.51 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0041.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0042.png'
+Time: 00:00.52 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0043.png'
+Time: 00:00.52 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0044.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0045.png'
+Time: 00:00.53 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0046.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0047.png'
+Time: 00:00.47 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0048.png'
+Time: 00:00.52 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0049.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0050.png'
+Time: 00:00.51 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0051.png'
+Time: 00:00.48 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0052.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0053.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0054.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0055.png'
+Time: 00:00.48 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0056.png'
+Time: 00:00.44 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0057.png'
+Time: 00:00.42 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0058.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0059.png'
+Time: 00:00.48 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0060.png'
+Time: 00:00.51 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0061.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0062.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0063.png'
+Time: 00:00.51 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0064.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0065.png'
+Time: 00:00.52 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0066.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0067.png'
+Time: 00:00.45 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0068.png'
+Time: 00:00.46 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0069.png'
+Time: 00:00.46 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0070.png'
+Time: 00:00.41 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0071.png'
+Time: 00:00.41 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0072.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0073.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0074.png'
+Time: 00:00.43 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0075.png'
+Time: 00:00.47 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0076.png'
+Time: 00:00.47 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0077.png'
+Time: 00:00.51 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0078.png'
+Time: 00:00.51 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0079.png'
+Time: 00:00.51 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0080.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0081.png'
+Time: 00:00.51 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0082.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0083.png'
+Time: 00:00.56 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0084.png'
+Time: 00:00.54 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0085.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0086.png'
+Time: 00:00.57 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0087.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0088.png'
+Time: 00:00.49 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0089.png'
+Time: 00:00.43 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0090.png'
+Time: 00:00.47 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0091.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0092.png'
+Time: 00:00.52 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0093.png'
+Time: 00:00.47 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0094.png'
+Time: 00:00.58 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0095.png'
+Time: 00:00.48 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0096.png'
+Time: 00:00.48 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0097.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0098.png'
+Time: 00:00.51 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0099.png'
+Time: 00:00.45 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/neck_LookAround_HM56/0100.png'
+Time: 00:00.41 (Saving: 00:00.01)
+
+frames HM56 neck LookAround 101
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0000.png'
+Time: 00:00.41 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0001.png'
+Time: 00:00.44 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0002.png'
+Time: 00:00.43 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0003.png'
+Time: 00:00.43 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0004.png'
+Time: 00:00.46 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0005.png'
+Time: 00:00.44 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0006.png'
+Time: 00:00.36 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0007.png'
+Time: 00:00.35 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0008.png'
+Time: 00:00.37 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0009.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0010.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0011.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0012.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0013.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0014.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0015.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0016.png'
+Time: 00:00.36 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0017.png'
+Time: 00:00.39 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0018.png'
+Time: 00:00.41 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0019.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0020.png'
+Time: 00:00.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0021.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0022.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0023.png'
+Time: 00:00.35 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0024.png'
+Time: 00:00.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0025.png'
+Time: 00:00.29 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0026.png'
+Time: 00:00.28 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0027.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0028.png'
+Time: 00:00.35 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0029.png'
+Time: 00:00.35 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0030.png'
+Time: 00:00.36 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0031.png'
+Time: 00:00.37 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0032.png'
+Time: 00:00.34 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0033.png'
+Time: 00:00.38 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0034.png'
+Time: 00:00.35 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0035.png'
+Time: 00:00.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0036.png'
+Time: 00:00.35 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0037.png'
+Time: 00:00.42 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0038.png'
+Time: 00:00.48 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0039.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/video/frames/knee_Kick_HM56/0040.png'
+Time: 00:00.44 (Saving: 00:00.01)
+
+frames HM56 knee Kick 41
+VIDEO OK {'HM55_vs_HM56_motion_full.mp4': {'bytes': 1141583, 'sha256': '0bfffa84e441a56342670dc04f925fa8295b6c000be11ea20e8e3b6fe062a0f6'}, 'HM55_vs_HM56_neck_knee_closeup.mp4': {'bytes': 1210972, 'sha256': 'cd4425f0c1c1f4f4330479edddb810f8355576f3b337343df5d439774f53f238'}, 'HM55_vs_HM56_run.gif': {'bytes': 560844, 'sha256': 'c773c9f6bdae2b50776c4a9948f4dbeec7d21f3a399c903eb88e88d75cc953e6'}}

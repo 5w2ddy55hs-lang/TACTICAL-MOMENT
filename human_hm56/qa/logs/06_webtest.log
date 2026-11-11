@@ -1,0 +1,6 @@
+validator: 5 files
+done TM_HM56_PLAYER_P0_H2_KITA
+perf x22_idle {"calls":158,"triangles":197966,"ms_per_frame":4.104166666666667,"gl_renderer":"WebKit WebGL"}
+perf x22_run {"calls":158,"triangles":197966,"ms_per_frame":2.563333333330229,"gl_renderer":"WebKit WebGL"}
+{"TM_HM56_PLAYER_P0_H2_KITA": {"order_changed_pixels_pct": {"q": 0.0, "top": 0.0, "back": 0.0, "side": 0.006}, "front_only_vs_double_sided_changed_pixels_pct": 1.012}}
+webtest done

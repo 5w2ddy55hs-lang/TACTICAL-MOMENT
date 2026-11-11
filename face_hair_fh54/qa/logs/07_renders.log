@@ -1,0 +1,1734 @@
+13:18:49 | INFO: Data are loaded, start creating Blender stuff
+13:18:49 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:18:49 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:18:49 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:18:49 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FACE52_front.png'
+Time: 00:00.25 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FACE52_quarter_R.png'
+Time: 00:00.30 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FACE52_quarter_L.png'
+Time: 00:00.28 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FACE52_side_R.png'
+Time: 00:00.31 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FACE52_side_L.png'
+Time: 00:00.31 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FACE52_back.png'
+Time: 00:00.25 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FACE52_top.png'
+Time: 00:00.19 (Saving: 00:00.00)
+
+13:18:51 | INFO: Data are loaded, start creating Blender stuff
+13:18:51 | INFO: Blender create Mesh node TMF54_F1
+13:18:51 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:18:51 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:18:51 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH54_F1_H0_front.png'
+Time: 00:00.25 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH54_F1_H0_quarter_R.png'
+Time: 00:00.28 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH54_F1_H0_quarter_L.png'
+Time: 00:00.28 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH54_F1_H0_side_R.png'
+Time: 00:00.29 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH54_F1_H0_side_L.png'
+Time: 00:00.30 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH54_F1_H0_back.png'
+Time: 00:00.24 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH54_F1_H0_top.png'
+Time: 00:00.20 (Saving: 00:00.01)
+
+13:18:53 | INFO: Data are loaded, start creating Blender stuff
+13:18:53 | INFO: Blender create Mesh node TMF54_F2
+13:18:53 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:18:53 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:18:53 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH54_F2_H0_front.png'
+Time: 00:00.23 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH54_F2_H0_quarter_R.png'
+Time: 00:00.29 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH54_F2_H0_quarter_L.png'
+Time: 00:00.30 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH54_F2_H0_side_R.png'
+Time: 00:00.29 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH54_F2_H0_side_L.png'
+Time: 00:00.32 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH54_F2_H0_back.png'
+Time: 00:00.28 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH54_F2_H0_top.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+13:18:55 | INFO: Data are loaded, start creating Blender stuff
+13:18:55 | INFO: Blender create Mesh node TMF54_F3
+13:18:55 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:18:55 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:18:55 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH54_F3_H0_front.png'
+Time: 00:00.25 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH54_F3_H0_quarter_R.png'
+Time: 00:00.30 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH54_F3_H0_quarter_L.png'
+Time: 00:00.33 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH54_F3_H0_side_R.png'
+Time: 00:00.33 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH54_F3_H0_side_L.png'
+Time: 00:00.32 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH54_F3_H0_back.png'
+Time: 00:00.27 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH54_F3_H0_top.png'
+Time: 00:00.22 (Saving: 00:00.00)
+
+13:18:57 | INFO: Data are loaded, start creating Blender stuff
+13:18:57 | INFO: Blender create Mesh node TMF53_F1_LONG_ANGULAR
+13:18:57 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:18:57 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:18:57 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH53_F1_H0_front.png'
+Time: 00:00.27 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH53_F1_H0_quarter_R.png'
+Time: 00:00.31 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH53_F1_H0_quarter_L.png'
+Time: 00:00.29 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH53_F1_H0_side_R.png'
+Time: 00:00.30 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH53_F1_H0_side_L.png'
+Time: 00:00.32 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH53_F1_H0_back.png'
+Time: 00:00.24 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH53_F1_H0_top.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+13:18:59 | INFO: Data are loaded, start creating Blender stuff
+13:18:59 | INFO: Blender create Mesh node TMF53_F2_ROUND_SOFT
+13:18:59 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:18:59 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:18:59 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH53_F2_H0_front.png'
+Time: 00:00.25 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH53_F2_H0_quarter_R.png'
+Time: 00:00.27 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH53_F2_H0_quarter_L.png'
+Time: 00:00.29 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH53_F2_H0_side_R.png'
+Time: 00:00.31 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH53_F2_H0_side_L.png'
+Time: 00:00.32 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH53_F2_H0_back.png'
+Time: 00:00.25 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH53_F2_H0_top.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+13:19:01 | INFO: Data are loaded, start creating Blender stuff
+13:19:01 | INFO: Blender create Mesh node TMF53_F3_NARROW_SHARP
+13:19:01 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:19:01 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:19:01 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH53_F3_H0_front.png'
+Time: 00:00.25 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH53_F3_H0_quarter_R.png'
+Time: 00:00.27 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH53_F3_H0_quarter_L.png'
+Time: 00:00.29 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH53_F3_H0_side_R.png'
+Time: 00:00.31 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH53_F3_H0_side_L.png'
+Time: 00:00.31 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH53_F3_H0_back.png'
+Time: 00:00.25 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_faces/FH53_F3_H0_top.png'
+Time: 00:00.19 (Saving: 00:00.00)
+
+13:19:03 | INFO: Data are loaded, start creating Blender stuff
+13:19:03 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:19:03 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:19:03 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:19:03 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FACE52_front.png'
+Time: 00:00.26 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FACE52_quarter_R.png'
+Time: 00:00.28 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FACE52_quarter_L.png'
+Time: 00:00.30 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FACE52_side_R.png'
+Time: 00:00.30 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FACE52_side_L.png'
+Time: 00:00.35 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FACE52_back.png'
+Time: 00:00.25 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FACE52_top.png'
+Time: 00:00.19 (Saving: 00:00.00)
+
+13:19:05 | INFO: Data are loaded, start creating Blender stuff
+13:19:05 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:19:05 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:19:05 | INFO: Blender create Mesh node TMH53_H1_STANDARD_REBUILT
+13:19:05 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H1_front.png'
+Time: 00:00.23 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H1_quarter_R.png'
+Time: 00:00.24 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H1_quarter_L.png'
+Time: 00:00.23 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H1_side_R.png'
+Time: 00:00.26 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H1_side_L.png'
+Time: 00:00.26 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H1_back.png'
+Time: 00:00.24 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H1_top.png'
+Time: 00:00.19 (Saving: 00:00.00)
+
+13:19:07 | INFO: Data are loaded, start creating Blender stuff
+13:19:07 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:19:07 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:19:07 | INFO: Blender create Mesh node TMH54_H1_STANDARD_REBUILT
+13:19:07 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H1_front.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H1_quarter_R.png'
+Time: 00:00.22 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H1_quarter_L.png'
+Time: 00:00.23 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H1_side_R.png'
+Time: 00:00.27 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H1_side_L.png'
+Time: 00:00.24 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H1_back.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H1_top.png'
+Time: 00:00.19 (Saving: 00:00.00)
+
+13:19:09 | INFO: Data are loaded, start creating Blender stuff
+13:19:09 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:19:09 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:19:09 | INFO: Blender create Mesh node TMH53_H2_SHORT_CROP
+13:19:09 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H2_front.png'
+Time: 00:00.19 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H2_quarter_R.png'
+Time: 00:00.19 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H2_quarter_L.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H2_side_R.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H2_side_L.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H2_back.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H2_top.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+13:19:10 | INFO: Data are loaded, start creating Blender stuff
+13:19:10 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:19:10 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:19:10 | INFO: Blender create Mesh node TMH54_H2_SHORT_CROP
+13:19:10 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H2_front.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H2_quarter_R.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H2_quarter_L.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H2_side_R.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H2_side_L.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H2_back.png'
+Time: 00:00.19 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H2_top.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+13:19:11 | INFO: Data are loaded, start creating Blender stuff
+13:19:11 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:19:11 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:19:11 | INFO: Blender create Mesh node TMH53_H3_SWEPT_BACK
+13:19:11 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H3_front.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H3_quarter_R.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H3_quarter_L.png'
+Time: 00:00.22 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H3_side_R.png'
+Time: 00:00.22 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H3_side_L.png'
+Time: 00:00.25 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H3_back.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H3_top.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+13:19:13 | INFO: Data are loaded, start creating Blender stuff
+13:19:13 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:19:13 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:19:13 | INFO: Blender create Mesh node TMH54_H3_SWEPT_BACK
+13:19:13 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H3_front.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H3_quarter_R.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H3_quarter_L.png'
+Time: 00:00.22 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H3_side_R.png'
+Time: 00:00.23 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H3_side_L.png'
+Time: 00:00.25 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H3_back.png'
+Time: 00:00.19 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H3_top.png'
+Time: 00:00.19 (Saving: 00:00.00)
+
+13:19:15 | INFO: Data are loaded, start creating Blender stuff
+13:19:15 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:19:15 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:19:15 | INFO: Blender create Mesh node TMH53_H4_SIDE_SWEPT_FRINGE
+13:19:15 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H4_front.png'
+Time: 00:00.24 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H4_quarter_R.png'
+Time: 00:00.25 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H4_quarter_L.png'
+Time: 00:00.26 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H4_side_R.png'
+Time: 00:00.26 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H4_side_L.png'
+Time: 00:00.24 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H4_back.png'
+Time: 00:00.22 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH53_F0_H4_top.png'
+Time: 00:00.19 (Saving: 00:00.00)
+
+13:19:16 | INFO: Data are loaded, start creating Blender stuff
+13:19:16 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:19:16 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:19:16 | INFO: Blender create Mesh node TMH54_H4_SIDE_SWEPT_FRINGE
+13:19:17 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H4_front.png'
+Time: 00:00.23 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H4_quarter_R.png'
+Time: 00:00.24 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H4_quarter_L.png'
+Time: 00:00.24 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H4_side_R.png'
+Time: 00:00.25 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H4_side_L.png'
+Time: 00:00.24 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H4_back.png'
+Time: 00:00.22 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SEVEN_hairs/FH54_F0_H4_top.png'
+Time: 00:00.19 (Saving: 00:00.00)
+
+13:19:18 | INFO: Data are loaded, start creating Blender stuff
+13:19:18 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:19:18 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:19:18 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:19:18 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FACE52_studio_ear_R.png'
+Time: 00:18.02 (Saving: 00:00.06)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FACE52_studio_ear_L.png'
+Time: 00:24.54 (Saving: 00:00.05)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FACE52_studio_front_edge.png'
+Time: 00:14.83 (Saving: 00:00.05)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FACE52_studio_nape.png'
+Time: 00:16.67 (Saving: 00:00.04)
+
+13:20:32 | INFO: Data are loaded, start creating Blender stuff
+13:20:32 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:20:32 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:20:32 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:20:32 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FACE52_grazing_ear_R.png'
+Time: 00:23.61 (Saving: 00:00.04)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FACE52_grazing_ear_L.png'
+Time: 00:24.38 (Saving: 00:00.04)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FACE52_grazing_front_edge.png'
+Time: 00:14.67 (Saving: 00:00.05)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FACE52_grazing_nape.png'
+Time: 00:16.46 (Saving: 00:00.04)
+
+13:21:52 | INFO: Data are loaded, start creating Blender stuff
+13:21:52 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:21:52 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:21:52 | INFO: Blender create Mesh node TMH53_H1_STANDARD_REBUILT
+13:21:52 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H1_studio_ear_R.png'
+Time: 00:17.91 (Saving: 00:00.05)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H1_studio_ear_L.png'
+Time: 00:19.14 (Saving: 00:00.05)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H1_studio_front_edge.png'
+Time: 00:10.58 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H1_studio_nape.png'
+Time: 00:08.15 (Saving: 00:00.03)
+
+13:22:48 | INFO: Data are loaded, start creating Blender stuff
+13:22:48 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:22:48 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:22:48 | INFO: Blender create Mesh node TMH53_H1_STANDARD_REBUILT
+13:22:48 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H1_grazing_ear_R.png'
+Time: 00:17.50 (Saving: 00:00.05)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H1_grazing_ear_L.png'
+Time: 00:18.47 (Saving: 00:00.04)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H1_grazing_front_edge.png'
+Time: 00:12.61 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H1_grazing_nape.png'
+Time: 00:13.38 (Saving: 00:00.05)
+
+13:23:50 | INFO: Data are loaded, start creating Blender stuff
+13:23:50 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:23:50 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:23:50 | INFO: Blender create Mesh node TMH54_H1_STANDARD_REBUILT
+13:23:50 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H1_studio_ear_R.png'
+Time: 00:15.16 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H1_studio_ear_L.png'
+Time: 00:16.18 (Saving: 00:00.04)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H1_studio_front_edge.png'
+Time: 00:12.84 (Saving: 00:00.04)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H1_studio_nape.png'
+Time: 00:10.86 (Saving: 00:00.02)
+
+13:24:45 | INFO: Data are loaded, start creating Blender stuff
+13:24:45 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:24:45 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:24:45 | INFO: Blender create Mesh node TMH54_H1_STANDARD_REBUILT
+13:24:45 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H1_grazing_ear_R.png'
+Time: 00:07.86 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H1_grazing_ear_L.png'
+Time: 00:08.10 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H1_grazing_front_edge.png'
+Time: 00:06.55 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H1_grazing_nape.png'
+Time: 00:06.80 (Saving: 00:00.02)
+
+13:25:14 | INFO: Data are loaded, start creating Blender stuff
+13:25:14 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:25:14 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:25:14 | INFO: Blender create Mesh node TMH53_H2_SHORT_CROP
+13:25:14 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H2_studio_ear_R.png'
+Time: 00:06.71 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H2_studio_ear_L.png'
+Time: 00:07.10 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H2_studio_front_edge.png'
+Time: 00:04.60 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H2_studio_nape.png'
+Time: 00:06.36 (Saving: 00:00.03)
+
+13:25:39 | INFO: Data are loaded, start creating Blender stuff
+13:25:39 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:25:39 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:25:39 | INFO: Blender create Mesh node TMH53_H2_SHORT_CROP
+13:25:39 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H2_grazing_ear_R.png'
+Time: 00:06.41 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H2_grazing_ear_L.png'
+Time: 00:07.09 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H2_grazing_front_edge.png'
+Time: 00:04.74 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H2_grazing_nape.png'
+Time: 00:06.22 (Saving: 00:00.03)
+
+13:26:04 | INFO: Data are loaded, start creating Blender stuff
+13:26:04 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:26:04 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:26:04 | INFO: Blender create Mesh node TMH54_H2_SHORT_CROP
+13:26:04 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H2_studio_ear_R.png'
+Time: 00:05.80 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H2_studio_ear_L.png'
+Time: 00:06.06 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H2_studio_front_edge.png'
+Time: 00:04.58 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H2_studio_nape.png'
+Time: 00:05.75 (Saving: 00:00.02)
+
+13:26:26 | INFO: Data are loaded, start creating Blender stuff
+13:26:26 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:26:26 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:26:26 | INFO: Blender create Mesh node TMH54_H2_SHORT_CROP
+13:26:26 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H2_grazing_ear_R.png'
+Time: 00:05.64 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H2_grazing_ear_L.png'
+Time: 00:06.06 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H2_grazing_front_edge.png'
+Time: 00:04.78 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H2_grazing_nape.png'
+Time: 00:05.77 (Saving: 00:00.02)
+
+13:26:48 | INFO: Data are loaded, start creating Blender stuff
+13:26:48 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:26:48 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:26:48 | INFO: Blender create Mesh node TMH53_H3_SWEPT_BACK
+13:26:48 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H3_studio_ear_R.png'
+Time: 00:07.15 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H3_studio_ear_L.png'
+Time: 00:07.48 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H3_studio_front_edge.png'
+Time: 00:05.43 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H3_studio_nape.png'
+Time: 00:06.24 (Saving: 00:00.02)
+
+13:27:15 | INFO: Data are loaded, start creating Blender stuff
+13:27:15 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:27:15 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:27:15 | INFO: Blender create Mesh node TMH53_H3_SWEPT_BACK
+13:27:15 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H3_grazing_ear_R.png'
+Time: 00:06.98 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H3_grazing_ear_L.png'
+Time: 00:07.86 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H3_grazing_front_edge.png'
+Time: 00:05.30 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H3_grazing_nape.png'
+Time: 00:06.13 (Saving: 00:00.04)
+
+13:27:41 | INFO: Data are loaded, start creating Blender stuff
+13:27:41 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:27:41 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:27:41 | INFO: Blender create Mesh node TMH54_H3_SWEPT_BACK
+13:27:41 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H3_studio_ear_R.png'
+Time: 00:06.59 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H3_studio_ear_L.png'
+Time: 00:06.89 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H3_studio_front_edge.png'
+Time: 00:04.92 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H3_studio_nape.png'
+Time: 00:05.77 (Saving: 00:00.04)
+
+13:28:06 | INFO: Data are loaded, start creating Blender stuff
+13:28:06 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:28:06 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:28:06 | INFO: Blender create Mesh node TMH54_H3_SWEPT_BACK
+13:28:06 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H3_grazing_ear_R.png'
+Time: 00:06.51 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H3_grazing_ear_L.png'
+Time: 00:07.06 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H3_grazing_front_edge.png'
+Time: 00:04.90 (Saving: 00:00.04)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H3_grazing_nape.png'
+Time: 00:05.57 (Saving: 00:00.02)
+
+13:28:30 | INFO: Data are loaded, start creating Blender stuff
+13:28:30 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:28:30 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:28:30 | INFO: Blender create Mesh node TMH53_H4_SIDE_SWEPT_FRINGE
+13:28:30 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H4_studio_ear_R.png'
+Time: 00:09.69 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H4_studio_ear_L.png'
+Time: 00:08.62 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H4_studio_front_edge.png'
+Time: 00:06.89 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H4_studio_nape.png'
+Time: 00:07.38 (Saving: 00:00.02)
+
+13:29:02 | INFO: Data are loaded, start creating Blender stuff
+13:29:02 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:29:02 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:29:02 | INFO: Blender create Mesh node TMH53_H4_SIDE_SWEPT_FRINGE
+13:29:02 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H4_grazing_ear_R.png'
+Time: 00:09.67 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H4_grazing_ear_L.png'
+Time: 00:08.41 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H4_grazing_front_edge.png'
+Time: 00:06.82 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH53_F0_H4_grazing_nape.png'
+Time: 00:07.33 (Saving: 00:00.02)
+
+13:29:35 | INFO: Data are loaded, start creating Blender stuff
+13:29:35 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:29:35 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:29:35 | INFO: Blender create Mesh node TMH54_H4_SIDE_SWEPT_FRINGE
+13:29:35 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H4_studio_ear_R.png'
+Time: 00:08.38 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H4_studio_ear_L.png'
+Time: 00:07.80 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H4_studio_front_edge.png'
+Time: 00:06.82 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H4_studio_nape.png'
+Time: 00:07.80 (Saving: 00:00.03)
+
+13:30:06 | INFO: Data are loaded, start creating Blender stuff
+13:30:06 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:30:06 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:30:06 | INFO: Blender create Mesh node TMH54_H4_SIDE_SWEPT_FRINGE
+13:30:06 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H4_grazing_ear_R.png'
+Time: 00:08.36 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H4_grazing_ear_L.png'
+Time: 00:07.84 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H4_grazing_front_edge.png'
+Time: 00:06.51 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F0_H4_grazing_nape.png'
+Time: 00:07.73 (Saving: 00:00.02)
+
+13:30:36 | INFO: Data are loaded, start creating Blender stuff
+13:30:36 | INFO: Blender create Mesh node TMF54_F2
+13:30:36 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:30:36 | INFO: Blender create Mesh node TMH54_H2_SHORT_CROP
+13:30:36 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F2_H2_studio_ear_R.png'
+Time: 00:05.57 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F2_H2_studio_ear_L.png'
+Time: 00:05.82 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F2_H2_studio_front_edge.png'
+Time: 00:04.55 (Saving: 00:00.04)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F2_H2_studio_nape.png'
+Time: 00:05.65 (Saving: 00:00.02)
+
+13:30:58 | INFO: Data are loaded, start creating Blender stuff
+13:30:58 | INFO: Blender create Mesh node TMF54_F2
+13:30:58 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:30:58 | INFO: Blender create Mesh node TMH54_H2_SHORT_CROP
+13:30:58 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F2_H2_grazing_ear_R.png'
+Time: 00:05.30 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F2_H2_grazing_ear_L.png'
+Time: 00:06.09 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F2_H2_grazing_front_edge.png'
+Time: 00:05.08 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F2_H2_grazing_nape.png'
+Time: 00:05.78 (Saving: 00:00.02)
+
+13:31:20 | INFO: Data are loaded, start creating Blender stuff
+13:31:20 | INFO: Blender create Mesh node TMF54_F3
+13:31:20 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:31:20 | INFO: Blender create Mesh node TMH54_H3_SWEPT_BACK
+13:31:20 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F3_H3_studio_ear_R.png'
+Time: 00:06.67 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F3_H3_studio_ear_L.png'
+Time: 00:07.30 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F3_H3_studio_front_edge.png'
+Time: 00:05.08 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F3_H3_studio_nape.png'
+Time: 00:05.66 (Saving: 00:00.02)
+
+13:31:45 | INFO: Data are loaded, start creating Blender stuff
+13:31:45 | INFO: Blender create Mesh node TMF54_F3
+13:31:45 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:31:45 | INFO: Blender create Mesh node TMH54_H3_SWEPT_BACK
+13:31:45 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F3_H3_grazing_ear_R.png'
+Time: 00:06.27 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F3_H3_grazing_ear_L.png'
+Time: 00:06.93 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F3_H3_grazing_front_edge.png'
+Time: 00:04.80 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/CLOSEUPS/FH54_F3_H3_grazing_nape.png'
+Time: 00:05.65 (Saving: 00:00.03)
+
+13:32:09 | INFO: Data are loaded, start creating Blender stuff
+13:32:09 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:32:09 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:09 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:09 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/SMALL/FACE52_64px_front.png'
+Time: 00:00.10 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FACE52_64px_quarter_R.png'
+Time: 00:00.07 (Saving: 00:00.00)
+
+13:32:09 | INFO: Data are loaded, start creating Blender stuff
+13:32:09 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:32:09 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:09 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:09 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FACE52_96px_front.png'
+Time: 00:00.10 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FACE52_96px_quarter_R.png'
+Time: 00:00.11 (Saving: 00:00.00)
+
+13:32:09 | INFO: Data are loaded, start creating Blender stuff
+13:32:09 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:32:09 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:09 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:09 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/SMALL/FACE52_128px_front.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FACE52_128px_quarter_R.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+13:32:10 | INFO: Data are loaded, start creating Blender stuff
+13:32:10 | INFO: Blender create Mesh node TMF54_F1
+13:32:10 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:10 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:10 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F1_H0_64px_front.png'
+Time: 00:00.07 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F1_H0_64px_quarter_R.png'
+Time: 00:00.08 (Saving: 00:00.00)
+
+13:32:10 | INFO: Data are loaded, start creating Blender stuff
+13:32:10 | INFO: Blender create Mesh node TMF54_F1
+13:32:10 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:10 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:10 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F1_H0_96px_front.png'
+Time: 00:00.11 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F1_H0_96px_quarter_R.png'
+Time: 00:00.11 (Saving: 00:00.00)
+
+13:32:10 | INFO: Data are loaded, start creating Blender stuff
+13:32:10 | INFO: Blender create Mesh node TMF54_F1
+13:32:10 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:10 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:10 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F1_H0_128px_front.png'
+Time: 00:00.16 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F1_H0_128px_quarter_R.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+13:32:11 | INFO: Data are loaded, start creating Blender stuff
+13:32:11 | INFO: Blender create Mesh node TMF54_F2
+13:32:11 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:11 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:11 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F2_H0_64px_front.png'
+Time: 00:00.07 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F2_H0_64px_quarter_R.png'
+Time: 00:00.07 (Saving: 00:00.00)
+
+13:32:11 | INFO: Data are loaded, start creating Blender stuff
+13:32:11 | INFO: Blender create Mesh node TMF54_F2
+13:32:11 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:11 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:11 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F2_H0_96px_front.png'
+Time: 00:00.11 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F2_H0_96px_quarter_R.png'
+Time: 00:00.12 (Saving: 00:00.00)
+
+13:32:11 | INFO: Data are loaded, start creating Blender stuff
+13:32:11 | INFO: Blender create Mesh node TMF54_F2
+13:32:11 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:11 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:11 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F2_H0_128px_front.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F2_H0_128px_quarter_R.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+13:32:12 | INFO: Data are loaded, start creating Blender stuff
+13:32:12 | INFO: Blender create Mesh node TMF54_F3
+13:32:12 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:12 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:12 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F3_H0_64px_front.png'
+Time: 00:00.07 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F3_H0_64px_quarter_R.png'
+Time: 00:00.08 (Saving: 00:00.00)
+
+13:32:12 | INFO: Data are loaded, start creating Blender stuff
+13:32:12 | INFO: Blender create Mesh node TMF54_F3
+13:32:12 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:12 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:12 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F3_H0_96px_front.png'
+Time: 00:00.10 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F3_H0_96px_quarter_R.png'
+Time: 00:00.11 (Saving: 00:00.00)
+
+13:32:12 | INFO: Data are loaded, start creating Blender stuff
+13:32:12 | INFO: Blender create Mesh node TMF54_F3
+13:32:12 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:12 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:12 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F3_H0_128px_front.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F3_H0_128px_quarter_R.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+13:32:13 | INFO: Data are loaded, start creating Blender stuff
+13:32:13 | INFO: Blender create Mesh node TMF54_F1
+13:32:13 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:13 | INFO: Blender create Mesh node TMH54_H1_STANDARD_REBUILT
+13:32:13 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F1_H1_64px_front.png'
+Time: 00:00.06 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F1_H1_64px_quarter_R.png'
+Time: 00:00.06 (Saving: 00:00.00)
+
+13:32:13 | INFO: Data are loaded, start creating Blender stuff
+13:32:13 | INFO: Blender create Mesh node TMF54_F1
+13:32:13 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:13 | INFO: Blender create Mesh node TMH54_H1_STANDARD_REBUILT
+13:32:13 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F1_H1_96px_front.png'
+Time: 00:00.09 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F1_H1_96px_quarter_R.png'
+Time: 00:00.09 (Saving: 00:00.00)
+
+13:32:13 | INFO: Data are loaded, start creating Blender stuff
+13:32:13 | INFO: Blender create Mesh node TMF54_F1
+13:32:13 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:13 | INFO: Blender create Mesh node TMH54_H1_STANDARD_REBUILT
+13:32:13 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F1_H1_128px_front.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F1_H1_128px_quarter_R.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+13:32:14 | INFO: Data are loaded, start creating Blender stuff
+13:32:14 | INFO: Blender create Mesh node TMF54_F2
+13:32:14 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:14 | INFO: Blender create Mesh node TMH54_H2_SHORT_CROP
+13:32:14 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F2_H2_64px_front.png'
+Time: 00:00.06 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F2_H2_64px_quarter_R.png'
+Time: 00:00.06 (Saving: 00:00.00)
+
+13:32:14 | INFO: Data are loaded, start creating Blender stuff
+13:32:14 | INFO: Blender create Mesh node TMF54_F2
+13:32:14 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:14 | INFO: Blender create Mesh node TMH54_H2_SHORT_CROP
+13:32:14 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F2_H2_96px_front.png'
+Time: 00:00.08 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F2_H2_96px_quarter_R.png'
+Time: 00:00.09 (Saving: 00:00.00)
+
+13:32:14 | INFO: Data are loaded, start creating Blender stuff
+13:32:14 | INFO: Blender create Mesh node TMF54_F2
+13:32:14 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:14 | INFO: Blender create Mesh node TMH54_H2_SHORT_CROP
+13:32:14 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F2_H2_128px_front.png'
+Time: 00:00.11 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F2_H2_128px_quarter_R.png'
+Time: 00:00.12 (Saving: 00:00.00)
+
+13:32:14 | INFO: Data are loaded, start creating Blender stuff
+13:32:14 | INFO: Blender create Mesh node TMF54_F3
+13:32:14 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:14 | INFO: Blender create Mesh node TMH54_H3_SWEPT_BACK
+13:32:14 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F3_H3_64px_front.png'
+Time: 00:00.06 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F3_H3_64px_quarter_R.png'
+Time: 00:00.06 (Saving: 00:00.00)
+
+13:32:15 | INFO: Data are loaded, start creating Blender stuff
+13:32:15 | INFO: Blender create Mesh node TMF54_F3
+13:32:15 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:15 | INFO: Blender create Mesh node TMH54_H3_SWEPT_BACK
+13:32:15 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F3_H3_96px_front.png'
+Time: 00:00.08 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F3_H3_96px_quarter_R.png'
+Time: 00:00.09 (Saving: 00:00.00)
+
+13:32:15 | INFO: Data are loaded, start creating Blender stuff
+13:32:15 | INFO: Blender create Mesh node TMF54_F3
+13:32:15 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:15 | INFO: Blender create Mesh node TMH54_H3_SWEPT_BACK
+13:32:15 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F3_H3_128px_front.png'
+Time: 00:00.11 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F3_H3_128px_quarter_R.png'
+Time: 00:00.13 (Saving: 00:00.00)
+
+13:32:15 | INFO: Data are loaded, start creating Blender stuff
+13:32:15 | INFO: Blender create Mesh node TMF54_F1
+13:32:15 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:15 | INFO: Blender create Mesh node TMH54_H4_SIDE_SWEPT_FRINGE
+13:32:15 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F1_H4_64px_front.png'
+Time: 00:00.07 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F1_H4_64px_quarter_R.png'
+Time: 00:00.07 (Saving: 00:00.00)
+
+13:32:15 | INFO: Data are loaded, start creating Blender stuff
+13:32:15 | INFO: Blender create Mesh node TMF54_F1
+13:32:15 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:15 | INFO: Blender create Mesh node TMH54_H4_SIDE_SWEPT_FRINGE
+13:32:15 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F1_H4_96px_front.png'
+Time: 00:00.10 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F1_H4_96px_quarter_R.png'
+Time: 00:00.12 (Saving: 00:00.00)
+
+13:32:16 | INFO: Data are loaded, start creating Blender stuff
+13:32:16 | INFO: Blender create Mesh node TMF54_F1
+13:32:16 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:16 | INFO: Blender create Mesh node TMH54_H4_SIDE_SWEPT_FRINGE
+13:32:16 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F1_H4_128px_front.png'
+Time: 00:00.13 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH54_F1_H4_128px_quarter_R.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+13:32:16 | INFO: Data are loaded, start creating Blender stuff
+13:32:16 | INFO: Blender create Mesh node TMF53_F1_LONG_ANGULAR
+13:32:16 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:16 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:16 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH53_F1_H0_64px_front.png'
+Time: 00:00.08 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH53_F1_H0_64px_quarter_R.png'
+Time: 00:00.08 (Saving: 00:00.00)
+
+13:32:16 | INFO: Data are loaded, start creating Blender stuff
+13:32:16 | INFO: Blender create Mesh node TMF53_F1_LONG_ANGULAR
+13:32:16 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:16 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:16 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH53_F1_H0_96px_front.png'
+Time: 00:00.09 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH53_F1_H0_96px_quarter_R.png'
+Time: 00:00.11 (Saving: 00:00.00)
+
+13:32:17 | INFO: Data are loaded, start creating Blender stuff
+13:32:17 | INFO: Blender create Mesh node TMF53_F1_LONG_ANGULAR
+13:32:17 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:17 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:17 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH53_F1_H0_128px_front.png'
+Time: 00:00.14 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH53_F1_H0_128px_quarter_R.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+13:32:17 | INFO: Data are loaded, start creating Blender stuff
+13:32:17 | INFO: Blender create Mesh node TMF53_F2_ROUND_SOFT
+13:32:17 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:17 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:17 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH53_F2_H0_64px_front.png'
+Time: 00:00.07 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH53_F2_H0_64px_quarter_R.png'
+Time: 00:00.08 (Saving: 00:00.00)
+
+13:32:17 | INFO: Data are loaded, start creating Blender stuff
+13:32:17 | INFO: Blender create Mesh node TMF53_F2_ROUND_SOFT
+13:32:17 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:17 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:17 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/SMALL/FH53_F2_H0_96px_front.png'
+Time: 00:00.10 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH53_F2_H0_96px_quarter_R.png'
+Time: 00:00.11 (Saving: 00:00.00)
+
+13:32:18 | INFO: Data are loaded, start creating Blender stuff
+13:32:18 | INFO: Blender create Mesh node TMF53_F2_ROUND_SOFT
+13:32:18 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:18 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:18 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH53_F2_H0_128px_front.png'
+Time: 00:00.16 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH53_F2_H0_128px_quarter_R.png'
+Time: 00:00.16 (Saving: 00:00.00)
+
+13:32:18 | INFO: Data are loaded, start creating Blender stuff
+13:32:18 | INFO: Blender create Mesh node TMF53_F3_NARROW_SHARP
+13:32:18 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:18 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:18 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH53_F3_H0_64px_front.png'
+Time: 00:00.08 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH53_F3_H0_64px_quarter_R.png'
+Time: 00:00.07 (Saving: 00:00.00)
+
+13:32:18 | INFO: Data are loaded, start creating Blender stuff
+13:32:18 | INFO: Blender create Mesh node TMF53_F3_NARROW_SHARP
+13:32:18 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:18 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:18 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH53_F3_H0_96px_front.png'
+Time: 00:00.10 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH53_F3_H0_96px_quarter_R.png'
+Time: 00:00.11 (Saving: 00:00.00)
+
+13:32:19 | INFO: Data are loaded, start creating Blender stuff
+13:32:19 | INFO: Blender create Mesh node TMF53_F3_NARROW_SHARP
+13:32:19 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:19 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:19 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/SMALL/FH53_F3_H0_128px_front.png'
+Time: 00:00.15 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/SMALL/FH53_F3_H0_128px_quarter_R.png'
+Time: 00:00.16 (Saving: 00:00.00)
+
+13:32:19 | INFO: Data are loaded, start creating Blender stuff
+13:32:19 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:32:19 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:19 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:19 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F0_H0_front.png'
+Time: 00:00.24 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F0_H0_quarter_R.png'
+Time: 00:00.26 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F0_H0_side_L.png'
+Time: 00:00.31 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F0_H0_back.png'
+Time: 00:00.24 (Saving: 00:00.00)
+
+13:32:20 | INFO: Data are loaded, start creating Blender stuff
+13:32:20 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:32:20 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:20 | INFO: Blender create Mesh node TMH54_H1_STANDARD_REBUILT
+13:32:20 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F0_H1_front.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F0_H1_quarter_R.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F0_H1_side_L.png'
+Time: 00:00.23 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F0_H1_back.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+13:32:21 | INFO: Data are loaded, start creating Blender stuff
+13:32:21 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:32:21 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:21 | INFO: Blender create Mesh node TMH54_H2_SHORT_CROP
+13:32:21 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F0_H2_front.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F0_H2_quarter_R.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F0_H2_side_L.png'
+Time: 00:00.23 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F0_H2_back.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+13:32:22 | INFO: Data are loaded, start creating Blender stuff
+13:32:22 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:32:22 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:22 | INFO: Blender create Mesh node TMH54_H3_SWEPT_BACK
+13:32:22 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F0_H3_front.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F0_H3_quarter_R.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F0_H3_side_L.png'
+Time: 00:00.23 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F0_H3_back.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+13:32:23 | INFO: Data are loaded, start creating Blender stuff
+13:32:23 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:32:23 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:23 | INFO: Blender create Mesh node TMH54_H4_SIDE_SWEPT_FRINGE
+13:32:23 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F0_H4_front.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F0_H4_quarter_R.png'
+Time: 00:00.24 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F0_H4_side_L.png'
+Time: 00:00.24 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F0_H4_back.png'
+Time: 00:00.23 (Saving: 00:00.00)
+
+13:32:24 | INFO: Data are loaded, start creating Blender stuff
+13:32:24 | INFO: Blender create Mesh node TMF54_F1
+13:32:24 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:24 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:24 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F1_H0_front.png'
+Time: 00:00.23 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F1_H0_quarter_R.png'
+Time: 00:00.30 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F1_H0_side_L.png'
+Time: 00:00.30 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F1_H0_back.png'
+Time: 00:00.24 (Saving: 00:00.00)
+
+13:32:25 | INFO: Data are loaded, start creating Blender stuff
+13:32:25 | INFO: Blender create Mesh node TMF54_F1
+13:32:25 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:25 | INFO: Blender create Mesh node TMH54_H1_STANDARD_REBUILT
+13:32:25 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F1_H1_front.png'
+Time: 00:00.23 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F1_H1_quarter_R.png'
+Time: 00:00.23 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F1_H1_side_L.png'
+Time: 00:00.24 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F1_H1_back.png'
+Time: 00:00.21 (Saving: 00:00.01)
+
+13:32:26 | INFO: Data are loaded, start creating Blender stuff
+13:32:26 | INFO: Blender create Mesh node TMF54_F1
+13:32:26 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:26 | INFO: Blender create Mesh node TMH54_H2_SHORT_CROP
+13:32:26 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F1_H2_front.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F1_H2_quarter_R.png'
+Time: 00:00.19 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F1_H2_side_L.png'
+Time: 00:00.25 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F1_H2_back.png'
+Time: 00:00.19 (Saving: 00:00.00)
+
+13:32:27 | INFO: Data are loaded, start creating Blender stuff
+13:32:27 | INFO: Blender create Mesh node TMF54_F1
+13:32:27 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:27 | INFO: Blender create Mesh node TMH54_H3_SWEPT_BACK
+13:32:27 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F1_H3_front.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F1_H3_quarter_R.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F1_H3_side_L.png'
+Time: 00:00.23 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F1_H3_back.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+13:32:28 | INFO: Data are loaded, start creating Blender stuff
+13:32:28 | INFO: Blender create Mesh node TMF54_F1
+13:32:28 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:28 | INFO: Blender create Mesh node TMH54_H4_SIDE_SWEPT_FRINGE
+13:32:28 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F1_H4_front.png'
+Time: 00:00.24 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F1_H4_quarter_R.png'
+Time: 00:00.23 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F1_H4_side_L.png'
+Time: 00:00.25 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F1_H4_back.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+13:32:29 | INFO: Data are loaded, start creating Blender stuff
+13:32:29 | INFO: Blender create Mesh node TMF54_F2
+13:32:29 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:29 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:29 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F2_H0_front.png'
+Time: 00:00.22 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F2_H0_quarter_R.png'
+Time: 00:00.26 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F2_H0_side_L.png'
+Time: 00:00.30 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F2_H0_back.png'
+Time: 00:00.25 (Saving: 00:00.00)
+
+13:32:30 | INFO: Data are loaded, start creating Blender stuff
+13:32:30 | INFO: Blender create Mesh node TMF54_F2
+13:32:30 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:30 | INFO: Blender create Mesh node TMH54_H1_STANDARD_REBUILT
+13:32:30 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F2_H1_front.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F2_H1_quarter_R.png'
+Time: 00:00.22 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F2_H1_side_L.png'
+Time: 00:00.24 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F2_H1_back.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+13:32:31 | INFO: Data are loaded, start creating Blender stuff
+13:32:31 | INFO: Blender create Mesh node TMF54_F2
+13:32:31 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:31 | INFO: Blender create Mesh node TMH54_H2_SHORT_CROP
+13:32:31 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F2_H2_front.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F2_H2_quarter_R.png'
+Time: 00:00.19 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F2_H2_side_L.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F2_H2_back.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+13:32:32 | INFO: Data are loaded, start creating Blender stuff
+13:32:32 | INFO: Blender create Mesh node TMF54_F2
+13:32:32 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:32 | INFO: Blender create Mesh node TMH54_H3_SWEPT_BACK
+13:32:32 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F2_H3_front.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F2_H3_quarter_R.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F2_H3_side_L.png'
+Time: 00:00.22 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F2_H3_back.png'
+Time: 00:00.18 (Saving: 00:00.00)
+
+13:32:33 | INFO: Data are loaded, start creating Blender stuff
+13:32:33 | INFO: Blender create Mesh node TMF54_F2
+13:32:33 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:33 | INFO: Blender create Mesh node TMH54_H4_SIDE_SWEPT_FRINGE
+13:32:33 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F2_H4_front.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F2_H4_quarter_R.png'
+Time: 00:00.23 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F2_H4_side_L.png'
+Time: 00:00.24 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F2_H4_back.png'
+Time: 00:00.22 (Saving: 00:00.00)
+
+13:32:34 | INFO: Data are loaded, start creating Blender stuff
+13:32:34 | INFO: Blender create Mesh node TMF54_F3
+13:32:34 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:34 | INFO: Blender create Mesh node Hair35_SmoothCrown
+13:32:34 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F3_H0_front.png'
+Time: 00:00.23 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F3_H0_quarter_R.png'
+Time: 00:00.26 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F3_H0_side_L.png'
+Time: 00:00.29 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F3_H0_back.png'
+Time: 00:00.25 (Saving: 00:00.00)
+
+13:32:35 | INFO: Data are loaded, start creating Blender stuff
+13:32:35 | INFO: Blender create Mesh node TMF54_F3
+13:32:35 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:35 | INFO: Blender create Mesh node TMH54_H1_STANDARD_REBUILT
+13:32:35 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F3_H1_front.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F3_H1_quarter_R.png'
+Time: 00:00.23 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F3_H1_side_L.png'
+Time: 00:00.24 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F3_H1_back.png'
+Time: 00:00.23 (Saving: 00:00.00)
+
+13:32:36 | INFO: Data are loaded, start creating Blender stuff
+13:32:36 | INFO: Blender create Mesh node TMF54_F3
+13:32:36 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:36 | INFO: Blender create Mesh node TMH54_H2_SHORT_CROP
+13:32:36 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F3_H2_front.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F3_H2_quarter_R.png'
+Time: 00:00.22 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F3_H2_side_L.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F3_H2_back.png'
+Time: 00:00.17 (Saving: 00:00.00)
+
+13:32:37 | INFO: Data are loaded, start creating Blender stuff
+13:32:37 | INFO: Blender create Mesh node TMF54_F3
+13:32:37 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:37 | INFO: Blender create Mesh node TMH54_H3_SWEPT_BACK
+13:32:37 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F3_H3_front.png'
+Time: 00:00.18 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F3_H3_quarter_R.png'
+Time: 00:00.21 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F3_H3_side_L.png'
+Time: 00:00.24 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F3_H3_back.png'
+Time: 00:00.19 (Saving: 00:00.00)
+
+13:32:38 | INFO: Data are loaded, start creating Blender stuff
+13:32:38 | INFO: Blender create Mesh node TMF54_F3
+13:32:38 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:32:38 | INFO: Blender create Mesh node TMH54_H4_SIDE_SWEPT_FRINGE
+13:32:38 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F3_H4_front.png'
+Time: 00:00.22 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F3_H4_quarter_R.png'
+Time: 00:00.23 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F3_H4_side_L.png'
+Time: 00:00.26 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/COMBOS/FH54_F3_H4_back.png'
+Time: 00:00.22 (Saving: 00:00.00)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F0_H0_face_front.png'
+Time: 00:02.02 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F0_H0_face_quarterR.png'
+Time: 00:02.19 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F0_H0_face_quarterL.png'
+Time: 00:02.37 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F0_H0_face_sideR.png'
+Time: 00:02.29 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F0_H2_face_front.png'
+Time: 00:01.34 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F0_H2_face_quarterR.png'
+Time: 00:01.40 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F0_H2_face_quarterL.png'
+Time: 00:01.56 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F0_H2_face_sideR.png'
+Time: 00:01.45 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1S_H0_face_front.png'
+Time: 00:01.98 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1S_H0_face_quarterR.png'
+Time: 00:02.21 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1S_H0_face_quarterL.png'
+Time: 00:02.52 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1S_H0_face_sideR.png'
+Time: 00:02.29 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1S_H2_face_front.png'
+Time: 00:01.31 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1S_H2_face_quarterR.png'
+Time: 00:01.47 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1S_H2_face_quarterL.png'
+Time: 00:01.50 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1S_H2_face_sideR.png'
+Time: 00:01.48 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1T_H0_face_front.png'
+Time: 00:01.95 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1T_H0_face_quarterR.png'
+Time: 00:02.21 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1T_H0_face_quarterL.png'
+Time: 00:02.39 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1T_H0_face_sideR.png'
+Time: 00:02.28 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1T_H2_face_front.png'
+Time: 00:01.32 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1T_H2_face_quarterR.png'
+Time: 00:01.40 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1T_H2_face_quarterL.png'
+Time: 00:01.51 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1T_H2_face_sideR.png'
+Time: 00:01.52 (Saving: 00:00.03)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1_H0_face_front.png'
+Time: 00:02.02 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1_H0_face_quarterR.png'
+Time: 00:02.26 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1_H0_face_quarterL.png'
+Time: 00:02.37 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1_H0_face_sideR.png'
+Time: 00:02.27 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1_H2_face_front.png'
+Time: 00:01.30 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1_H2_face_quarterR.png'
+Time: 00:01.41 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1_H2_face_quarterL.png'
+Time: 00:01.63 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F1_H2_face_sideR.png'
+Time: 00:01.49 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2S_H0_face_front.png'
+Time: 00:01.97 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2S_H0_face_quarterR.png'
+Time: 00:02.28 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2S_H0_face_quarterL.png'
+Time: 00:02.49 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2S_H0_face_sideR.png'
+Time: 00:02.29 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2S_H2_face_front.png'
+Time: 00:01.28 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2S_H2_face_quarterR.png'
+Time: 00:01.39 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2S_H2_face_quarterL.png'
+Time: 00:01.56 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2S_H2_face_sideR.png'
+Time: 00:01.57 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2T_H0_face_front.png'
+Time: 00:02.02 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2T_H0_face_quarterR.png'
+Time: 00:02.22 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2T_H0_face_quarterL.png'
+Time: 00:02.53 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2T_H0_face_sideR.png'
+Time: 00:02.33 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2T_H2_face_front.png'
+Time: 00:01.30 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2T_H2_face_quarterR.png'
+Time: 00:01.47 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2T_H2_face_quarterL.png'
+Time: 00:01.63 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2T_H2_face_sideR.png'
+Time: 00:01.54 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2_H0_face_front.png'
+Time: 00:02.03 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2_H0_face_quarterR.png'
+Time: 00:02.31 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2_H0_face_quarterL.png'
+Time: 00:02.50 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2_H0_face_sideR.png'
+Time: 00:02.29 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2_H2_face_front.png'
+Time: 00:01.31 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2_H2_face_quarterR.png'
+Time: 00:01.44 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2_H2_face_quarterL.png'
+Time: 00:01.58 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F2_H2_face_sideR.png'
+Time: 00:01.53 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3S_H0_face_front.png'
+Time: 00:01.99 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3S_H0_face_quarterR.png'
+Time: 00:02.25 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3S_H0_face_quarterL.png'
+Time: 00:02.45 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3S_H0_face_sideR.png'
+Time: 00:02.36 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3S_H2_face_front.png'
+Time: 00:01.29 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3S_H2_face_quarterR.png'
+Time: 00:01.49 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3S_H2_face_quarterL.png'
+Time: 00:01.52 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3S_H2_face_sideR.png'
+Time: 00:01.50 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3T_H0_face_front.png'
+Time: 00:02.09 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3T_H0_face_quarterR.png'
+Time: 00:02.36 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3T_H0_face_quarterL.png'
+Time: 00:02.54 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3T_H0_face_sideR.png'
+Time: 00:02.25 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3T_H2_face_front.png'
+Time: 00:01.34 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3T_H2_face_quarterR.png'
+Time: 00:01.43 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3T_H2_face_quarterL.png'
+Time: 00:01.50 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3T_H2_face_sideR.png'
+Time: 00:01.53 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3_H0_face_front.png'
+Time: 00:01.99 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3_H0_face_quarterR.png'
+Time: 00:02.24 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3_H0_face_quarterL.png'
+Time: 00:02.52 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3_H0_face_sideR.png'
+Time: 00:02.37 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3_H2_face_front.png'
+Time: 00:01.46 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3_H2_face_quarterR.png'
+Time: 00:01.43 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3_H2_face_quarterL.png'
+Time: 00:01.55 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/FACE_BREAKDOWN/F3_H2_face_sideR.png'
+Time: 00:01.50 (Saving: 00:00.01)
+
+RENDERS 426

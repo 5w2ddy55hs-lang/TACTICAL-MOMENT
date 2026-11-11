@@ -1,0 +1,67 @@
+13:41:46 | INFO: Data are loaded, start creating Blender stuff
+13:41:46 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:41:46 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:41:46 | INFO: Blender create Mesh node TMH53_H2_SHORT_CROP
+13:41:46 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/BEHIND_EAR/FH53_F0_H2_behind_ear_L.png'
+Time: 00:03.84 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/BEHIND_EAR/FH53_F0_H2_behind_ear_R.png'
+Time: 00:03.99 (Saving: 00:00.01)
+
+13:41:54 | INFO: Data are loaded, start creating Blender stuff
+13:41:54 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:41:54 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:41:54 | INFO: Blender create Mesh node TMH54_H2_SHORT_CROP
+13:41:54 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/BEHIND_EAR/FH54pre_F0_H2_behind_ear_L.png'
+Time: 00:03.55 (Saving: 00:00.02)
+
+Saved: '<FH53_BUILD>/renders/BEHIND_EAR/FH54pre_F0_H2_behind_ear_R.png'
+Time: 00:03.66 (Saving: 00:00.01)
+
+13:42:01 | INFO: Data are loaded, start creating Blender stuff
+13:42:01 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:42:01 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:42:01 | INFO: Blender create Mesh node TMH54_H2_SHORT_CROP
+13:42:01 | INFO: glTF import finished in 0.03s
+Saved: '<FH53_BUILD>/renders/BEHIND_EAR/FH54_F0_H2_behind_ear_L.png'
+Time: 00:03.56 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/BEHIND_EAR/FH54_F0_H2_behind_ear_R.png'
+Time: 00:03.70 (Saving: 00:00.01)
+
+13:42:08 | INFO: Data are loaded, start creating Blender stuff
+13:42:08 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:42:08 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:42:08 | INFO: Blender create Mesh node TMH53_H3_SWEPT_BACK
+13:42:08 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/BEHIND_EAR/FH53_F0_H3_behind_ear_L.png'
+Time: 00:03.99 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/BEHIND_EAR/FH53_F0_H3_behind_ear_R.png'
+Time: 00:04.07 (Saving: 00:00.01)
+
+13:42:16 | INFO: Data are loaded, start creating Blender stuff
+13:42:16 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:42:16 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:42:16 | INFO: Blender create Mesh node TMH54_H3_SWEPT_BACK
+13:42:16 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/BEHIND_EAR/FH54pre_F0_H3_behind_ear_L.png'
+Time: 00:03.51 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/BEHIND_EAR/FH54pre_F0_H3_behind_ear_R.png'
+Time: 00:03.69 (Saving: 00:00.01)
+
+13:42:24 | INFO: Data are loaded, start creating Blender stuff
+13:42:24 | INFO: Blender create Mesh node Face32_LowerEyelids
+13:42:24 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+13:42:24 | INFO: Blender create Mesh node TMH54_H3_SWEPT_BACK
+13:42:24 | INFO: glTF import finished in 0.02s
+Saved: '<FH53_BUILD>/renders/BEHIND_EAR/FH54_F0_H3_behind_ear_L.png'
+Time: 00:03.65 (Saving: 00:00.01)
+
+Saved: '<FH53_BUILD>/renders/BEHIND_EAR/FH54_F0_H3_behind_ear_R.png'
+Time: 00:03.75 (Saving: 00:00.02)
+
+BEHIND_EAR 12

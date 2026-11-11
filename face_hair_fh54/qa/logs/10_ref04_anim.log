@@ -1,0 +1,12 @@
+Read blend: "<FH53_REF04>/Sakatsuku2002_reference04_APPEARANCE_STUDY.blend"
+Info: Total files 41 | Changed 12 | Failed 0
+Info: No new files have been packed
+Info: Saved "TM_FH54_REVIEW_REF04_ANIM_RIGID_F1_H1.blend"
+ANIM F1_H1 rigid rest max 1.35 {'REF_gamemtn0_id0001_normalized_phase': (1.47, 0.9), 'REF_gamemtn0_id0039_normalized_phase': (12.09, 7.5), 'REF_gamemtn0_id1012_normalized_phase': (14.25, 19.8)}
+Read blend: "<FH53_REF04>/Sakatsuku2002_reference04_APPEARANCE_STUDY.blend"
+Info: Total files 41 | Changed 12 | Failed 0
+Info: No new files have been packed
+Info: Saved "TM_FH54_REVIEW_REF04_ANIM_WEIGHTED_F1_H1.blend"
+ANIM F1_H1 weighted rest max 1.35 {'REF_gamemtn0_id0001_normalized_phase': (1.35, 0.9), 'REF_gamemtn0_id0039_normalized_phase': (1.45, 7.5), 'REF_gamemtn0_id1012_normalized_phase': (4.52, 19.8)}
+ANIM F0_H0 rigid rest max 1.35 {'REF_gamemtn0_id0001_normalized_phase': (1.47, 0.9), 'REF_gamemtn0_id0039_normalized_phase': (12.09, 7.5), 'REF_gamemtn0_id1012_normalized_phase': (14.25, 19.8)}
+ANIM F0_H0 weighted rest max 1.35 {'REF_gamemtn0_id0001_normalized_phase': (1.35, 0.9), 'REF_gamemtn0_id0039_normalized_phase': (1.45, 7.5), 'REF_gamemtn0_id1012_normalized_phase': (4.52, 19.8)}

@@ -1,0 +1,661 @@
+18:57:10 | INFO: Data are loaded, start creating Blender stuff
+18:57:10 | INFO: Blender create Mesh node TM_HM55_Body
+18:57:10 | INFO: Blender create Mesh node TM_HM55_Hair
+18:57:10 | INFO: Blender create Mesh node TM_HM55_Head
+18:57:10 | INFO: glTF import finished in 0.07s
+Saved: '<HM_BUILD>/renders/COMPARE/BODY/HM55_front.png'
+Time: 00:02.80 (Saving: 00:00.03)
+
+Saved: '<HM_BUILD>/renders/COMPARE/BODY/HM55_quarter_L.png'
+Time: 00:02.81 (Saving: 00:00.04)
+
+Saved: '<HM_BUILD>/renders/COMPARE/BODY/HM55_side_L.png'
+Time: 00:01.91 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/BODY/HM55_back.png'
+Time: 00:02.63 (Saving: 00:00.03)
+
+18:57:20 | INFO: Data are loaded, start creating Blender stuff
+18:57:20 | INFO: Blender create Mesh node TM_HM55_Body
+18:57:20 | INFO: Blender create Mesh node TM_HM55_Hair
+18:57:20 | INFO: Blender create Mesh node TM_HM55_Head
+18:57:20 | INFO: glTF import finished in 0.09s
+Saved: '<HM_BUILD>/renders/COMPARE/FACE/HM55_front.png'
+Time: 00:03.26 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/FACE/HM55_quarter_L.png'
+Time: 00:03.54 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/FACE/HM55_side_L.png'
+Time: 00:04.28 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/FACE/HM55_low.png'
+Time: 00:03.14 (Saving: 00:00.01)
+
+18:57:35 | INFO: Data are loaded, start creating Blender stuff
+18:57:35 | INFO: Blender create Mesh node TM_HM55_Body
+18:57:35 | INFO: Blender create Mesh node TM_HM55_Hair
+18:57:35 | INFO: Blender create Mesh node TM_HM55_Head
+18:57:35 | INFO: glTF import finished in 0.06s
+Saved: '<HM_BUILD>/renders/COMPARE/PARTS/HM55_neck_front.png'
+Time: 00:02.77 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/PARTS/HM55_neck_quarter.png'
+Time: 00:02.74 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/PARTS/HM55_neck_side.png'
+Time: 00:02.08 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/PARTS/HM55_neck_back.png'
+Time: 00:02.74 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/PARTS/HM55_legs_front.png'
+Time: 00:01.75 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/PARTS/HM55_legs_side.png'
+Time: 00:01.11 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/PARTS/HM55_legs_quarter.png'
+Time: 00:01.79 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/PARTS/HM55_boot_side.png'
+Time: 00:01.49 (Saving: 00:00.01)
+
+18:57:51 | INFO: Data are loaded, start creating Blender stuff
+18:57:51 | INFO: Blender create Mesh node TM_HM55_Body
+18:57:51 | INFO: Blender create Mesh node TM_HM55_Hair
+18:57:51 | INFO: Blender create Mesh node TM_HM55_Head
+18:57:51 | INFO: glTF import finished in 0.06s
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_turn_left_front.png'
+Time: 00:02.12 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_turn_left_side_L.png'
+Time: 00:01.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_turn_left_back.png'
+Time: 00:02.11 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_turn_left_above.png'
+Time: 00:02.15 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_turn_right_front.png'
+Time: 00:02.03 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_turn_right_side_L.png'
+Time: 00:01.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_turn_right_back.png'
+Time: 00:02.08 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_turn_right_above.png'
+Time: 00:02.16 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_look_up_front.png'
+Time: 00:01.84 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_look_up_side_L.png'
+Time: 00:01.43 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_look_up_back.png'
+Time: 00:01.92 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_look_up_above.png'
+Time: 00:02.30 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_look_down_front.png'
+Time: 00:01.83 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_look_down_side_L.png'
+Time: 00:01.52 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_look_down_back.png'
+Time: 00:01.81 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_look_down_above.png'
+Time: 00:01.86 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_tilt_front.png'
+Time: 00:01.87 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_tilt_side_L.png'
+Time: 00:01.35 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_tilt_back.png'
+Time: 00:01.81 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_tilt_above.png'
+Time: 00:02.12 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_header_front.png'
+Time: 00:01.97 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_header_side_L.png'
+Time: 00:01.62 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_header_back.png'
+Time: 00:01.98 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_header_above.png'
+Time: 00:01.95 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_throw_front.png'
+Time: 00:02.26 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_throw_side_L.png'
+Time: 00:01.47 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_throw_back.png'
+Time: 00:02.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_throw_above.png'
+Time: 00:02.55 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_armpit_kick_front.png'
+Time: 00:02.11 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_armpit_kick_side_low.png'
+Time: 00:02.21 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_armpit_throw_front.png'
+Time: 00:02.10 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_armpit_throw_side_low.png'
+Time: 00:02.32 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_knee_run_side_L.png'
+Time: 00:01.72 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_knee_run_back_quarter.png'
+Time: 00:01.61 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_knee_kick_side_L.png'
+Time: 00:01.44 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_knee_kick_back_quarter.png'
+Time: 00:01.25 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_knee_header_side_L.png'
+Time: 00:01.58 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM55_knee_header_back_quarter.png'
+Time: 00:02.29 (Saving: 00:00.01)
+
+18:59:04 | INFO: Data are loaded, start creating Blender stuff
+18:59:04 | INFO: Blender create Mesh node TM_HM55_Body
+18:59:04 | INFO: Blender create Mesh node TM_HM55_Hair
+18:59:04 | INFO: Blender create Mesh node TM_HM55_Head
+18:59:04 | INFO: glTF import finished in 0.10s
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Run_000_quarter_L.png'
+Time: 00:00.54 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Run_000_side_L.png'
+Time: 00:00.52 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Run_005_quarter_L.png'
+Time: 00:00.57 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Run_005_side_L.png'
+Time: 00:00.41 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Run_010_quarter_L.png'
+Time: 00:00.64 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Run_010_side_L.png'
+Time: 00:00.54 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Run_015_quarter_L.png'
+Time: 00:00.58 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Run_015_side_L.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Kick_008_quarter_L.png'
+Time: 00:00.51 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Kick_008_side_L.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Kick_014_quarter_L.png'
+Time: 00:00.52 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Kick_014_side_L.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Kick_019_quarter_L.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Kick_019_side_L.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Kick_025_quarter_L.png'
+Time: 00:00.51 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Kick_025_side_L.png'
+Time: 00:00.61 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Header_009_quarter_L.png'
+Time: 00:00.58 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Header_009_side_L.png'
+Time: 00:00.45 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Header_017_quarter_L.png'
+Time: 00:00.54 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Header_017_side_L.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Header_021_quarter_L.png'
+Time: 00:00.54 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Header_021_side_L.png'
+Time: 00:00.48 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Header_030_quarter_L.png'
+Time: 00:00.59 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_Header_030_side_L.png'
+Time: 00:00.46 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_LookAround_015_quarter_L.png'
+Time: 00:00.60 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_LookAround_015_side_L.png'
+Time: 00:00.42 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_LookAround_045_quarter_L.png'
+Time: 00:00.61 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_LookAround_045_side_L.png'
+Time: 00:00.46 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_LookAround_070_quarter_L.png'
+Time: 00:00.64 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_LookAround_070_side_L.png'
+Time: 00:00.41 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_LookAround_080_quarter_L.png'
+Time: 00:00.58 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_LookAround_080_side_L.png'
+Time: 00:00.42 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_ThrowIn_000_quarter_L.png'
+Time: 00:00.62 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_ThrowIn_000_side_L.png'
+Time: 00:00.49 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_ThrowIn_013_quarter_L.png'
+Time: 00:00.55 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_ThrowIn_013_side_L.png'
+Time: 00:00.41 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_ThrowIn_020_quarter_L.png'
+Time: 00:00.55 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_ThrowIn_020_side_L.png'
+Time: 00:00.43 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_ThrowIn_029_quarter_L.png'
+Time: 00:00.65 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM55_ThrowIn_029_side_L.png'
+Time: 00:00.39 (Saving: 00:00.01)
+
+18:59:25 | INFO: Data are loaded, start creating Blender stuff
+18:59:25 | INFO: Blender create Mesh node TM_HM55_Body
+18:59:25 | INFO: Blender create Mesh node TM_HM55_Hair
+18:59:25 | INFO: Blender create Mesh node TM_HM55_Head
+18:59:25 | INFO: glTF import finished in 0.06s
+Saved: '<HM_BUILD>/renders/COMPARE/MATCH/HM55_broadcast_stand.png'
+Time: 00:12.34 (Saving: 00:00.08)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MATCH/HM55_broadcast_run.png'
+Time: 00:11.94 (Saving: 00:00.06)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MATCH/HM55_broadcast_kick.png'
+Time: 00:12.18 (Saving: 00:00.08)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MATCH/HM55_48px_run.png'
+Time: 00:00.09 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MATCH/HM55_72px_run.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MATCH/HM55_96px_run.png'
+Time: 00:00.28 (Saving: 00:00.00)
+
+19:00:02 | INFO: Data are loaded, start creating Blender stuff
+19:00:02 | INFO: Blender create Mesh node TM_HM56_Body
+19:00:02 | INFO: Blender create Mesh node TM_HM56_Hair
+19:00:02 | INFO: Blender create Mesh node TM_HM56_Head
+19:00:02 | INFO: glTF import finished in 0.08s
+Saved: '<HM_BUILD>/renders/COMPARE/BODY/HM56_front.png'
+Time: 00:02.65 (Saving: 00:00.03)
+
+Saved: '<HM_BUILD>/renders/COMPARE/BODY/HM56_quarter_L.png'
+Time: 00:02.52 (Saving: 00:00.03)
+
+Saved: '<HM_BUILD>/renders/COMPARE/BODY/HM56_side_L.png'
+Time: 00:01.63 (Saving: 00:00.03)
+
+Saved: '<HM_BUILD>/renders/COMPARE/BODY/HM56_back.png'
+Time: 00:02.50 (Saving: 00:00.02)
+
+19:00:12 | INFO: Data are loaded, start creating Blender stuff
+19:00:12 | INFO: Blender create Mesh node TM_HM56_Body
+19:00:12 | INFO: Blender create Mesh node TM_HM56_Hair
+19:00:12 | INFO: Blender create Mesh node TM_HM56_Head
+19:00:12 | INFO: glTF import finished in 0.08s
+Saved: '<HM_BUILD>/renders/COMPARE/FACE/HM56_front.png'
+Time: 00:03.08 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/FACE/HM56_quarter_L.png'
+Time: 00:03.62 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/FACE/HM56_side_L.png'
+Time: 00:03.82 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/FACE/HM56_low.png'
+Time: 00:03.25 (Saving: 00:00.01)
+
+19:00:26 | INFO: Data are loaded, start creating Blender stuff
+19:00:26 | INFO: Blender create Mesh node TM_HM56_Body
+19:00:26 | INFO: Blender create Mesh node TM_HM56_Hair
+19:00:26 | INFO: Blender create Mesh node TM_HM56_Head
+19:00:26 | INFO: glTF import finished in 0.07s
+Saved: '<HM_BUILD>/renders/COMPARE/PARTS/HM56_neck_front.png'
+Time: 00:02.83 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/PARTS/HM56_neck_quarter.png'
+Time: 00:02.61 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/PARTS/HM56_neck_side.png'
+Time: 00:02.07 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/PARTS/HM56_neck_back.png'
+Time: 00:02.83 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/PARTS/HM56_legs_front.png'
+Time: 00:01.58 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/PARTS/HM56_legs_side.png'
+Time: 00:01.16 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/PARTS/HM56_legs_quarter.png'
+Time: 00:01.81 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/PARTS/HM56_boot_side.png'
+Time: 00:01.41 (Saving: 00:00.02)
+
+19:00:42 | INFO: Data are loaded, start creating Blender stuff
+19:00:42 | INFO: Blender create Mesh node TM_HM56_Body
+19:00:42 | INFO: Blender create Mesh node TM_HM56_Hair
+19:00:42 | INFO: Blender create Mesh node TM_HM56_Head
+19:00:42 | INFO: glTF import finished in 0.08s
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_turn_left_front.png'
+Time: 00:02.06 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_turn_left_side_L.png'
+Time: 00:01.37 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_turn_left_back.png'
+Time: 00:01.98 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_turn_left_above.png'
+Time: 00:02.16 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_turn_right_front.png'
+Time: 00:02.15 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_turn_right_side_L.png'
+Time: 00:01.43 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_turn_right_back.png'
+Time: 00:02.02 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_turn_right_above.png'
+Time: 00:02.09 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_look_up_front.png'
+Time: 00:01.90 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_look_up_side_L.png'
+Time: 00:01.46 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_look_up_back.png'
+Time: 00:02.01 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_look_up_above.png'
+Time: 00:02.17 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_look_down_front.png'
+Time: 00:01.99 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_look_down_side_L.png'
+Time: 00:01.51 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_look_down_back.png'
+Time: 00:01.79 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_look_down_above.png'
+Time: 00:01.93 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_tilt_front.png'
+Time: 00:01.96 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_tilt_side_L.png'
+Time: 00:01.45 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_tilt_back.png'
+Time: 00:01.97 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_tilt_above.png'
+Time: 00:02.27 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_header_front.png'
+Time: 00:02.03 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_header_side_L.png'
+Time: 00:01.59 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_header_back.png'
+Time: 00:01.87 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_header_above.png'
+Time: 00:01.84 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_throw_front.png'
+Time: 00:02.27 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_throw_side_L.png'
+Time: 00:01.60 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_throw_back.png'
+Time: 00:02.20 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_throw_above.png'
+Time: 00:02.37 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_armpit_kick_front.png'
+Time: 00:02.21 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_armpit_kick_side_low.png'
+Time: 00:02.18 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_armpit_throw_front.png'
+Time: 00:02.09 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_armpit_throw_side_low.png'
+Time: 00:02.10 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_knee_run_side_L.png'
+Time: 00:01.81 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_knee_run_back_quarter.png'
+Time: 00:01.82 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_knee_kick_side_L.png'
+Time: 00:01.42 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_knee_kick_back_quarter.png'
+Time: 00:01.33 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_knee_header_side_L.png'
+Time: 00:01.64 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/NECKMOTION/HM56_knee_header_back_quarter.png'
+Time: 00:02.11 (Saving: 00:00.02)
+
+19:01:55 | INFO: Data are loaded, start creating Blender stuff
+19:01:55 | INFO: Blender create Mesh node TM_HM56_Body
+19:01:55 | INFO: Blender create Mesh node TM_HM56_Hair
+19:01:55 | INFO: Blender create Mesh node TM_HM56_Head
+19:01:55 | INFO: glTF import finished in 0.11s
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Run_000_quarter_L.png'
+Time: 00:00.60 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Run_000_side_L.png'
+Time: 00:00.50 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Run_005_quarter_L.png'
+Time: 00:00.58 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Run_005_side_L.png'
+Time: 00:00.52 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Run_010_quarter_L.png'
+Time: 00:00.56 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Run_010_side_L.png'
+Time: 00:00.54 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Run_015_quarter_L.png'
+Time: 00:00.61 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Run_015_side_L.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Kick_008_quarter_L.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Kick_008_side_L.png'
+Time: 00:00.52 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Kick_014_quarter_L.png'
+Time: 00:00.46 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Kick_014_side_L.png'
+Time: 00:00.59 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Kick_019_quarter_L.png'
+Time: 00:00.60 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Kick_019_side_L.png'
+Time: 00:00.57 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Kick_025_quarter_L.png'
+Time: 00:00.55 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Kick_025_side_L.png'
+Time: 00:00.61 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Header_009_quarter_L.png'
+Time: 00:00.65 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Header_009_side_L.png'
+Time: 00:00.45 (Saving: 00:00.02)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Header_017_quarter_L.png'
+Time: 00:00.64 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Header_017_side_L.png'
+Time: 00:00.55 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Header_021_quarter_L.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Header_021_side_L.png'
+Time: 00:00.47 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Header_030_quarter_L.png'
+Time: 00:00.61 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_Header_030_side_L.png'
+Time: 00:00.42 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_LookAround_015_quarter_L.png'
+Time: 00:00.62 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_LookAround_015_side_L.png'
+Time: 00:00.40 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_LookAround_045_quarter_L.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_LookAround_045_side_L.png'
+Time: 00:00.43 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_LookAround_070_quarter_L.png'
+Time: 00:00.56 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_LookAround_070_side_L.png'
+Time: 00:00.40 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_LookAround_080_quarter_L.png'
+Time: 00:00.55 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_LookAround_080_side_L.png'
+Time: 00:00.43 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_ThrowIn_000_quarter_L.png'
+Time: 00:00.56 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_ThrowIn_000_side_L.png'
+Time: 00:00.41 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_ThrowIn_013_quarter_L.png'
+Time: 00:00.53 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_ThrowIn_013_side_L.png'
+Time: 00:00.42 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_ThrowIn_020_quarter_L.png'
+Time: 00:00.59 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_ThrowIn_020_side_L.png'
+Time: 00:00.44 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_ThrowIn_029_quarter_L.png'
+Time: 00:00.58 (Saving: 00:00.01)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MOTION/HM56_ThrowIn_029_side_L.png'
+Time: 00:00.44 (Saving: 00:00.01)
+
+19:02:17 | INFO: Data are loaded, start creating Blender stuff
+19:02:17 | INFO: Blender create Mesh node TM_HM56_Body
+19:02:17 | INFO: Blender create Mesh node TM_HM56_Hair
+19:02:17 | INFO: Blender create Mesh node TM_HM56_Head
+19:02:17 | INFO: glTF import finished in 0.07s
+Saved: '<HM_BUILD>/renders/COMPARE/MATCH/HM56_broadcast_stand.png'
+Time: 00:12.67 (Saving: 00:00.10)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MATCH/HM56_broadcast_run.png'
+Time: 00:12.75 (Saving: 00:00.06)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MATCH/HM56_broadcast_kick.png'
+Time: 00:12.49 (Saving: 00:00.09)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MATCH/HM56_48px_run.png'
+Time: 00:00.10 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MATCH/HM56_72px_run.png'
+Time: 00:00.20 (Saving: 00:00.00)
+
+Saved: '<HM_BUILD>/renders/COMPARE/MATCH/HM56_96px_run.png'
+Time: 00:00.31 (Saving: 00:00.00)
+
+COMPARE RENDERS 200

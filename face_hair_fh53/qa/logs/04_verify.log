@@ -1,0 +1,153 @@
+07:11:48 | INFO: Data are loaded, start creating Blender stuff
+07:11:48 | INFO: Blender create Mesh node TMF53_F1_LONG_ANGULAR
+07:11:48 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:48 | INFO: glTF import finished in 0.01s
+ROUNDTRIP TM_FH53_F1_LONG_ANGULAR.blend
+07:11:49 | INFO: Data are loaded, start creating Blender stuff
+07:11:49 | INFO: Blender create Mesh node TMF53_F2_ROUND_SOFT
+07:11:49 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:49 | INFO: glTF import finished in 0.01s
+ROUNDTRIP TM_FH53_F2_ROUND_SOFT.blend
+07:11:49 | INFO: Data are loaded, start creating Blender stuff
+07:11:49 | INFO: Blender create Mesh node TMF53_F3_NARROW_SHARP
+07:11:49 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:49 | INFO: glTF import finished in 0.01s
+ROUNDTRIP TM_FH53_F3_NARROW_SHARP.blend
+07:11:49 | INFO: Data are loaded, start creating Blender stuff
+07:11:49 | INFO: Blender create Mesh node TMH53_H1_STANDARD_REBUILT
+07:11:49 | INFO: glTF import finished in 0.01s
+ROUNDTRIP TM_FH53_H1_STANDARD_REBUILT.blend
+07:11:49 | INFO: Data are loaded, start creating Blender stuff
+07:11:49 | INFO: Blender create Mesh node TMH53_H2_SHORT_CROP
+07:11:49 | INFO: glTF import finished in 0.01s
+ROUNDTRIP TM_FH53_H2_SHORT_CROP.blend
+07:11:49 | INFO: Data are loaded, start creating Blender stuff
+07:11:49 | INFO: Blender create Mesh node TMH53_H3_SWEPT_BACK
+07:11:49 | INFO: glTF import finished in 0.01s
+ROUNDTRIP TM_FH53_H3_SWEPT_BACK.blend
+07:11:49 | INFO: Data are loaded, start creating Blender stuff
+07:11:49 | INFO: Blender create Mesh node TMH53_H4_SIDE_SWEPT_FRINGE
+07:11:49 | INFO: glTF import finished in 0.01s
+ROUNDTRIP TM_FH53_H4_SIDE_SWEPT_FRINGE.blend
+07:11:49 | INFO: Data are loaded, start creating Blender stuff
+07:11:49 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:11:49 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:49 | INFO: Blender create Mesh node Hair35_SmoothCrown
+07:11:49 | INFO: glTF import finished in 0.02s
+07:11:50 | INFO: Data are loaded, start creating Blender stuff
+07:11:50 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:11:50 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:50 | INFO: Blender create Mesh node TMH53_H1_STANDARD_REBUILT
+07:11:50 | INFO: glTF import finished in 0.02s
+07:11:50 | INFO: Data are loaded, start creating Blender stuff
+07:11:50 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:11:50 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:50 | INFO: Blender create Mesh node TMH53_H2_SHORT_CROP
+07:11:50 | INFO: glTF import finished in 0.02s
+07:11:50 | INFO: Data are loaded, start creating Blender stuff
+07:11:50 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:11:50 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:50 | INFO: Blender create Mesh node TMH53_H3_SWEPT_BACK
+07:11:50 | INFO: glTF import finished in 0.02s
+07:11:50 | INFO: Data are loaded, start creating Blender stuff
+07:11:50 | INFO: Blender create Mesh node Face32_LowerEyelids
+07:11:50 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:50 | INFO: Blender create Mesh node TMH53_H4_SIDE_SWEPT_FRINGE
+07:11:50 | INFO: glTF import finished in 0.02s
+07:11:51 | INFO: Data are loaded, start creating Blender stuff
+07:11:51 | INFO: Blender create Mesh node TMF53_F1_LONG_ANGULAR
+07:11:51 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:51 | INFO: Blender create Mesh node Hair35_SmoothCrown
+07:11:51 | INFO: glTF import finished in 0.02s
+07:11:51 | INFO: Data are loaded, start creating Blender stuff
+07:11:51 | INFO: Blender create Mesh node TMF53_F1_LONG_ANGULAR
+07:11:51 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:51 | INFO: Blender create Mesh node TMH53_H1_STANDARD_REBUILT
+07:11:51 | INFO: glTF import finished in 0.02s
+07:11:51 | INFO: Data are loaded, start creating Blender stuff
+07:11:51 | INFO: Blender create Mesh node TMF53_F1_LONG_ANGULAR
+07:11:51 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:51 | INFO: Blender create Mesh node TMH53_H2_SHORT_CROP
+07:11:51 | INFO: glTF import finished in 0.02s
+07:11:52 | INFO: Data are loaded, start creating Blender stuff
+07:11:52 | INFO: Blender create Mesh node TMF53_F1_LONG_ANGULAR
+07:11:52 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:52 | INFO: Blender create Mesh node TMH53_H3_SWEPT_BACK
+07:11:52 | INFO: glTF import finished in 0.02s
+07:11:52 | INFO: Data are loaded, start creating Blender stuff
+07:11:52 | INFO: Blender create Mesh node TMF53_F1_LONG_ANGULAR
+07:11:52 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:52 | INFO: Blender create Mesh node TMH53_H4_SIDE_SWEPT_FRINGE
+07:11:52 | INFO: glTF import finished in 0.02s
+07:11:52 | INFO: Data are loaded, start creating Blender stuff
+07:11:52 | INFO: Blender create Mesh node TMF53_F2_ROUND_SOFT
+07:11:52 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:52 | INFO: Blender create Mesh node Hair35_SmoothCrown
+07:11:52 | INFO: glTF import finished in 0.02s
+07:11:52 | INFO: Data are loaded, start creating Blender stuff
+07:11:52 | INFO: Blender create Mesh node TMF53_F2_ROUND_SOFT
+07:11:52 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:52 | INFO: Blender create Mesh node TMH53_H1_STANDARD_REBUILT
+07:11:52 | INFO: glTF import finished in 0.02s
+07:11:53 | INFO: Data are loaded, start creating Blender stuff
+07:11:53 | INFO: Blender create Mesh node TMF53_F2_ROUND_SOFT
+07:11:53 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:53 | INFO: Blender create Mesh node TMH53_H2_SHORT_CROP
+07:11:53 | INFO: glTF import finished in 0.02s
+07:11:53 | INFO: Data are loaded, start creating Blender stuff
+07:11:53 | INFO: Blender create Mesh node TMF53_F2_ROUND_SOFT
+07:11:53 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:53 | INFO: Blender create Mesh node TMH53_H3_SWEPT_BACK
+07:11:53 | INFO: glTF import finished in 0.02s
+07:11:53 | INFO: Data are loaded, start creating Blender stuff
+07:11:53 | INFO: Blender create Mesh node TMF53_F2_ROUND_SOFT
+07:11:53 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:53 | INFO: Blender create Mesh node TMH53_H4_SIDE_SWEPT_FRINGE
+07:11:53 | INFO: glTF import finished in 0.02s
+07:11:54 | INFO: Data are loaded, start creating Blender stuff
+07:11:54 | INFO: Blender create Mesh node TMF53_F3_NARROW_SHARP
+07:11:54 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:54 | INFO: Blender create Mesh node Hair35_SmoothCrown
+07:11:54 | INFO: glTF import finished in 0.02s
+07:11:54 | INFO: Data are loaded, start creating Blender stuff
+07:11:54 | INFO: Blender create Mesh node TMF53_F3_NARROW_SHARP
+07:11:54 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:54 | INFO: Blender create Mesh node TMH53_H1_STANDARD_REBUILT
+07:11:54 | INFO: glTF import finished in 0.02s
+07:11:54 | INFO: Data are loaded, start creating Blender stuff
+07:11:54 | INFO: Blender create Mesh node TMF53_F3_NARROW_SHARP
+07:11:54 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:54 | INFO: Blender create Mesh node TMH53_H2_SHORT_CROP
+07:11:54 | INFO: glTF import finished in 0.02s
+07:11:54 | INFO: Data are loaded, start creating Blender stuff
+07:11:54 | INFO: Blender create Mesh node TMF53_F3_NARROW_SHARP
+07:11:54 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:54 | INFO: Blender create Mesh node TMH53_H3_SWEPT_BACK
+07:11:54 | INFO: glTF import finished in 0.02s
+07:11:55 | INFO: Data are loaded, start creating Blender stuff
+07:11:55 | INFO: Blender create Mesh node TMF53_F3_NARROW_SHARP
+07:11:55 | INFO: Blender create Mesh node BackScalp14_neck_bridge
+07:11:55 | INFO: Blender create Mesh node TMH53_H4_SIDE_SWEPT_FRINGE
+07:11:55 | INFO: glTF import finished in 0.02s
+/home/user/TACTICAL-MOMENT/face_hair_fh53/scripts/verify_all.py:219: RuntimeWarning: All-NaN slice encountered
+  'hairline_edge_vertices': int(edge.sum()), 'hairline_edge_height_mm': {'min': float(np.nanmin(h_edge)*1000), 'median': float(np.nanmedian(h_edge)*1000), 'max': float(np.nanmax(h_edge)*1000)} if edge.any() else None,
+COMBO F0 H0 hair-skin contacts 51 cap-cards 8 self {'REF09_Hair/SOURCE_APPEARANCE04_slot_13': 7, 'REF09_Hair/TM18_HairCap_Detail': 0} skin_out 0 alpha_over_hole 134
+COMBO F0 H1 hair-skin contacts 0 cap-cards 0 self {'REF09_Hair/TMH53_H1_Cap': 0, 'REF09_Hair/TMH53_H1_Cards': 209} skin_out 0 alpha_over_hole 0
+COMBO F0 H2 hair-skin contacts 0 cap-cards 0 self {'REF09_Hair/TMH53_H2_Cap': 0, 'REF09_Hair/TMH53_H2_Cards': 14} skin_out 0 alpha_over_hole 0
+COMBO F0 H3 hair-skin contacts 0 cap-cards 0 self {'REF09_Hair/TMH53_H3_Cap': 0, 'REF09_Hair/TMH53_H3_Cards': 222} skin_out 0 alpha_over_hole 0
+COMBO F0 H4 hair-skin contacts 0 cap-cards 0 self {'REF09_Hair/TMH53_H4_Cap': 0, 'REF09_Hair/TMH53_H4_Cards': 400} skin_out 0 alpha_over_hole 0
+COMBO F1 H0 hair-skin contacts 64 cap-cards 8 self {'REF09_Hair/SOURCE_APPEARANCE04_slot_13': 7, 'REF09_Hair/TM18_HairCap_Detail': 0} skin_out 0 alpha_over_hole 134
+COMBO F1 H1 hair-skin contacts 0 cap-cards 0 self {'REF09_Hair/TMH53_H1_Cap': 0, 'REF09_Hair/TMH53_H1_Cards': 209} skin_out 0 alpha_over_hole 0
+COMBO F1 H2 hair-skin contacts 0 cap-cards 0 self {'REF09_Hair/TMH53_H2_Cap': 0, 'REF09_Hair/TMH53_H2_Cards': 14} skin_out 0 alpha_over_hole 0
+COMBO F1 H3 hair-skin contacts 0 cap-cards 0 self {'REF09_Hair/TMH53_H3_Cap': 0, 'REF09_Hair/TMH53_H3_Cards': 222} skin_out 0 alpha_over_hole 0
+COMBO F1 H4 hair-skin contacts 0 cap-cards 0 self {'REF09_Hair/TMH53_H4_Cap': 0, 'REF09_Hair/TMH53_H4_Cards': 400} skin_out 0 alpha_over_hole 0
+COMBO F2 H0 hair-skin contacts 64 cap-cards 8 self {'REF09_Hair/SOURCE_APPEARANCE04_slot_13': 7, 'REF09_Hair/TM18_HairCap_Detail': 0} skin_out 0 alpha_over_hole 134
+COMBO F2 H1 hair-skin contacts 0 cap-cards 0 self {'REF09_Hair/TMH53_H1_Cap': 0, 'REF09_Hair/TMH53_H1_Cards': 209} skin_out 0 alpha_over_hole 0
+COMBO F2 H2 hair-skin contacts 0 cap-cards 0 self {'REF09_Hair/TMH53_H2_Cap': 0, 'REF09_Hair/TMH53_H2_Cards': 14} skin_out 0 alpha_over_hole 0
+COMBO F2 H3 hair-skin contacts 0 cap-cards 0 self {'REF09_Hair/TMH53_H3_Cap': 0, 'REF09_Hair/TMH53_H3_Cards': 222} skin_out 0 alpha_over_hole 0
+COMBO F2 H4 hair-skin contacts 0 cap-cards 0 self {'REF09_Hair/TMH53_H4_Cap': 0, 'REF09_Hair/TMH53_H4_Cards': 400} skin_out 0 alpha_over_hole 0
+COMBO F3 H0 hair-skin contacts 64 cap-cards 8 self {'REF09_Hair/SOURCE_APPEARANCE04_slot_13': 7, 'REF09_Hair/TM18_HairCap_Detail': 0} skin_out 0 alpha_over_hole 134
+COMBO F3 H1 hair-skin contacts 0 cap-cards 0 self {'REF09_Hair/TMH53_H1_Cap': 0, 'REF09_Hair/TMH53_H1_Cards': 209} skin_out 0 alpha_over_hole 0
+COMBO F3 H2 hair-skin contacts 0 cap-cards 0 self {'REF09_Hair/TMH53_H2_Cap': 0, 'REF09_Hair/TMH53_H2_Cards': 14} skin_out 0 alpha_over_hole 0
+COMBO F3 H3 hair-skin contacts 0 cap-cards 0 self {'REF09_Hair/TMH53_H3_Cap': 0, 'REF09_Hair/TMH53_H3_Cards': 222} skin_out 0 alpha_over_hole 0
+COMBO F3 H4 hair-skin contacts 0 cap-cards 0 self {'REF09_Hair/TMH53_H4_Cap': 0, 'REF09_Hair/TMH53_H4_Cards': 400} skin_out 0 alpha_over_hole 0

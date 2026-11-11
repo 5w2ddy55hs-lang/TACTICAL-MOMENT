@@ -1,0 +1,676 @@
+{
+ "status": "ORIGINAL CANDIDATE (HM57, match-presentation revision of HM56) authored by scripts in human_hm57/scripts. Not approved, not formally adopted.",
+ "blender": "4.2.23 LTS",
+ "faces": {
+  "P0": {
+   "name": "NEUTRAL",
+   "intent_ja": "基準の顔。",
+   "vertices": 2379,
+   "triangles": 4678,
+   "tone": "T2",
+   "shape_overrides": {}
+  }
+ },
+ "hairs": {
+  "P0_H1": {
+   "hair_id": "H1_STANDARD",
+   "intent_ja": "標準的な短めの髪。前髪を額に少し下ろし、側面と襟足は自然な長さ。",
+   "cap_triangles": 1890,
+   "cards": 31,
+   "card_triangles": 248,
+   "hairline_azel_controls": [
+    [
+     0,
+     25.5
+    ],
+    [
+     20,
+     26.0
+    ],
+    [
+     36,
+     24.0
+    ],
+    [
+     48,
+     18.5
+    ],
+    [
+     56,
+     7.0
+    ],
+    [
+     60.5,
+     -12.0
+    ],
+    [
+     63,
+     -24.0
+    ],
+    [
+     66.5,
+     -25.0
+    ],
+    [
+     69.5,
+     -10.0
+    ],
+    [
+     76,
+     -7.0
+    ],
+    [
+     86,
+     -7.5
+    ],
+    [
+     93,
+     -10.0
+    ],
+    [
+     98,
+     -22.0
+    ],
+    [
+     108,
+     -36.0
+    ],
+    [
+     124,
+     -44.0
+    ],
+    [
+     150,
+     -50.0
+    ],
+    [
+     180,
+     -52.0
+    ],
+    [
+     -20,
+     26.0
+    ],
+    [
+     -36,
+     24.0
+    ],
+    [
+     -48,
+     18.5
+    ],
+    [
+     -56,
+     7.0
+    ],
+    [
+     -60.5,
+     -12.0
+    ],
+    [
+     -63,
+     -24.0
+    ],
+    [
+     -66.5,
+     -25.0
+    ],
+    [
+     -69.5,
+     -10.0
+    ],
+    [
+     -76,
+     -7.0
+    ],
+    [
+     -86,
+     -7.5
+    ],
+    [
+     -93,
+     -10.0
+    ],
+    [
+     -98,
+     -22.0
+    ],
+    [
+     -108,
+     -36.0
+    ],
+    [
+     -124,
+     -44.0
+    ],
+    [
+     -150,
+     -50.0
+    ]
+   ],
+   "shell": {
+    "base_mm": 9.5,
+    "edge_mm": 0.9,
+    "band": 0.26,
+    "bumps": [
+     [
+      0,
+      62,
+      60,
+      24,
+      8.5
+     ],
+     [
+      80,
+      28,
+      26,
+      20,
+      3.0
+     ],
+     [
+      -80,
+      28,
+      26,
+      20,
+      3.0
+     ],
+     [
+      180,
+      18,
+      55,
+      24,
+      3.5
+     ]
+    ]
+   },
+   "cap_vs_head_overlap_pass": {
+    "iterations": 1,
+    "vertex_pushes": 0,
+    "remaining_overlapping_triangles": 0,
+    "max_push_mm": 0.0
+   },
+   "card_overlap_pass": {
+    "iterations": 1,
+    "vertex_pushes": 0,
+    "remaining_overlapping_triangles": 0,
+    "max_push_mm": 0.0,
+    "card_vertex_push_mm": {
+     "max": 0.0,
+     "p95": 0.0
+    },
+    "cards_trimmed_at_skin": []
+   },
+   "edge_triangles": 560,
+   "vertices": 1291,
+   "triangles": 2138
+  }
+ },
+ "textures": {
+  "TMH55_CAP_STRANDS_512.png": {
+   "size": [
+    512,
+    512
+   ],
+   "mode": "RGBA",
+   "bytes": 150276,
+   "sha256": "6a117a1403e1c7a9741ef1aa0aec12d710bb5e6a69e0ab3c5eec130124536fd7"
+  },
+  "TMH55_CARD_STRANDS_512.png": {
+   "size": [
+    512,
+    512
+   ],
+   "mode": "RGBA",
+   "bytes": 141476,
+   "sha256": "79ad561482f0453c6d24d5a20fa046097dbcf3f5ec0456757921cdcceda4e627"
+  },
+  "TMH55_EDGE_STRANDS_512x256.png": {
+   "size": [
+    512,
+    256
+   ],
+   "mode": "RGBA",
+   "bytes": 94791,
+   "sha256": "aa0655436e7eafc73dcd05eabf522447394da79e5cee79304f11394890e09613"
+  },
+  "TM_HM57_BodySkin_T2.png": {
+   "size": [
+    512,
+    512
+   ],
+   "mode": "RGB",
+   "bytes": 153362,
+   "sha256": "177a3ff2f2a34df89ab0e2f94cfbc2440d4b40ae738af175a94bbedcc9e2c689"
+  },
+  "TM_HM57_Head_P0.png": {
+   "size": [
+    1024,
+    1024
+   ],
+   "mode": "RGB",
+   "bytes": 512173,
+   "sha256": "09253873ae3ec16ac2eb8aeb46a809a0c5b8e16246b4bd065b11c75fa77128b4"
+  },
+  "TM_HM57_Kit_A.png": {
+   "size": [
+    1024,
+    1024
+   ],
+   "mode": "RGB",
+   "bytes": 504152,
+   "sha256": "178a867fab26d9e43842796c356183712b8bc9bf42ea202d85290b0cc3f2a069"
+  },
+  "TM_HM57_Kit_B.png": {
+   "size": [
+    1024,
+    1024
+   ],
+   "mode": "RGB",
+   "bytes": 444882,
+   "sha256": "656c47d67bc8fc0cda3ce1b06b9ac6f545970f0e17e4ee83a3f122d00e7ce816"
+  }
+ },
+ "models": {
+  "TM_HM57_PLAYER_P0_H1_KITA.glb": {
+   "kind": "player",
+   "face": "P0",
+   "hair": "H1",
+   "kit": "A",
+   "lod": "full",
+   "bytes": 2266152,
+   "sha256": "3e97d9503ea015522168ad0556d82d9a427a2607810d292295861dd48e6bbe35",
+   "actions": {
+    "Idle": {
+     "frames": [
+      0,
+      60
+     ],
+     "seconds": 2.0,
+     "loop": true,
+     "keys": 3
+    },
+    "Run": {
+     "frames": [
+      0,
+      20
+     ],
+     "seconds": 0.667,
+     "loop": true,
+     "keys": 5
+    },
+    "Kick": {
+     "frames": [
+      0,
+      40
+     ],
+     "seconds": 1.333,
+     "loop": false,
+     "keys": 6
+    },
+    "LookAround": {
+     "frames": [
+      0,
+      100
+     ],
+     "seconds": 3.333,
+     "loop": false,
+     "keys": 9
+    },
+    "ThrowIn": {
+     "frames": [
+      0,
+      45
+     ],
+     "seconds": 1.5,
+     "loop": false,
+     "keys": 5
+    },
+    "Header": {
+     "frames": [
+      0,
+      42
+     ],
+     "seconds": 1.4,
+     "loop": false,
+     "keys": 6
+    }
+   }
+  },
+  "TM_HM57_PLAYER_P0_H1_KITA.blend": {
+   "kind": "player_blend",
+   "bytes": 3449232,
+   "sha256": "3fc97a4b3a236963d9475a24ac2a90ad0a2195aead7cb98df7041f61c5422686"
+  },
+  "TM_HM57_BODY_KITA.glb": {
+   "kind": "body_module",
+   "bytes": 1153708,
+   "sha256": "b52a005b9f117a4a1995f83a6a87056f31009af7e8ec048d923394f15b194678"
+  },
+  "TM_HM57_BODY_KITB.glb": {
+   "kind": "body_module",
+   "bytes": 1094324,
+   "sha256": "9d090a381b9f2f550abfcbae497479fb24d4f1e602a15589b66674fca1f9150e"
+  },
+  "TM_HM57_HEAD_P0_NEUTRAL.glb": {
+   "kind": "head_module",
+   "bytes": 614624,
+   "sha256": "f636279954e5dbdcb8daeeb08a57a2deffa81d27f07e6c8c91b9c0cfd1b09fbc"
+  },
+  "TM_HM57_HAIR_P0_H1_STANDARD.glb": {
+   "kind": "hair_module",
+   "bytes": 511472,
+   "sha256": "2459e141b18f7982648d64ccd46d6796493aab968face17e58f9285aff696716"
+  },
+  "TM_HM57_LIBRARY.blend": {
+   "kind": "library_blend",
+   "bytes": 4110552,
+   "sha256": "e3a8565a56e6cbee9bd0fe4df2c5f3d23fc999306f916e58e3e2e1571470e604"
+  }
+ },
+ "timing_s": {
+  "geometry": 5.6,
+  "textures": 72.2,
+  "hair": 34.3,
+  "players": 1.1,
+  "modules": 2.2,
+  "total": 115.4
+ },
+ "body": {
+  "vertices_before_weld": 1726,
+  "triangles": 3164,
+  "parts": {
+   "torso": {
+    "first": 0,
+    "count": 340,
+    "tris": 640,
+    "material": "kit",
+    "rect": [
+     0.005,
+     0.455,
+     0.615,
+     0.995
+    ]
+   },
+   "sleeve_L": {
+    "first": 340,
+    "count": 81,
+    "tris": 150,
+    "material": "kit",
+    "rect": [
+     0.635,
+     0.79,
+     0.81,
+     0.995
+    ]
+   },
+   "arm_L": {
+    "first": 421,
+    "count": 193,
+    "tris": 372,
+    "material": "skin",
+    "rect": [
+     0.01,
+     0.01,
+     0.24,
+     0.99
+    ]
+   },
+   "leg_L": {
+    "first": 614,
+    "count": 108,
+    "tris": 192,
+    "material": "skin",
+    "rect": [
+     0.51,
+     0.3,
+     0.74,
+     0.99
+    ]
+   },
+   "sock_L": {
+    "first": 722,
+    "count": 96,
+    "tris": 168,
+    "material": "kit",
+    "rect": [
+     0.635,
+     0.225,
+     0.81,
+     0.545
+    ]
+   },
+   "boot_L": {
+    "first": 818,
+    "count": 133,
+    "tris": 252,
+    "material": "kit",
+    "rect": [
+     0.005,
+     0.005,
+     0.3,
+     0.21
+    ]
+   },
+   "sleeve_R": {
+    "first": 951,
+    "count": 81,
+    "tris": 150,
+    "material": "kit",
+    "rect": [
+     0.825,
+     0.79,
+     0.995,
+     0.995
+    ]
+   },
+   "arm_R": {
+    "first": 1032,
+    "count": 193,
+    "tris": 372,
+    "material": "skin",
+    "rect": [
+     0.26,
+     0.01,
+     0.49,
+     0.99
+    ]
+   },
+   "leg_R": {
+    "first": 1225,
+    "count": 108,
+    "tris": 192,
+    "material": "skin",
+    "rect": [
+     0.76,
+     0.3,
+     0.99,
+     0.99
+    ]
+   },
+   "sock_R": {
+    "first": 1333,
+    "count": 96,
+    "tris": 168,
+    "material": "kit",
+    "rect": [
+     0.825,
+     0.225,
+     0.995,
+     0.545
+    ]
+   },
+   "boot_R": {
+    "first": 1429,
+    "count": 133,
+    "tris": 252,
+    "material": "kit",
+    "rect": [
+     0.315,
+     0.005,
+     0.61,
+     0.21
+    ]
+   },
+   "shorts": {
+    "first": 1562,
+    "count": 64,
+    "tris": 96,
+    "material": "kit",
+    "rect": [
+     0.005,
+     0.225,
+     0.615,
+     0.44
+    ]
+   },
+   "shorts_leg_L": {
+    "first": 1626,
+    "count": 50,
+    "tris": 80,
+    "material": "kit",
+    "rect": [
+     0.635,
+     0.56,
+     0.81,
+     0.775
+    ]
+   },
+   "shorts_leg_R": {
+    "first": 1676,
+    "count": 50,
+    "tris": 80,
+    "material": "kit",
+    "rect": [
+     0.825,
+     0.56,
+     0.995,
+     0.775
+    ]
+   }
+  },
+  "bones": [
+   "Root",
+   "Hips",
+   "Spine",
+   "Chest",
+   "Neck",
+   "Head",
+   "Shoulder_L",
+   "UpperArm_L",
+   "LowerArm_L",
+   "Hand_L",
+   "UpperLeg_L",
+   "LowerLeg_L",
+   "Foot_L",
+   "Toes_L",
+   "Shoulder_R",
+   "UpperArm_R",
+   "LowerArm_R",
+   "Hand_R",
+   "UpperLeg_R",
+   "LowerLeg_R",
+   "Foot_R",
+   "Toes_R"
+  ]
+ },
+ "skin_colour": {
+  "body_T2": {
+   "painted_mean_rgb": [
+    0.7933,
+    0.6069,
+    0.4734
+   ],
+   "final_mean_rgb": [
+    0.719,
+    0.5481,
+    0.427
+   ]
+  },
+  "head_P0": {
+   "tone": "T2",
+   "neck_painted_mean_rgb": [
+    0.8012,
+    0.6159,
+    0.4807
+   ],
+   "neck_final_mean_rgb": [
+    0.7855,
+    0.6034,
+    0.4708
+   ],
+   "cheek_painted_mean_rgb": [
+    0.7873,
+    0.5923,
+    0.4613
+   ],
+   "neck_texels": 90112,
+   "back_seam_step_rgb_mean": 0.003
+  }
+ },
+ "ground_pass": {
+  "Idle": {
+   "frames": 61,
+   "hips_dz_mm": [
+    3.9,
+    3.9
+   ]
+  },
+  "Run": {
+   "frames": 21,
+   "hips_dz_mm": [
+    -30.0,
+    73.6
+   ]
+  },
+  "Kick": {
+   "frames": 41,
+   "hips_dz_mm": [
+    -8.0,
+    48.2
+   ],
+   "swing_knee_extra_deg_max": 46,
+   "swing_knee_frames": 11
+  },
+  "LookAround": {
+   "frames": 101,
+   "hips_dz_mm": [
+    3.9,
+    3.9
+   ]
+  },
+  "ThrowIn": {
+   "frames": 46,
+   "hips_dz_mm": [
+    3.9,
+    37.9
+   ]
+  },
+  "Header": {
+   "frames": 43,
+   "hips_dz_mm": [
+    -70.2,
+    19.8
+   ]
+  }
+ },
+ "lod": {
+  "budgets": {
+   "head": {
+    "full": 2800,
+    "lite": 900
+   },
+   "body": {
+    "lite": 1800
+   },
+   "hair": {}
+  },
+  "applied": {
+   "head_P0_full": {
+    "before": 4678,
+    "after": 2800,
+    "ratio": 0.5985,
+    "moved_inside": 42
+   }
+  }
+ }
+}

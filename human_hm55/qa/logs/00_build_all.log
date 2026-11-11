@@ -1,0 +1,499 @@
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+textures done {'geometry': 5.6, 'textures': 143.9}
+<REPO>/human_hm55/scripts/hm_hair.py:210: RuntimeWarning: divide by zero encountered in divide
+  alpha = 1 - np.clip((tvals - f0)/(1.0 - f0), 0, 1); alpha = alpha*alpha*(3 - 2*alpha)
+hair P0 H1 tris 2138 cap overlap left 0
+hair P0 H2 tris 1938 cap overlap left 0
+hair P0 H3 tris 2214 cap overlap left 0
+hair P0 H4 tris 2230 cap overlap left 0
+hair P1 H1 tris 2138 cap overlap left 0
+hair P1 H2 tris 1938 cap overlap left 0
+hair P1 H3 tris 2214 cap overlap left 0
+hair P1 H4 tris 2230 cap overlap left 0
+hair P2 H1 tris 2138 cap overlap left 0
+hair P2 H2 tris 1938 cap overlap left 0
+hair P2 H3 tris 2214 cap overlap left 0
+hair P2 H4 tris 2230 cap overlap left 0
+hair P3 H1 tris 2138 cap overlap left 0
+hair P3 H2 tris 1938 cap overlap left 0
+hair P3 H3 tris 2214 cap overlap left 0
+hair P3 H4 tris 2230 cap overlap left 0
+ERROR Draco mesh compression is not available because library could not be found at <REPO>/human_hm55/4.2/python/lib/python3.11/site-packages/libextern_draco.so
+12:40:36 | INFO: Starting glTF 2.0 export
+12:40:36 | INFO: Extracting primitive: TM_HM55_Body
+12:40:36 | INFO: Primitives created: 2
+12:40:36 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:36 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:36 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:36 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:36 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:36 | INFO: Primitives created: 3
+12:40:36 | INFO: Extracting primitive: TM_HM55_Head
+12:40:36 | INFO: Primitives created: 1
+12:40:37 | INFO: Finished glTF 2.0 export in 0.7132837772369385 s
+Info: Total files 6 | Changed 6 | Failed 0
+
+Info: No new files have been packed
+Info: Saved "TM_HM55_PLAYER_P0_H1_KITA.blend"
+player TM_HM55_PLAYER_P0_H1_KITA 2.22 MB
+12:40:37 | INFO: Starting glTF 2.0 export
+12:40:37 | INFO: Extracting primitive: TM_HM55_Body
+12:40:37 | INFO: Primitives created: 2
+12:40:37 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:37 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:37 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:37 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:37 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:37 | INFO: Primitives created: 3
+12:40:37 | INFO: Extracting primitive: TM_HM55_Head
+12:40:37 | INFO: Primitives created: 1
+12:40:38 | INFO: Finished glTF 2.0 export in 0.702481746673584 s
+Info: Total files 6 | Changed 6 | Failed 0
+
+Info: No new files have been packed
+Info: Saved "TM_HM55_PLAYER_P0_H2_KITA.blend"
+player TM_HM55_PLAYER_P0_H2_KITA 2.2 MB
+12:40:38 | INFO: Starting glTF 2.0 export
+12:40:38 | INFO: Extracting primitive: TM_HM55_Body
+12:40:38 | INFO: Primitives created: 2
+12:40:38 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:38 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:38 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:38 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:38 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:38 | INFO: Primitives created: 3
+12:40:38 | INFO: Extracting primitive: TM_HM55_Head
+12:40:38 | INFO: Primitives created: 1
+12:40:39 | INFO: Finished glTF 2.0 export in 0.8407742977142334 s
+
+player TM_HM55_PLAYER_P0_H3_KITA 2.22 MB
+12:40:39 | INFO: Starting glTF 2.0 export
+12:40:39 | INFO: Extracting primitive: TM_HM55_Body
+12:40:39 | INFO: Primitives created: 2
+12:40:39 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:39 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:39 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:39 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:39 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:39 | INFO: Primitives created: 3
+12:40:39 | INFO: Extracting primitive: TM_HM55_Head
+12:40:39 | INFO: Primitives created: 1
+12:40:40 | INFO: Finished glTF 2.0 export in 0.7887494564056396 s
+
+player TM_HM55_PLAYER_P0_H4_KITA 2.23 MB
+12:40:40 | INFO: Starting glTF 2.0 export
+12:40:40 | INFO: Extracting primitive: TM_HM55_Body
+12:40:40 | INFO: Primitives created: 2
+12:40:40 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:40 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:40 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:40 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:40 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:40 | INFO: Primitives created: 3
+12:40:40 | INFO: Extracting primitive: TM_HM55_Head
+12:40:40 | INFO: Primitives created: 1
+12:40:41 | INFO: Finished glTF 2.0 export in 0.781543493270874 s
+
+player TM_HM55_PLAYER_P1_H1_KITA 2.26 MB
+12:40:41 | INFO: Starting glTF 2.0 export
+12:40:41 | INFO: Extracting primitive: TM_HM55_Body
+12:40:41 | INFO: Primitives created: 2
+12:40:41 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:41 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:41 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:41 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:41 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:41 | INFO: Primitives created: 3
+12:40:41 | INFO: Extracting primitive: TM_HM55_Head
+12:40:41 | INFO: Primitives created: 1
+12:40:41 | INFO: Finished glTF 2.0 export in 0.7874953746795654 s
+
+player TM_HM55_PLAYER_P1_H2_KITA 2.24 MB
+12:40:42 | INFO: Starting glTF 2.0 export
+12:40:42 | INFO: Extracting primitive: TM_HM55_Body
+12:40:42 | INFO: Primitives created: 2
+12:40:42 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:42 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:42 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:42 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:42 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:42 | INFO: Primitives created: 3
+12:40:42 | INFO: Extracting primitive: TM_HM55_Head
+12:40:42 | INFO: Primitives created: 1
+12:40:42 | INFO: Finished glTF 2.0 export in 0.7537562847137451 s
+Info: Total files 6 | Changed 6 | Failed 0
+
+Info: No new files have been packed
+Info: Saved "TM_HM55_PLAYER_P1_H3_KITA.blend"
+player TM_HM55_PLAYER_P1_H3_KITA 2.26 MB
+12:40:42 | INFO: Starting glTF 2.0 export
+12:40:42 | INFO: Extracting primitive: TM_HM55_Body
+12:40:43 | INFO: Primitives created: 2
+12:40:43 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:43 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:43 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:43 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:43 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:43 | INFO: Primitives created: 3
+12:40:43 | INFO: Extracting primitive: TM_HM55_Head
+12:40:43 | INFO: Primitives created: 1
+12:40:43 | INFO: Finished glTF 2.0 export in 0.7266600131988525 s
+
+player TM_HM55_PLAYER_P1_H4_KITA 2.27 MB
+12:40:43 | INFO: Starting glTF 2.0 export
+12:40:43 | INFO: Extracting primitive: TM_HM55_Body
+12:40:43 | INFO: Primitives created: 2
+12:40:43 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:43 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:43 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:43 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:43 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:43 | INFO: Primitives created: 3
+12:40:43 | INFO: Extracting primitive: TM_HM55_Head
+12:40:43 | INFO: Primitives created: 1
+12:40:44 | INFO: Finished glTF 2.0 export in 1.1068882942199707 s
+
+player TM_HM55_PLAYER_P2_H1_KITA 2.24 MB
+12:40:45 | INFO: Starting glTF 2.0 export
+12:40:45 | INFO: Extracting primitive: TM_HM55_Body
+12:40:45 | INFO: Primitives created: 2
+12:40:45 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:45 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:45 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:45 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:45 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:45 | INFO: Primitives created: 3
+12:40:45 | INFO: Extracting primitive: TM_HM55_Head
+12:40:45 | INFO: Primitives created: 1
+12:40:45 | INFO: Finished glTF 2.0 export in 0.6829700469970703 s
+
+player TM_HM55_PLAYER_P2_H2_KITA 2.22 MB
+12:40:45 | INFO: Starting glTF 2.0 export
+12:40:45 | INFO: Extracting primitive: TM_HM55_Body
+12:40:45 | INFO: Primitives created: 2
+12:40:45 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:45 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:45 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:45 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:45 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:45 | INFO: Primitives created: 3
+12:40:45 | INFO: Extracting primitive: TM_HM55_Head
+12:40:46 | INFO: Primitives created: 1
+12:40:46 | INFO: Finished glTF 2.0 export in 0.7314550876617432 s
+
+player TM_HM55_PLAYER_P2_H3_KITA 2.24 MB
+12:40:46 | INFO: Starting glTF 2.0 export
+12:40:46 | INFO: Extracting primitive: TM_HM55_Body
+12:40:46 | INFO: Primitives created: 2
+12:40:46 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:46 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:46 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:46 | INFO: Primitives created: 3
+12:40:46 | INFO: Extracting primitive: TM_HM55_Head
+12:40:46 | INFO: Primitives created: 1
+12:40:47 | INFO: Finished glTF 2.0 export in 0.7378311157226562 s
+Info: Total files 6 | Changed 6 | Failed 0
+
+Info: No new files have been packed
+Info: Saved "TM_HM55_PLAYER_P2_H4_KITA.blend"
+player TM_HM55_PLAYER_P2_H4_KITA 2.25 MB
+12:40:47 | INFO: Starting glTF 2.0 export
+12:40:47 | INFO: Extracting primitive: TM_HM55_Body
+12:40:47 | INFO: Primitives created: 2
+12:40:47 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:47 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:47 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:47 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:47 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:47 | INFO: Primitives created: 3
+12:40:47 | INFO: Extracting primitive: TM_HM55_Head
+12:40:47 | INFO: Primitives created: 1
+12:40:48 | INFO: Finished glTF 2.0 export in 0.7440094947814941 s
+Info: Total files 6 | Changed 6 | Failed 0
+
+Info: No new files have been packed
+Info: Saved "TM_HM55_PLAYER_P3_H1_KITA.blend"
+player TM_HM55_PLAYER_P3_H1_KITA 2.22 MB
+12:40:48 | INFO: Starting glTF 2.0 export
+12:40:48 | INFO: Extracting primitive: TM_HM55_Body
+12:40:48 | INFO: Primitives created: 2
+12:40:48 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:48 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:48 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:48 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:48 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:48 | INFO: Primitives created: 3
+12:40:48 | INFO: Extracting primitive: TM_HM55_Head
+12:40:48 | INFO: Primitives created: 1
+12:40:49 | INFO: Finished glTF 2.0 export in 0.7627694606781006 s
+
+player TM_HM55_PLAYER_P3_H2_KITA 2.2 MB
+12:40:49 | INFO: Starting glTF 2.0 export
+12:40:49 | INFO: Extracting primitive: TM_HM55_Body
+12:40:49 | INFO: Primitives created: 2
+12:40:49 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:49 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:49 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:49 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:49 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:49 | INFO: Primitives created: 3
+12:40:49 | INFO: Extracting primitive: TM_HM55_Head
+12:40:49 | INFO: Primitives created: 1
+12:40:50 | INFO: Finished glTF 2.0 export in 0.7900443077087402 s
+
+player TM_HM55_PLAYER_P3_H3_KITA 2.22 MB
+12:40:50 | INFO: Starting glTF 2.0 export
+12:40:50 | INFO: Extracting primitive: TM_HM55_Body
+12:40:50 | INFO: Primitives created: 2
+12:40:50 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:50 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:50 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:50 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:50 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:50 | INFO: Primitives created: 3
+12:40:50 | INFO: Extracting primitive: TM_HM55_Head
+12:40:50 | INFO: Primitives created: 1
+12:40:51 | INFO: Finished glTF 2.0 export in 0.7509241104125977 s
+
+player TM_HM55_PLAYER_P3_H4_KITA 2.23 MB
+12:40:51 | INFO: Starting glTF 2.0 export
+12:40:51 | INFO: Extracting primitive: TM_HM55_Body
+12:40:51 | INFO: Primitives created: 2
+12:40:51 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:51 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:51 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:51 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:51 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:51 | INFO: Primitives created: 3
+12:40:51 | INFO: Extracting primitive: TM_HM55_Head
+12:40:51 | INFO: Primitives created: 1
+12:40:52 | INFO: Finished glTF 2.0 export in 0.7531230449676514 s
+
+player TM_HM55_PLAYER_P0_H1_KITB 2.17 MB
+12:40:52 | INFO: Starting glTF 2.0 export
+12:40:52 | INFO: Extracting primitive: TM_HM55_Body
+12:40:52 | INFO: Primitives created: 2
+12:40:52 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:52 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:52 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:52 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:52 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:52 | INFO: Primitives created: 3
+12:40:52 | INFO: Extracting primitive: TM_HM55_Head
+12:40:52 | INFO: Primitives created: 1
+12:40:53 | INFO: Finished glTF 2.0 export in 0.8647830486297607 s
+
+player TM_HM55_PLAYER_P1_H2_KITB 2.2 MB
+12:40:53 | INFO: Starting glTF 2.0 export
+12:40:53 | INFO: Extracting primitive: TM_HM55_Body
+12:40:53 | INFO: Primitives created: 2
+12:40:53 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:53 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:53 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:53 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:53 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:53 | INFO: Primitives created: 3
+12:40:53 | INFO: Extracting primitive: TM_HM55_Head
+12:40:53 | INFO: Primitives created: 1
+12:40:54 | INFO: Finished glTF 2.0 export in 1.0133917331695557 s
+
+player TM_HM55_PLAYER_P2_H3_KITB 2.2 MB
+12:40:54 | INFO: Starting glTF 2.0 export
+12:40:54 | INFO: Extracting primitive: TM_HM55_Body
+12:40:54 | INFO: Primitives created: 2
+12:40:54 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:54 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:54 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:54 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:54 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:54 | INFO: Primitives created: 3
+12:40:54 | INFO: Extracting primitive: TM_HM55_Head
+12:40:54 | INFO: Primitives created: 1
+12:40:55 | INFO: Finished glTF 2.0 export in 0.9419612884521484 s
+
+player TM_HM55_PLAYER_P3_H4_KITB 2.18 MB
+12:40:55 | INFO: Starting glTF 2.0 export
+12:40:55 | INFO: Extracting primitive: TM_HM55_Body
+12:40:55 | INFO: Primitives created: 2
+12:40:56 | INFO: Finished glTF 2.0 export in 0.7659611701965332 s
+
+12:40:56 | INFO: Starting glTF 2.0 export
+12:40:56 | INFO: Extracting primitive: TM_HM55_Body
+12:40:56 | INFO: Primitives created: 2
+12:40:57 | INFO: Finished glTF 2.0 export in 0.6170439720153809 s
+
+12:40:57 | INFO: Starting glTF 2.0 export
+12:40:57 | INFO: Extracting primitive: TM_HM55_Head
+12:40:57 | INFO: Primitives created: 1
+12:40:57 | INFO: Finished glTF 2.0 export in 0.03907656669616699 s
+
+12:40:57 | INFO: Starting glTF 2.0 export
+12:40:57 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:57 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:57 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:57 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:57 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:57 | INFO: Primitives created: 3
+12:40:57 | INFO: Finished glTF 2.0 export in 0.042993783950805664 s
+
+12:40:57 | INFO: Starting glTF 2.0 export
+12:40:57 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:57 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:57 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:57 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:57 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:57 | INFO: Primitives created: 3
+12:40:57 | INFO: Finished glTF 2.0 export in 0.043068885803222656 s
+
+12:40:57 | INFO: Starting glTF 2.0 export
+12:40:57 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:57 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:57 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:57 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:57 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:57 | INFO: Primitives created: 3
+12:40:57 | INFO: Finished glTF 2.0 export in 0.04282522201538086 s
+
+12:40:57 | INFO: Starting glTF 2.0 export
+12:40:57 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:57 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:57 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:57 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:57 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:57 | INFO: Primitives created: 3
+12:40:57 | INFO: Finished glTF 2.0 export in 0.04108142852783203 s
+
+12:40:57 | INFO: Starting glTF 2.0 export
+12:40:57 | INFO: Extracting primitive: TM_HM55_Head
+12:40:57 | INFO: Primitives created: 1
+12:40:57 | INFO: Finished glTF 2.0 export in 0.04045391082763672 s
+
+12:40:57 | INFO: Starting glTF 2.0 export
+12:40:57 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:57 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:57 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:57 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:57 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:57 | INFO: Primitives created: 3
+12:40:57 | INFO: Finished glTF 2.0 export in 0.046677350997924805 s
+
+12:40:57 | INFO: Starting glTF 2.0 export
+12:40:57 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:57 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:57 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:57 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:57 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:58 | INFO: Primitives created: 3
+12:40:58 | INFO: Finished glTF 2.0 export in 0.04679679870605469 s
+
+12:40:58 | INFO: Starting glTF 2.0 export
+12:40:58 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:58 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:58 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:58 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:58 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:58 | INFO: Primitives created: 3
+12:40:58 | INFO: Finished glTF 2.0 export in 0.12910985946655273 s
+
+12:40:58 | INFO: Starting glTF 2.0 export
+12:40:58 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:58 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:58 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:58 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:58 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:58 | INFO: Primitives created: 3
+12:40:58 | INFO: Finished glTF 2.0 export in 0.0443267822265625 s
+
+12:40:58 | INFO: Starting glTF 2.0 export
+12:40:58 | INFO: Extracting primitive: TM_HM55_Head
+12:40:58 | INFO: Primitives created: 1
+12:40:58 | INFO: Finished glTF 2.0 export in 0.038970232009887695 s
+
+12:40:58 | INFO: Starting glTF 2.0 export
+12:40:58 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:58 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:58 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:58 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:58 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:58 | INFO: Primitives created: 3
+12:40:58 | INFO: Finished glTF 2.0 export in 0.04705357551574707 s
+
+12:40:58 | INFO: Starting glTF 2.0 export
+12:40:58 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:58 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:58 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:58 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:58 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:58 | INFO: Primitives created: 3
+12:40:58 | INFO: Finished glTF 2.0 export in 0.04261064529418945 s
+
+12:40:58 | INFO: Starting glTF 2.0 export
+12:40:58 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:58 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:58 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:58 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:58 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:58 | INFO: Primitives created: 3
+12:40:58 | INFO: Finished glTF 2.0 export in 0.06276202201843262 s
+
+12:40:58 | INFO: Starting glTF 2.0 export
+12:40:58 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:58 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:59 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:59 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:59 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:59 | INFO: Primitives created: 3
+12:40:59 | INFO: Finished glTF 2.0 export in 0.04952359199523926 s
+
+12:40:59 | INFO: Starting glTF 2.0 export
+12:40:59 | INFO: Extracting primitive: TM_HM55_Head
+12:40:59 | INFO: Primitives created: 1
+12:40:59 | INFO: Finished glTF 2.0 export in 0.036513328552246094 s
+
+12:40:59 | INFO: Starting glTF 2.0 export
+12:40:59 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:59 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:59 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:59 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:59 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:59 | INFO: Primitives created: 3
+12:40:59 | INFO: Finished glTF 2.0 export in 0.03981900215148926 s
+
+12:40:59 | INFO: Starting glTF 2.0 export
+12:40:59 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:59 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:59 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:59 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:59 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:59 | INFO: Primitives created: 3
+12:40:59 | INFO: Finished glTF 2.0 export in 0.045140743255615234 s
+
+12:40:59 | INFO: Starting glTF 2.0 export
+12:40:59 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:59 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:59 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:59 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:59 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:59 | INFO: Primitives created: 3
+12:40:59 | INFO: Finished glTF 2.0 export in 0.06247544288635254 s
+
+12:40:59 | INFO: Starting glTF 2.0 export
+12:40:59 | INFO: Extracting primitive: TM_HM55_Hair
+12:40:59 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+12:40:59 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:59 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+12:40:59 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+12:40:59 | INFO: Primitives created: 3
+12:40:59 | INFO: Finished glTF 2.0 export in 0.04319000244140625 s
+Info: Total files 62 | Changed 62 | Failed 0
+
+Info: No new files have been packed
+Info: Saved "TM_HM55_LIBRARY.blend"
+BUILD OK {'geometry': 5.6, 'textures': 143.9, 'hair': 106.3, 'players': 19.0, 'modules': 4.8, 'total': 279.5} models 48

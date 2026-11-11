@@ -1,0 +1,72 @@
+{
+ "old": "TM_HM55_PLAYER_P0_H2_KITA.glb",
+ "new": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+ "old_sha256": "afa9297fbd4d815f62f829dc9c0d3c22a8f7187ee6b68ef6b49863313279bec3",
+ "new_sha256": "4371f5d1feb39e4e940387fd7e69b1117cf8b5492800402fe1ee35c880f7d598",
+ "joints_old": 22,
+ "joints_new": 22,
+ "joint_names_and_order_equal": true,
+ "rest_trs_equal": true,
+ "inverse_bind_max_abs_diff": 0.0,
+ "clips_old": [
+  "TM_HM55_Header",
+  "TM_HM55_Idle",
+  "TM_HM55_Kick",
+  "TM_HM55_LookAround",
+  "TM_HM55_Run",
+  "TM_HM55_ThrowIn"
+ ],
+ "clips_new": [
+  "TM_HM55_Header",
+  "TM_HM55_Idle",
+  "TM_HM55_Kick",
+  "TM_HM55_LookAround",
+  "TM_HM55_Run",
+  "TM_HM55_ThrowIn"
+ ],
+ "clip_names_equal": true,
+ "channels": 396,
+ "channel_set_equal": true,
+ "time_max_abs_diff": 0.0,
+ "value_max_abs_diff": 0.0,
+ "interpolation_equal": true,
+ "per_clip": {
+  "TM_HM55_Header": {
+   "channels": 66,
+   "keys": 43,
+   "time_max_abs_diff": 0.0,
+   "value_max_abs_diff": 0.0
+  },
+  "TM_HM55_Idle": {
+   "channels": 66,
+   "keys": 61,
+   "time_max_abs_diff": 0.0,
+   "value_max_abs_diff": 0.0
+  },
+  "TM_HM55_Kick": {
+   "channels": 66,
+   "keys": 41,
+   "time_max_abs_diff": 0.0,
+   "value_max_abs_diff": 0.0
+  },
+  "TM_HM55_LookAround": {
+   "channels": 66,
+   "keys": 101,
+   "time_max_abs_diff": 0.0,
+   "value_max_abs_diff": 0.0
+  },
+  "TM_HM55_Run": {
+   "channels": 66,
+   "keys": 21,
+   "time_max_abs_diff": 0.0,
+   "value_max_abs_diff": 0.0
+  },
+  "TM_HM55_ThrowIn": {
+   "channels": 66,
+   "keys": 46,
+   "time_max_abs_diff": 0.0,
+   "value_max_abs_diff": 0.0
+  }
+ },
+ "identical": true
+}

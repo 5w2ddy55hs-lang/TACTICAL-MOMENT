@@ -1,0 +1,260 @@
+ERROR Draco mesh compression is not available because library could not be found at <REPO>/face_hair_fh54/4.2/python/lib/python3.11/site-packages/libextern_draco.so
+13:18:21 | INFO: Starting glTF 2.0 export
+13:18:21 | INFO: Extracting primitive: Face32_LowerEyelids
+13:18:21 | INFO: Primitives created: 5
+13:18:21 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:18:21 | INFO: Primitives created: 2
+13:18:21 | INFO: Extracting primitive: Hair35_SmoothCrown
+13:18:21 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:21 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:21 | INFO: Primitives created: 2
+13:18:21 | INFO: Finished glTF 2.0 export in 0.14964985847473145 s
+
+COMBO F0 H0 {'POSITION': 'exact', 'TEXCOORD_0': 'exact', 'COLOR_0': 'exact', 'NORMAL': 'maxdiff 6.800e-03', 'replaced': 'REF09_Hair/TM18_HairCap_Detail'}
+13:18:21 | INFO: Starting glTF 2.0 export
+13:18:21 | INFO: Extracting primitive: Face32_LowerEyelids
+13:18:21 | INFO: Primitives created: 5
+13:18:21 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:18:21 | INFO: Primitives created: 2
+13:18:21 | INFO: Extracting primitive: TMH54_H1_STANDARD_REBUILT
+13:18:21 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:21 | WARNING: glTF specification does not allow this case (multiple materials with different Vertex Color)
+13:18:21 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:21 | INFO: Primitives created: 3
+13:18:21 | INFO: Finished glTF 2.0 export in 0.10310959815979004 s
+
+COMBO F0 H1 
+13:18:21 | INFO: Starting glTF 2.0 export
+13:18:21 | INFO: Extracting primitive: Face32_LowerEyelids
+13:18:21 | INFO: Primitives created: 5
+13:18:21 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:18:21 | INFO: Primitives created: 2
+13:18:21 | INFO: Extracting primitive: TMH54_H2_SHORT_CROP
+13:18:21 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:21 | WARNING: glTF specification does not allow this case (multiple materials with different Vertex Color)
+13:18:21 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:21 | INFO: Primitives created: 3
+13:18:21 | INFO: Finished glTF 2.0 export in 0.10340714454650879 s
+
+COMBO F0 H2 
+13:18:21 | INFO: Starting glTF 2.0 export
+13:18:21 | INFO: Extracting primitive: Face32_LowerEyelids
+13:18:21 | INFO: Primitives created: 5
+13:18:21 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:18:21 | INFO: Primitives created: 2
+13:18:21 | INFO: Extracting primitive: TMH54_H3_SWEPT_BACK
+13:18:21 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:21 | WARNING: glTF specification does not allow this case (multiple materials with different Vertex Color)
+13:18:21 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:21 | INFO: Primitives created: 3
+13:18:21 | INFO: Finished glTF 2.0 export in 0.10385799407958984 s
+
+COMBO F0 H3 
+13:18:21 | INFO: Starting glTF 2.0 export
+13:18:21 | INFO: Extracting primitive: Face32_LowerEyelids
+13:18:21 | INFO: Primitives created: 5
+13:18:21 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:18:21 | INFO: Primitives created: 2
+13:18:21 | INFO: Extracting primitive: TMH54_H4_SIDE_SWEPT_FRINGE
+13:18:21 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:21 | WARNING: glTF specification does not allow this case (multiple materials with different Vertex Color)
+13:18:21 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:21 | INFO: Primitives created: 3
+13:18:21 | INFO: Finished glTF 2.0 export in 0.1041111946105957 s
+
+COMBO F0 H4 
+13:18:22 | INFO: Starting glTF 2.0 export
+13:18:22 | INFO: Extracting primitive: TMF54_F1
+13:18:22 | INFO: Primitives created: 5
+13:18:22 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:18:22 | INFO: Primitives created: 2
+13:18:22 | INFO: Extracting primitive: Hair35_SmoothCrown
+13:18:22 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:22 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:22 | INFO: Primitives created: 2
+13:18:22 | INFO: Finished glTF 2.0 export in 0.1582787036895752 s
+
+COMBO F1 H0 {'POSITION': 'exact', 'TEXCOORD_0': 'exact', 'COLOR_0': 'exact', 'NORMAL': 'maxdiff 6.800e-03', 'replaced': 'REF09_Hair/TM18_HairCap_Detail'}
+13:18:22 | INFO: Starting glTF 2.0 export
+13:18:22 | INFO: Extracting primitive: TMF54_F1
+13:18:22 | INFO: Primitives created: 5
+13:18:22 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:18:22 | INFO: Primitives created: 2
+13:18:22 | INFO: Extracting primitive: TMH54_H1_STANDARD_REBUILT
+13:18:22 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:22 | WARNING: glTF specification does not allow this case (multiple materials with different Vertex Color)
+13:18:22 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:22 | INFO: Primitives created: 3
+13:18:22 | INFO: Finished glTF 2.0 export in 0.1068422794342041 s
+
+COMBO F1 H1 
+13:18:22 | INFO: Starting glTF 2.0 export
+13:18:22 | INFO: Extracting primitive: TMF54_F1
+13:18:22 | INFO: Primitives created: 5
+13:18:22 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:18:22 | INFO: Primitives created: 2
+13:18:22 | INFO: Extracting primitive: TMH54_H2_SHORT_CROP
+13:18:22 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:22 | WARNING: glTF specification does not allow this case (multiple materials with different Vertex Color)
+13:18:22 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:22 | INFO: Primitives created: 3
+13:18:22 | INFO: Finished glTF 2.0 export in 0.10665512084960938 s
+
+COMBO F1 H2 
+13:18:22 | INFO: Starting glTF 2.0 export
+13:18:22 | INFO: Extracting primitive: TMF54_F1
+13:18:22 | INFO: Primitives created: 5
+13:18:22 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:18:22 | INFO: Primitives created: 2
+13:18:22 | INFO: Extracting primitive: TMH54_H3_SWEPT_BACK
+13:18:22 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:22 | WARNING: glTF specification does not allow this case (multiple materials with different Vertex Color)
+13:18:22 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:22 | INFO: Primitives created: 3
+13:18:22 | INFO: Finished glTF 2.0 export in 0.10811686515808105 s
+
+COMBO F1 H3 
+13:18:22 | INFO: Starting glTF 2.0 export
+13:18:22 | INFO: Extracting primitive: TMF54_F1
+13:18:22 | INFO: Primitives created: 5
+13:18:22 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:18:22 | INFO: Primitives created: 2
+13:18:22 | INFO: Extracting primitive: TMH54_H4_SIDE_SWEPT_FRINGE
+13:18:22 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:22 | WARNING: glTF specification does not allow this case (multiple materials with different Vertex Color)
+13:18:22 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:22 | INFO: Primitives created: 3
+13:18:22 | INFO: Finished glTF 2.0 export in 0.11061334609985352 s
+
+COMBO F1 H4 
+13:18:22 | INFO: Starting glTF 2.0 export
+13:18:22 | INFO: Extracting primitive: TMF54_F2
+13:18:22 | INFO: Primitives created: 5
+13:18:22 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:18:22 | INFO: Primitives created: 2
+13:18:22 | INFO: Extracting primitive: Hair35_SmoothCrown
+13:18:23 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:23 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:23 | INFO: Primitives created: 2
+13:18:23 | INFO: Finished glTF 2.0 export in 0.14104604721069336 s
+
+COMBO F2 H0 {'POSITION': 'exact', 'TEXCOORD_0': 'exact', 'COLOR_0': 'exact', 'NORMAL': 'maxdiff 6.800e-03', 'replaced': 'REF09_Hair/TM18_HairCap_Detail'}
+13:18:23 | INFO: Starting glTF 2.0 export
+13:18:23 | INFO: Extracting primitive: TMF54_F2
+13:18:23 | INFO: Primitives created: 5
+13:18:23 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:18:23 | INFO: Primitives created: 2
+13:18:23 | INFO: Extracting primitive: TMH54_H1_STANDARD_REBUILT
+13:18:23 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:23 | WARNING: glTF specification does not allow this case (multiple materials with different Vertex Color)
+13:18:23 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:23 | INFO: Primitives created: 3
+13:18:23 | INFO: Finished glTF 2.0 export in 0.10611653327941895 s
+
+COMBO F2 H1 
+13:18:23 | INFO: Starting glTF 2.0 export
+13:18:23 | INFO: Extracting primitive: TMF54_F2
+13:18:23 | INFO: Primitives created: 5
+13:18:23 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:18:23 | INFO: Primitives created: 2
+13:18:23 | INFO: Extracting primitive: TMH54_H2_SHORT_CROP
+13:18:23 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:23 | WARNING: glTF specification does not allow this case (multiple materials with different Vertex Color)
+13:18:23 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:23 | INFO: Primitives created: 3
+13:18:23 | INFO: Finished glTF 2.0 export in 0.10690140724182129 s
+
+COMBO F2 H2 
+13:18:23 | INFO: Starting glTF 2.0 export
+13:18:23 | INFO: Extracting primitive: TMF54_F2
+13:18:23 | INFO: Primitives created: 5
+13:18:23 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:18:23 | INFO: Primitives created: 2
+13:18:23 | INFO: Extracting primitive: TMH54_H3_SWEPT_BACK
+13:18:23 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:23 | WARNING: glTF specification does not allow this case (multiple materials with different Vertex Color)
+13:18:23 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:23 | INFO: Primitives created: 3
+13:18:23 | INFO: Finished glTF 2.0 export in 0.11897611618041992 s
+
+COMBO F2 H3 
+13:18:23 | INFO: Starting glTF 2.0 export
+13:18:23 | INFO: Extracting primitive: TMF54_F2
+13:18:23 | INFO: Primitives created: 5
+13:18:23 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:18:23 | INFO: Primitives created: 2
+13:18:23 | INFO: Extracting primitive: TMH54_H4_SIDE_SWEPT_FRINGE
+13:18:23 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:23 | WARNING: glTF specification does not allow this case (multiple materials with different Vertex Color)
+13:18:23 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:23 | INFO: Primitives created: 3
+13:18:23 | INFO: Finished glTF 2.0 export in 0.1291337013244629 s
+
+COMBO F2 H4 
+13:18:23 | INFO: Starting glTF 2.0 export
+13:18:23 | INFO: Extracting primitive: TMF54_F3
+13:18:23 | INFO: Primitives created: 5
+13:18:23 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:18:23 | INFO: Primitives created: 2
+13:18:23 | INFO: Extracting primitive: Hair35_SmoothCrown
+13:18:23 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:23 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:23 | INFO: Primitives created: 2
+13:18:23 | INFO: Finished glTF 2.0 export in 0.13605189323425293 s
+
+COMBO F3 H0 {'POSITION': 'exact', 'TEXCOORD_0': 'exact', 'COLOR_0': 'exact', 'NORMAL': 'maxdiff 6.800e-03', 'replaced': 'REF09_Hair/TM18_HairCap_Detail'}
+13:18:24 | INFO: Starting glTF 2.0 export
+13:18:24 | INFO: Extracting primitive: TMF54_F3
+13:18:24 | INFO: Primitives created: 5
+13:18:24 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:18:24 | INFO: Primitives created: 2
+13:18:24 | INFO: Extracting primitive: TMH54_H1_STANDARD_REBUILT
+13:18:24 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:24 | WARNING: glTF specification does not allow this case (multiple materials with different Vertex Color)
+13:18:24 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:24 | INFO: Primitives created: 3
+13:18:24 | INFO: Finished glTF 2.0 export in 0.10727357864379883 s
+
+COMBO F3 H1 
+13:18:24 | INFO: Starting glTF 2.0 export
+13:18:24 | INFO: Extracting primitive: TMF54_F3
+13:18:24 | INFO: Primitives created: 5
+13:18:24 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:18:24 | INFO: Primitives created: 2
+13:18:24 | INFO: Extracting primitive: TMH54_H2_SHORT_CROP
+13:18:24 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:24 | WARNING: glTF specification does not allow this case (multiple materials with different Vertex Color)
+13:18:24 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:24 | INFO: Primitives created: 3
+13:18:24 | INFO: Finished glTF 2.0 export in 0.10726404190063477 s
+
+COMBO F3 H2 
+13:18:24 | INFO: Starting glTF 2.0 export
+13:18:24 | INFO: Extracting primitive: TMF54_F3
+13:18:24 | INFO: Primitives created: 5
+13:18:24 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:18:24 | INFO: Primitives created: 2
+13:18:24 | INFO: Extracting primitive: TMH54_H3_SWEPT_BACK
+13:18:24 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:24 | WARNING: glTF specification does not allow this case (multiple materials with different Vertex Color)
+13:18:24 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:24 | INFO: Primitives created: 3
+13:18:24 | INFO: Finished glTF 2.0 export in 0.10777163505554199 s
+
+COMBO F3 H3 
+13:18:24 | INFO: Starting glTF 2.0 export
+13:18:24 | INFO: Extracting primitive: TMF54_F3
+13:18:24 | INFO: Primitives created: 5
+13:18:24 | INFO: Extracting primitive: BackScalp14_neck_bridge
+13:18:24 | INFO: Primitives created: 2
+13:18:24 | INFO: Extracting primitive: TMH54_H4_SIDE_SWEPT_FRINGE
+13:18:24 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:24 | WARNING: glTF specification does not allow this case (multiple materials with different Vertex Color)
+13:18:24 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+13:18:24 | INFO: Primitives created: 3
+13:18:24 | INFO: Finished glTF 2.0 export in 0.11027717590332031 s
+
+COMBO F3 H4 
+Info: Total files 117 | Changed 117 | Failed 0
+Info: No new files have been packed
+Info: Saved "TM_FH54_LIBRARY_faces_hairs.blend"

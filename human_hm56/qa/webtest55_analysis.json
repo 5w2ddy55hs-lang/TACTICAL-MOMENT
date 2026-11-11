@@ -1,0 +1,11 @@
+{
+ "TM_HM56_PLAYER_P0_H2_KITA": {
+  "order_changed_pixels_pct": {
+   "q": 0.0,
+   "top": 0.0,
+   "back": 0.0,
+   "side": 0.006
+  },
+  "front_only_vs_double_sided_changed_pixels_pct": 1.012
+ }
+}

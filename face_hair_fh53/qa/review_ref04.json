@@ -1,0 +1,202 @@
+{
+  "blender": "4.2.23 LTS",
+  "source_ref04_blend_sha256": "ea61c3ea4ee8164293c9b629836355b33bd97adba50bd4dec6b363f224efc374",
+  "hidden_reference_head_faces": 614,
+  "head_translation": [
+    0.0,
+    -0.0393775999546051,
+    1.59796941280365
+  ],
+  "combos": [
+    "F0_H0",
+    "F1_H1",
+    "F2_H2",
+    "F3_H3",
+    "F2_H4"
+  ],
+  "review_blend": "TM_FH53_REVIEW_REF04_PROVISIONAL.blend",
+  "review_blend_sha256": "40559ab83dca72f604b60f49a5b1823bb588e5be56d9e1cbb7604f5979392100",
+  "renders": [
+    {
+      "combo": "REF04_original_head",
+      "shot": "body_front",
+      "png": "REF04_original_body_front.png",
+      "sha256": "03b4bcd659ef19e29e594285e9d5494a9d68f000a324e59fd2c17abfea6eee31"
+    },
+    {
+      "combo": "REF04_original_head",
+      "shot": "body_quarterR",
+      "png": "REF04_original_body_quarterR.png",
+      "sha256": "5d923c747416b1e183cf63fa6c2aa0fb9a9524500cb98ca2d20aa875088e56da"
+    },
+    {
+      "combo": "REF04_original_head",
+      "shot": "head_front",
+      "png": "REF04_original_head_front.png",
+      "sha256": "30a8d372a2093e7d6679c93a1769ff124597ab9ffd3bb78106ce7d55957fe0f1"
+    },
+    {
+      "combo": "REF04_original_head",
+      "shot": "head_side",
+      "png": "REF04_original_head_side.png",
+      "sha256": "312fbb2d4d1d998b3d58d831f52d5a1ad487373e98f0eae42739ddec173f0819"
+    },
+    {
+      "combo": "REF04_original_head",
+      "shot": "head_back",
+      "png": "REF04_original_head_back.png",
+      "sha256": "1f0f744f60c05273b594061fb70ee2b32b2bfa0bcf44a5336f11b5233730ad22"
+    },
+    {
+      "combo": "F0_H0",
+      "shot": "body_front",
+      "png": "F0_H0_body_front.png",
+      "sha256": "37575adb51db73344e9c628c70fd40e83027970aa83b052b471e349d08024378"
+    },
+    {
+      "combo": "F0_H0",
+      "shot": "body_quarterR",
+      "png": "F0_H0_body_quarterR.png",
+      "sha256": "d57b520a175402f37b673e648fb29967b160e9862292683de8299bf713901365"
+    },
+    {
+      "combo": "F0_H0",
+      "shot": "head_front",
+      "png": "F0_H0_head_front.png",
+      "sha256": "c514c1e7bb44c244b95fd759793cf31d4aa2c188cd3da2cd5340aaf0ccd7a1b0"
+    },
+    {
+      "combo": "F0_H0",
+      "shot": "head_side",
+      "png": "F0_H0_head_side.png",
+      "sha256": "fd739bfe988ba93eb56794437af925fe81b058d526e26fae2806a3da9ffd7957"
+    },
+    {
+      "combo": "F0_H0",
+      "shot": "head_back",
+      "png": "F0_H0_head_back.png",
+      "sha256": "710ab51fcc7dde63aa8d478e2a303cec48775f77b5ed8d330d2475175df13e85"
+    },
+    {
+      "combo": "F1_H1",
+      "shot": "body_front",
+      "png": "F1_H1_body_front.png",
+      "sha256": "c0cbf70a8dcea3e7fdd2df7154c8a63fc661524ca0a47c161bba4c72b75c0b8e"
+    },
+    {
+      "combo": "F1_H1",
+      "shot": "body_quarterR",
+      "png": "F1_H1_body_quarterR.png",
+      "sha256": "cd620300780248eb8cd36e81770c460567c5d7d294cbc59ffacdccda5df88fd0"
+    },
+    {
+      "combo": "F1_H1",
+      "shot": "head_front",
+      "png": "F1_H1_head_front.png",
+      "sha256": "1941e48e9e6edadd232618234204ffa51cc49402e5735906fdf29db65570c4e8"
+    },
+    {
+      "combo": "F1_H1",
+      "shot": "head_side",
+      "png": "F1_H1_head_side.png",
+      "sha256": "3d6fffda4130691af579a849ba596aaa070198be958f1aa98057471adf713f40"
+    },
+    {
+      "combo": "F1_H1",
+      "shot": "head_back",
+      "png": "F1_H1_head_back.png",
+      "sha256": "9c57600c05b9baf2c65b8eb3ea37da77c5da561edc54464765ee06074f03d8d1"
+    },
+    {
+      "combo": "F2_H2",
+      "shot": "body_front",
+      "png": "F2_H2_body_front.png",
+      "sha256": "d903ffb84ff188158aba9d03b1206e67f87d8bba666a213e00a3011398ab54bd"
+    },
+    {
+      "combo": "F2_H2",
+      "shot": "body_quarterR",
+      "png": "F2_H2_body_quarterR.png",
+      "sha256": "f6f21cb4ed6b1e17b86e692d71962fe94bb041c5240c06be173c81e1dc9f33ea"
+    },
+    {
+      "combo": "F2_H2",
+      "shot": "head_front",
+      "png": "F2_H2_head_front.png",
+      "sha256": "df46cd0d344c415e8fb9277e4707efa97cd09d5ed20c7f76110bbaf5c4c6216c"
+    },
+    {
+      "combo": "F2_H2",
+      "shot": "head_side",
+      "png": "F2_H2_head_side.png",
+      "sha256": "a355373a97cb50573e875b734416c1f7e14e23922de99effbdce19c5dd72999c"
+    },
+    {
+      "combo": "F2_H2",
+      "shot": "head_back",
+      "png": "F2_H2_head_back.png",
+      "sha256": "2d4ad5a5b107b8ccd7c4dec1f6531d2ad15acddcfd784afab18adee548c99c2c"
+    },
+    {
+      "combo": "F3_H3",
+      "shot": "body_front",
+      "png": "F3_H3_body_front.png",
+      "sha256": "e402aa59a0a060105067618ee36d5f9db76f479040859a1fa732176bc04a1fdf"
+    },
+    {
+      "combo": "F3_H3",
+      "shot": "body_quarterR",
+      "png": "F3_H3_body_quarterR.png",
+      "sha256": "f958fca4d42d689d44d460c9616c29a051bdcbdbfbde9578eeec43e2d87df836"
+    },
+    {
+      "combo": "F3_H3",
+      "shot": "head_front",
+      "png": "F3_H3_head_front.png",
+      "sha256": "312edd1d469dadec771055f15af07966b5abf9137f488b339cbc79b699fc3798"
+    },
+    {
+      "combo": "F3_H3",
+      "shot": "head_side",
+      "png": "F3_H3_head_side.png",
+      "sha256": "01b5b093947d8023c18d61eb7674d7a8730be0d9d1ab255fa9df47021b2db597"
+    },
+    {
+      "combo": "F3_H3",
+      "shot": "head_back",
+      "png": "F3_H3_head_back.png",
+      "sha256": "ba09a0b947901107df7b7201606910c17cd260fa6d2ddaf31257399c6f243a4c"
+    },
+    {
+      "combo": "F2_H4",
+      "shot": "body_front",
+      "png": "F2_H4_body_front.png",
+      "sha256": "84468254cba994b03abacfc3f90ddc658ba080b0ae596c1974184e9bba4116f3"
+    },
+    {
+      "combo": "F2_H4",
+      "shot": "body_quarterR",
+      "png": "F2_H4_body_quarterR.png",
+      "sha256": "db46295fdf9667622d70413433f97b577629ccd20d2225a85e9048a5d91e0430"
+    },
+    {
+      "combo": "F2_H4",
+      "shot": "head_front",
+      "png": "F2_H4_head_front.png",
+      "sha256": "5b47dcd0eccc525514f5ca02061a4b5fe09d5dae50e969cf961dc55f944d19e0"
+    },
+    {
+      "combo": "F2_H4",
+      "shot": "head_side",
+      "png": "F2_H4_head_side.png",
+      "sha256": "db50a766225e689f09567ca037a20c82c5d7844da4c3552253923afa7b90a35a"
+    },
+    {
+      "combo": "F2_H4",
+      "shot": "head_back",
+      "png": "F2_H4_head_back.png",
+      "sha256": "8fc6aa894feb16d650c42c6b21ef86686bbdb081e8132d8e8045c6e28bdfc0da"
+    }
+  ],
+  "scope": "FH53 provisional full-body review with the Reference04 body (NOT a join, NOT rigged, NOT animated).\n\n* Opens the Reference04 study .blend read-only and saves a NEW review file; the source file is never written.\n* Reference04's own head is hidden non-destructively: face attribute 'fh53_hide_ref_head' + a Geometry Nodes\n  Delete Geometry modifier after the armature modifier (mesh data, UVs, weights and rig are unchanged).\n  Hidden faces: materials SOURCE_APPEARANCE04_slot_13/14/15/16, and slot_02 faces whose lowest vertex is above\n  z = 1.536 (back-of-head skin; FACE52's REF14_BackScalp takes this role).\n* Head modules are parented to an Empty at the static attachment translation (0, -0.0393776, 1.5979694),\n  rotation 0, scale 1. Head meshes have no bones/weights: the head does not follow the rig.\nRenders: same world colour as the FACE52 review; three area lights scaled to body size; Cycles CPU seed 0.\nUsage: python review_ref04.py\n"
+}

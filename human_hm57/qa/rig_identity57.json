@@ -1,0 +1,42 @@
+{
+ "HM56_vs_HM57": {
+  "a": "TM_HM56_PLAYER_P0_H2_KITA.glb",
+  "b": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+  "joint_names_and_order_equal": true,
+  "rest_trs_equal": true,
+  "inverse_bind_max_abs_diff": 0.0,
+  "clip_names_equal": true,
+  "channels": 396,
+  "channels_that_differ": {
+   "TM_HM55_Header": {
+    "Hips.translation": 0.0702
+   },
+   "TM_HM55_Idle": {
+    "Hips.translation": 0.0039
+   },
+   "TM_HM55_Kick": {
+    "Hips.translation": 0.0482,
+    "LowerLeg_R.rotation": 0.3623
+   },
+   "TM_HM55_LookAround": {
+    "Hips.translation": 0.0039
+   },
+   "TM_HM55_Run": {
+    "Hips.translation": 0.0736
+   },
+   "TM_HM55_ThrowIn": {
+    "Hips.translation": 0.0379
+   }
+  }
+ },
+ "HM57_vs_LITE": {
+  "a": "TM_HM57_PLAYER_P0_H1_KITA.glb",
+  "b": "TM_HM57_PLAYER_P0_H1_KITA_LITE.glb",
+  "joint_names_and_order_equal": true,
+  "rest_trs_equal": true,
+  "inverse_bind_max_abs_diff": 0.0,
+  "clip_names_equal": true,
+  "channels": 396,
+  "channels_that_differ": {}
+ }
+}

@@ -1,0 +1,244 @@
+ERROR Draco mesh compression is not available because library could not be found at /home/user/TACTICAL-MOMENT/face_hair_fh53/4.2/python/lib/python3.11/site-packages/libextern_draco.so
+07:11:45 | INFO: Starting glTF 2.0 export
+07:11:45 | INFO: Extracting primitive: Face32_LowerEyelids
+07:11:45 | INFO: Primitives created: 5
+07:11:45 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:45 | INFO: Primitives created: 2
+07:11:45 | INFO: Extracting primitive: Hair35_SmoothCrown
+07:11:45 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:45 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:45 | INFO: Primitives created: 2
+07:11:45 | INFO: Finished glTF 2.0 export in 0.1121985912322998 s
+
+COMBO F0 H0 {'POSITION': 'exact', 'TEXCOORD_0': 'exact', 'COLOR_0': 'exact', 'NORMAL': 'maxdiff 6.800e-03', 'replaced': 'REF09_Hair/TM18_HairCap_Detail'}
+07:11:45 | INFO: Starting glTF 2.0 export
+07:11:45 | INFO: Extracting primitive: Face32_LowerEyelids
+07:11:45 | INFO: Primitives created: 5
+07:11:45 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:45 | INFO: Primitives created: 2
+07:11:45 | INFO: Extracting primitive: TMH53_H1_STANDARD_REBUILT
+07:11:45 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:45 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:45 | INFO: Primitives created: 2
+07:11:45 | INFO: Finished glTF 2.0 export in 0.0675966739654541 s
+
+COMBO F0 H1 
+07:11:45 | INFO: Starting glTF 2.0 export
+07:11:45 | INFO: Extracting primitive: Face32_LowerEyelids
+07:11:45 | INFO: Primitives created: 5
+07:11:45 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:45 | INFO: Primitives created: 2
+07:11:45 | INFO: Extracting primitive: TMH53_H2_SHORT_CROP
+07:11:45 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:45 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:45 | INFO: Primitives created: 2
+07:11:45 | INFO: Finished glTF 2.0 export in 0.0690915584564209 s
+
+COMBO F0 H2 
+07:11:45 | INFO: Starting glTF 2.0 export
+07:11:45 | INFO: Extracting primitive: Face32_LowerEyelids
+07:11:45 | INFO: Primitives created: 5
+07:11:45 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:45 | INFO: Primitives created: 2
+07:11:45 | INFO: Extracting primitive: TMH53_H3_SWEPT_BACK
+07:11:45 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:45 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:45 | INFO: Primitives created: 2
+07:11:45 | INFO: Finished glTF 2.0 export in 0.06835341453552246 s
+
+COMBO F0 H3 
+07:11:46 | INFO: Starting glTF 2.0 export
+07:11:46 | INFO: Extracting primitive: Face32_LowerEyelids
+07:11:46 | INFO: Primitives created: 5
+07:11:46 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:46 | INFO: Primitives created: 2
+07:11:46 | INFO: Extracting primitive: TMH53_H4_SIDE_SWEPT_FRINGE
+07:11:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:46 | INFO: Primitives created: 2
+07:11:46 | INFO: Finished glTF 2.0 export in 0.0688164234161377 s
+
+COMBO F0 H4 
+07:11:46 | INFO: Starting glTF 2.0 export
+07:11:46 | INFO: Extracting primitive: TMF53_F1_LONG_ANGULAR
+07:11:46 | INFO: Primitives created: 5
+07:11:46 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:46 | INFO: Primitives created: 2
+07:11:46 | INFO: Extracting primitive: Hair35_SmoothCrown
+07:11:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:46 | INFO: Primitives created: 2
+07:11:46 | INFO: Finished glTF 2.0 export in 0.11129117012023926 s
+
+COMBO F1 H0 {'POSITION': 'exact', 'TEXCOORD_0': 'exact', 'COLOR_0': 'exact', 'NORMAL': 'maxdiff 6.800e-03', 'replaced': 'REF09_Hair/TM18_HairCap_Detail'}
+07:11:46 | INFO: Starting glTF 2.0 export
+07:11:46 | INFO: Extracting primitive: TMF53_F1_LONG_ANGULAR
+07:11:46 | INFO: Primitives created: 5
+07:11:46 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:46 | INFO: Primitives created: 2
+07:11:46 | INFO: Extracting primitive: TMH53_H1_STANDARD_REBUILT
+07:11:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:46 | INFO: Primitives created: 2
+07:11:46 | INFO: Finished glTF 2.0 export in 0.06698012351989746 s
+
+COMBO F1 H1 
+07:11:46 | INFO: Starting glTF 2.0 export
+07:11:46 | INFO: Extracting primitive: TMF53_F1_LONG_ANGULAR
+07:11:46 | INFO: Primitives created: 5
+07:11:46 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:46 | INFO: Primitives created: 2
+07:11:46 | INFO: Extracting primitive: TMH53_H2_SHORT_CROP
+07:11:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:46 | INFO: Primitives created: 2
+07:11:46 | INFO: Finished glTF 2.0 export in 0.06807541847229004 s
+
+COMBO F1 H2 
+07:11:46 | INFO: Starting glTF 2.0 export
+07:11:46 | INFO: Extracting primitive: TMF53_F1_LONG_ANGULAR
+07:11:46 | INFO: Primitives created: 5
+07:11:46 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:46 | INFO: Primitives created: 2
+07:11:46 | INFO: Extracting primitive: TMH53_H3_SWEPT_BACK
+07:11:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:46 | INFO: Primitives created: 2
+07:11:46 | INFO: Finished glTF 2.0 export in 0.06791067123413086 s
+
+COMBO F1 H3 
+07:11:46 | INFO: Starting glTF 2.0 export
+07:11:46 | INFO: Extracting primitive: TMF53_F1_LONG_ANGULAR
+07:11:46 | INFO: Primitives created: 5
+07:11:46 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:46 | INFO: Primitives created: 2
+07:11:46 | INFO: Extracting primitive: TMH53_H4_SIDE_SWEPT_FRINGE
+07:11:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:46 | INFO: Primitives created: 2
+07:11:46 | INFO: Finished glTF 2.0 export in 0.06486725807189941 s
+
+COMBO F1 H4 
+07:11:46 | INFO: Starting glTF 2.0 export
+07:11:46 | INFO: Extracting primitive: TMF53_F2_ROUND_SOFT
+07:11:46 | INFO: Primitives created: 5
+07:11:46 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:46 | INFO: Primitives created: 2
+07:11:46 | INFO: Extracting primitive: Hair35_SmoothCrown
+07:11:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:46 | INFO: Primitives created: 2
+07:11:46 | INFO: Finished glTF 2.0 export in 0.10316753387451172 s
+
+COMBO F2 H0 {'POSITION': 'exact', 'TEXCOORD_0': 'exact', 'COLOR_0': 'exact', 'NORMAL': 'maxdiff 6.800e-03', 'replaced': 'REF09_Hair/TM18_HairCap_Detail'}
+07:11:46 | INFO: Starting glTF 2.0 export
+07:11:46 | INFO: Extracting primitive: TMF53_F2_ROUND_SOFT
+07:11:46 | INFO: Primitives created: 5
+07:11:46 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:46 | INFO: Primitives created: 2
+07:11:46 | INFO: Extracting primitive: TMH53_H1_STANDARD_REBUILT
+07:11:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:46 | INFO: Primitives created: 2
+07:11:46 | INFO: Finished glTF 2.0 export in 0.07405233383178711 s
+
+COMBO F2 H1 
+07:11:46 | INFO: Starting glTF 2.0 export
+07:11:47 | INFO: Extracting primitive: TMF53_F2_ROUND_SOFT
+07:11:47 | INFO: Primitives created: 5
+07:11:47 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:47 | INFO: Primitives created: 2
+07:11:47 | INFO: Extracting primitive: TMH53_H2_SHORT_CROP
+07:11:47 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:47 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:47 | INFO: Primitives created: 2
+07:11:47 | INFO: Finished glTF 2.0 export in 0.07117891311645508 s
+
+COMBO F2 H2 
+07:11:47 | INFO: Starting glTF 2.0 export
+07:11:47 | INFO: Extracting primitive: TMF53_F2_ROUND_SOFT
+07:11:47 | INFO: Primitives created: 5
+07:11:47 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:47 | INFO: Primitives created: 2
+07:11:47 | INFO: Extracting primitive: TMH53_H3_SWEPT_BACK
+07:11:47 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:47 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:47 | INFO: Primitives created: 2
+07:11:47 | INFO: Finished glTF 2.0 export in 0.0731503963470459 s
+
+COMBO F2 H3 
+07:11:47 | INFO: Starting glTF 2.0 export
+07:11:47 | INFO: Extracting primitive: TMF53_F2_ROUND_SOFT
+07:11:47 | INFO: Primitives created: 5
+07:11:47 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:47 | INFO: Primitives created: 2
+07:11:47 | INFO: Extracting primitive: TMH53_H4_SIDE_SWEPT_FRINGE
+07:11:47 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:47 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:47 | INFO: Primitives created: 2
+07:11:47 | INFO: Finished glTF 2.0 export in 0.06330752372741699 s
+
+COMBO F2 H4 
+07:11:47 | INFO: Starting glTF 2.0 export
+07:11:47 | INFO: Extracting primitive: TMF53_F3_NARROW_SHARP
+07:11:47 | INFO: Primitives created: 5
+07:11:47 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:47 | INFO: Primitives created: 2
+07:11:47 | INFO: Extracting primitive: Hair35_SmoothCrown
+07:11:47 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:47 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:47 | INFO: Primitives created: 2
+07:11:47 | INFO: Finished glTF 2.0 export in 0.10505247116088867 s
+
+COMBO F3 H0 {'POSITION': 'exact', 'TEXCOORD_0': 'exact', 'COLOR_0': 'exact', 'NORMAL': 'maxdiff 6.800e-03', 'replaced': 'REF09_Hair/TM18_HairCap_Detail'}
+07:11:47 | INFO: Starting glTF 2.0 export
+07:11:47 | INFO: Extracting primitive: TMF53_F3_NARROW_SHARP
+07:11:47 | INFO: Primitives created: 5
+07:11:47 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:47 | INFO: Primitives created: 2
+07:11:47 | INFO: Extracting primitive: TMH53_H1_STANDARD_REBUILT
+07:11:47 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:47 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:47 | INFO: Primitives created: 2
+07:11:47 | INFO: Finished glTF 2.0 export in 0.06364798545837402 s
+
+COMBO F3 H1 
+07:11:47 | INFO: Starting glTF 2.0 export
+07:11:47 | INFO: Extracting primitive: TMF53_F3_NARROW_SHARP
+07:11:47 | INFO: Primitives created: 5
+07:11:47 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:47 | INFO: Primitives created: 2
+07:11:47 | INFO: Extracting primitive: TMH53_H2_SHORT_CROP
+07:11:47 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:47 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:47 | INFO: Primitives created: 2
+07:11:47 | INFO: Finished glTF 2.0 export in 0.06267070770263672 s
+
+COMBO F3 H2 
+07:11:47 | INFO: Starting glTF 2.0 export
+07:11:47 | INFO: Extracting primitive: TMF53_F3_NARROW_SHARP
+07:11:47 | INFO: Primitives created: 5
+07:11:47 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:47 | INFO: Primitives created: 2
+07:11:47 | INFO: Extracting primitive: TMH53_H3_SWEPT_BACK
+07:11:47 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:47 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:47 | INFO: Primitives created: 2
+07:11:47 | INFO: Finished glTF 2.0 export in 0.06338620185852051 s
+
+COMBO F3 H3 
+07:11:47 | INFO: Starting glTF 2.0 export
+07:11:47 | INFO: Extracting primitive: TMF53_F3_NARROW_SHARP
+07:11:47 | INFO: Primitives created: 5
+07:11:47 | INFO: Extracting primitive: BackScalp14_neck_bridge
+07:11:47 | INFO: Primitives created: 2
+07:11:47 | INFO: Extracting primitive: TMH53_H4_SIDE_SWEPT_FRINGE
+07:11:47 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:47 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+07:11:47 | INFO: Primitives created: 2
+07:11:47 | INFO: Finished glTF 2.0 export in 0.06361079216003418 s
+
+COMBO F3 H4 
+Info: Total files 93 | Changed 93 | Failed 0
+Info: No new files have been packed
+Info: Saved "TM_FH53_LIBRARY_faces_hairs.blend"

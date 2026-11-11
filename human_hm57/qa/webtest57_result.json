@@ -1,0 +1,248 @@
+{
+ "three": "0.186.1",
+ "models": {
+  "TM_HM57_PLAYER_P0_H1_KITA": {
+   "prims": [
+    {
+     "name": "TM_HM57_Body_1",
+     "mat": "TM_HM57_Kit_A",
+     "transparent": false,
+     "depthWrite": true,
+     "side": 2,
+     "skinned": true,
+     "tris": 2036
+    },
+    {
+     "name": "TM_HM57_Body_2",
+     "mat": "TM_HM57_BodySkin_T2",
+     "transparent": false,
+     "depthWrite": true,
+     "side": 0,
+     "skinned": true,
+     "tris": 1128
+    },
+    {
+     "name": "TM_HM57_Hair_1",
+     "mat": "TMH55_H1_Cap",
+     "transparent": false,
+     "depthWrite": true,
+     "side": 2,
+     "skinned": true,
+     "tris": 1330
+    },
+    {
+     "name": "TM_HM57_Hair_2",
+     "mat": "TMH55_H1_CapEdge",
+     "transparent": true,
+     "depthWrite": false,
+     "side": 2,
+     "skinned": true,
+     "tris": 560
+    },
+    {
+     "name": "TM_HM57_Hair_3",
+     "mat": "TMH55_H1_Cards",
+     "transparent": true,
+     "depthWrite": false,
+     "side": 2,
+     "skinned": true,
+     "tris": 248
+    },
+    {
+     "name": "TM_HM57_Head",
+     "mat": "TM_HM57_Head_P0",
+     "transparent": false,
+     "depthWrite": true,
+     "side": 0,
+     "skinned": true,
+     "tris": 2800
+    }
+   ],
+   "skinned": 6,
+   "bones": 22,
+   "clips": [
+    {
+     "name": "TM_HM55_Header",
+     "duration": 1.399999976158142,
+     "tracks": 66
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "duration": 2,
+     "tracks": 66
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "duration": 1.3333333730697632,
+     "tracks": 66
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "duration": 3.3333332538604736,
+     "tracks": 66
+    },
+    {
+     "name": "TM_HM55_Run",
+     "duration": 0.6666666865348816,
+     "tracks": 66
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "duration": 1.5,
+     "tracks": 66
+    }
+   ],
+   "playback": {
+    "TM_HM55_Run": 21,
+    "TM_HM55_Kick": 41,
+    "TM_HM55_Header": 43,
+    "TM_HM55_ThrowIn": 46,
+    "TM_HM55_LookAround": 101
+   }
+  },
+  "TM_HM57_PLAYER_P0_H1_KITA_LITE": {
+   "prims": [
+    {
+     "name": "TM_HM57_Body001",
+     "mat": "TM_HM57_Kit_A_LITE",
+     "transparent": false,
+     "depthWrite": true,
+     "side": 2,
+     "skinned": true,
+     "tris": 1448
+    },
+    {
+     "name": "TM_HM57_Body001_1",
+     "mat": "TM_HM57_BodySkin_T2_LITE",
+     "transparent": false,
+     "depthWrite": true,
+     "side": 0,
+     "skinned": true,
+     "tris": 350
+    },
+    {
+     "name": "TM_HM57_Hair_1",
+     "mat": "TMH55_H1_Cap",
+     "transparent": false,
+     "depthWrite": true,
+     "side": 2,
+     "skinned": true,
+     "tris": 288
+    },
+    {
+     "name": "TM_HM57_Hair_2",
+     "mat": "TMH55_H1_CapEdge",
+     "transparent": true,
+     "depthWrite": false,
+     "side": 2,
+     "skinned": true,
+     "tris": 192
+    },
+    {
+     "name": "TM_HM57_Hair_3",
+     "mat": "TMH55_H1_Cards",
+     "transparent": true,
+     "depthWrite": false,
+     "side": 2,
+     "skinned": true,
+     "tris": 248
+    },
+    {
+     "name": "TM_HM57_Head",
+     "mat": "TM_HM57_Head_P0_LITE",
+     "transparent": false,
+     "depthWrite": true,
+     "side": 0,
+     "skinned": true,
+     "tris": 900
+    }
+   ],
+   "skinned": 6,
+   "bones": 22,
+   "clips": [
+    {
+     "name": "TM_HM55_Header",
+     "duration": 1.399999976158142,
+     "tracks": 66
+    },
+    {
+     "name": "TM_HM55_Idle",
+     "duration": 2,
+     "tracks": 66
+    },
+    {
+     "name": "TM_HM55_Kick",
+     "duration": 1.3333333730697632,
+     "tracks": 66
+    },
+    {
+     "name": "TM_HM55_LookAround",
+     "duration": 3.3333332538604736,
+     "tracks": 66
+    },
+    {
+     "name": "TM_HM55_Run",
+     "duration": 0.6666666865348816,
+     "tracks": 66
+    },
+    {
+     "name": "TM_HM55_ThrowIn",
+     "duration": 1.5,
+     "tracks": 66
+    }
+   ],
+   "playback": {
+    "TM_HM55_Run": 21,
+    "TM_HM55_Kick": 41,
+    "TM_HM55_Header": 43,
+    "TM_HM55_ThrowIn": 46,
+    "TM_HM55_LookAround": 101
+   }
+  }
+ },
+ "swap": {
+  "assemble": {
+   "rebound": 4,
+   "missing": [],
+   "tris": 8102,
+   "clips": [
+    "TM_HM55_Header",
+    "TM_HM55_Idle",
+    "TM_HM55_Kick",
+    "TM_HM55_LookAround",
+    "TM_HM55_Run",
+    "TM_HM55_ThrowIn"
+   ]
+  },
+  "modules": [
+   "TM_HM57_BODY_KITA.glb",
+   "TM_HM57_HEAD_P0_NEUTRAL.glb",
+   "TM_HM57_HAIR_P0_H1_STANDARD.glb"
+  ],
+  "diff_vs_player_pct": {
+   "TM_HM55_Run": 0,
+   "TM_HM55_Kick": 0,
+   "TM_HM55_Header": 0,
+   "TM_HM55_LookAround": 0
+  },
+  "kit_swap": {
+   "replaced": 1,
+   "material": "TM_HM57_Kit_B"
+  }
+ },
+ "perf": {
+  "TM_HM57_PLAYER_P0_H1_KITA_x22_run": {
+   "calls": 158,
+   "triangles": 180454,
+   "ms_per_frame": 6.6950000000031045,
+   "gl_renderer": "WebKit WebGL"
+  },
+  "TM_HM57_PLAYER_P0_H1_KITA_LITE_x22_run": {
+   "calls": 158,
+   "triangles": 79398,
+   "ms_per_frame": 2.9549999999968954,
+   "gl_renderer": "WebKit WebGL"
+  }
+ },
+ "page_errors": []
+}

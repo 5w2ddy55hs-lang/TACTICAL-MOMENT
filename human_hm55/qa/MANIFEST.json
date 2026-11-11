@@ -1,0 +1,23 @@
+{
+ "copied_from_build": [
+  "qa/QA_TABLES55.md",
+  "qa/build_hm55.json",
+  "qa/gltf_validator.json",
+  "qa/provenance_audit.json",
+  "qa/render_ledger_hm55.json",
+  "qa/verify_hm55.json",
+  "qa/webtest55_analysis.json",
+  "qa/webtest55_result.json",
+  "logs/00_build_all.log",
+  "logs/01_verify.log",
+  "logs/02_renders.log",
+  "logs/03_sheets.log",
+  "logs/04_provenance.log",
+  "logs/05_webtest.log",
+  "logs/06_tables.log",
+  "logs/07_package.log",
+  "dist/PACKAGE_VERIFICATION.json",
+  "TM_HM55_HUMAN_MODEL_20261111.zip:SHA256SUMS.txt"
+ ],
+ "note": "text only; models/images/textures stay in build/ (gitignored)"
+}

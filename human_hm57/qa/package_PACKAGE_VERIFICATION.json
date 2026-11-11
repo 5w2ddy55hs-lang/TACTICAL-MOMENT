@@ -1,0 +1,116 @@
+{
+ "extracted_to_new_empty_folder": true,
+ "sha_mismatch": [],
+ "sha_checked": 432,
+ "blends": {
+  "models/TM_HM57_LIBRARY.blend": {
+   "opened": true,
+   "blender": "4.2.23 LTS",
+   "objects": 4,
+   "armatures": 1,
+   "actions": 6,
+   "images": 6,
+   "not_packed": 0,
+   "not_loaded": 0
+  },
+  "models/players/TM_HM57_PLAYER_P0_H1_KITA.blend": {
+   "opened": true,
+   "blender": "4.2.23 LTS",
+   "objects": 4,
+   "armatures": 1,
+   "actions": 6,
+   "images": 6,
+   "not_packed": 0,
+   "not_loaded": 0
+  },
+  "models/players/TM_HM57_PLAYER_P0_H1_KITA_LITE.blend": {
+   "opened": true,
+   "blender": "4.2.23 LTS",
+   "objects": 4,
+   "armatures": 1,
+   "actions": 6,
+   "images": 6,
+   "not_packed": 0,
+   "not_loaded": 0
+  }
+ },
+ "glbs": {
+  "models/modules/TM_HM57_BODY_KITA.glb": {
+   "imported": true,
+   "triangles_imported": 3164,
+   "triangles_in_glb": 3164,
+   "match": true,
+   "bones": 22,
+   "joints_in_glb": 22,
+   "animations_in_glb": 6,
+   "actions_imported": 6,
+   "images": 2
+  },
+  "models/modules/TM_HM57_BODY_KITB.glb": {
+   "imported": true,
+   "triangles_imported": 3164,
+   "triangles_in_glb": 3164,
+   "match": true,
+   "bones": 22,
+   "joints_in_glb": 22,
+   "animations_in_glb": 6,
+   "actions_imported": 6,
+   "images": 2
+  },
+  "models/modules/TM_HM57_HAIR_P0_H1_STANDARD.glb": {
+   "imported": true,
+   "triangles_imported": 2138,
+   "triangles_in_glb": 2138,
+   "match": true,
+   "bones": 22,
+   "joints_in_glb": 22,
+   "animations_in_glb": 0,
+   "actions_imported": 0,
+   "images": 3
+  },
+  "models/modules/TM_HM57_HEAD_P0_NEUTRAL.glb": {
+   "imported": true,
+   "triangles_imported": 2800,
+   "triangles_in_glb": 2800,
+   "match": true,
+   "bones": 22,
+   "joints_in_glb": 22,
+   "animations_in_glb": 0,
+   "actions_imported": 0,
+   "images": 1
+  },
+  "models/players/TM_HM57_PLAYER_P0_H1_KITA.glb": {
+   "imported": true,
+   "triangles_imported": 8102,
+   "triangles_in_glb": 8102,
+   "match": true,
+   "bones": 22,
+   "joints_in_glb": 22,
+   "animations_in_glb": 6,
+   "actions_imported": 6,
+   "images": 6
+  },
+  "models/players/TM_HM57_PLAYER_P0_H1_KITA_LITE.glb": {
+   "imported": true,
+   "triangles_imported": 3426,
+   "triangles_in_glb": 3426,
+   "match": true,
+   "bones": 22,
+   "joints_in_glb": 22,
+   "animations_in_glb": 6,
+   "actions_imported": 6,
+   "images": 6
+  }
+ },
+ "all_ok": true,
+ "seconds": 1.8,
+ "zip": "TM_HM57_MATCH_PLAYER_20261111.zip",
+ "zip_bytes": 137260226,
+ "zip_sha256": "107e272f9b84ab2d0254ab3a7daa8f8ca29f829024a5f5a105fb58d0906900fb",
+ "files_in_zip": 433,
+ "private_zip": {
+  "name": "TM_HM57_MATCH_PLAYER_20261111_RESEARCH_COMPARISON_NOT_FOR_RELEASE.zip",
+  "bytes": 10158728,
+  "sha256": "c55df531c739b25a92a41f8f8fde9b80124faaacc5554639afe12ebf7ddc9bbd"
+ }
+}

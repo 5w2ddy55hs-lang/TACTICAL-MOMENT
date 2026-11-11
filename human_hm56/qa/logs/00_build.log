@@ -1,0 +1,53 @@
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+textures done {'geometry': 5.4, 'textures': 59.4}
+<REPO>/human_hm56/scripts/hm_hair.py:210: RuntimeWarning: divide by zero encountered in divide
+  alpha = 1 - np.clip((tvals - f0)/(1.0 - f0), 0, 1); alpha = alpha*alpha*(3 - 2*alpha)
+hair P0 H2 tris 1938 cap overlap left 0
+ERROR Draco mesh compression is not available because library could not be found at <REPO>/human_hm56/4.2/python/lib/python3.11/site-packages/libextern_draco.so
+18:56:46 | INFO: Starting glTF 2.0 export
+18:56:46 | INFO: Extracting primitive: TM_HM56_Body
+18:56:46 | INFO: Primitives created: 2
+18:56:46 | INFO: Extracting primitive: TM_HM56_Hair
+18:56:46 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+18:56:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+18:56:46 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+18:56:46 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+18:56:46 | INFO: Primitives created: 3
+18:56:46 | INFO: Extracting primitive: TM_HM56_Head
+18:56:46 | INFO: Primitives created: 1
+18:56:46 | INFO: Finished glTF 2.0 export in 0.6210691928863525 s
+Info: Total files 6 | Changed 6 | Failed 0
+
+Info: No new files have been packed
+Info: Saved "TM_HM56_PLAYER_P0_H2_KITA.blend"
+player TM_HM56_PLAYER_P0_H2_KITA 2.31 MB
+18:56:46 | INFO: Starting glTF 2.0 export
+18:56:46 | INFO: Extracting primitive: TM_HM56_Body
+18:56:46 | INFO: Primitives created: 2
+18:56:47 | INFO: Finished glTF 2.0 export in 0.5331497192382812 s
+
+18:56:47 | INFO: Starting glTF 2.0 export
+18:56:47 | INFO: Extracting primitive: TM_HM56_Body
+18:56:47 | INFO: Primitives created: 2
+18:56:47 | INFO: Finished glTF 2.0 export in 0.43623948097229004 s
+
+18:56:47 | INFO: Starting glTF 2.0 export
+18:56:47 | INFO: Extracting primitive: TM_HM56_Head
+18:56:47 | INFO: Primitives created: 1
+18:56:47 | INFO: Finished glTF 2.0 export in 0.03654360771179199 s
+
+18:56:48 | INFO: Starting glTF 2.0 export
+18:56:48 | INFO: Extracting primitive: TM_HM56_Hair
+18:56:48 | WARNING: The active Vertex Color will not be exported, as it is not used in the node tree of the material
+18:56:48 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+18:56:48 | WARNING: We are not managing this case for now (Vertex Color alpha without color)
+18:56:48 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+18:56:48 | INFO: Primitives created: 3
+18:56:48 | INFO: Finished glTF 2.0 export in 0.02965259552001953 s
+Info: Total files 8 | Changed 8 | Failed 0
+
+Info: No new files have been packed
+Info: Saved "TM_HM56_LIBRARY.blend"
+BUILD OK {'geometry': 5.4, 'textures': 59.4, 'hair': 31.5, 'players': 0.8, 'modules': 1.4, 'total': 98.4} models 7

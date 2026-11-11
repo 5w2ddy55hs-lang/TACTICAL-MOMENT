@@ -1,0 +1,8 @@
+# Binary research outputs (.blend/.glb/textures/renders/zip) contain source-derived material.
+# This repository is public: keep them out of git (see face_hair_fh53/README_JA.md).
+face_hair_fh53/build/
+__pycache__/
+face_hair_fh54/build/
+human_hm55/build/
+human_hm56/build/
+human_hm57/build/
