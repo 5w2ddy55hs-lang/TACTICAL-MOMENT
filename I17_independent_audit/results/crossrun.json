@@ -1,0 +1,312 @@
+{
+ "std_off": {
+  "runs": [
+   "std_off_1847",
+   "std_off_31337",
+   "std_off_4049_koB",
+   "std_off_600613",
+   "std_off_771",
+   "std_off_8081"
+  ],
+  "matches": 6,
+  "playMin": 433.2,
+  "simMin": 540.0,
+  "oppCarry_ge3": 52.2,
+  "oppCarry_eq2": 36.0,
+  "oppCarry_le1": 11.7,
+  "sameTarget_ge3_oppCarry": 39.3,
+  "ownCarry_2plus_chasing": 15.5,
+  "concEp": 6753,
+  "concEpOppCarryStart": 1080,
+  "concWin3s": 2894,
+  "concConceded10m": 1876,
+  "joint": 1366,
+  "jointWin3s": 285,
+  "jointConceded10m": 596,
+  "centralEmptyEp": 172,
+  "centralEmptyEpShot": 18,
+  "freeBehind": 0,
+  "flipsPerMin": 18.0,
+  "turnoversPerMin": 9.9,
+  "mode_own_carry": {
+   "attackShape": 65.8,
+   "other": 8.0,
+   "cover": 20.5,
+   "ball": 5.8
+  },
+  "mode_own_pass_flight": {
+   "other": 12.5,
+   "cover": 57.3,
+   "ball": 18.8,
+   "attackShape": 11.4
+  },
+  "mode_opp_carry": {
+   "cover": 64.1,
+   "other": 8.8,
+   "ball": 26.6,
+   "attackShape": 0.4
+  },
+  "passes": 4417,
+  "pass_pct": {
+   "target_control": 35.4,
+   "target_no_control": 8.7,
+   "teammate_other": 16.7,
+   "passer_retouch": 3.0,
+   "opponent": 24.0,
+   "out": 12.2
+  },
+  "targetNeverReceive_pct": 18.7,
+  "tc_next": {
+   "tc_next_self": 1190,
+   "tc_next_opp": 158,
+   "tc_next_team": 191,
+   "tc_next_out": 26
+  },
+  "throwIns": {
+   "n": 1006,
+   "target_control": 23,
+   "opponent": 446,
+   "out": 210,
+   "outToOppCorner": 83,
+   "targetNeverReceive": 94
+  },
+  "corners": 322,
+  "cornerOrigins": {
+   "defender_pass": 56,
+   "defender_throw_in": 83,
+   "defender_own_pass_or_dribble_then_uncontrolled_touch": 39,
+   "defender_uncontrolled_touch": 104,
+   "gk_save": 32,
+   "attacker_last": 3,
+   "defender_ctrl": 5
+  },
+  "cornerShot10s": 30,
+  "cornerGoal10s": 11,
+  "cornerAttFirst": 14,
+  "cornerAttInBoxMean": 0.0,
+  "goals": 87,
+  "shots": 344,
+  "goalLastTouch": {
+   "scorer_team": 63,
+   "conceding_GK": 15,
+   "none": 2,
+   "conceding_outfield": 7
+  },
+  "restartMin": 106.8,
+  "stops": []
+ },
+ "std_on": {
+  "runs": [
+   "std_on_1847",
+   "std_on_31337",
+   "std_on_4049_koB",
+   "std_on_600613",
+   "std_on_771",
+   "std_on_8081"
+  ],
+  "matches": 6,
+  "playMin": 433.5,
+  "simMin": 540.0,
+  "oppCarry_ge3": 53.8,
+  "oppCarry_eq2": 36.6,
+  "oppCarry_le1": 9.6,
+  "sameTarget_ge3_oppCarry": 40.4,
+  "ownCarry_2plus_chasing": 11.3,
+  "concEp": 6603,
+  "concEpOppCarryStart": 1055,
+  "concWin3s": 2747,
+  "concConceded10m": 1817,
+  "joint": 1335,
+  "jointWin3s": 172,
+  "jointConceded10m": 729,
+  "centralEmptyEp": 138,
+  "centralEmptyEpShot": 12,
+  "freeBehind": 0,
+  "flipsPerMin": 18.0,
+  "turnoversPerMin": 8.5,
+  "mode_own_carry": {
+   "attackShape": 72.7,
+   "cover": 15.3,
+   "other": 7.8,
+   "ball": 4.2
+  },
+  "mode_own_pass_flight": {
+   "other": 12.2,
+   "cover": 56.3,
+   "ball": 19.1,
+   "attackShape": 12.3
+  },
+  "mode_opp_carry": {
+   "cover": 64.4,
+   "ball": 27.4,
+   "other": 7.8,
+   "attackShape": 0.4
+  },
+  "passes": 4625,
+  "pass_pct": {
+   "target_control": 37.9,
+   "target_no_control": 8.2,
+   "teammate_other": 16.9,
+   "passer_retouch": 3.6,
+   "opponent": 21.4,
+   "out": 12.0
+  },
+  "targetNeverReceive_pct": 18.7,
+  "tc_next": {
+   "tc_next_self": 1371,
+   "tc_next_opp": 151,
+   "tc_next_team": 209,
+   "tc_next_out": 22
+  },
+  "throwIns": {
+   "n": 1039,
+   "target_control": 22,
+   "opponent": 437,
+   "out": 217,
+   "outToOppCorner": 85,
+   "targetNeverReceive": 87
+  },
+  "corners": 334,
+  "cornerOrigins": {
+   "defender_throw_in": 85,
+   "defender_pass": 51,
+   "defender_uncontrolled_touch": 116,
+   "defender_own_pass_or_dribble_then_uncontrolled_touch": 39,
+   "gk_save": 35,
+   "attacker_last": 2,
+   "defender_ctrl": 3,
+   "defender_dribble": 3
+  },
+  "cornerShot10s": 15,
+  "cornerGoal10s": 6,
+  "cornerAttFirst": 9,
+  "cornerAttInBoxMean": 0.0,
+  "goals": 60,
+  "shots": 335,
+  "goalLastTouch": {
+   "conceding_outfield": 7,
+   "scorer_team": 42,
+   "conceding_GK": 10,
+   "none": 1
+  },
+  "restartMin": 106.5,
+  "stops": []
+ },
+ "ck_off": {
+  "runs": [
+   "ck_off_1847",
+   "ck_off_31337",
+   "ck_off_600613",
+   "ck_off_771",
+   "ck_off_8081"
+  ],
+  "matches": 5,
+  "playMin": 239.6,
+  "simMin": 308.5,
+  "oppCarry_ge3": 54.5,
+  "oppCarry_eq2": 35.4,
+  "oppCarry_le1": 10.1,
+  "sameTarget_ge3_oppCarry": 41.0,
+  "ownCarry_2plus_chasing": 16.1,
+  "concEp": 4098,
+  "concEpOppCarryStart": 553,
+  "concWin3s": 1646,
+  "concConceded10m": 1162,
+  "joint": 743,
+  "jointWin3s": 170,
+  "jointConceded10m": 320,
+  "centralEmptyEp": 98,
+  "centralEmptyEpShot": 21,
+  "freeBehind": 0,
+  "flipsPerMin": 18.1,
+  "turnoversPerMin": 9.9,
+  "mode_own_carry": {
+   "attackShape": 65.6,
+   "other": 7.5,
+   "cover": 20.6,
+   "ball": 6.3
+  },
+  "mode_own_pass_flight": {
+   "other": 11.4,
+   "cover": 57.3,
+   "ball": 19.6,
+   "attackShape": 11.7
+  },
+  "mode_opp_carry": {
+   "cover": 63.3,
+   "other": 8.6,
+   "ball": 27.7,
+   "attackShape": 0.4
+  },
+  "passes": 2434,
+  "pass_pct": {
+   "target_control": 33.7,
+   "target_no_control": 9.0,
+   "teammate_other": 17.0,
+   "passer_retouch": 4.0,
+   "opponent": 25.3,
+   "out": 11.1
+  },
+  "targetNeverReceive_pct": 19.4,
+  "tc_next": {
+   "tc_next_self": 607,
+   "tc_next_opp": 80,
+   "tc_next_team": 108,
+   "tc_next_out": 25
+  },
+  "throwIns": {
+   "n": 622,
+   "target_control": 17,
+   "opponent": 300,
+   "out": 107,
+   "outToOppCorner": 48,
+   "targetNeverReceive": 52
+  },
+  "corners": 135,
+  "cornerOrigins": {
+   "defender_pass": 22,
+   "gk_save": 24,
+   "defender_throw_in": 48,
+   "defender_uncontrolled_touch": 24,
+   "defender_own_pass_or_dribble_then_uncontrolled_touch": 7,
+   "attacker_last": 8,
+   "defender_corner_clear": 1,
+   "defender_dribble": 1
+  },
+  "cornerShot10s": 20,
+  "cornerGoal10s": 5,
+  "cornerAttFirst": 47,
+  "cornerAttInBoxMean": 3.49,
+  "goals": 53,
+  "shots": 224,
+  "goalLastTouch": {
+   "conceding_GK": 9,
+   "scorer_team": 39,
+   "none": 1,
+   "conceding_outfield": 4
+  },
+  "restartMin": 69.0,
+  "stops": [
+   [
+    "ck_off_1847",
+    "I5_CK_MIXED_GROUP_NOT_CONNECTED",
+    36328
+   ],
+   [
+    "ck_off_600613",
+    "I5_CK_MIXED_GROUP_NOT_CONNECTED",
+    105210
+   ],
+   [
+    "ck_off_771",
+    "I5_CK_MIXED_GROUP_NOT_CONNECTED",
+    57055
+   ],
+   [
+    "ck_off_8081",
+    "I5_CK_MIXED_GROUP_NOT_CONNECTED",
+    63655
+   ]
+  ]
+ }
+}
