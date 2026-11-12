@@ -1,0 +1,36 @@
+diff -ruN k20/core/decision.mjs l21/core/decision.mjs
+--- k20/core/decision.mjs	2026-11-12 23:13:46.684684693 +0000
++++ l21/core/decision.mjs	2026-11-12 23:13:46.685238318 +0000
+@@ -44,6 +44,11 @@
+   // Outfield only: the goalkeeper keeps the original rule (GK work is owned by another track).
+   const witnessedOwnTouch=p.role==='GK'||!!p.observedTouch&&p.observedTouch.players.length>0&&p.observedTouch.players.every(q=>q.team===p.team);
+   const ourPossession=visibleHolder?visibleHolder.team===p.team:nearFriends.length>0&&!nearEnemies.length&&witnessedOwnTouch;
++  // L21 research (NOT adopted): while possession is unknown (proximity said ours, no witnessed own touch), still yield the
++  // chase to a CURRENTLY SEEN teammate that is closer to the ball and evidently collecting it (within foot reach 1.1 m or
++  // closing on the ball at >=0.5 m/s relative to the observed ball motion). Observed positions/velocities only; no intent.
++  const unknownPossession=!visibleHolder&&nearFriends.length>0&&!nearEnemies.length&&!witnessedOwnTouch;
++  const evidentCollector=unknownPossession&&nearFriends.some(q=>q.seenTick===o.tick&&dist(q,bp)<db&&(dist(q,bp)<=1.1||(()=>{const d=dist(q,bp)||1e-6,ux=(bp.x-q.x)/d,uy=(bp.y-q.y)/d,bvx=ball.velocityKnown?ball.vx:0,bvy=ball.velocityKnown?ball.vy:0;return (q.vx-bvx)*ux+(q.vy-bvy)*uy>=0.5;})()));
+   const theirPossession=nearEnemies.length>0&&!nearFriends.length;
+   const motion=knownBallMotion(ball),speed=motion?.speed??null;
+   // A fresh nearby low ball permits an uncertain attempt, not a slow-ball or control claim.
+@@ -61,7 +66,7 @@
+    add(kind,target,score,reason,evidence);
+   }else{
+    add(ourPossession?'support':'cover',ourPossession?support:cover,0.65,'private_shape_and_possession_hypothesis');
+-   let score=1.65-db*0.048+c.press*0.35-(ourPossession&&!(propose&&admissibleReceptionEvidence(o,nearFriends,visibleHolder,motion,reception))?1.5:0)-age*0.4;
++   let score=1.65-db*0.048+c.press*0.35-((ourPossession||evidentCollector)&&!(propose&&admissibleReceptionEvidence(o,nearFriends,visibleHolder,motion,reception))?1.5:0)-age*0.4;
+    const aheadFriends=friends.filter(q=>dist(q,bp)+2<db).length;score-=Math.min(2,aheadFriends)*0.22;
+    if(!canPlay&&!visibleHolder)add(theirPossession?'press':motion!==null&&speed>3?'receive':'intercept',intercept,score,reception?.reason??'observed_ball_eta_and_teammates',{eta,...(reception?{reception}: {})});
+    if(ourPossession&&p.role==='CB'&&enemies.every(q=>dist(p,q)>9))add('advance_support',{x:support.x+p.dir*9*c.cbAdvance,y:support.y},0.55+c.cbAdvance*0.6,'cb_self_assessed_space');
+diff -ruN k20/core/pass_build_identity.mjs l21/core/pass_build_identity.mjs
+--- k20/core/pass_build_identity.mjs	2026-11-12 23:13:46.690808188 +0000
++++ l21/core/pass_build_identity.mjs	2026-11-12 23:13:46.692375435 +0000
+@@ -1,4 +1,4 @@
+-export const PASS_BUILD_SHA256='67f6b2ed24b009a8518ee456f2f714afec40929646fb6fe49ad220f18ab070fa';
+-export const PASS_SAVE_SCHEMA='TM_RESEARCH_K20_POSSESSION_EVIDENCE_SAVE/1';
+-export const PASS_ENGINE='TM_RESEARCH_K20_POSSESSION_EVIDENCE_ON_I8_STANDARD';
+-export const PASS_RESULT_SCHEMA='TM_RESEARCH_K20_POSSESSION_EVIDENCE_RESULT/1';
++export const PASS_BUILD_SHA256='df3c076d952fd590b648a207f38fc2e33e791a945476d09963e8db68b8d545e2';
++export const PASS_SAVE_SCHEMA='TM_RESEARCH_L21_EVIDENT_COLLECTOR_SAVE/1';
++export const PASS_ENGINE='TM_RESEARCH_L21_EVIDENT_COLLECTOR_ON_I8_STANDARD';
++export const PASS_RESULT_SCHEMA='TM_RESEARCH_L21_EVIDENT_COLLECTOR_RESULT/1';

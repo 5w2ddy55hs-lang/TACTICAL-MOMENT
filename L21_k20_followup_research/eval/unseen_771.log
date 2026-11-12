@@ -1,0 +1,36 @@
+{
+ "seed": 771,
+ "decisions": 234,
+ "kindChanged": 234,
+ "kindChanges": {
+  "support->cover": 158,
+  "advance_support->cover": 49,
+  "support->intercept": 3,
+  "advance_support->receive": 2,
+  "support->receive": 22
+ },
+ "simultaneousWithOpponent": 112,
+ "controllerVisibleNow": 164,
+ "witnessedOpponentLast": 42,
+ "noWitness": 80,
+ "ctrlKinds": {
+  "pass": 57,
+  "control": 11,
+  "dribble": 130,
+  "shoot": 13,
+  "restart_kick": 23
+ },
+ "episodes": 67,
+ "episodesWithKindChange": 67,
+ "recognitionDelayTicks": {
+  "n": 57,
+  "p50": 5,
+  "p90": 8,
+  "max": 10
+ },
+ "endedWithoutRecognition": 71,
+ "endReasons": {
+  "witnessed_own_touch": 57,
+  "proximity_no_longer_ours": 71
+ }
+}

@@ -1,0 +1,3 @@
+standard | flips/min | 18.0 | opp_carry:att 0.4% ball 26.6% | loose:att 10.8% ball 24.3% | own_pass_flight:att 11.4% ball 18.8% | opp_pass_flight:att 4.4% ball 23.0% | own_carry:att 65.8% ball 5.8%
+k20 | flips/min | 14.31 | opp_carry:att 0.1% ball 27.2% | loose:att 7.5% ball 25.1% | own_pass_flight:att 10.7% ball 19.4% | opp_pass_flight:att 0.1% ball 24.0% | own_carry:att 64.6% ball 6.0%
+l21 | flips/min | 14.56 | opp_carry:att 0.1% ball 26.4% | loose:att 7.4% ball 24.7% | own_pass_flight:att 10.8% ball 18.8% | opp_pass_flight:att 0.1% ball 23.5% | own_carry:att 63.9% ball 5.6%
