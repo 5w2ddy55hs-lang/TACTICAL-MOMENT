@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>K20 Possession Compare</title>
+<style>
+:root{--bg:#f6f6f3;--panel:#fff;--ink:#1d1f22;--muted:#666b72;--line:#d9dbd6;--pitch:#3f7d4a;--pitchline:#e8f0e8;--accent:#2b5fd9}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#15171a;--panel:#1e2125;--ink:#e8e9eb;--muted:#9aa0a8;--line:#33373d;--pitch:#2e5a36;--pitchline:#cfe0cf;--accent:#7ea2ff}}
+:root[data-theme="dark"]{--bg:#15171a;--panel:#1e2125;--ink:#e8e9eb;--muted:#9aa0a8;--line:#33373d;--pitch:#2e5a36;--pitchline:#cfe0cf;--accent:#7ea2ff}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.5 system-ui,-apple-system,"Hiragino Sans","Noto Sans JP",sans-serif}
+header{padding:12px 16px;border-bottom:1px solid var(--line);background:var(--panel)}h1{font-size:17px;margin:0}
+.sub{color:var(--muted);font-size:12px}
+main{display:grid;grid-template-columns:300px 1fr;gap:12px;padding:12px 16px}
+@media(max-width:860px){main{grid-template-columns:1fr}}
+#list{background:var(--panel);border:1px solid var(--line);border-radius:8px;max-height:82vh;overflow:auto}
+#list button{display:block;width:100%;text-align:left;border:0;border-bottom:1px solid var(--line);background:none;color:var(--ink);padding:8px 10px;cursor:pointer;font:inherit;font-size:13px}
+#list button.on{background:color-mix(in srgb,var(--accent) 16%,transparent)}
+#list .grp{padding:6px 10px;font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;background:var(--bg)}
+.panes{display:grid;grid-template-columns:1fr;gap:12px}.panes.two{grid-template-columns:1fr 1fr}
+@media(max-width:1100px){.panes.two{grid-template-columns:1fr}}
+.pane{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:10px}
+.pane h2{font-size:14px;margin:0 0 4px}.cfg{font-size:12px;color:var(--muted)}
+canvas{width:100%;height:auto;display:block;border-radius:4px;margin-top:6px}
+.ctl{display:flex;flex-wrap:wrap;gap:8px;align-items:center;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:8px 10px;margin-bottom:12px}
+.ctl input[type=range]{flex:1;min-width:160px}.ctl button,.ctl select{font:inherit;padding:4px 10px;border-radius:6px;border:1px solid var(--line);background:var(--bg);color:var(--ink);cursor:pointer}
+.ev{font:12px/1.45 ui-monospace,Menlo,monospace;max-height:170px;overflow:auto;margin-top:6px;border-top:1px solid var(--line);padding-top:4px}
+.ev div.past{color:var(--muted)}.ev div.now{color:var(--accent);font-weight:600}
+.note{font-size:13px;margin:4px 0;white-space:pre-wrap}
+.legend{display:flex;flex-wrap:wrap;gap:10px;font-size:12px;color:var(--muted);margin-top:6px}.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:4px;vertical-align:-1px}
+</style></head><body>
+<header><h1>TACTICAL MOMENT K20 保持の推測：同一状態比較</h1><div class="sub">左＝I17標準、右＝K20隔離候補（未採用）。同じ保存状態から開始（zonalDefence=false）。橙枠の水色＝球2.1m以内の味方だけで「自チーム保持」とした support系判断（左）。黒＝K20で本人が最後に見た接触が自チームでないため保持としない判断（右）。点線＝判断目標。</div></header>
+<main><nav id="list"></nav><section>
+<div class="ctl"><button id="play">▶ 再生</button><select id="speed"><option value="0.25">0.25×</option><option value="0.5">0.5×</option><option value="1" selected>1×</option><option value="2">2×</option></select>
+<input type="range" id="scrub" min="0" max="0" value="0"><span id="clock" class="cfg"></span>
+<label class="cfg"><input type="checkbox" id="tg" checked> 目標線</label><label class="cfg"><input type="checkbox" id="lb" checked> 番号</label></div>
+<div id="panes" class="panes"></div>
+<div class="legend" id="legend"></div>
+</section></main>
+<script>
+const CLIPS=/*CLIPS*/[];
+const COL={press:'#e5484d',intercept:'#f08c00',receive:'#e6c700',save:'#e5484d',cover:'#3b82f6',support:'#22a06b',advance_support:'#0f766e',cover_exchange:'#8b5cf6',k20_unknown:'#111111',prox_ours:'#7dd3fc',restart_position:'#9aa0a8',throw_position:'#9aa0a8',scan:'#bbb',dribble:'#ff6bcb',pass:'#ff6bcb',gk_recover:'#444',gk_support:'#444'};
+const colOf=k=>COL[k]||'#888';
+const list=document.getElementById('list'),panes=document.getElementById('panes'),scrub=document.getElementById('scrub'),clockEl=document.getElementById('clock');
+let cur=[],f=0,playing=false,last=0;
+const groups={};CLIPS.forEach((c,i)=>{const g=c.id.split('-')[0];(groups[g]=groups[g]||[]).push(i)});
+const GN={S:'同一保存状態からの局所比較（I17標準 vs K20候補、zonalDefence=false）',C:'1 球集中・共同プレス',D:'2 寄せ・カバー・切替',P:'3 パス→受球→次プレー',K:'4 CK・再開',X:'対照（機能した例）'};
+for(const g of Object.keys(groups)){const h=document.createElement('div');h.className='grp';h.textContent=GN[g]||g;list.appendChild(h);
+ for(const i of groups[g]){const c=CLIPS[i];const b=document.createElement('button');b.textContent=c.id+'  '+c.title;b.onclick=()=>select(i);b.dataset.i=i;list.appendChild(b);}}
+document.getElementById('legend').innerHTML=Object.entries({prox_ours:'近接のみで保持→support系',k20_unknown:'K20: 保持不明',press:'press',intercept:'intercept',receive:'receive',cover:'cover',support:'support',advance_support:'advance_support',cover_exchange:'cover_exchange',restart_position:'restart'}).map(([k,v])=>`<span><i style="background:${COL[k]}"></i>${v}</span>`).join('')+'<span>A=丸・白枠 / B=四角・黒枠 / 太枠=注目選手</span>';
+function select(i){const c=CLIPS[i];cur=[c];if(c.pair!=null){const j=CLIPS.findIndex(x=>x.id===c.pair);if(j>=0)cur.push(CLIPS[j]);}
+ [...list.querySelectorAll('button')].forEach(b=>b.classList.toggle('on',+b.dataset.i===i));
+ panes.className='panes'+(cur.length>1?' two':'');panes.innerHTML='';
+ cur.forEach((c,k)=>{const d=document.createElement('div');d.className='pane';d.innerHTML=`<h2>${c.id} ${c.title}</h2><div class="cfg">${c.variant} / ${c.profile} (zonalDefence=${c.zonal}) / seed ${c.seed} / run ${c.run} / tick ${c.from}–${c.to}</div><div class="note">${c.note}</div><canvas width="1050" height="680"></canvas><div class="ev"></div>`;panes.appendChild(d);c._cv=d.querySelector('canvas');c._ev=d.querySelector('.ev');
+  c._ev.innerHTML=c.events.map(e=>`<div data-t="${e.t}">${e.t} (${fmt(e.t)}) ${e.s}</div>`).join('');});
+ scrub.max=Math.max(...cur.map(c=>c.frames.length-1));f=0;scrub.value=0;draw();}
+const fmt=t=>{const s=t/20;return Math.floor(s/60)+':'+String((s%60).toFixed(1)).padStart(4,'0')};
+function draw(){for(const c of cur){const fr=c.frames[Math.min(f,c.frames.length-1)],cv=c._cv,x=cv.getContext('2d'),S=10,sc=c.scale;const css=getComputedStyle(document.documentElement);
+ x.fillStyle=css.getPropertyValue('--pitch');x.fillRect(0,0,1050,680);x.strokeStyle=css.getPropertyValue('--pitchline');x.lineWidth=2;x.strokeRect(1,1,1048,678);
+ x.beginPath();x.moveTo(525,0);x.lineTo(525,680);x.stroke();x.beginPath();x.arc(525,340,91.5,0,7);x.stroke();
+ for(const gx of [0,1050]){const s=gx?-1:1;x.strokeRect(gx===0?0:1050-165,138.4,165,403.2);x.strokeRect(gx===0?0:1050-55,248.4,55,183.2);x.beginPath();x.moveTo(gx,303.4);x.lineTo(gx+s*-1,303.4);x.stroke();x.fillStyle='#fff';x.fillRect(gx===0?0:1046,303.4,4,73.2);}
+ const tick=c.from+Math.min(f,c.frames.length-1);
+ if(document.getElementById('tg').checked){x.setLineDash([4,4]);x.lineWidth=1;for(let j=0;j<22;j++){const k=c.dict[fr.d[j]];if(!k||k==='none')continue;x.strokeStyle=colOf(k);x.beginPath();x.moveTo(fr.p[2*j]/sc*S,fr.p[2*j+1]/sc*S);x.lineTo(fr.t[2*j]/sc*S,fr.t[2*j+1]/sc*S);x.stroke();}x.setLineDash([]);}
+ // ball trail
+ x.fillStyle='rgba(255,255,255,.35)';for(let k=Math.max(0,f-30);k<Math.min(f,c.frames.length);k+=3){const q=c.frames[k].p;x.beginPath();x.arc(q[44]/sc*S,q[45]/sc*S,2,0,7);x.fill();}
+ for(let j=0;j<22;j++){const px=fr.p[2*j]/sc*S,py=fr.p[2*j+1]/sc*S,k=c.dict[fr.d[j]];x.beginPath();if(j<11)x.arc(px,py,9,0,7);else x.rect(px-8,py-8,16,16);x.fillStyle=colOf(k);x.fill();x.lineWidth=c.focus.includes(c.ids[j])?4:2;x.strokeStyle=j<11?'#fff':'#000';x.stroke();
+  if(document.getElementById('lb').checked){x.fillStyle='#fff';x.font='bold 11px system-ui';x.fillText(c.ids[j].slice(1),px+10,py-8);}}
+ const bz=fr.p[46]/sc;x.beginPath();x.arc(fr.p[44]/sc*S,fr.p[45]/sc*S,5+Math.min(6,bz*2),0,7);x.fillStyle='#fff';x.fill();x.strokeStyle='#000';x.lineWidth=1.5;x.stroke();
+ x.fillStyle='rgba(0,0,0,.55)';x.fillRect(6,6,250,22);x.fillStyle='#fff';x.font='13px system-ui';x.fillText(`tick ${tick}  ${fmt(tick)}  ${c.phaseCodes[fr.ph]}`,12,22);
+ for(const dv of c._ev.children){const t=+dv.dataset.t;dv.className=t<tick?'past':t===tick?'now':'';}}
+ clockEl.textContent=cur.length?`frame ${f}/${scrub.max}`:'';}
+scrub.oninput=()=>{f=+scrub.value;draw();};
+document.getElementById('play').onclick=()=>{playing=!playing;document.getElementById('play').textContent=playing?'❚❚ 停止':'▶ 再生';last=performance.now();if(playing)requestAnimationFrame(loop);};
+document.getElementById('tg').onchange=draw;document.getElementById('lb').onchange=draw;
+let acc=0;function loop(now){if(!playing)return;acc+=(now-last)*+document.getElementById('speed').value;last=now;while(acc>=50){acc-=50;f++;}if(f>+scrub.max){f=+scrub.max;playing=false;document.getElementById('play').textContent='▶ 再生';}scrub.value=f;draw();if(playing)requestAnimationFrame(loop);}
+if(CLIPS.length)select(0);
+</script></body></html>

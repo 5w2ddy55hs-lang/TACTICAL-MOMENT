@@ -1,0 +1,84 @@
+{
+ "seed": 31337,
+ "ticks": 108000,
+ "outfieldDecisions": 360913,
+ "confusion": {
+  "prox=not|k20=not|truth=own_control|witnessedLast=true": 78543,
+  "prox=not|k20=not|truth=opp_control|witnessedLast=true": 113177,
+  "prox=ours|k20=not|truth=opp_control|witnessedLast=true": 2669,
+  "prox=ours|k20=ours|truth=own_control|witnessedLast=true": 46540,
+  "prox=not|k20=not|truth=none|witnessedLast=false": 45776,
+  "prox=ours|k20=ours|truth=none|witnessedLast=false": 2258,
+  "prox=ours|k20=not|truth=none|witnessedLast=false": 2991,
+  "prox=not|k20=not|truth=uncontrolled|witnessedLast=true": 50593,
+  "prox=ours|k20=ours|truth=uncontrolled|witnessedLast=true": 4895,
+  "prox=not|k20=not|truth=uncontrolled|witnessedLast=false": 2044,
+  "prox=ours|k20=ours|truth=own_control|witnessedLast=false": 238,
+  "prox=not|k20=not|truth=opp_control|witnessedLast=false": 6458,
+  "prox=not|k20=not|truth=own_control|witnessedLast=false": 2274,
+  "prox=ours|k20=not|truth=uncontrolled|witnessedLast=true": 1698,
+  "prox=ours|k20=not|truth=uncontrolled|witnessedLast=false": 100,
+  "prox=ours|k20=not|truth=own_control|witnessedLast=false": 111,
+  "prox=ours|k20=not|truth=opp_control|witnessedLast=false": 249,
+  "prox=ours|k20=ours|truth=opp_control|witnessedLast=false": 122,
+  "prox=ours|k20=ours|truth=uncontrolled|witnessedLast=false": 142,
+  "prox=ours|k20=not|truth=own_control|witnessedLast=true": 35
+ },
+ "kindChanges": {
+  "support->cover": 4432,
+  "support->receive": 1509,
+  "advance_support->receive": 235,
+  "advance_support->cover": 1366,
+  "cover_exchange->receive": 57,
+  "support->intercept": 204,
+  "cover_exchange->intercept": 13,
+  "cover_exchange->cover": 7,
+  "advance_support->intercept": 22
+ },
+ "changedDecisions": 7845,
+ "proxOurs_total": 62048,
+ "proxOurs_k20Not_byTruth": {
+  "own_control": 146,
+  "opp_control": 2918,
+  "uncontrolled": 1798,
+  "none": 2991
+ },
+ "proxOurs_k20Ours_byTruth": {
+  "own_control": 46778,
+  "opp_control": 122,
+  "uncontrolled": 5037,
+  "none": 2258
+ },
+ "unseenControlsSelected": [
+  {
+   "t": 6454,
+   "p": "B04",
+   "lastTouch": {
+    "t": 6431,
+    "player": "A08",
+    "team": "A",
+    "ctrl": true
+   }
+  },
+  {
+   "t": 6801,
+   "p": "A01",
+   "lastTouch": {
+    "t": 6799,
+    "player": "B09",
+    "team": "B",
+    "ctrl": true
+   }
+  },
+  {
+   "t": 7931,
+   "p": "A03",
+   "lastTouch": {
+    "t": 7905,
+    "player": "B09",
+    "team": "B",
+    "ctrl": true
+   }
+  }
+ ]
+}

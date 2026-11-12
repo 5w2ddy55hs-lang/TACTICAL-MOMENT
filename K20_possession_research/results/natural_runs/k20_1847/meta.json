@@ -1,0 +1,809 @@
+{
+ "variant": "branch:/tmp/claude-0/-home-user-TACTICAL-MOMENT/a6870839-969d-594b-91f5-442027cb70e1/scratchpad/k20/branch",
+ "profile": "baseline",
+ "seed": 1847,
+ "extraOptions": {},
+ "activeConfig": {
+  "halfTicks": 54000,
+  "perceptionError": true,
+  "kickoffTeam": "A",
+  "refereeReviewAdvantage": false,
+  "zonalDefence": false,
+  "zonalDefenceSide": "both",
+  "fiveLaneBoundaries": [
+   0,
+   13.6,
+   27.2,
+   40.8,
+   54.4,
+   68
+  ]
+ },
+ "schema": "TM_MATCH_LAB_SAVE/22-api09-r07b-lrh1-rcn1-ltc1-nac1-lur1-v3-pai1-tct1-bpc1-r2-ebi1-research-20261109-grc1-flc2-edr1-dpg1-opc1-soc23-attention1",
+ "engine": "NMAI-LAB-20261109-api09-r07b-lrh1-rcn1-ltc1-nac1-lur1-v3-pai1-tct1-bpc1-r2-ebi1-research-grc1-flc2-edr1-dpg1-opc1-soc23-attention1",
+ "ids": [
+  "A00",
+  "A01",
+  "A02",
+  "A03",
+  "A04",
+  "A05",
+  "A06",
+  "A07",
+  "A08",
+  "A09",
+  "A10",
+  "B00",
+  "B01",
+  "B02",
+  "B03",
+  "B04",
+  "B05",
+  "B06",
+  "B07",
+  "B08",
+  "B09",
+  "B10"
+ ],
+ "roles": [
+  "GK",
+  "CB",
+  "CB",
+  "FB",
+  "FB",
+  "DM",
+  "CM",
+  "CM",
+  "WG",
+  "WG",
+  "ST",
+  "GK",
+  "CB",
+  "CB",
+  "FB",
+  "FB",
+  "DM",
+  "CM",
+  "CM",
+  "WG",
+  "WG",
+  "ST"
+ ],
+ "abilities": [
+  {
+   "pace": 62,
+   "acceleration": 62,
+   "passing": 62,
+   "shooting": 62,
+   "control": 62,
+   "vision": 62,
+   "decision": 62,
+   "stamina": 62,
+   "goalkeeping": 76
+  },
+  {
+   "pace": 66,
+   "acceleration": 66,
+   "passing": 66,
+   "shooting": 66,
+   "control": 66,
+   "vision": 66,
+   "decision": 66,
+   "stamina": 66,
+   "goalkeeping": 15
+  },
+  {
+   "pace": 70,
+   "acceleration": 70,
+   "passing": 70,
+   "shooting": 70,
+   "control": 70,
+   "vision": 70,
+   "decision": 70,
+   "stamina": 70,
+   "goalkeeping": 15
+  },
+  {
+   "pace": 74,
+   "acceleration": 74,
+   "passing": 74,
+   "shooting": 74,
+   "control": 74,
+   "vision": 74,
+   "decision": 74,
+   "stamina": 74,
+   "goalkeeping": 15
+  },
+  {
+   "pace": 62,
+   "acceleration": 62,
+   "passing": 62,
+   "shooting": 62,
+   "control": 62,
+   "vision": 62,
+   "decision": 62,
+   "stamina": 62,
+   "goalkeeping": 15
+  },
+  {
+   "pace": 66,
+   "acceleration": 66,
+   "passing": 66,
+   "shooting": 66,
+   "control": 66,
+   "vision": 66,
+   "decision": 66,
+   "stamina": 66,
+   "goalkeeping": 15
+  },
+  {
+   "pace": 70,
+   "acceleration": 70,
+   "passing": 70,
+   "shooting": 70,
+   "control": 70,
+   "vision": 70,
+   "decision": 70,
+   "stamina": 70,
+   "goalkeeping": 15
+  },
+  {
+   "pace": 74,
+   "acceleration": 74,
+   "passing": 74,
+   "shooting": 74,
+   "control": 74,
+   "vision": 74,
+   "decision": 74,
+   "stamina": 74,
+   "goalkeeping": 15
+  },
+  {
+   "pace": 62,
+   "acceleration": 62,
+   "passing": 62,
+   "shooting": 62,
+   "control": 62,
+   "vision": 62,
+   "decision": 62,
+   "stamina": 62,
+   "goalkeeping": 15
+  },
+  {
+   "pace": 66,
+   "acceleration": 66,
+   "passing": 66,
+   "shooting": 66,
+   "control": 66,
+   "vision": 66,
+   "decision": 66,
+   "stamina": 66,
+   "goalkeeping": 15
+  },
+  {
+   "pace": 70,
+   "acceleration": 70,
+   "passing": 70,
+   "shooting": 70,
+   "control": 70,
+   "vision": 70,
+   "decision": 70,
+   "stamina": 70,
+   "goalkeeping": 15
+  },
+  {
+   "pace": 62,
+   "acceleration": 62,
+   "passing": 62,
+   "shooting": 62,
+   "control": 62,
+   "vision": 62,
+   "decision": 62,
+   "stamina": 62,
+   "goalkeeping": 76
+  },
+  {
+   "pace": 66,
+   "acceleration": 66,
+   "passing": 66,
+   "shooting": 66,
+   "control": 66,
+   "vision": 66,
+   "decision": 66,
+   "stamina": 66,
+   "goalkeeping": 15
+  },
+  {
+   "pace": 70,
+   "acceleration": 70,
+   "passing": 70,
+   "shooting": 70,
+   "control": 70,
+   "vision": 70,
+   "decision": 70,
+   "stamina": 70,
+   "goalkeeping": 15
+  },
+  {
+   "pace": 74,
+   "acceleration": 74,
+   "passing": 74,
+   "shooting": 74,
+   "control": 74,
+   "vision": 74,
+   "decision": 74,
+   "stamina": 74,
+   "goalkeeping": 15
+  },
+  {
+   "pace": 62,
+   "acceleration": 62,
+   "passing": 62,
+   "shooting": 62,
+   "control": 62,
+   "vision": 62,
+   "decision": 62,
+   "stamina": 62,
+   "goalkeeping": 15
+  },
+  {
+   "pace": 66,
+   "acceleration": 66,
+   "passing": 66,
+   "shooting": 66,
+   "control": 66,
+   "vision": 66,
+   "decision": 66,
+   "stamina": 66,
+   "goalkeeping": 15
+  },
+  {
+   "pace": 70,
+   "acceleration": 70,
+   "passing": 70,
+   "shooting": 70,
+   "control": 70,
+   "vision": 70,
+   "decision": 70,
+   "stamina": 70,
+   "goalkeeping": 15
+  },
+  {
+   "pace": 74,
+   "acceleration": 74,
+   "passing": 74,
+   "shooting": 74,
+   "control": 74,
+   "vision": 74,
+   "decision": 74,
+   "stamina": 74,
+   "goalkeeping": 15
+  },
+  {
+   "pace": 62,
+   "acceleration": 62,
+   "passing": 62,
+   "shooting": 62,
+   "control": 62,
+   "vision": 62,
+   "decision": 62,
+   "stamina": 62,
+   "goalkeeping": 15
+  },
+  {
+   "pace": 66,
+   "acceleration": 66,
+   "passing": 66,
+   "shooting": 66,
+   "control": 66,
+   "vision": 66,
+   "decision": 66,
+   "stamina": 66,
+   "goalkeeping": 15
+  },
+  {
+   "pace": 70,
+   "acceleration": 70,
+   "passing": 70,
+   "shooting": 70,
+   "control": 70,
+   "vision": 70,
+   "decision": 70,
+   "stamina": 70,
+   "goalkeeping": 15
+  }
+ ],
+ "saves": [
+  {
+   "tick": 6000,
+   "file": "save_6000.json"
+  },
+  {
+   "tick": 12000,
+   "file": "save_12000.json"
+  },
+  {
+   "tick": 18000,
+   "file": "save_18000.json"
+  },
+  {
+   "tick": 24000,
+   "file": "save_24000.json"
+  },
+  {
+   "tick": 30000,
+   "file": "save_30000.json"
+  },
+  {
+   "tick": 36000,
+   "file": "save_36000.json"
+  },
+  {
+   "tick": 42000,
+   "file": "save_42000.json"
+  },
+  {
+   "tick": 48000,
+   "file": "save_48000.json"
+  },
+  {
+   "tick": 54000,
+   "file": "save_54000.json"
+  },
+  {
+   "tick": 60000,
+   "file": "save_60000.json"
+  },
+  {
+   "tick": 66000,
+   "file": "save_66000.json"
+  },
+  {
+   "tick": 72000,
+   "file": "save_72000.json"
+  },
+  {
+   "tick": 78000,
+   "file": "save_78000.json"
+  },
+  {
+   "tick": 84000,
+   "file": "save_84000.json"
+  },
+  {
+   "tick": 90000,
+   "file": "save_90000.json"
+  },
+  {
+   "tick": 96000,
+   "file": "save_96000.json"
+  },
+  {
+   "tick": 102000,
+   "file": "save_102000.json"
+  }
+ ],
+ "crash": null,
+ "finalTick": 108000,
+ "score": {
+  "A": 6,
+  "B": 5
+ },
+ "stats": {
+  "A": {
+   "passes": 417,
+   "shots": 28,
+   "dribbles": 1351,
+   "contacts": 2952,
+   "interceptions": 63,
+   "miscontrols": 141,
+   "gkContacts": 9,
+   "throwIns": 76,
+   "keeperCatches": 5,
+   "keeperReleases": 5,
+   "offsides": 0
+  },
+  "B": {
+   "passes": 486,
+   "shots": 27,
+   "dribbles": 1343,
+   "contacts": 2826,
+   "interceptions": 81,
+   "miscontrols": 169,
+   "gkContacts": 13,
+   "throwIns": 87,
+   "keeperCatches": 3,
+   "keeperReleases": 3,
+   "offsides": 0
+  }
+ },
+ "result": {
+  "schema": "TM_MATCH_RESULT/1",
+  "engine": "NMAI-LAB-20261109-api09-r07b-lrh1-rcn1-ltc1-nac1-lur1-v3-pai1-tct1-bpc1-r2-ebi1-research-grc1-flc2-edr1-dpg1-opc1-soc23-attention1",
+  "matchId": "lab-1847",
+  "status": "final",
+  "seed": 1847,
+  "score": {
+   "A": 6,
+   "B": 5
+  },
+  "ticks": 108000,
+  "matchSeconds": 5400,
+  "stats": {
+   "A": {
+    "passes": 417,
+    "shots": 28,
+    "dribbles": 1351,
+    "contacts": 2952,
+    "interceptions": 63,
+    "miscontrols": 141,
+    "gkContacts": 9,
+    "throwIns": 76,
+    "keeperCatches": 5,
+    "keeperReleases": 5,
+    "offsides": 0
+   },
+   "B": {
+    "passes": 486,
+    "shots": 27,
+    "dribbles": 1343,
+    "contacts": 2826,
+    "interceptions": 81,
+    "miscontrols": 169,
+    "gkContacts": 13,
+    "throwIns": 87,
+    "keeperCatches": 3,
+    "keeperReleases": 3,
+    "offsides": 0
+   }
+  },
+  "eventCount": 18199,
+  "eventDigest": "7977a70e001a3093",
+  "playerMinutes": [
+   {
+    "id": "A00",
+    "team": "A",
+    "minutes": 90
+   },
+   {
+    "id": "A01",
+    "team": "A",
+    "minutes": 90
+   },
+   {
+    "id": "A02",
+    "team": "A",
+    "minutes": 90
+   },
+   {
+    "id": "A03",
+    "team": "A",
+    "minutes": 90
+   },
+   {
+    "id": "A04",
+    "team": "A",
+    "minutes": 90
+   },
+   {
+    "id": "A05",
+    "team": "A",
+    "minutes": 90
+   },
+   {
+    "id": "A06",
+    "team": "A",
+    "minutes": 90
+   },
+   {
+    "id": "A07",
+    "team": "A",
+    "minutes": 90
+   },
+   {
+    "id": "A08",
+    "team": "A",
+    "minutes": 90
+   },
+   {
+    "id": "A09",
+    "team": "A",
+    "minutes": 90
+   },
+   {
+    "id": "A10",
+    "team": "A",
+    "minutes": 90
+   },
+   {
+    "id": "B00",
+    "team": "B",
+    "minutes": 90
+   },
+   {
+    "id": "B01",
+    "team": "B",
+    "minutes": 90
+   },
+   {
+    "id": "B02",
+    "team": "B",
+    "minutes": 90
+   },
+   {
+    "id": "B03",
+    "team": "B",
+    "minutes": 90
+   },
+   {
+    "id": "B04",
+    "team": "B",
+    "minutes": 90
+   },
+   {
+    "id": "B05",
+    "team": "B",
+    "minutes": 90
+   },
+   {
+    "id": "B06",
+    "team": "B",
+    "minutes": 90
+   },
+   {
+    "id": "B07",
+    "team": "B",
+    "minutes": 90
+   },
+   {
+    "id": "B08",
+    "team": "B",
+    "minutes": 90
+   },
+   {
+    "id": "B09",
+    "team": "B",
+    "minutes": 90
+   },
+   {
+    "id": "B10",
+    "team": "B",
+    "minutes": 90
+   }
+  ],
+  "playerState": [
+   {
+    "id": "A00",
+    "team": "A",
+    "originalFitness": 1,
+    "finalEnergy": 0.8740766934362068,
+    "sourceId": null
+   },
+   {
+    "id": "A01",
+    "team": "A",
+    "originalFitness": 1,
+    "finalEnergy": 0.7358206130096195,
+    "sourceId": null
+   },
+   {
+    "id": "A02",
+    "team": "A",
+    "originalFitness": 1,
+    "finalEnergy": 0.7381410856460706,
+    "sourceId": null
+   },
+   {
+    "id": "A03",
+    "team": "A",
+    "originalFitness": 1,
+    "finalEnergy": 0.7689182089105013,
+    "sourceId": null
+   },
+   {
+    "id": "A04",
+    "team": "A",
+    "originalFitness": 1,
+    "finalEnergy": 0.7548297293808987,
+    "sourceId": null
+   },
+   {
+    "id": "A05",
+    "team": "A",
+    "originalFitness": 1,
+    "finalEnergy": 0.6765359638989941,
+    "sourceId": null
+   },
+   {
+    "id": "A06",
+    "team": "A",
+    "originalFitness": 1,
+    "finalEnergy": 0.6750181459820919,
+    "sourceId": null
+   },
+   {
+    "id": "A07",
+    "team": "A",
+    "originalFitness": 1,
+    "finalEnergy": 0.6876299087955425,
+    "sourceId": null
+   },
+   {
+    "id": "A08",
+    "team": "A",
+    "originalFitness": 1,
+    "finalEnergy": 0.6722285123009136,
+    "sourceId": null
+   },
+   {
+    "id": "A09",
+    "team": "A",
+    "originalFitness": 1,
+    "finalEnergy": 0.6688462996311451,
+    "sourceId": null
+   },
+   {
+    "id": "A10",
+    "team": "A",
+    "originalFitness": 1,
+    "finalEnergy": 0.6451622303055953,
+    "sourceId": null
+   },
+   {
+    "id": "B00",
+    "team": "B",
+    "originalFitness": 1,
+    "finalEnergy": 0.8760725170580048,
+    "sourceId": null
+   },
+   {
+    "id": "B01",
+    "team": "B",
+    "originalFitness": 1,
+    "finalEnergy": 0.7301523502452126,
+    "sourceId": null
+   },
+   {
+    "id": "B02",
+    "team": "B",
+    "originalFitness": 1,
+    "finalEnergy": 0.7349803520317972,
+    "sourceId": null
+   },
+   {
+    "id": "B03",
+    "team": "B",
+    "originalFitness": 1,
+    "finalEnergy": 0.7687398565262263,
+    "sourceId": null
+   },
+   {
+    "id": "B04",
+    "team": "B",
+    "originalFitness": 1,
+    "finalEnergy": 0.7522635502218076,
+    "sourceId": null
+   },
+   {
+    "id": "B05",
+    "team": "B",
+    "originalFitness": 1,
+    "finalEnergy": 0.6770900828172227,
+    "sourceId": null
+   },
+   {
+    "id": "B06",
+    "team": "B",
+    "originalFitness": 1,
+    "finalEnergy": 0.6680047423813007,
+    "sourceId": null
+   },
+   {
+    "id": "B07",
+    "team": "B",
+    "originalFitness": 1,
+    "finalEnergy": 0.6829285842738114,
+    "sourceId": null
+   },
+   {
+    "id": "B08",
+    "team": "B",
+    "originalFitness": 1,
+    "finalEnergy": 0.6693658457239217,
+    "sourceId": null
+   },
+   {
+    "id": "B09",
+    "team": "B",
+    "originalFitness": 1,
+    "finalEnergy": 0.6740864708740619,
+    "sourceId": null
+   },
+   {
+    "id": "B10",
+    "team": "B",
+    "originalFitness": 1,
+    "finalEnergy": 0.6495541898939382,
+    "sourceId": null
+   }
+  ],
+  "rulesStatus": "partial_2026_27",
+  "settlementEligible": false
+ },
+ "violations": [],
+ "blocked": null,
+ "phaseCodes": [
+  "play",
+  "restart",
+  "finished",
+  "abandoned",
+  "halftime",
+  "kickoff"
+ ],
+ "decisionDict": [
+  "none",
+  "restart_position|public_restart_constraints",
+  "restart_position|public_restart_approach_opposite_outlet",
+  "restart_kick|public_restart_signal_and_approach_angle",
+  "cover|private_shape_and_possession_hypothesis",
+  "intercept|observed_ball_eta_and_teammates",
+  "gk_recover|observed_ball_goal_angle",
+  "receive|observed_ball_eta_and_teammates",
+  "receive|R07_perceived_contact_cost_no_future_truth",
+  "gk_support|observed_team_control_with_clearance",
+  "support|private_shape_and_possession_hypothesis",
+  "gk_recover|no_fresh_ball_protect_goal",
+  "press|observed_ball_eta_and_teammates",
+  "scan|no_fresh_ball",
+  "advance_support|cb_self_assessed_space",
+  "throw_position|public_throw_station",
+  "throw_in|observed_throw_outlet_and_public_line",
+  "pass|remembered_outlet_lane",
+  "dribble|observed_space_and_pressure",
+  "shoot|observed_goal_distance_and_opening_angle",
+  "cover_exchange|observed_cb_position_not_future_intent",
+  "save|observed_trajectory_reachable_intercept",
+  "restart_position|public_drop_wait_for_ground",
+  "gather|observed_loose_ball_and_no_known_hand_ban",
+  "keeper_hold|own_hands_observation_window",
+  "keeper_throw|observed_available_outlet",
+  "save|observed_uncontested_loose_ball",
+  "dribble|SOC4A_observed_reachable_retention_touch",
+  "pass|observed_intermediate_teammate_loft_clearance"
+ ],
+ "sinkCounts": {
+  "directional_pressure": 564144,
+  "pass_principles": 564144,
+  "early_ball_intent_composition": 564144,
+  "body_preparation_composition": 564144,
+  "outlet_attention_issue": 564144,
+  "decision": 564144,
+  "coach_delivery": 1125164,
+  "event": 18199,
+  "trajectory": 96690,
+  "early_exit_comparison": 672,
+  "early_ball_intent_execution": 2044,
+  "early_ball_intent_applied": 1020,
+  "early_ball_intent_native_view": 4190,
+  "early_ball_intent_motor": 4190,
+  "nac1_request": 3428,
+  "nac1_native_attempt": 2694,
+  "self_kick_intent": 4571,
+  "official": 1531,
+  "body_contact": 8622,
+  "contact_solve": 5795,
+  "ordinary_pass_continuity_application": 733,
+  "ordinary_pass_continuity_motor": 3008,
+  "pending_touch_condition": 344,
+  "outlet_attention_head": 1839,
+  "outlet_attention_sense": 883,
+  "body_preparation_motor": 412,
+  "dead_ball_constraint": 61
+ },
+ "wallMs": 528245,
+ "recordedTicks": 108001,
+ "posScale": 50,
+ "posWidth": 47,
+ "eventCount": 18199,
+ "eventDigest": "7977a70e001a3093"
+}

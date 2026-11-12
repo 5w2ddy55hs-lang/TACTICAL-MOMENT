@@ -1,0 +1,28 @@
+diff -ruN a/core/decision.mjs b/core/decision.mjs
+--- a/core/decision.mjs	2026-11-12 19:51:28.050976166 +0000
++++ b/core/decision.mjs	2026-11-12 19:51:28.062457528 +0000
+@@ -39,7 +39,11 @@
+   const bp={x:ball.x,y:ball.y},db=dist(p,bp),age=(o.tick-ball.seenTick)*DT;
+   const nearFriends=friends.filter(q=>dist(q,bp)<2.1),nearEnemies=enemies.filter(q=>dist(q,bp)<2.1);
+   const visibleHolder=o.people.find(q=>q.holding&&o.tick-q.seenTick<=8);
+-  const ourPossession=visibleHolder?visibleHolder.team===p.team:nearFriends.length>0&&!nearEnemies.length;
++  // K20 research (NOT adopted): proximity alone is not possession. Require that the latest touch THIS player
++  // witnessed (own native observed-touch memory: who/team/part, no intent) was by its own team.
++  // Outfield only: the goalkeeper keeps the original rule (GK work is owned by another track).
++  const witnessedOwnTouch=p.role==='GK'||!!p.observedTouch&&p.observedTouch.players.length>0&&p.observedTouch.players.every(q=>q.team===p.team);
++  const ourPossession=visibleHolder?visibleHolder.team===p.team:nearFriends.length>0&&!nearEnemies.length&&witnessedOwnTouch;
+   const theirPossession=nearEnemies.length>0&&!nearFriends.length;
+   const motion=knownBallMotion(ball),speed=motion?.speed??null;
+   // A fresh nearby low ball permits an uncertain attempt, not a slow-ball or control claim.
+diff -ruN a/core/pass_build_identity.mjs b/core/pass_build_identity.mjs
+--- a/core/pass_build_identity.mjs	2026-11-12 19:51:28.050997571 +0000
++++ b/core/pass_build_identity.mjs	2026-11-12 19:51:28.066445881 +0000
+@@ -1,4 +1,4 @@
+-export const PASS_BUILD_SHA256='f823d4e9d28f60650bd98a800926dea0ce1a69da6a4bd528c77d8aad44a76358';
+-export const PASS_SAVE_SCHEMA='TM_INTEGRATION_I8_STANDARD_SAVE/1';
+-export const PASS_ENGINE='TM_INTEGRATION_I8_STANDARD_PASS_R1_CLAUDE_COUNTDOWN';
+-export const PASS_RESULT_SCHEMA='TM_INTEGRATION_I8_STANDARD_RESULT/1';
++export const PASS_BUILD_SHA256='67f6b2ed24b009a8518ee456f2f714afec40929646fb6fe49ad220f18ab070fa';
++export const PASS_SAVE_SCHEMA='TM_RESEARCH_K20_POSSESSION_EVIDENCE_SAVE/1';
++export const PASS_ENGINE='TM_RESEARCH_K20_POSSESSION_EVIDENCE_ON_I8_STANDARD';
++export const PASS_RESULT_SCHEMA='TM_RESEARCH_K20_POSSESSION_EVIDENCE_RESULT/1';

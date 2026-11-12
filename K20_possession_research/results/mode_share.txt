@@ -1,0 +1,12 @@
+standard flips/min 18.0
+   opp_carry {'attackShape': 0.4, 'ball': 26.6, 'cover': 64.1, 'other': 8.8}
+   loose {'attackShape': 10.8, 'ball': 24.3, 'cover': 53.5, 'other': 11.4}
+   own_pass_flight {'attackShape': 11.4, 'ball': 18.8, 'cover': 57.3, 'other': 12.5}
+   opp_pass_flight {'attackShape': 4.4, 'ball': 23.0, 'cover': 58.5, 'other': 14.1}
+   own_carry {'attackShape': 65.8, 'ball': 5.8, 'cover': 20.5, 'other': 8.0}
+k20 flips/min 14.31
+   opp_carry {'attackShape': 0.1, 'ball': 27.2, 'cover': 64.3, 'other': 8.5}
+   loose {'attackShape': 7.5, 'ball': 25.1, 'cover': 56.1, 'other': 11.3}
+   own_pass_flight {'attackShape': 10.7, 'ball': 19.4, 'cover': 57.3, 'other': 12.6}
+   opp_pass_flight {'attackShape': 0.1, 'ball': 24.0, 'cover': 61.4, 'other': 14.4}
+   own_carry {'attackShape': 64.6, 'ball': 6.0, 'cover': 21.2, 'other': 8.2}
