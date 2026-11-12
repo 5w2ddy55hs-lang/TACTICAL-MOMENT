@@ -1,0 +1,84 @@
+diff -ruN a/core/engine.mjs b/core/engine.mjs
+--- a/core/engine.mjs	2026-11-12 12:57:58.569239257 +0000
++++ b/core/engine.mjs	2026-11-12 12:57:58.581612751 +0000
+@@ -41,7 +41,7 @@
+ import {DT,clone,canonical,fingerprint,order,dist,finiteTree} from './math.mjs';
+ import {createState,validateState,emit,SCHEMA,ENGINE,validateRefereeInput,validateCountdownInput} from './state.mjs';
+ import {sense,assertObservation} from './perception.mjs';
+-import {choose} from './decision.mjs';
++import {chooseI18 as choose} from './i18_flight_shape.mjs';
+ import {chooseLocalRoleHandoff as chooseZonal} from './local_role_handoff.mjs';
+ import {movePlayers,prepareMovement,commitMotorVelocities} from './motion.mjs';
+ import {HOLD_IMPULSE_EPS} from './holding.mjs';
+diff -ruN a/core/i18_flight_shape.mjs b/core/i18_flight_shape.mjs
+--- a/core/i18_flight_shape.mjs	1970-01-01 00:00:00.000000000 +0000
++++ b/core/i18_flight_shape.mjs	2026-11-12 12:57:58.589612752 +0000
+@@ -0,0 +1,56 @@
++// I18 research candidate (NOT adopted): own-team pass flight shape hypothesis.
++// Pure function of ONE player's perception DTO. Uses only what the player has
++// witnessed: its own native observed-touch memory (no kick intent/target is in
++// it), its own ball estimate, remembered people positions. No future truth,
++// no teammate intent, no receiver prediction, no pass-intent notification.
++//
++// Scope: only rewrites the upstream winner when it is the private shape
++// candidate `cover|private_shape_and_possession_hypothesis`. Ball-directed
++// scoring (press/intercept/receive), reception, restarts, GK, hands untouched.
++import {DT,dist,clamp} from './math.mjs';
++import {choose,privateSupportTarget} from './decision.mjs';
++
++export const I18=Object.freeze({
++ maxKickAgeS:2.5,        // staleness bound for the witnessed kick
++ maxBallAgeTicks:2,      // ball observation must be fresh
++ minBallSpeed:3,         // slower balls are left to the proximity rule (dribble/settled)
++ horizonS:1.0,           // contest check horizon along the observed path
++ pathDecay:0.82,         // same constant as decision.mjs intercept model
++ opponentReach:(t)=>8*t+0.8, // conservative: unknown opponent ability treated as pace 100 (4+100*.04=8 m/s)
++ opponentMemoryTicks:24  // DTO keeps remembered people up to 24 ticks; all of them are considered
++});
++
++export function flightContinuationEvidence(o){
++ const no=reason=>({claim:false,reason});
++ if(o.restart)return no('restart');
++ if(o.self.role==='GK'||o.self.hand?.holding)return no('goalkeeper_or_hands');
++ const b=o.ball;if(!b)return no('no_ball_memory');
++ const t=o.self.observedTouch;if(!t)return no('no_witnessed_touch');
++ if(t.players.length!==1)return no('simultaneous_touch_contested');
++ const k=t.players[0];
++ if(k.team!==o.self.team)return no('last_witnessed_touch_opponent');
++ if(k.part!=='foot')return no('last_witnessed_touch_not_kick');
++ const age=(o.tick-t.seenTick)*DT;if(age>I18.maxKickAgeS)return no('witnessed_kick_stale');
++ if(o.tick-b.seenTick>I18.maxBallAgeTicks)return no('ball_not_fresh');
++ const ev=b.velocityEvidence;
++ if(!b.velocityKnown||!ev||ev.status!=='estimated')return no('ball_motion_unknown');
++ if(!(ev.fromTick>=t.seenTick))return no('motion_not_measured_after_kick');
++ const speed=Math.hypot(b.vx,b.vy);if(speed<I18.minBallSpeed)return no('slow_ball_proximity_rule');
++ // possession by proximity is the upstream rule; do not override a near opponent
++ if(o.people.some(q=>q.team!==o.self.team&&dist(q,b)<2.1))return no('opponent_near_ball');
++ // contest: any remembered opponent able to reach the observed path within horizon
++ for(let s=0.1;s<=I18.horizonS+1e-9;s+=0.1){
++  const q={x:clamp(b.x+b.vx*s*I18.pathDecay,0,105),y:clamp(b.y+b.vy*s*I18.pathDecay,0,68)};
++  for(const e of o.people)if(e.team!==o.self.team&&dist(e,q)<I18.opponentReach(s))return {claim:false,reason:'opponent_can_reach_path',contest:{opponent:e.id,atS:+s.toFixed(1)}};
++ }
++ return {claim:true,reason:'witnessed_teammate_kick_uncontested_path',kicker:k.id,kickAgeS:+age.toFixed(2),speed:+speed.toFixed(2)};
++}
++
++export function chooseI18(o){
++ const d=choose(o);
++ if(d.kind!=='cover'||d.reason!=='private_shape_and_possession_hypothesis')return d;
++ const ev=flightContinuationEvidence(o);if(!ev.claim)return d;
++ const t=privateSupportTarget(o);
++ const target={x:clamp(t.x,.2,104.8),y:clamp(t.y,.2,67.8)};
++ return {...d,kind:'support',target,reason:'I18_witnessed_teammate_kick_uncontested',candidates:d.candidates.map(c=>c.kind==='cover'&&c.score===d.score?{...c,kind:'support'}:c)};
++}
+diff -ruN a/core/pass_build_identity.mjs b/core/pass_build_identity.mjs
+--- a/core/pass_build_identity.mjs	2026-11-12 12:57:58.569270439 +0000
++++ b/core/pass_build_identity.mjs	2026-11-12 12:57:58.588046406 +0000
+@@ -1,4 +1,4 @@
+-export const PASS_BUILD_SHA256='f823d4e9d28f60650bd98a800926dea0ce1a69da6a4bd528c77d8aad44a76358';
+-export const PASS_SAVE_SCHEMA='TM_INTEGRATION_I8_STANDARD_SAVE/1';
+-export const PASS_ENGINE='TM_INTEGRATION_I8_STANDARD_PASS_R1_CLAUDE_COUNTDOWN';
+-export const PASS_RESULT_SCHEMA='TM_INTEGRATION_I8_STANDARD_RESULT/1';
++export const PASS_BUILD_SHA256='d571b03295e7e24b085031c4b61b02d79aeaeb8a7a275eb8a716277835d3a036';
++export const PASS_SAVE_SCHEMA='TM_RESEARCH_I18_FLIGHT_SHAPE_SAVE/1';
++export const PASS_ENGINE='TM_RESEARCH_I18_FLIGHT_SHAPE_ON_I8_STANDARD';
++export const PASS_RESULT_SCHEMA='TM_RESEARCH_I18_FLIGHT_SHAPE_RESULT/1';

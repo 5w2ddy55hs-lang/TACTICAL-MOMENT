@@ -1,0 +1,34 @@
+{
+ "771": {
+  "firstClaimDecisionTick": 76,
+  "firstPhysicalDifferenceTick": 79,
+  "claimsBeforeDiff": 1,
+  "consistent": true
+ },
+ "1847": {
+  "firstClaimDecisionTick": 60,
+  "firstPhysicalDifferenceTick": 63,
+  "claimsBeforeDiff": 1,
+  "consistent": true
+ },
+ "standardRestoresI18Save": "REJECTED:PASS_PRINCIPLES_SAVE_IDENTITY",
+ "i18RestoresStandardSave": "REJECTED:PASS_PRINCIPLES_SAVE_IDENTITY",
+ "i18SaveRestoreContinuity300": true,
+ "i18ExportSchema": "rc1-flc2-edr1-dpg1-opc1-soc23-attention1",
+ "i18Config": {
+  "halfTicks": 54000,
+  "perceptionError": true,
+  "kickoffTeam": "A",
+  "refereeReviewAdvantage": false,
+  "zonalDefence": false,
+  "zonalDefenceSide": "both",
+  "fiveLaneBoundaries": [
+   0,
+   13.6,
+   27.2,
+   40.8,
+   54.4,
+   68
+  ]
+ }
+}

@@ -1,0 +1,1990 @@
+[
+ {
+  "run": "i18_1847",
+  "variant": "branch:/tmp/claude-0/-home-user-TACTICAL-MOMENT/a6870839-969d-594b-91f5-442027cb70e1/scratchpad/i18/branch",
+  "profile": "baseline",
+  "zonal": false,
+  "seed": 1847,
+  "extra": {},
+  "crash": null,
+  "crashTick": null,
+  "finalTick": 108000,
+  "score": {
+   "A": 8,
+   "B": 5
+  },
+  "result": "set",
+  "violations": 0,
+  "playSec": 4214.5,
+  "phaseTicks": {
+   "restart": 23710,
+   "play": 84290,
+   "finished": 1
+  },
+  "counts": {
+   "contactRows": 6029,
+   "touchEpisodes": 1744,
+   "bodyContactRows": 7291,
+   "bodyContactEpisodes": 2389,
+   "bodyContactEpisodesSameTeam": 838,
+   "kicks": 3357,
+   "kickKinds": {
+    "restart_kick": 137,
+    "dribble": 2445,
+    "pass": 728,
+    "shoot": 47
+   },
+   "shots": 47,
+   "goals": 13,
+   "turnovers": 608
+  },
+  "conc": {
+   "opp_carry": {
+    "ticks": 24808,
+    "ge3": 13428,
+    "eq2": 8426,
+    "eq1": 2441,
+    "eq0": 513
+   },
+   "opp_pass_flight": {
+    "ticks": 49328,
+    "ge3": 19793,
+    "eq2": 17477,
+    "eq1": 10794,
+    "eq0": 1264
+   },
+   "loose": {
+    "ticks": 20272,
+    "ge3": 8769,
+    "eq2": 6385,
+    "eq1": 4293,
+    "eq0": 825
+   },
+   "own_pass_flight_nonTarget": {
+    "ticks": 49328,
+    "ge3": 4716,
+    "eq2": 11905,
+    "eq1": 18981,
+    "eq0": 13726
+   },
+   "own_carry_teammatesChasing": {
+    "ticks": 24808,
+    "ge3": 1581,
+    "eq2": 1872,
+    "eq1": 2628,
+    "eq0": 18727
+   }
+  },
+  "sameTarget2m": {
+   "opp_carry": {
+    "ticks": 24808,
+    "eq2": 9112,
+    "ge3": 9894
+   },
+   "loose": {
+    "ticks": 20272,
+    "eq2": 6450,
+    "ge3": 5355
+   },
+   "opp_pass_flight": {
+    "ticks": 49328,
+    "eq2": 14451,
+    "ge3": 10857
+   },
+   "own_pass_flight": {
+    "ticks": 49328,
+    "eq2": 7830,
+    "ge3": 2396
+   }
+  },
+  "flips": 19.05,
+  "turnoversPerMin": 8.66,
+  "modeShare": {
+   "mode_own_pass_flight:other": 58956,
+   "mode_own_pass_flight:cover": 189120,
+   "mode_own_pass_flight:ball": 80908,
+   "mode_own_pass_flight:attackShape": 116935,
+   "mode_own_carry:attackShape": 151751,
+   "mode_own_carry:cover": 42759,
+   "mode_own_carry:other": 17434,
+   "mode_opp_pass_flight:other": 67703,
+   "mode_opp_pass_flight:cover": 285657,
+   "mode_opp_pass_flight:ball": 115107,
+   "mode_loose:cover": 108658,
+   "mode_loose:other": 22473,
+   "mode_loose:ball": 48008,
+   "mode_loose:attackShape": 22460,
+   "mode_own_carry:ball": 11775,
+   "mode_opp_pass_flight:attackShape": 24813,
+   "mode_opp_carry:cover": 159072,
+   "mode_opp_carry:ball": 67153,
+   "mode_opp_carry:other": 20958,
+   "mode_opp_carry:attackShape": 897,
+   "mode_dead:other": 242,
+   "mode_dead:attackShape": 63,
+   "mode_dead:cover": 43,
+   "mode_dead:ball": 12
+  },
+  "concEpisodes": 1061,
+  "concEpisodeSeconds": 2347.4,
+  "jointPressEpisodes": 205,
+  "concEpOwnWin3s": 414,
+  "concEpOppPassFirst": 192,
+  "concEpConceded10m": 324,
+  "concEpOppCarryStart": 156,
+  "jointOwnWin3s": 41,
+  "jointOppPassFirst": 91,
+  "jointConceded10m": 84,
+  "def": {
+   "danger": 21357,
+   "centralEmpty": 890,
+   "freeBehind": 0,
+   "carry": 24808,
+   "carrierFree5": 8077,
+   "carrierFree5Danger": 649
+  },
+  "freeBehindEpisodes": 0,
+  "centralEmptyEpisodes": 29,
+  "centralEmptyEpisodesShot": 6,
+  "shotsTotal": 47,
+  "passes": {
+   "n": 728,
+   "target_control": 242,
+   "target_no_control": 61,
+   "teammate_other": 115,
+   "passer_retouch": 20,
+   "opponent": 179,
+   "out": 111,
+   "none": 0,
+   "tc_next_self": 189,
+   "tc_next_opp": 19,
+   "tc_next_team": 30,
+   "tc_next_out": 4,
+   "targetNeverReceive": 143,
+   "tcNextSelfKinds": {
+    "dribble": 154,
+    "pass": 35
+   },
+   "medianNextDelay": 0.35
+  },
+  "trans": {
+   "n": 416,
+   "loserAttackModeAt1s": 0.81,
+   "loserGoalSide0": 8.56,
+   "loserGoalSide5s": 7.58,
+   "shot10s": 7,
+   "regained2s": 139
+  },
+  "restarts": {
+   "throw_in": {
+    "count": 193,
+    "medianWait": 2.95,
+    "maxWait": 9.15
+   },
+   "goal_kick": {
+    "count": 59,
+    "medianWait": 2.9,
+    "maxWait": 5.4
+   },
+   "dropped_ball": {
+    "count": 5,
+    "medianWait": 3.8,
+    "maxWait": 5.75
+   },
+   "corner": {
+    "count": 63,
+    "medianWait": 4.65,
+    "maxWait": 7.35
+   },
+   "kickoff": {
+    "count": 14,
+    "medianWait": 7.75,
+    "maxWait": 10.7
+   }
+  },
+  "corners": {
+   "origins": {
+    "defender_throw_in": 14,
+    "defender_pass": 12,
+    "defender_own_pass_or_dribble_then_uncontrolled_touch": 8,
+    "defender_uncontrolled_touch": 23,
+    "attacker_last": 2,
+    "gk_save": 3,
+    "defender_dribble": 1
+   },
+   "n": 63,
+   "attInBoxMean": 0.03,
+   "defInBoxMean": 3.06,
+   "firstTouchAtt": 1,
+   "firstTouchDef": 62,
+   "shot10s": 6,
+   "goal10s": 1,
+   "firstKickKinds": {
+    "restart_kick": 63
+   },
+   "medianWait": 4.65,
+   "maxWait": 7.35
+  },
+  "throwIns": {
+   "n": 192,
+   "target_control": 0,
+   "opponent": 102,
+   "out": 34,
+   "outToOppCorner": 14,
+   "targetNeverReceive": 13
+  },
+  "goals": [
+   {
+    "tick": 19823,
+    "clock": "16:31",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 31535,
+    "clock": "26:16",
+    "team": "A",
+    "scorer": "B00"
+   },
+   {
+    "tick": 37274,
+    "clock": "31:03",
+    "team": "A",
+    "scorer": "A06"
+   },
+   {
+    "tick": 50190,
+    "clock": "41:49",
+    "team": "B",
+    "scorer": null
+   },
+   {
+    "tick": 52471,
+    "clock": "43:43",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 58391,
+    "clock": "48:39",
+    "team": "B",
+    "scorer": "A00"
+   },
+   {
+    "tick": 62567,
+    "clock": "52:08",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 65631,
+    "clock": "54:41",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 68408,
+    "clock": "57:00",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 84719,
+    "clock": "70:35",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 87134,
+    "clock": "72:36",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 92455,
+    "clock": "77:02",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 104349,
+    "clock": "86:57",
+    "team": "A",
+    "scorer": "A06"
+   }
+  ],
+  "shots": 47
+ },
+ {
+  "run": "i18_31337",
+  "variant": "branch:/tmp/claude-0/-home-user-TACTICAL-MOMENT/a6870839-969d-594b-91f5-442027cb70e1/scratchpad/i18/branch",
+  "profile": "baseline",
+  "zonal": false,
+  "seed": 31337,
+  "extra": {},
+  "crash": null,
+  "crashTick": null,
+  "finalTick": 108000,
+  "score": {
+   "A": 9,
+   "B": 7
+  },
+  "result": "set",
+  "violations": 0,
+  "playSec": 4198.75,
+  "phaseTicks": {
+   "restart": 24025,
+   "play": 83975,
+   "finished": 1
+  },
+  "counts": {
+   "contactRows": 5839,
+   "touchEpisodes": 1801,
+   "bodyContactRows": 7640,
+   "bodyContactEpisodes": 2442,
+   "bodyContactEpisodesSameTeam": 883,
+   "kicks": 3270,
+   "kickKinds": {
+    "restart_kick": 132,
+    "dribble": 2363,
+    "pass": 705,
+    "shoot": 70
+   },
+   "shots": 70,
+   "goals": 16,
+   "turnovers": 632
+  },
+  "conc": {
+   "opp_carry": {
+    "ticks": 22931,
+    "ge3": 12372,
+    "eq2": 8017,
+    "eq1": 2235,
+    "eq0": 307
+   },
+   "opp_pass_flight": {
+    "ticks": 49428,
+    "ge3": 18861,
+    "eq2": 18466,
+    "eq1": 11094,
+    "eq0": 1007
+   },
+   "loose": {
+    "ticks": 23180,
+    "ge3": 10934,
+    "eq2": 6649,
+    "eq1": 4686,
+    "eq0": 911
+   },
+   "own_pass_flight_nonTarget": {
+    "ticks": 49428,
+    "ge3": 5533,
+    "eq2": 12327,
+    "eq1": 18816,
+    "eq0": 12752
+   },
+   "own_carry_teammatesChasing": {
+    "ticks": 22931,
+    "ge3": 1317,
+    "eq2": 2520,
+    "eq1": 2358,
+    "eq0": 16736
+   }
+  },
+  "sameTarget2m": {
+   "opp_carry": {
+    "ticks": 22931,
+    "eq2": 8554,
+    "ge3": 9188
+   },
+   "loose": {
+    "ticks": 23180,
+    "eq2": 7218,
+    "ge3": 6898
+   },
+   "opp_pass_flight": {
+    "ticks": 49428,
+    "eq2": 14805,
+    "ge3": 10359
+   },
+   "own_pass_flight": {
+    "ticks": 49428,
+    "eq2": 8575,
+    "ge3": 2756
+   }
+  },
+  "flips": 19.05,
+  "turnoversPerMin": 9.03,
+  "modeShare": {
+   "mode_own_pass_flight:other": 56576,
+   "mode_own_pass_flight:cover": 191473,
+   "mode_own_pass_flight:ball": 83962,
+   "mode_own_pass_flight:attackShape": 114945,
+   "mode_own_carry:attackShape": 135987,
+   "mode_own_carry:other": 17140,
+   "mode_opp_pass_flight:other": 70960,
+   "mode_opp_pass_flight:cover": 286414,
+   "mode_opp_pass_flight:ball": 113308,
+   "mode_loose:other": 26548,
+   "mode_loose:cover": 122122,
+   "mode_loose:ball": 56920,
+   "mode_opp_carry:cover": 146001,
+   "mode_opp_carry:other": 20042,
+   "mode_opp_carry:ball": 61983,
+   "mode_loose:attackShape": 25144,
+   "mode_own_carry:cover": 41673,
+   "mode_own_carry:ball": 11809,
+   "mode_opp_pass_flight:attackShape": 23598,
+   "mode_opp_carry:attackShape": 1284,
+   "mode_dead:other": 316,
+   "mode_dead:cover": 74,
+   "mode_dead:ball": 22,
+   "mode_dead:attackShape": 108
+  },
+  "concEpisodes": 1121,
+  "concEpisodeSeconds": 2414.2,
+  "jointPressEpisodes": 197,
+  "concEpOwnWin3s": 445,
+  "concEpOppPassFirst": 188,
+  "concEpConceded10m": 339,
+  "concEpOppCarryStart": 148,
+  "jointOwnWin3s": 43,
+  "jointOppPassFirst": 94,
+  "jointConceded10m": 86,
+  "def": {
+   "danger": 19509,
+   "centralEmpty": 810,
+   "freeBehind": 0,
+   "carry": 22931,
+   "carrierFree5": 7079,
+   "carrierFree5Danger": 563
+  },
+  "freeBehindEpisodes": 0,
+  "centralEmptyEpisodes": 21,
+  "centralEmptyEpisodesShot": 3,
+  "shotsTotal": 70,
+  "passes": {
+   "n": 705,
+   "target_control": 227,
+   "target_no_control": 67,
+   "teammate_other": 115,
+   "passer_retouch": 17,
+   "opponent": 175,
+   "out": 104,
+   "none": 0,
+   "tc_next_self": 181,
+   "tc_next_opp": 13,
+   "tc_next_team": 26,
+   "tc_next_out": 7,
+   "targetNeverReceive": 143,
+   "tcNextSelfKinds": {
+    "pass": 34,
+    "dribble": 147
+   },
+   "medianNextDelay": 0.35
+  },
+  "trans": {
+   "n": 439,
+   "loserAttackModeAt1s": 0.55,
+   "loserGoalSide0": 8.44,
+   "loserGoalSide5s": 7.48,
+   "shot10s": 26,
+   "regained2s": 173
+  },
+  "restarts": {
+   "throw_in": {
+    "count": 186,
+    "medianWait": 2.95,
+    "maxWait": 6.55
+   },
+   "corner": {
+    "count": 58,
+    "medianWait": 4.95,
+    "maxWait": 16.45
+   },
+   "goal_kick": {
+    "count": 58,
+    "medianWait": 3.4,
+    "maxWait": 7.4
+   },
+   "dropped_ball": {
+    "count": 7,
+    "medianWait": 2.4,
+    "maxWait": 3.75
+   },
+   "kickoff": {
+    "count": 17,
+    "medianWait": 7.75,
+    "maxWait": 13.1
+   }
+  },
+  "corners": {
+   "origins": {
+    "defender_throw_in": 17,
+    "attacker_last": 4,
+    "defender_uncontrolled_touch": 15,
+    "defender_pass": 11,
+    "gk_save": 5,
+    "defender_own_pass_or_dribble_then_uncontrolled_touch": 5,
+    "defender_dribble": 1
+   },
+   "n": 58,
+   "attInBoxMean": 0.03,
+   "defInBoxMean": 3.09,
+   "firstTouchAtt": 2,
+   "firstTouchDef": 55,
+   "shot10s": 5,
+   "goal10s": 0,
+   "firstKickKinds": {
+    "restart_kick": 57,
+    "none": 1
+   },
+   "medianWait": 4.95,
+   "maxWait": 16.45
+  },
+  "throwIns": {
+   "n": 186,
+   "target_control": 4,
+   "opponent": 79,
+   "out": 44,
+   "outToOppCorner": 17,
+   "targetNeverReceive": 20
+  },
+  "goals": [
+   {
+    "tick": 10464,
+    "clock": "8:43",
+    "team": "A",
+    "scorer": "B00"
+   },
+   {
+    "tick": 18831,
+    "clock": "15:41",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 25657,
+    "clock": "21:22",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 27905,
+    "clock": "23:15",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 30715,
+    "clock": "25:35",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 32212,
+    "clock": "26:50",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 36760,
+    "clock": "30:38",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 39746,
+    "clock": "33:07",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 46005,
+    "clock": "38:20",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 47171,
+    "clock": "39:18",
+    "team": "A",
+    "scorer": "A08"
+   },
+   {
+    "tick": 51901,
+    "clock": "43:15",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 52363,
+    "clock": "43:38",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 73062,
+    "clock": "60:53",
+    "team": "A",
+    "scorer": "B05"
+   },
+   {
+    "tick": 77767,
+    "clock": "64:48",
+    "team": "A",
+    "scorer": "B00"
+   },
+   {
+    "tick": 79233,
+    "clock": "66:01",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 91576,
+    "clock": "76:18",
+    "team": "A",
+    "scorer": "A10"
+   }
+  ],
+  "shots": 70
+ },
+ {
+  "run": "i18_4049_koB",
+  "variant": "branch:/tmp/claude-0/-home-user-TACTICAL-MOMENT/a6870839-969d-594b-91f5-442027cb70e1/scratchpad/i18/branch",
+  "profile": "baseline",
+  "zonal": false,
+  "seed": 4049,
+  "extra": {
+   "kickoffTeam": "B"
+  },
+  "crash": null,
+  "crashTick": null,
+  "finalTick": 108000,
+  "score": {
+   "A": 7,
+   "B": 8
+  },
+  "result": "set",
+  "violations": 0,
+  "playSec": 4288.85,
+  "phaseTicks": {
+   "restart": 22223,
+   "play": 85777,
+   "finished": 1
+  },
+  "counts": {
+   "contactRows": 6506,
+   "touchEpisodes": 1988,
+   "bodyContactRows": 8111,
+   "bodyContactEpisodes": 2638,
+   "bodyContactEpisodesSameTeam": 945,
+   "kicks": 3568,
+   "kickKinds": {
+    "restart_kick": 125,
+    "dribble": 2644,
+    "pass": 724,
+    "shoot": 75
+   },
+   "shots": 75,
+   "goals": 15,
+   "turnovers": 675
+  },
+  "conc": {
+   "opp_carry": {
+    "ticks": 25925,
+    "ge3": 13135,
+    "eq2": 10011,
+    "eq1": 2381,
+    "eq0": 398
+   },
+   "opp_pass_flight": {
+    "ticks": 48767,
+    "ge3": 19014,
+    "eq2": 17387,
+    "eq1": 11325,
+    "eq0": 1041
+   },
+   "loose": {
+    "ticks": 22096,
+    "ge3": 8994,
+    "eq2": 7580,
+    "eq1": 4428,
+    "eq0": 1094
+   },
+   "own_pass_flight_nonTarget": {
+    "ticks": 48767,
+    "ge3": 5241,
+    "eq2": 11084,
+    "eq1": 18679,
+    "eq0": 13763
+   },
+   "own_carry_teammatesChasing": {
+    "ticks": 25925,
+    "ge3": 1691,
+    "eq2": 2185,
+    "eq1": 2748,
+    "eq0": 19301
+   }
+  },
+  "sameTarget2m": {
+   "opp_carry": {
+    "ticks": 25925,
+    "eq2": 9938,
+    "ge3": 9913
+   },
+   "loose": {
+    "ticks": 22096,
+    "eq2": 7153,
+    "ge3": 5722
+   },
+   "opp_pass_flight": {
+    "ticks": 48767,
+    "eq2": 13977,
+    "ge3": 10604
+   },
+   "own_pass_flight": {
+    "ticks": 48767,
+    "eq2": 7591,
+    "ge3": 2909
+   }
+  },
+  "flips": 18.39,
+  "turnoversPerMin": 9.44,
+  "modeShare": {
+   "mode_opp_pass_flight:other": 69168,
+   "mode_opp_pass_flight:cover": 282144,
+   "mode_opp_pass_flight:ball": 112859,
+   "mode_opp_pass_flight:attackShape": 23499,
+   "mode_opp_carry:cover": 164878,
+   "mode_opp_carry:other": 24162,
+   "mode_opp_carry:ball": 69122,
+   "mode_own_pass_flight:other": 59345,
+   "mode_own_pass_flight:attackShape": 113217,
+   "mode_own_pass_flight:cover": 186804,
+   "mode_own_pass_flight:ball": 81122,
+   "mode_loose:attackShape": 22651,
+   "mode_loose:ball": 52816,
+   "mode_loose:other": 26906,
+   "mode_loose:cover": 117584,
+   "mode_own_carry:attackShape": 155658,
+   "mode_own_carry:ball": 13119,
+   "mode_own_carry:cover": 44991,
+   "mode_own_carry:other": 19852,
+   "mode_opp_carry:attackShape": 1088,
+   "mode_dead:other": 501,
+   "mode_dead:cover": 82,
+   "mode_dead:ball": 23,
+   "mode_dead:attackShape": 134
+  },
+  "concEpisodes": 1093,
+  "concEpisodeSeconds": 2356.4,
+  "jointPressEpisodes": 207,
+  "concEpOwnWin3s": 463,
+  "concEpOppPassFirst": 191,
+  "concEpConceded10m": 287,
+  "concEpOppCarryStart": 152,
+  "jointOwnWin3s": 44,
+  "jointOppPassFirst": 84,
+  "jointConceded10m": 92,
+  "def": {
+   "danger": 20927,
+   "centralEmpty": 939,
+   "freeBehind": 0,
+   "carry": 25925,
+   "carrierFree5": 8264,
+   "carrierFree5Danger": 747
+  },
+  "freeBehindEpisodes": 0,
+  "centralEmptyEpisodes": 28,
+  "centralEmptyEpisodesShot": 6,
+  "shotsTotal": 75,
+  "passes": {
+   "n": 724,
+   "target_control": 262,
+   "target_no_control": 70,
+   "teammate_other": 101,
+   "passer_retouch": 20,
+   "opponent": 168,
+   "out": 103,
+   "none": 0,
+   "tc_next_self": 195,
+   "tc_next_opp": 28,
+   "tc_next_team": 36,
+   "tc_next_out": 3,
+   "targetNeverReceive": 118,
+   "tcNextSelfKinds": {
+    "dribble": 162,
+    "pass": 31,
+    "shoot": 2
+   },
+   "medianNextDelay": 0.35
+  },
+  "trans": {
+   "n": 478,
+   "loserAttackModeAt1s": 0.76,
+   "loserGoalSide0": 8.42,
+   "loserGoalSide5s": 7.45,
+   "shot10s": 35,
+   "regained2s": 184
+  },
+  "restarts": {
+   "throw_in": {
+    "count": 181,
+    "medianWait": 2.8,
+    "maxWait": 7.55
+   },
+   "goal_kick": {
+    "count": 52,
+    "medianWait": 2.4,
+    "maxWait": 4.9
+   },
+   "kickoff": {
+    "count": 16,
+    "medianWait": 8.15,
+    "maxWait": 10.85
+   },
+   "corner": {
+    "count": 56,
+    "medianWait": 4.55,
+    "maxWait": 7.75
+   },
+   "dropped_ball": {
+    "count": 8,
+    "medianWait": 2.65,
+    "maxWait": 3.65
+   }
+  },
+  "corners": {
+   "origins": {
+    "defender_throw_in": 15,
+    "defender_pass": 9,
+    "gk_save": 4,
+    "defender_uncontrolled_touch": 23,
+    "defender_own_pass_or_dribble_then_uncontrolled_touch": 3,
+    "attacker_last": 2
+   },
+   "n": 56,
+   "attInBoxMean": 0.02,
+   "defInBoxMean": 3.13,
+   "firstTouchAtt": 2,
+   "firstTouchDef": 54,
+   "shot10s": 4,
+   "goal10s": 0,
+   "firstKickKinds": {
+    "restart_kick": 56
+   },
+   "medianWait": 4.55,
+   "maxWait": 7.75
+  },
+  "throwIns": {
+   "n": 181,
+   "target_control": 4,
+   "opponent": 81,
+   "out": 37,
+   "outToOppCorner": 15,
+   "targetNeverReceive": 13
+  },
+  "goals": [
+   {
+    "tick": 594,
+    "clock": "0:29",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 1308,
+    "clock": "1:05",
+    "team": "B",
+    "scorer": "A05"
+   },
+   {
+    "tick": 20315,
+    "clock": "16:55",
+    "team": "B",
+    "scorer": "A00"
+   },
+   {
+    "tick": 21441,
+    "clock": "17:52",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 23102,
+    "clock": "19:15",
+    "team": "A",
+    "scorer": null
+   },
+   {
+    "tick": 31980,
+    "clock": "26:39",
+    "team": "B",
+    "scorer": null
+   },
+   {
+    "tick": 40127,
+    "clock": "33:26",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 45854,
+    "clock": "38:12",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 48590,
+    "clock": "40:29",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 63575,
+    "clock": "52:58",
+    "team": "A",
+    "scorer": null
+   },
+   {
+    "tick": 78291,
+    "clock": "65:14",
+    "team": "A",
+    "scorer": "B00"
+   },
+   {
+    "tick": 92367,
+    "clock": "76:58",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 99832,
+    "clock": "83:11",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 102027,
+    "clock": "85:01",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 106314,
+    "clock": "88:35",
+    "team": "B",
+    "scorer": "B10"
+   }
+  ],
+  "shots": 75
+ },
+ {
+  "run": "i18_600613",
+  "variant": "branch:/tmp/claude-0/-home-user-TACTICAL-MOMENT/a6870839-969d-594b-91f5-442027cb70e1/scratchpad/i18/branch",
+  "profile": "baseline",
+  "zonal": false,
+  "seed": 600613,
+  "extra": {},
+  "crash": null,
+  "crashTick": null,
+  "finalTick": 108000,
+  "score": {
+   "A": 10,
+   "B": 7
+  },
+  "result": "set",
+  "violations": 0,
+  "playSec": 4171.15,
+  "phaseTicks": {
+   "restart": 24577,
+   "play": 83423,
+   "finished": 1
+  },
+  "counts": {
+   "contactRows": 7388,
+   "touchEpisodes": 2190,
+   "bodyContactRows": 8115,
+   "bodyContactEpisodes": 2661,
+   "bodyContactEpisodesSameTeam": 1016,
+   "kicks": 3736,
+   "kickKinds": {
+    "restart_kick": 153,
+    "dribble": 2814,
+    "pass": 711,
+    "shoot": 58
+   },
+   "shots": 58,
+   "goals": 17,
+   "turnovers": 674
+  },
+  "conc": {
+   "opp_carry": {
+    "ticks": 26831,
+    "ge3": 14103,
+    "eq2": 9709,
+    "eq1": 2607,
+    "eq0": 412
+   },
+   "opp_pass_flight": {
+    "ticks": 46670,
+    "ge3": 18428,
+    "eq2": 17351,
+    "eq1": 9874,
+    "eq0": 1017
+   },
+   "loose": {
+    "ticks": 19764,
+    "ge3": 8330,
+    "eq2": 6219,
+    "eq1": 4332,
+    "eq0": 883
+   },
+   "own_pass_flight_nonTarget": {
+    "ticks": 46670,
+    "ge3": 4331,
+    "eq2": 11345,
+    "eq1": 17888,
+    "eq0": 13106
+   },
+   "own_carry_teammatesChasing": {
+    "ticks": 26831,
+    "ge3": 1733,
+    "eq2": 2329,
+    "eq1": 2942,
+    "eq0": 19827
+   }
+  },
+  "sameTarget2m": {
+   "opp_carry": {
+    "ticks": 26831,
+    "eq2": 9870,
+    "ge3": 10790
+   },
+   "loose": {
+    "ticks": 19764,
+    "eq2": 6157,
+    "ge3": 5317
+   },
+   "opp_pass_flight": {
+    "ticks": 46670,
+    "eq2": 14243,
+    "ge3": 10381
+   },
+   "own_pass_flight": {
+    "ticks": 46670,
+    "eq2": 7710,
+    "ge3": 2383
+   }
+  },
+  "flips": 18,
+  "turnoversPerMin": 9.7,
+  "modeShare": {
+   "mode_own_pass_flight:other": 56936,
+   "mode_own_pass_flight:cover": 178698,
+   "mode_own_pass_flight:ball": 76846,
+   "mode_own_pass_flight:attackShape": 109493,
+   "mode_own_carry:attackShape": 159075,
+   "mode_own_carry:cover": 47430,
+   "mode_own_carry:other": 21776,
+   "mode_opp_carry:cover": 171025,
+   "mode_opp_carry:attackShape": 1038,
+   "mode_opp_carry:ball": 73674,
+   "mode_opp_carry:other": 22573,
+   "mode_opp_pass_flight:cover": 272020,
+   "mode_opp_pass_flight:other": 65467,
+   "mode_opp_pass_flight:ball": 108653,
+   "mode_own_carry:ball": 13467,
+   "mode_loose:attackShape": 21221,
+   "mode_loose:other": 23618,
+   "mode_opp_pass_flight:attackShape": 20560,
+   "mode_loose:ball": 46541,
+   "mode_loose:cover": 105053,
+   "mode_dead:other": 577,
+   "mode_dead:attackShape": 130,
+   "mode_dead:cover": 78,
+   "mode_dead:ball": 15
+  },
+  "concEpisodes": 1049,
+  "concEpisodeSeconds": 2314.5,
+  "jointPressEpisodes": 202,
+  "concEpOwnWin3s": 432,
+  "concEpOppPassFirst": 181,
+  "concEpConceded10m": 304,
+  "concEpOppCarryStart": 154,
+  "jointOwnWin3s": 47,
+  "jointOppPassFirst": 77,
+  "jointConceded10m": 98,
+  "def": {
+   "danger": 21133,
+   "centralEmpty": 840,
+   "freeBehind": 0,
+   "carry": 26831,
+   "carrierFree5": 7728,
+   "carrierFree5Danger": 570
+  },
+  "freeBehindEpisodes": 0,
+  "centralEmptyEpisodes": 26,
+  "centralEmptyEpisodesShot": 4,
+  "shotsTotal": 58,
+  "passes": {
+   "n": 711,
+   "target_control": 242,
+   "target_no_control": 53,
+   "teammate_other": 125,
+   "passer_retouch": 22,
+   "opponent": 166,
+   "out": 103,
+   "none": 0,
+   "tc_next_self": 181,
+   "tc_next_opp": 28,
+   "tc_next_team": 30,
+   "tc_next_out": 3,
+   "targetNeverReceive": 131,
+   "tcNextSelfKinds": {
+    "dribble": 145,
+    "pass": 32,
+    "shoot": 4
+   },
+   "medianNextDelay": 0.35
+  },
+  "trans": {
+   "n": 480,
+   "loserAttackModeAt1s": 0.54,
+   "loserGoalSide0": 8.52,
+   "loserGoalSide5s": 7.44,
+   "shot10s": 20,
+   "regained2s": 185
+  },
+  "restarts": {
+   "throw_in": {
+    "count": 161,
+    "medianWait": 2.95,
+    "maxWait": 7.55
+   },
+   "corner": {
+    "count": 76,
+    "medianWait": 4.9,
+    "maxWait": 7.55
+   },
+   "goal_kick": {
+    "count": 58,
+    "medianWait": 2.4,
+    "maxWait": 5.9
+   },
+   "dropped_ball": {
+    "count": 11,
+    "medianWait": 2.65,
+    "maxWait": 4.45
+   },
+   "kickoff": {
+    "count": 18,
+    "medianWait": 8.65,
+    "maxWait": 10.35
+   }
+  },
+  "corners": {
+   "origins": {
+    "defender_uncontrolled_touch": 31,
+    "defender_pass": 13,
+    "defender_throw_in": 17,
+    "defender_own_pass_or_dribble_then_uncontrolled_touch": 7,
+    "gk_save": 7,
+    "defender_ctrl": 1
+   },
+   "n": 76,
+   "attInBoxMean": 0.01,
+   "defInBoxMean": 3.12,
+   "firstTouchAtt": 2,
+   "firstTouchDef": 74,
+   "shot10s": 3,
+   "goal10s": 1,
+   "firstKickKinds": {
+    "restart_kick": 76
+   },
+   "medianWait": 4.9,
+   "maxWait": 7.55
+  },
+  "throwIns": {
+   "n": 161,
+   "target_control": 5,
+   "opponent": 69,
+   "out": 43,
+   "outToOppCorner": 17,
+   "targetNeverReceive": 19
+  },
+  "goals": [
+   {
+    "tick": 4697,
+    "clock": "3:54",
+    "team": "B",
+    "scorer": "A00"
+   },
+   {
+    "tick": 11766,
+    "clock": "9:48",
+    "team": "B",
+    "scorer": "A00"
+   },
+   {
+    "tick": 13889,
+    "clock": "11:34",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 15730,
+    "clock": "13:06",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 16780,
+    "clock": "13:59",
+    "team": "A",
+    "scorer": null
+   },
+   {
+    "tick": 23793,
+    "clock": "19:49",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 25015,
+    "clock": "20:50",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 32041,
+    "clock": "26:42",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 37603,
+    "clock": "31:20",
+    "team": "B",
+    "scorer": "A10"
+   },
+   {
+    "tick": 44941,
+    "clock": "37:27",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 51711,
+    "clock": "43:05",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 59381,
+    "clock": "49:29",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 61741,
+    "clock": "51:27",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 81953,
+    "clock": "68:17",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 83526,
+    "clock": "69:36",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 88628,
+    "clock": "73:51",
+    "team": "B",
+    "scorer": "A07"
+   },
+   {
+    "tick": 105198,
+    "clock": "87:39",
+    "team": "A",
+    "scorer": "B01"
+   }
+  ],
+  "shots": 58
+ },
+ {
+  "run": "i18_771",
+  "variant": "branch:/tmp/claude-0/-home-user-TACTICAL-MOMENT/a6870839-969d-594b-91f5-442027cb70e1/scratchpad/i18/branch",
+  "profile": "baseline",
+  "zonal": false,
+  "seed": 771,
+  "extra": {},
+  "crash": null,
+  "crashTick": null,
+  "finalTick": 108000,
+  "score": {
+   "A": 7,
+   "B": 8
+  },
+  "result": "set",
+  "violations": 0,
+  "playSec": 4349.4,
+  "phaseTicks": {
+   "restart": 21012,
+   "play": 86988,
+   "finished": 1
+  },
+  "counts": {
+   "contactRows": 6463,
+   "touchEpisodes": 1874,
+   "bodyContactRows": 8261,
+   "bodyContactEpisodes": 2670,
+   "bodyContactEpisodesSameTeam": 977,
+   "kicks": 3504,
+   "kickKinds": {
+    "restart_kick": 112,
+    "dribble": 2584,
+    "pass": 745,
+    "shoot": 63
+   },
+   "shots": 63,
+   "goals": 15,
+   "turnovers": 728
+  },
+  "conc": {
+   "opp_carry": {
+    "ticks": 25638,
+    "ge3": 13548,
+    "eq2": 9209,
+    "eq1": 2428,
+    "eq0": 453
+   },
+   "opp_pass_flight": {
+    "ticks": 49149,
+    "ge3": 19792,
+    "eq2": 18046,
+    "eq1": 10181,
+    "eq0": 1130
+   },
+   "loose": {
+    "ticks": 24314,
+    "ge3": 11737,
+    "eq2": 6865,
+    "eq1": 4824,
+    "eq0": 888
+   },
+   "own_pass_flight_nonTarget": {
+    "ticks": 49149,
+    "ge3": 4864,
+    "eq2": 12646,
+    "eq1": 19125,
+    "eq0": 12514
+   },
+   "own_carry_teammatesChasing": {
+    "ticks": 25638,
+    "ge3": 1854,
+    "eq2": 2280,
+    "eq1": 3349,
+    "eq0": 18155
+   }
+  },
+  "sameTarget2m": {
+   "opp_carry": {
+    "ticks": 25638,
+    "eq2": 9691,
+    "ge3": 9988
+   },
+   "loose": {
+    "ticks": 24314,
+    "eq2": 7150,
+    "ge3": 7668
+   },
+   "opp_pass_flight": {
+    "ticks": 49149,
+    "eq2": 15102,
+    "ge3": 10473
+   },
+   "own_pass_flight": {
+    "ticks": 49149,
+    "eq2": 8331,
+    "ge3": 2684
+   }
+  },
+  "flips": 19.18,
+  "turnoversPerMin": 10.04,
+  "modeShare": {
+   "mode_own_pass_flight:other": 53994,
+   "mode_own_pass_flight:cover": 192717,
+   "mode_own_pass_flight:ball": 83192,
+   "mode_own_pass_flight:attackShape": 114230,
+   "mode_own_carry:attackShape": 148932,
+   "mode_own_carry:cover": 50248,
+   "mode_own_carry:other": 17715,
+   "mode_own_carry:ball": 14262,
+   "mode_opp_carry:cover": 167109,
+   "mode_opp_carry:other": 20899,
+   "mode_opp_carry:ball": 67283,
+   "mode_opp_pass_flight:other": 65302,
+   "mode_opp_pass_flight:cover": 287278,
+   "mode_opp_pass_flight:ball": 114257,
+   "mode_opp_pass_flight:attackShape": 24653,
+   "mode_loose:cover": 128834,
+   "mode_loose:attackShape": 24073,
+   "mode_loose:other": 27408,
+   "mode_loose:ball": 61656,
+   "mode_opp_carry:attackShape": 1089,
+   "mode_dead:other": 413,
+   "mode_dead:ball": 120,
+   "mode_dead:cover": 214,
+   "mode_dead:attackShape": 133
+  },
+  "concEpisodes": 1202,
+  "concEpisodeSeconds": 2548,
+  "jointPressEpisodes": 220,
+  "concEpOwnWin3s": 488,
+  "concEpOppPassFirst": 218,
+  "concEpConceded10m": 336,
+  "concEpOppCarryStart": 169,
+  "jointOwnWin3s": 55,
+  "jointOppPassFirst": 84,
+  "jointConceded10m": 86,
+  "def": {
+   "danger": 20640,
+   "centralEmpty": 931,
+   "freeBehind": 0,
+   "carry": 25638,
+   "carrierFree5": 7590,
+   "carrierFree5Danger": 706
+  },
+  "freeBehindEpisodes": 0,
+  "centralEmptyEpisodes": 31,
+  "centralEmptyEpisodesShot": 2,
+  "shotsTotal": 63,
+  "passes": {
+   "n": 745,
+   "target_control": 250,
+   "target_no_control": 66,
+   "teammate_other": 124,
+   "passer_retouch": 20,
+   "opponent": 196,
+   "out": 89,
+   "none": 0,
+   "tc_next_self": 192,
+   "tc_next_opp": 18,
+   "tc_next_team": 37,
+   "tc_next_out": 3,
+   "targetNeverReceive": 137,
+   "tcNextSelfKinds": {
+    "pass": 39,
+    "dribble": 150,
+    "shoot": 3
+   },
+   "medianNextDelay": 0.35
+  },
+  "trans": {
+   "n": 557,
+   "loserAttackModeAt1s": 0.88,
+   "loserGoalSide0": 8.38,
+   "loserGoalSide5s": 7.47,
+   "shot10s": 19,
+   "regained2s": 248
+  },
+  "restarts": {
+   "throw_in": {
+    "count": 182,
+    "medianWait": 2.8,
+    "maxWait": 6.55
+   },
+   "kickoff": {
+    "count": 16,
+    "medianWait": 7.95,
+    "maxWait": 10.3
+   },
+   "goal_kick": {
+    "count": 49,
+    "medianWait": 3.15,
+    "maxWait": 5.15
+   },
+   "corner": {
+    "count": 45,
+    "medianWait": 4.9,
+    "maxWait": 7.75
+   },
+   "dropped_ball": {
+    "count": 6,
+    "medianWait": 2.65,
+    "maxWait": 3.35
+   },
+   "direct_free_kick": {
+    "count": 1,
+    "medianWait": 4.4,
+    "maxWait": 4.4
+   }
+  },
+  "corners": {
+   "origins": {
+    "defender_throw_in": 15,
+    "defender_own_pass_or_dribble_then_uncontrolled_touch": 4,
+    "defender_uncontrolled_touch": 15,
+    "gk_save": 5,
+    "defender_pass": 5,
+    "attacker_last": 1
+   },
+   "n": 45,
+   "attInBoxMean": 0,
+   "defInBoxMean": 3.16,
+   "firstTouchAtt": 0,
+   "firstTouchDef": 45,
+   "shot10s": 4,
+   "goal10s": 1,
+   "firstKickKinds": {
+    "restart_kick": 45
+   },
+   "medianWait": 4.9,
+   "maxWait": 7.75
+  },
+  "throwIns": {
+   "n": 182,
+   "target_control": 7,
+   "opponent": 87,
+   "out": 35,
+   "outToOppCorner": 15,
+   "targetNeverReceive": 16
+  },
+  "goals": [
+   {
+    "tick": 1305,
+    "clock": "1:05",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 7218,
+    "clock": "6:00",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 17224,
+    "clock": "14:21",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 38119,
+    "clock": "31:45",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 38587,
+    "clock": "32:09",
+    "team": "B",
+    "scorer": "B07"
+   },
+   {
+    "tick": 45874,
+    "clock": "38:13",
+    "team": "B",
+    "scorer": "B09"
+   },
+   {
+    "tick": 51293,
+    "clock": "42:44",
+    "team": "A",
+    "scorer": "A07"
+   },
+   {
+    "tick": 53502,
+    "clock": "44:35",
+    "team": "B",
+    "scorer": "A07"
+   },
+   {
+    "tick": 55855,
+    "clock": "46:32",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 71865,
+    "clock": "59:53",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 77407,
+    "clock": "64:30",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 78726,
+    "clock": "65:36",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 84142,
+    "clock": "70:07",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 104250,
+    "clock": "86:52",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 105288,
+    "clock": "87:44",
+    "team": "A",
+    "scorer": "B06"
+   }
+  ],
+  "shots": 63
+ },
+ {
+  "run": "i18_8081",
+  "variant": "branch:/tmp/claude-0/-home-user-TACTICAL-MOMENT/a6870839-969d-594b-91f5-442027cb70e1/scratchpad/i18/branch",
+  "profile": "baseline",
+  "zonal": false,
+  "seed": 8081,
+  "extra": {},
+  "crash": null,
+  "crashTick": null,
+  "finalTick": 108000,
+  "score": {
+   "A": 4,
+   "B": 12
+  },
+  "result": "set",
+  "violations": 0,
+  "playSec": 4198.1,
+  "phaseTicks": {
+   "restart": 24038,
+   "play": 83962,
+   "finished": 1
+  },
+  "counts": {
+   "contactRows": 6850,
+   "touchEpisodes": 1815,
+   "bodyContactRows": 7520,
+   "bodyContactEpisodes": 2439,
+   "bodyContactEpisodesSameTeam": 912,
+   "kicks": 3318,
+   "kickKinds": {
+    "restart_kick": 136,
+    "dribble": 2406,
+    "pass": 707,
+    "shoot": 69
+   },
+   "shots": 69,
+   "goals": 16,
+   "turnovers": 560
+  },
+  "conc": {
+   "opp_carry": {
+    "ticks": 23539,
+    "ge3": 11756,
+    "eq2": 9031,
+    "eq1": 2427,
+    "eq0": 325
+   },
+   "opp_pass_flight": {
+    "ticks": 50169,
+    "ge3": 17788,
+    "eq2": 20127,
+    "eq1": 11024,
+    "eq0": 1230
+   },
+   "loose": {
+    "ticks": 20478,
+    "ge3": 8725,
+    "eq2": 6513,
+    "eq1": 4426,
+    "eq0": 814
+   },
+   "own_pass_flight_nonTarget": {
+    "ticks": 50169,
+    "ge3": 5335,
+    "eq2": 12037,
+    "eq1": 19075,
+    "eq0": 13722
+   },
+   "own_carry_teammatesChasing": {
+    "ticks": 23539,
+    "ge3": 1711,
+    "eq2": 1828,
+    "eq1": 2456,
+    "eq0": 17544
+   }
+  },
+  "sameTarget2m": {
+   "opp_carry": {
+    "ticks": 23539,
+    "eq2": 8976,
+    "ge3": 8965
+   },
+   "loose": {
+    "ticks": 20478,
+    "eq2": 6796,
+    "ge3": 5384
+   },
+   "opp_pass_flight": {
+    "ticks": 50169,
+    "eq2": 15126,
+    "ge3": 9569
+   },
+   "own_pass_flight": {
+    "ticks": 50169,
+    "eq2": 8088,
+    "ge3": 2979
+   }
+  },
+  "flips": 18.94,
+  "turnoversPerMin": 8,
+  "modeShare": {
+   "mode_own_pass_flight:other": 62662,
+   "mode_own_pass_flight:cover": 190982,
+   "mode_own_pass_flight:ball": 83997,
+   "mode_own_pass_flight:attackShape": 115815,
+   "mode_own_carry:attackShape": 141705,
+   "mode_own_carry:cover": 40267,
+   "mode_own_carry:other": 17729,
+   "mode_own_carry:ball": 12365,
+   "mode_opp_carry:other": 18748,
+   "mode_opp_carry:cover": 153101,
+   "mode_opp_carry:ball": 62653,
+   "mode_opp_carry:attackShape": 888,
+   "mode_loose:other": 24649,
+   "mode_loose:attackShape": 22388,
+   "mode_loose:ball": 48976,
+   "mode_loose:cover": 107640,
+   "mode_opp_pass_flight:other": 74919,
+   "mode_opp_pass_flight:cover": 288970,
+   "mode_opp_pass_flight:ball": 111986,
+   "mode_opp_pass_flight:attackShape": 25815,
+   "mode_dead:other": 180,
+   "mode_dead:attackShape": 66,
+   "mode_dead:cover": 40,
+   "mode_dead:ball": 14
+  },
+  "concEpisodes": 1082,
+  "concEpisodeSeconds": 2204.5,
+  "jointPressEpisodes": 221,
+  "concEpOwnWin3s": 418,
+  "concEpOppPassFirst": 177,
+  "concEpConceded10m": 293,
+  "concEpOppCarryStart": 143,
+  "jointOwnWin3s": 41,
+  "jointOppPassFirst": 108,
+  "jointConceded10m": 93,
+  "def": {
+   "danger": 22495,
+   "centralEmpty": 1022,
+   "freeBehind": 0,
+   "carry": 23539,
+   "carrierFree5": 7351,
+   "carrierFree5Danger": 889
+  },
+  "freeBehindEpisodes": 0,
+  "centralEmptyEpisodes": 29,
+  "centralEmptyEpisodesShot": 4,
+  "shotsTotal": 69,
+  "passes": {
+   "n": 707,
+   "target_control": 233,
+   "target_no_control": 53,
+   "teammate_other": 123,
+   "passer_retouch": 25,
+   "opponent": 163,
+   "out": 110,
+   "none": 0,
+   "tc_next_self": 199,
+   "tc_next_opp": 9,
+   "tc_next_team": 20,
+   "tc_next_out": 5,
+   "targetNeverReceive": 131,
+   "tcNextSelfKinds": {
+    "dribble": 163,
+    "pass": 34,
+    "shoot": 2
+   },
+   "medianNextDelay": 0.35
+  },
+  "trans": {
+   "n": 390,
+   "loserAttackModeAt1s": 0.84,
+   "loserGoalSide0": 8.46,
+   "loserGoalSide5s": 7.39,
+   "shot10s": 31,
+   "regained2s": 131
+  },
+  "restarts": {
+   "throw_in": {
+    "count": 185,
+    "medianWait": 2.95,
+    "maxWait": 7.35
+   },
+   "goal_kick": {
+    "count": 55,
+    "medianWait": 2.15,
+    "maxWait": 6.15
+   },
+   "kickoff": {
+    "count": 17,
+    "medianWait": 8.25,
+    "maxWait": 10.3
+   },
+   "corner": {
+    "count": 63,
+    "medianWait": 4.65,
+    "maxWait": 8.55
+   },
+   "dropped_ball": {
+    "count": 4,
+    "medianWait": 3.35,
+    "maxWait": 5.2
+   }
+  },
+  "corners": {
+   "origins": {
+    "defender_throw_in": 18,
+    "defender_own_pass_or_dribble_then_uncontrolled_touch": 6,
+    "defender_uncontrolled_touch": 23,
+    "defender_pass": 10,
+    "gk_save": 5,
+    "defender_ctrl": 1
+   },
+   "n": 63,
+   "attInBoxMean": 0,
+   "defInBoxMean": 3.1,
+   "firstTouchAtt": 0,
+   "firstTouchDef": 63,
+   "shot10s": 5,
+   "goal10s": 2,
+   "firstKickKinds": {
+    "restart_kick": 63
+   },
+   "medianWait": 4.65,
+   "maxWait": 8.55
+  },
+  "throwIns": {
+   "n": 185,
+   "target_control": 1,
+   "opponent": 87,
+   "out": 49,
+   "outToOppCorner": 18,
+   "targetNeverReceive": 12
+  },
+  "goals": [
+   {
+    "tick": 6729,
+    "clock": "5:36",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 12577,
+    "clock": "10:28",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 13214,
+    "clock": "11:00",
+    "team": "B",
+    "scorer": "A00"
+   },
+   {
+    "tick": 18117,
+    "clock": "15:05",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 32490,
+    "clock": "27:04",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 37481,
+    "clock": "31:14",
+    "team": "B",
+    "scorer": null
+   },
+   {
+    "tick": 40326,
+    "clock": "33:36",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 43396,
+    "clock": "36:09",
+    "team": "B",
+    "scorer": "A00"
+   },
+   {
+    "tick": 46612,
+    "clock": "38:50",
+    "team": "A",
+    "scorer": "A10"
+   },
+   {
+    "tick": 59177,
+    "clock": "49:18",
+    "team": "B",
+    "scorer": null
+   },
+   {
+    "tick": 64582,
+    "clock": "53:49",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 73951,
+    "clock": "61:37",
+    "team": "A",
+    "scorer": "B03"
+   },
+   {
+    "tick": 79785,
+    "clock": "66:29",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 86535,
+    "clock": "72:06",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 87017,
+    "clock": "72:30",
+    "team": "B",
+    "scorer": "B10"
+   },
+   {
+    "tick": 106407,
+    "clock": "88:40",
+    "team": "A",
+    "scorer": "A10"
+   }
+  ],
+  "shots": 69
+ }
+]

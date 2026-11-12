@@ -1,0 +1,132 @@
+{
+ "standard_off": {
+  "runs": [
+   "std_off_1847",
+   "std_off_31337",
+   "std_off_4049_koB",
+   "std_off_600613",
+   "std_off_771",
+   "std_off_8081"
+  ],
+  "normalPasses": 4063,
+  "flightSeconds": 9044.2,
+  "mateDecisionShare": {
+   "cover": 0.661,
+   "support": 0.138,
+   "ball": 0.159,
+   "other": 0.043
+  },
+  "i18RewriteShare": 0.0,
+  "shapeFwdMps": 0.562,
+  "shapeLatMps": 1.659,
+  "outcomeShare": {
+   "opponent": 0.23,
+   "out": 0.127,
+   "target_control": 0.386,
+   "target_no_control": 0.089,
+   "teammate": 0.168
+  },
+  "targetControl": {
+   "n": 1569,
+   "openFwdMean": 0.83,
+   "nextSelf": 1192,
+   "nextSelfPass": 201,
+   "nextOpponentFirst": 87,
+   "lostWithin5s": 563,
+   "ownShot10s": 117
+  },
+  "intercepted": {
+   "n": 935,
+   "goalSideAtLoss": 8.75,
+   "goalSideAt3s": 7.22,
+   "centralAtLoss": 1.84,
+   "centralAt3s": 1.74,
+   "oppShot10s": 37,
+   "regain5s": 435,
+   "supportStill0_5s": 0.17
+  },
+  "match": {
+   "matches": 6,
+   "goals": 87,
+   "shots": 344,
+   "kicks": {
+    "pass": 4417,
+    "dribble": 16793,
+    "shoot": 344
+   },
+   "throwIns": 1006,
+   "corners": 322,
+   "playMin": 433.2,
+   "oppCarry_ge3": 52.2,
+   "centralEmptyEp": 172,
+   "centralEmptyEpShot": 18,
+   "turnoversPerMin": 9.86,
+   "violations": 0
+  }
+ },
+ "i18": {
+  "runs": [
+   "i18_1847",
+   "i18_31337",
+   "i18_4049_koB",
+   "i18_600613",
+   "i18_771",
+   "i18_8081"
+  ],
+  "normalPasses": 3966,
+  "flightSeconds": 8979.9,
+  "mateDecisionShare": {
+   "cover": 0.417,
+   "support": 0.381,
+   "ball": 0.158,
+   "other": 0.045
+  },
+  "i18RewriteShare": 0.246,
+  "shapeFwdMps": 0.926,
+  "shapeLatMps": 1.512,
+  "outcomeShare": {
+   "opponent": 0.239,
+   "out": 0.152,
+   "target_control": 0.369,
+   "target_no_control": 0.086,
+   "teammate": 0.154
+  },
+  "targetControl": {
+   "n": 1465,
+   "openFwdMean": 0.81,
+   "nextSelf": 1132,
+   "nextSelfPass": 205,
+   "nextOpponentFirst": 60,
+   "lostWithin5s": 538,
+   "ownShot10s": 108
+  },
+  "intercepted": {
+   "n": 947,
+   "goalSideAtLoss": 8.7,
+   "goalSideAt3s": 7.18,
+   "centralAtLoss": 1.82,
+   "centralAt3s": 1.84,
+   "oppShot10s": 54,
+   "regain5s": 439,
+   "supportStill0_5s": 0.25
+  },
+  "match": {
+   "matches": 6,
+   "goals": 92,
+   "shots": 382,
+   "kicks": {
+    "pass": 4320,
+    "dribble": 15256,
+    "shoot": 382
+   },
+   "throwIns": 1087,
+   "corners": 361,
+   "playMin": 423.7,
+   "oppCarry_ge3": 52.3,
+   "centralEmptyEp": 164,
+   "centralEmptyEpShot": 25,
+   "turnoversPerMin": 9.14,
+   "violations": 0
+  }
+ }
+}
