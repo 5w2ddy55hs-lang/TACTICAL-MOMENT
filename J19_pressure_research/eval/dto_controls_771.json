@@ -1,0 +1,88 @@
+{
+ "yieldCases": 134,
+ "stopEffective_resumesPress": 76,
+ "removeEffective_resumesPress": 134,
+ "engageCases": 35,
+ "addGoalSideEffective_noEngage": 35,
+ "goalSideRetreating_stillEngage": 35,
+ "yieldNotGoalSide": 134,
+ "examples": [
+  {
+   "t": 1260,
+   "p": "A10",
+   "test": "stop",
+   "stillEffective": [
+    {
+     "id": "A06",
+     "gs": false,
+     "d": 2.3
+    }
+   ]
+  },
+  {
+   "t": 1488,
+   "p": "A07",
+   "test": "stop",
+   "stillEffective": [
+    {
+     "id": "A09",
+     "gs": true,
+     "d": 2.5
+    },
+    {
+     "id": "A10",
+     "gs": false,
+     "d": 6.3
+    }
+   ]
+  },
+  {
+   "t": 2172,
+   "p": "B09",
+   "test": "stop",
+   "stillEffective": [
+    {
+     "id": "B07",
+     "gs": false,
+     "d": 2.4
+    }
+   ]
+  },
+  {
+   "t": 2395,
+   "p": "B08",
+   "test": "stop",
+   "stillEffective": [
+    {
+     "id": "B10",
+     "gs": false,
+     "d": 3.9
+    }
+   ]
+  },
+  {
+   "t": 2840,
+   "p": "A08",
+   "test": "stop",
+   "stillEffective": [
+    {
+     "id": "A06",
+     "gs": true,
+     "d": 5.2
+    }
+   ]
+  },
+  {
+   "t": 2844,
+   "p": "A10",
+   "test": "stop",
+   "stillEffective": [
+    {
+     "id": "A06",
+     "gs": true,
+     "d": 3.6
+    }
+   ]
+  }
+ ]
+}
