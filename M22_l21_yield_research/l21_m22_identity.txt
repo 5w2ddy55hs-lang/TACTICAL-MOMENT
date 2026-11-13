@@ -1,0 +1,2 @@
+{"seed":771,"ticksIdentical":85,"firstDecisionDifference":"84:B03","firstHashDifferenceTick":85,"consistent":true}
+{"seed":31337,"ticksIdentical":85,"firstDecisionDifference":"84:B06","firstHashDifferenceTick":85,"consistent":true}

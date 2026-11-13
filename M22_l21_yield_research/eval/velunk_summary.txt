@@ -1,0 +1,8 @@
+velocity-unknown yield episodes 99
+  triggerTeamHas3s     base=   47 k20=   49 l21=   48
+  triggerTeamHas6s     base=   52 k20=   57 l21=   54
+  collected3s          base=   62 k20=   62 l21=   62
+  wentDead             base=   35 k20=   35 l21=   36
+  goals                base=    6 k20=    8 l21=    7
+  sameTeamContactEps   base=  199 k20=  210 l21=  220
+  first control {'base': {'own': 44, 'opp': 32, 'none': 23}, 'k20': {'own': 44, 'opp': 32, 'none': 23}, 'l21': {'own': 44, 'opp': 31, 'none': 24}}

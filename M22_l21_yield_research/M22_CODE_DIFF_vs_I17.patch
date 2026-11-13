@@ -1,0 +1,43 @@
+diff -ruN i17/core/decision.mjs m22/core/decision.mjs
+--- i17/core/decision.mjs	2026-11-13 02:04:46.046536117 +0000
++++ m22/core/decision.mjs	2026-11-13 02:04:46.069090880 +0000
+@@ -39,7 +39,17 @@
+   const bp={x:ball.x,y:ball.y},db=dist(p,bp),age=(o.tick-ball.seenTick)*DT;
+   const nearFriends=friends.filter(q=>dist(q,bp)<2.1),nearEnemies=enemies.filter(q=>dist(q,bp)<2.1);
+   const visibleHolder=o.people.find(q=>q.holding&&o.tick-q.seenTick<=8);
+-  const ourPossession=visibleHolder?visibleHolder.team===p.team:nearFriends.length>0&&!nearEnemies.length;
++  // K20 research (NOT adopted): proximity alone is not possession. Require that the latest touch THIS player
++  // witnessed (own native observed-touch memory: who/team/part, no intent) was by its own team.
++  // Outfield only: the goalkeeper keeps the original rule (GK work is owned by another track).
++  const witnessedOwnTouch=p.role==='GK'||!!p.observedTouch&&p.observedTouch.players.length>0&&p.observedTouch.players.every(q=>q.team===p.team);
++  const ourPossession=visibleHolder?visibleHolder.team===p.team:nearFriends.length>0&&!nearEnemies.length&&witnessedOwnTouch;
++  // L21 research (NOT adopted): while possession is unknown (proximity said ours, no witnessed own touch), still yield the
++  // chase to a CURRENTLY SEEN teammate that is closer to the ball and evidently collecting it (within foot reach 1.1 m or
++  // closing on the ball at >=0.5 m/s relative to the observed ball motion). Observed positions/velocities only; no intent.
++  const unknownPossession=!visibleHolder&&nearFriends.length>0&&!nearEnemies.length&&!witnessedOwnTouch;
++  const evidentCollector=unknownPossession&&nearFriends.some(q=>q.seenTick===o.tick&&dist(q,bp)<db&&(dist(q,bp)<=1.1||(()=>{const d=dist(q,bp)||1e-6,ux=(bp.x-q.x)/d,uy=(bp.y-q.y)/d,bvx=ball.velocityKnown?ball.vx:0,bvy=ball.velocityKnown?ball.vy:0;return (q.vx-bvx)*ux+(q.vy-bvy)*uy>=0.5;})())&&Math.hypot((ball.velocityKnown?ball.vx:0)-q.vx,(ball.velocityKnown?ball.vy:0)-q.vy)<=10.7);
++  // M22 research (NOT adopted): an evident collector must also face a physically collectable ball: observed relative ball speed <=10.7 m/s (I11 control-70 threshold; others' abilities are not observable).
+   const theirPossession=nearEnemies.length>0&&!nearFriends.length;
+   const motion=knownBallMotion(ball),speed=motion?.speed??null;
+   // A fresh nearby low ball permits an uncertain attempt, not a slow-ball or control claim.
+@@ -57,7 +67,7 @@
+    add(kind,target,score,reason,evidence);
+   }else{
+    add(ourPossession?'support':'cover',ourPossession?support:cover,0.65,'private_shape_and_possession_hypothesis');
+-   let score=1.65-db*0.048+c.press*0.35-(ourPossession&&!(propose&&admissibleReceptionEvidence(o,nearFriends,visibleHolder,motion,reception))?1.5:0)-age*0.4;
++   let score=1.65-db*0.048+c.press*0.35-((ourPossession||evidentCollector)&&!(propose&&admissibleReceptionEvidence(o,nearFriends,visibleHolder,motion,reception))?1.5:0)-age*0.4;
+    const aheadFriends=friends.filter(q=>dist(q,bp)+2<db).length;score-=Math.min(2,aheadFriends)*0.22;
+    if(!canPlay&&!visibleHolder)add(theirPossession?'press':motion!==null&&speed>3?'receive':'intercept',intercept,score,reception?.reason??'observed_ball_eta_and_teammates',{eta,...(reception?{reception}: {})});
+    if(ourPossession&&p.role==='CB'&&enemies.every(q=>dist(p,q)>9))add('advance_support',{x:support.x+p.dir*9*c.cbAdvance,y:support.y},0.55+c.cbAdvance*0.6,'cb_self_assessed_space');
+diff -ruN i17/core/pass_build_identity.mjs m22/core/pass_build_identity.mjs
+--- i17/core/pass_build_identity.mjs	2026-11-13 02:04:46.046559401 +0000
++++ m22/core/pass_build_identity.mjs	2026-11-13 02:04:46.076017910 +0000
+@@ -1,4 +1,4 @@
+-export const PASS_BUILD_SHA256='f823d4e9d28f60650bd98a800926dea0ce1a69da6a4bd528c77d8aad44a76358';
+-export const PASS_SAVE_SCHEMA='TM_INTEGRATION_I8_STANDARD_SAVE/1';
+-export const PASS_ENGINE='TM_INTEGRATION_I8_STANDARD_PASS_R1_CLAUDE_COUNTDOWN';
+-export const PASS_RESULT_SCHEMA='TM_INTEGRATION_I8_STANDARD_RESULT/1';
++export const PASS_BUILD_SHA256='632413ee581a70c7f5e6123bbe9ea41c34ec2dac48304cb0d6b58ce5ac732326';
++export const PASS_SAVE_SCHEMA='TM_RESEARCH_M22_COLLECTABLE_COLLECTOR_SAVE/1';
++export const PASS_ENGINE='TM_RESEARCH_M22_COLLECTABLE_COLLECTOR_ON_I8_STANDARD';
++export const PASS_RESULT_SCHEMA='TM_RESEARCH_M22_COLLECTABLE_COLLECTOR_RESULT/1';

@@ -1,0 +1,10 @@
+all real yields                                            n= 3018 collector_ctrl 42% nocontrol 3% opp_first 9% other_mate 12% yielder 6% none/dead 28%
+within reach but alongside (|rel|<0.5)                     n=   67 collector_ctrl 67% nocontrol 0% opp_first 4% other_mate 6% yielder 7% none/dead 15%
+within reach and closing                                   n=  521 collector_ctrl 60% nocontrol 5% opp_first 6% other_mate 4% yielder 6% none/dead 17%
+not in reach, collector own motion away from ball          n=  234 collector_ctrl 68% nocontrol 6% opp_first 3% other_mate 3% yielder 1% none/dead 18%
+opponent observed closer to ball than collector            n=    8 collector_ctrl 38% nocontrol 0% opp_first 25% other_mate 12% yielder 12% none/dead 12%
+opponent within 3 m of ball                                n=  561 collector_ctrl 42% nocontrol 3% opp_first 24% other_mate 6% yielder 6% none/dead 19%
+no opponent within 3 m of ball                             n= 2457 collector_ctrl 42% nocontrol 3% opp_first 6% other_mate 13% yielder 5% none/dead 30%
+ball velocity unknown to yielder                           n=  147 collector_ctrl 13% nocontrol 0% opp_first 17% other_mate 12% yielder 16% none/dead 42%
+two or more evident collectors                             n=  195 collector_ctrl 66% nocontrol 4% opp_first 1% other_mate 9% yielder 5% none/dead 15%
+note: other players heading is not in the perception DTO; velocity basis age of other players is not exposed (only position seenTick)

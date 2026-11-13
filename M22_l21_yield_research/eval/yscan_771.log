@@ -1,0 +1,70 @@
+{
+ "seed": 771,
+ "n": 1641,
+ "byCategory": {
+  "closing_by_own_motion|slow": {
+   "collector_control": 354,
+   "no_touch_40": 168,
+   "opponent_first": 96,
+   "dead_ball": 88,
+   "yielder_touched": 50,
+   "other_teammate": 142,
+   "collector_touch_nocontrol": 19
+  },
+  "reach|slow": {
+   "collector_control": 173,
+   "yielder_touched": 21,
+   "opponent_first": 21,
+   "other_teammate": 9,
+   "no_touch_40": 37,
+   "dead_ball": 21,
+   "collector_touch_nocontrol": 5
+  },
+  "none|slow": {
+   "opponent_first": 32,
+   "other_teammate": 29,
+   "yielder_touched": 123,
+   "no_touch_40": 9
+  },
+  "closing_by_ball_only|slow": {
+   "collector_control": 45,
+   "no_touch_40": 10,
+   "collector_touch_nocontrol": 5,
+   "dead_ball": 3,
+   "other_teammate": 1,
+   "yielder_touched": 1,
+   "opponent_first": 1
+  },
+  "reach|fast": {
+   "dead_ball": 13,
+   "collector_touch_nocontrol": 5,
+   "no_touch_40": 15,
+   "other_teammate": 2,
+   "collector_control": 7,
+   "opponent_first": 2
+  },
+  "reach|slow|oppCloser": {
+   "collector_control": 3,
+   "opponent_first": 1,
+   "dead_ball": 1,
+   "other_teammate": 1
+  },
+  "closing_by_own_motion|fast": {
+   "other_teammate": 4,
+   "no_touch_40": 16,
+   "collector_control": 5,
+   "opponent_first": 15,
+   "collector_touch_nocontrol": 6,
+   "dead_ball": 17
+  },
+  "closing_by_ball_only|fast": {
+   "collector_control": 28,
+   "opponent_first": 3,
+   "yielder_touched": 2,
+   "collector_touch_nocontrol": 11,
+   "dead_ball": 17,
+   "no_touch_40": 2,
+   "other_teammate": 2
+  }
+ }
+}

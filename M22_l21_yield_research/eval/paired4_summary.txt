@@ -1,0 +1,25 @@
+triggers identical; base outcome identical across the two runs: 2606 / 2606
+change n 1154
+   triggerTeamHas6s       base=    570 k20=    568 l21=    560 m22=    558
+   triggerTeamHas3s       base=    638 k20=    639 l21=    639 m22=    639
+   regain2s               base=    470 k20=    470 l21=    470 m22=    470
+   regain6s               base=    700 k20=    718 l21=    718 m22=    718
+   collected3s            base=    995 k20=    999 l21=    997 m22=    997
+   wentDead               base=    350 k20=    352 l21=    348 m22=    347
+   shots                  base=    111 k20=    114 l21=    115 m22=    114
+   goals                  base=     26 k20=     25 l21=     27 m22=     26
+   ownGoals               base=      6 k20=      6 l21=      7 m22=      6
+   sameTeamContactEps     base=   2567 k20=   2656 l21=   2635 m22=   2614
+   attDec1s               base=  11044 k20=  10704 l21=  10704 m22=  10704
+free n 1452
+   triggerTeamHas6s       base=      0 k20=      0 l21=      0 m22=      0
+   triggerTeamHas3s       base=      0 k20=      0 l21=      0 m22=      0
+   regain2s               base=      0 k20=      0 l21=      0 m22=      0
+   regain6s               base=      0 k20=      0 l21=      0 m22=      0
+   collected3s            base=   1043 k20=   1051 l21=   1045 m22=   1049
+   wentDead               base=    511 k20=    505 l21=    492 m22=    494
+   shots                  base=    108 k20=    108 l21=    109 m22=    108
+   goals                  base=     29 k20=     26 l21=     29 m22=     30
+   ownGoals               base=      9 k20=     12 l21=     12 m22=     13
+   sameTeamContactEps     base=   1469 k20=   1605 l21=   1479 m22=   1517
+   attDec1s               base=      0 k20=      0 l21=      0 m22=      0
