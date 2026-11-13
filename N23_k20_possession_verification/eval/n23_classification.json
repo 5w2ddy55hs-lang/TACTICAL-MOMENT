@@ -1,0 +1,2354 @@
+[
+ {
+  "case": "BK_771_3969",
+  "team": "B",
+  "final": "OTHER_BRANCH_FIRST",
+  "chain": "DIRECT",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 39,
+   "base": [
+    42,
+    "kick",
+    "B06",
+    "B",
+    true
+   ],
+   "k20": [
+    39,
+    "kick",
+    "B06",
+    "B",
+    true
+   ]
+  },
+  "touchers": [
+   "B06"
+  ],
+  "toucherAlterations": [
+   [
+    0,
+    "B06",
+    8.1
+   ],
+   [
+    28,
+    "B06",
+    7.1
+   ]
+  ],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "B01",
+   29.7
+  ],
+  "firstSecondaryAnyPlayer": [
+   32,
+   "B01",
+   "advance_support->cover",
+   36.3
+  ],
+  "secondaryBeforeDiff": 4,
+  "alterationsBeforeDiff": 16,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "B",
+     42
+    ],
+    [
+     "A",
+     50
+    ],
+    [
+     "R:B",
+     73
+    ]
+   ],
+   "k20": [
+    [
+     "B",
+     39
+    ],
+    [
+     "A",
+     99
+    ],
+    [
+     "B",
+     104
+    ],
+    [
+     "A",
+     106
+    ],
+    [
+     "B",
+     111
+    ],
+    [
+     "A",
+     113
+    ]
+   ]
+  }
+ },
+ {
+  "case": "KB_771_5565",
+  "team": "B",
+  "final": "UNDETERMINED",
+  "chain": "UNRESOLVED",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 26,
+   "base": [
+    26,
+    "kick",
+    "B06",
+    "B",
+    true
+   ],
+   "k20": [
+    30,
+    "kick",
+    "B06",
+    "B",
+    true
+   ]
+  },
+  "touchers": [
+   "B06"
+  ],
+  "toucherAlterations": [],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "B01",
+   23.9
+  ],
+  "firstSecondaryAnyPlayer": [
+   28,
+   "B06",
+   "intercept->dribble",
+   0.9
+  ],
+  "secondaryBeforeDiff": 0,
+  "alterationsBeforeDiff": 9,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "B",
+     26
+    ],
+    [
+     "A",
+     62
+    ]
+   ],
+   "k20": [
+    [
+     "B",
+     30
+    ],
+    [
+     "A",
+     70
+    ],
+    [
+     "B",
+     86
+    ]
+   ]
+  }
+ },
+ {
+  "case": "KB_771_6397",
+  "team": "B",
+  "final": "OTHER_BRANCH_FIRST",
+  "chain": "SECONDARY",
+  "labelSettledAtFirstDifference": true,
+  "firstBallEventDiff": {
+   "dt": 35,
+   "base": [
+    78,
+    "restart_placement",
+    "A09",
+    "A",
+    false
+   ],
+   "k20": [
+    35,
+    "kick",
+    "B09",
+    "B",
+    true
+   ]
+  },
+  "touchers": [
+   "A09",
+   "B09"
+  ],
+  "toucherAlterations": [
+   [
+    0,
+    "B09",
+    17
+   ],
+   [
+    20,
+    "A09",
+    21.8
+   ],
+   [
+    24,
+    "A09",
+    19.4
+   ]
+  ],
+  "toucherSecondary": [
+   [
+    16,
+    "B09",
+    "cover->receive",
+    15.3
+   ]
+  ],
+  "firstAlteration": [
+   0,
+   "B01",
+   25.6
+  ],
+  "firstSecondaryAnyPlayer": [
+   16,
+   "B09",
+   "cover->receive",
+   15.3
+  ],
+  "secondaryBeforeDiff": 2,
+  "alterationsBeforeDiff": 25,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "R:A",
+     78
+    ]
+   ],
+   "k20": [
+    [
+     "B",
+     35
+    ]
+   ]
+  }
+ },
+ {
+  "case": "KB_771_12773",
+  "team": "A",
+  "final": "OTHER_BRANCH_FIRST",
+  "chain": "DIRECT",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 12,
+   "base": [
+    13,
+    "contact",
+    "A07",
+    "A",
+    false
+   ],
+   "k20": [
+    12,
+    "contact",
+    "A07",
+    "A",
+    false
+   ]
+  },
+  "touchers": [
+   "A07"
+  ],
+  "toucherAlterations": [
+   [
+    0,
+    "A07",
+    7.4
+   ]
+  ],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "A01",
+   47.8
+  ],
+  "firstSecondaryAnyPlayer": [
+   19,
+   "B04",
+   "support->cover",
+   31
+  ],
+  "secondaryBeforeDiff": 0,
+  "alterationsBeforeDiff": 6,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "B",
+     20
+    ]
+   ],
+   "k20": [
+    [
+     "B",
+     31
+    ],
+    [
+     "A",
+     66
+    ]
+   ]
+  }
+ },
+ {
+  "case": "BK_771_17945",
+  "team": "B",
+  "final": "K20_DIRECT",
+  "chain": "DIRECT",
+  "labelSettledAtFirstDifference": true,
+  "firstBallEventDiff": {
+   "dt": 11,
+   "base": [
+    11,
+    "kick",
+    "B06",
+    "B",
+    true
+   ],
+   "k20": [
+    11,
+    "contact",
+    "B06",
+    "B",
+    false
+   ]
+  },
+  "touchers": [
+   "B06"
+  ],
+  "toucherAlterations": [
+   [
+    0,
+    "B06",
+    8.5
+   ]
+  ],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "B01",
+   37.5
+  ],
+  "firstSecondaryAnyPlayer": [
+   12,
+   "B06",
+   "intercept->pass",
+   0.7
+  ],
+  "secondaryBeforeDiff": 0,
+  "alterationsBeforeDiff": 8,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "B",
+     11
+    ]
+   ],
+   "k20": [
+    [
+     "R:A",
+     40
+    ]
+   ]
+  }
+ },
+ {
+  "case": "BK_771_18956",
+  "team": "A",
+  "final": "OTHER_BRANCH_FIRST",
+  "chain": "SECONDARY",
+  "labelSettledAtFirstDifference": true,
+  "firstBallEventDiff": {
+   "dt": 104,
+   "base": [
+    104,
+    "contact",
+    "A02",
+    "A",
+    true
+   ],
+   "k20": null
+  },
+  "touchers": [
+   "A02"
+  ],
+  "toucherAlterations": [
+   [
+    0,
+    "A02",
+    45.2
+   ],
+   [
+    56,
+    "A02",
+    23.3
+   ],
+   [
+    60,
+    "A02",
+    23
+   ]
+  ],
+  "toucherSecondary": [
+   [
+    52,
+    "A02",
+    "receive->cover",
+    23.6
+   ],
+   [
+    64,
+    "A02",
+    "receive->cover",
+    22.9
+   ],
+   [
+    68,
+    "A02",
+    "receive->cover",
+    22.6
+   ]
+  ],
+  "firstAlteration": [
+   0,
+   "A01",
+   48.1
+  ],
+  "firstSecondaryAnyPlayer": [
+   20,
+   "A05",
+   "receive->cover",
+   16.8
+  ],
+  "secondaryBeforeDiff": 29,
+  "alterationsBeforeDiff": 27,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "A",
+     104
+    ]
+   ],
+   "k20": []
+  }
+ },
+ {
+  "case": "BK_771_22900",
+  "team": "B",
+  "final": "OTHER_BRANCH_FIRST",
+  "chain": "SECONDARY",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 69,
+   "base": [
+    72,
+    "kick",
+    "B06",
+    "B",
+    true
+   ],
+   "k20": [
+    69,
+    "kick",
+    "B06",
+    "B",
+    true
+   ]
+  },
+  "touchers": [
+   "B06"
+  ],
+  "toucherAlterations": [
+   [
+    2,
+    "B06",
+    23.3
+   ]
+  ],
+  "toucherSecondary": [
+   [
+    18,
+    "B06",
+    "receive->cover",
+    17.3
+   ]
+  ],
+  "firstAlteration": [
+   0,
+   "B08",
+   19.2
+  ],
+  "firstSecondaryAnyPlayer": [
+   18,
+   "B06",
+   "receive->cover",
+   17.3
+  ],
+  "secondaryBeforeDiff": 5,
+  "alterationsBeforeDiff": 16,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "B",
+     72
+    ]
+   ],
+   "k20": [
+    [
+     "B",
+     69
+    ],
+    [
+     "A",
+     112
+    ]
+   ]
+  }
+ },
+ {
+  "case": "BK_771_23341",
+  "team": "A",
+  "final": "UNDETERMINED",
+  "chain": "UNRESOLVED",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 64,
+   "base": [
+    64,
+    "contact",
+    "B08",
+    "B",
+    true
+   ],
+   "k20": [
+    67,
+    "kick",
+    "B08",
+    "B",
+    true
+   ]
+  },
+  "touchers": [
+   "B08"
+  ],
+  "toucherAlterations": [],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "A05",
+   24.5
+  ],
+  "firstSecondaryAnyPlayer": [
+   36,
+   "A09",
+   "cover->support",
+   39.7
+  ],
+  "secondaryBeforeDiff": 6,
+  "alterationsBeforeDiff": 5,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "B",
+     64
+    ],
+    [
+     "A",
+     83
+    ],
+    [
+     "B",
+     90
+    ],
+    [
+     "A",
+     98
+    ]
+   ],
+   "k20": [
+    [
+     "B",
+     64
+    ]
+   ]
+  }
+ },
+ {
+  "case": "BK_771_24123",
+  "team": "A",
+  "final": "UNDETERMINED",
+  "chain": "UNRESOLVED",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 54,
+   "base": [
+    60,
+    "kick",
+    "B10",
+    "B",
+    true
+   ],
+   "k20": [
+    54,
+    "contact",
+    "B10",
+    "B",
+    true
+   ]
+  },
+  "touchers": [
+   "B10"
+  ],
+  "toucherAlterations": [],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "A05",
+   33.8
+  ],
+  "firstSecondaryAnyPlayer": [
+   24,
+   "A06",
+   "receive->cover",
+   20.2
+  ],
+  "secondaryBeforeDiff": 12,
+  "alterationsBeforeDiff": 4,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "B",
+     60
+    ],
+    [
+     "A",
+     80
+    ],
+    [
+     "B",
+     81
+    ],
+    [
+     "A",
+     81
+    ]
+   ],
+   "k20": [
+    [
+     "B",
+     54
+    ]
+   ]
+  }
+ },
+ {
+  "case": "BK_771_26646",
+  "team": "A",
+  "final": "OTHER_BRANCH_FIRST",
+  "chain": "DIRECT",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 18,
+   "base": [
+    18,
+    "kick",
+    "A08",
+    "A",
+    true
+   ],
+   "k20": [
+    19,
+    "kick",
+    "A08",
+    "A",
+    true
+   ]
+  },
+  "touchers": [
+   "A08"
+  ],
+  "toucherAlterations": [
+   [
+    0,
+    "A08",
+    11.5
+   ]
+  ],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "A04",
+   48.5
+  ],
+  "firstSecondaryAnyPlayer": [
+   25,
+   "A00",
+   "gk_recover->gk_support",
+   48.3
+  ],
+  "secondaryBeforeDiff": 0,
+  "alterationsBeforeDiff": 11,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "A",
+     18
+    ]
+   ],
+   "k20": [
+    [
+     "A",
+     19
+    ],
+    [
+     "B",
+     64
+    ],
+    [
+     "A",
+     77
+    ],
+    [
+     "B",
+     78
+    ],
+    [
+     "A",
+     79
+    ],
+    [
+     "B",
+     81
+    ]
+   ]
+  }
+ },
+ {
+  "case": "BK_771_44317",
+  "team": "B",
+  "final": "OTHER_BRANCH_FIRST",
+  "chain": "SECONDARY",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 107,
+   "base": [
+    115,
+    "kick",
+    "A09",
+    "A",
+    true
+   ],
+   "k20": [
+    107,
+    "kick",
+    "A09",
+    "A",
+    true
+   ]
+  },
+  "touchers": [
+   "A09"
+  ],
+  "toucherAlterations": [],
+  "toucherSecondary": [
+   [
+    77,
+    "A09",
+    "receive->press",
+    1.6
+   ],
+   [
+    93,
+    "A09",
+    "intercept->receive",
+    1.3
+   ],
+   [
+    101,
+    "A09",
+    "receive->intercept",
+    1.3
+   ]
+  ],
+  "firstAlteration": [
+   0,
+   "B04",
+   28.6
+  ],
+  "firstSecondaryAnyPlayer": [
+   17,
+   "B06",
+   "cover->press",
+   19.8
+  ],
+  "secondaryBeforeDiff": 31,
+  "alterationsBeforeDiff": 17,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "A",
+     115
+    ],
+    [
+     "B",
+     119
+    ]
+   ],
+   "k20": [
+    [
+     "A",
+     107
+    ]
+   ]
+  }
+ },
+ {
+  "case": "KB_771_49303",
+  "team": "B",
+  "final": "OTHER_BRANCH_FIRST",
+  "chain": "SECONDARY",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 91,
+   "base": [
+    91,
+    "kick",
+    "A08",
+    "A",
+    true
+   ],
+   "k20": [
+    104,
+    "contact",
+    "A10",
+    "A",
+    false
+   ]
+  },
+  "touchers": [
+   "A08",
+   "A10"
+  ],
+  "toucherAlterations": [],
+  "toucherSecondary": [
+   [
+    88,
+    "A10",
+    "support->receive",
+    13.7
+   ],
+   [
+    89,
+    "A08",
+    "intercept->receive",
+    4.5
+   ]
+  ],
+  "firstAlteration": [
+   0,
+   "B02",
+   19
+  ],
+  "firstSecondaryAnyPlayer": [
+   28,
+   "B10",
+   "support->cover",
+   18.8
+  ],
+  "secondaryBeforeDiff": 27,
+  "alterationsBeforeDiff": 7,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "A",
+     91
+    ],
+    [
+     "B",
+     115
+    ],
+    [
+     "A",
+     117
+    ],
+    [
+     "B",
+     117
+    ],
+    [
+     "A",
+     117
+    ],
+    [
+     "B",
+     118
+    ],
+    [
+     "A",
+     118
+    ]
+   ],
+   "k20": [
+    [
+     "B",
+     111
+    ]
+   ]
+  }
+ },
+ {
+  "case": "KB_771_71170",
+  "team": "B",
+  "final": "UNDETERMINED",
+  "chain": "UNRESOLVED",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 18,
+   "base": [
+    18,
+    "contact",
+    "A05",
+    "A",
+    false
+   ],
+   "k20": [
+    18,
+    "kick",
+    "A05",
+    "A",
+    true
+   ]
+  },
+  "touchers": [
+   "A05"
+  ],
+  "toucherAlterations": [],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "B01",
+   37
+  ],
+  "firstSecondaryAnyPlayer": [
+   16,
+   "B07",
+   "cover->receive",
+   15.7
+  ],
+  "secondaryBeforeDiff": 1,
+  "alterationsBeforeDiff": 6,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "A",
+     49
+    ]
+   ],
+   "k20": [
+    [
+     "A",
+     18
+    ],
+    [
+     "B",
+     76
+    ],
+    [
+     "A",
+     76
+    ],
+    [
+     "B",
+     78
+    ]
+   ]
+  }
+ },
+ {
+  "case": "KB_771_82071",
+  "team": "A",
+  "final": "K20_DIRECT",
+  "chain": "DIRECT",
+  "labelSettledAtFirstDifference": true,
+  "firstBallEventDiff": {
+   "dt": 38,
+   "base": null,
+   "k20": [
+    38,
+    "kick",
+    "A05",
+    "A",
+    true
+   ]
+  },
+  "touchers": [
+   "A05"
+  ],
+  "toucherAlterations": [
+   [
+    0,
+    "A05",
+    15.4
+   ],
+   [
+    4,
+    "A05",
+    14.1
+   ]
+  ],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "A01",
+   33.5
+  ],
+  "firstSecondaryAnyPlayer": [
+   35,
+   "A00",
+   "gk_recover->gk_support",
+   25.8
+  ],
+  "secondaryBeforeDiff": 4,
+  "alterationsBeforeDiff": 17,
+  "controlSequenceAfterDiff": {
+   "base": [],
+   "k20": [
+    [
+     "A",
+     38
+    ]
+   ]
+  }
+ },
+ {
+  "case": "KB_771_84823",
+  "team": "A",
+  "final": "OTHER_BRANCH_FIRST",
+  "chain": "DIRECT",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 15,
+   "base": [
+    15,
+    "kick",
+    "A06",
+    "A",
+    true
+   ],
+   "k20": [
+    71,
+    "kick",
+    "A05",
+    "A",
+    true
+   ]
+  },
+  "touchers": [
+   "A05",
+   "A06"
+  ],
+  "toucherAlterations": [
+   [
+    0,
+    "A05",
+    29.3
+   ],
+   [
+    0,
+    "A06",
+    11.6
+   ]
+  ],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "A01",
+   37.4
+  ],
+  "firstSecondaryAnyPlayer": [
+   16,
+   "A06",
+   "pass->receive",
+   1.8
+  ],
+  "secondaryBeforeDiff": 0,
+  "alterationsBeforeDiff": 8,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "A",
+     15
+    ],
+    [
+     "R:B",
+     60
+    ]
+   ],
+   "k20": [
+    [
+     "A",
+     71
+    ]
+   ]
+  }
+ },
+ {
+  "case": "BK_771_90050",
+  "team": "A",
+  "final": "OTHER_BRANCH_FIRST",
+  "chain": "DIRECT",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 2,
+   "base": [
+    63,
+    "kick",
+    "A06",
+    "A",
+    true
+   ],
+   "k20": [
+    2,
+    "kick",
+    "A10",
+    "A",
+    true
+   ]
+  },
+  "touchers": [
+   "A06",
+   "A10"
+  ],
+  "toucherAlterations": [
+   [
+    0,
+    "A06",
+    23.9
+   ],
+   [
+    0,
+    "A10",
+    1.6
+   ]
+  ],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "A01",
+   33.1
+  ],
+  "firstSecondaryAnyPlayer": [
+   4,
+   "A05",
+   "receive->intercept",
+   4.7
+  ],
+  "secondaryBeforeDiff": 0,
+  "alterationsBeforeDiff": 8,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "A",
+     63
+    ]
+   ],
+   "k20": [
+    [
+     "A",
+     2
+    ],
+    [
+     "B",
+     118
+    ]
+   ]
+  }
+ },
+ {
+  "case": "KB_771_103414",
+  "team": "A",
+  "final": "UNDETERMINED",
+  "chain": "UNRESOLVED",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 36,
+   "base": [
+    37,
+    "contact",
+    "B09",
+    "B",
+    true
+   ],
+   "k20": [
+    36,
+    "contact",
+    "B09",
+    "B",
+    true
+   ]
+  },
+  "touchers": [
+   "B09"
+  ],
+  "toucherAlterations": [],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "A01",
+   32.7
+  ],
+  "firstSecondaryAnyPlayer": [
+   16,
+   "A05",
+   "cover->receive",
+   15.1
+  ],
+  "secondaryBeforeDiff": 6,
+  "alterationsBeforeDiff": 7,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "B",
+     37
+    ]
+   ],
+   "k20": [
+    [
+     "B",
+     36
+    ],
+    [
+     "A",
+     86
+    ],
+    [
+     "B",
+     86
+    ],
+    [
+     "A",
+     87
+    ]
+   ]
+  }
+ },
+ {
+  "case": "BK_771_105082",
+  "team": "B",
+  "final": "OTHER_BRANCH_FIRST",
+  "chain": "DIRECT",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 22,
+   "base": [
+    22,
+    "kick",
+    "B01",
+    "B",
+    true
+   ],
+   "k20": [
+    37,
+    "contact",
+    "B03",
+    "B",
+    true
+   ]
+  },
+  "touchers": [
+   "B01",
+   "B03"
+  ],
+  "toucherAlterations": [
+   [
+    12,
+    "B01",
+    5.3
+   ],
+   [
+    12,
+    "B03",
+    16.3
+   ],
+   [
+    20,
+    "B03",
+    10.9
+   ]
+  ],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "B02",
+   18.5
+  ],
+  "firstSecondaryAnyPlayer": [
+   23,
+   "B04",
+   "support->cover",
+   34.7
+  ],
+  "secondaryBeforeDiff": 0,
+  "alterationsBeforeDiff": 36,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "B",
+     22
+    ]
+   ],
+   "k20": [
+    [
+     "B",
+     37
+    ],
+    [
+     "R:A",
+     110
+    ]
+   ]
+  }
+ },
+ {
+  "case": "BK_31337_1496",
+  "team": "A",
+  "final": "OTHER_BRANCH_FIRST",
+  "chain": "DIRECT",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 79,
+   "base": [
+    91,
+    "contact",
+    "A08",
+    "A",
+    true
+   ],
+   "k20": [
+    79,
+    "kick",
+    "A08",
+    "A",
+    true
+   ]
+  },
+  "touchers": [
+   "A08"
+  ],
+  "toucherAlterations": [
+   [
+    0,
+    "A08",
+    28.8
+   ],
+   [
+    50,
+    "A08",
+    13.7
+   ],
+   [
+    55,
+    "A08",
+    12
+   ]
+  ],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "A01",
+   37.2
+  ],
+  "firstSecondaryAnyPlayer": [
+   48,
+   "A02",
+   "advance_support->cover",
+   38.5
+  ],
+  "secondaryBeforeDiff": 12,
+  "alterationsBeforeDiff": 28,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "A",
+     91
+    ]
+   ],
+   "k20": [
+    [
+     "A",
+     79
+    ],
+    [
+     "R:B",
+     111
+    ]
+   ]
+  }
+ },
+ {
+  "case": "BK_31337_4788",
+  "team": "A",
+  "final": "OTHER_BRANCH_FIRST",
+  "chain": "SECONDARY",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 35,
+   "base": [
+    42,
+    "kick",
+    "B10",
+    "B",
+    true
+   ],
+   "k20": [
+    35,
+    "kick",
+    "B10",
+    "B",
+    true
+   ]
+  },
+  "touchers": [
+   "B10"
+  ],
+  "toucherAlterations": [],
+  "toucherSecondary": [
+   [
+    28,
+    "B10",
+    "intercept->receive",
+    1.2
+   ],
+   [
+    32,
+    "B10",
+    "dribble->intercept",
+    1.1
+   ]
+  ],
+  "firstAlteration": [
+   0,
+   "A01",
+   33.4
+  ],
+  "firstSecondaryAnyPlayer": [
+   28,
+   "B10",
+   "intercept->receive",
+   1.2
+  ],
+  "secondaryBeforeDiff": 2,
+  "alterationsBeforeDiff": 11,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "B",
+     42
+    ],
+    [
+     "A",
+     90
+    ]
+   ],
+   "k20": [
+    [
+     "B",
+     35
+    ]
+   ]
+  }
+ },
+ {
+  "case": "BK_31337_10156",
+  "team": "B",
+  "final": "OTHER_BRANCH_FIRST",
+  "chain": "DIRECT",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 67,
+   "base": [
+    67,
+    "kick",
+    "A06",
+    "A",
+    true
+   ],
+   "k20": [
+    82,
+    "kick",
+    "A06",
+    "A",
+    true
+   ]
+  },
+  "touchers": [
+   "A06"
+  ],
+  "toucherAlterations": [
+   [
+    28,
+    "A06",
+    17.6
+   ]
+  ],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "B01",
+   21.1
+  ],
+  "firstSecondaryAnyPlayer": [
+   48,
+   "A05",
+   "receive->cover",
+   16.8
+  ],
+  "secondaryBeforeDiff": 14,
+  "alterationsBeforeDiff": 15,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "A",
+     67
+    ],
+    [
+     "B",
+     96
+    ]
+   ],
+   "k20": [
+    [
+     "A",
+     82
+    ]
+   ]
+  }
+ },
+ {
+  "case": "KB_31337_11544",
+  "team": "A",
+  "final": "OTHER_BRANCH_FIRST",
+  "chain": "DIRECT",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 37,
+   "base": [
+    42,
+    "kick",
+    "A07",
+    "A",
+    true
+   ],
+   "k20": [
+    37,
+    "contact",
+    "A07",
+    "A",
+    true
+   ]
+  },
+  "touchers": [
+   "A07"
+  ],
+  "toucherAlterations": [
+   [
+    0,
+    "A07",
+    13.5
+   ]
+  ],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "A02",
+   36.1
+  ],
+  "firstSecondaryAnyPlayer": [
+   32,
+   "A05",
+   "receive->cover",
+   16.2
+  ],
+  "secondaryBeforeDiff": 10,
+  "alterationsBeforeDiff": 5,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "A",
+     42
+    ],
+    [
+     "R:B",
+     103
+    ]
+   ],
+   "k20": [
+    [
+     "A",
+     37
+    ]
+   ]
+  }
+ },
+ {
+  "case": "KB_31337_28520",
+  "team": "B",
+  "final": "UNDETERMINED",
+  "chain": "UNRESOLVED",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 34,
+   "base": [
+    38,
+    "kick",
+    "B07",
+    "B",
+    true
+   ],
+   "k20": [
+    34,
+    "kick",
+    "B07",
+    "B",
+    true
+   ]
+  },
+  "touchers": [
+   "B07"
+  ],
+  "toucherAlterations": [],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "B01",
+   34.1
+  ],
+  "firstSecondaryAnyPlayer": [
+   40,
+   "B07",
+   "dribble->receive",
+   1
+  ],
+  "secondaryBeforeDiff": 0,
+  "alterationsBeforeDiff": 7,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "B",
+     38
+    ],
+    [
+     "A",
+     118
+    ]
+   ],
+   "k20": [
+    [
+     "B",
+     34
+    ],
+    [
+     "A",
+     106
+    ],
+    [
+     "B",
+     110
+    ]
+   ]
+  }
+ },
+ {
+  "case": "BK_31337_42934",
+  "team": "B",
+  "final": "OTHER_BRANCH_FIRST",
+  "chain": "DIRECT",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 30,
+   "base": [
+    33,
+    "contact",
+    "B10",
+    "B",
+    true
+   ],
+   "k20": [
+    30,
+    "contact",
+    "B10",
+    "B",
+    true
+   ]
+  },
+  "touchers": [
+   "B10"
+  ],
+  "toucherAlterations": [
+   [
+    0,
+    "B10",
+    21.3
+   ]
+  ],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "B01",
+   47.1
+  ],
+  "firstSecondaryAnyPlayer": [
+   28,
+   "A10",
+   "receive->press",
+   5.4
+  ],
+  "secondaryBeforeDiff": 5,
+  "alterationsBeforeDiff": 7,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "B",
+     33
+    ]
+   ],
+   "k20": [
+    [
+     "B",
+     30
+    ],
+    [
+     "A",
+     106
+    ]
+   ]
+  }
+ },
+ {
+  "case": "KB_31337_45548",
+  "team": "B",
+  "final": "K20_DIRECT",
+  "chain": "DIRECT",
+  "labelSettledAtFirstDifference": true,
+  "firstBallEventDiff": {
+   "dt": 40,
+   "base": [
+    82,
+    "kick",
+    "A09",
+    "A",
+    true
+   ],
+   "k20": [
+    40,
+    "restart_placement",
+    "B07",
+    "B",
+    false
+   ]
+  },
+  "touchers": [
+   "A09",
+   "B07"
+  ],
+  "toucherAlterations": [
+   [
+    0,
+    "B07",
+    10.1
+   ]
+  ],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "B02",
+   38.8
+  ],
+  "firstSecondaryAnyPlayer": [
+   28,
+   "A01",
+   "cover->advance_support",
+   49.5
+  ],
+  "secondaryBeforeDiff": 5,
+  "alterationsBeforeDiff": 6,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "A",
+     82
+    ]
+   ],
+   "k20": [
+    [
+     "R:B",
+     40
+    ]
+   ]
+  }
+ },
+ {
+  "case": "BK_31337_51554",
+  "team": "A",
+  "final": "OTHER_BRANCH_FIRST",
+  "chain": "DIRECT",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 11,
+   "base": [
+    17,
+    "kick",
+    "A05",
+    "A",
+    true
+   ],
+   "k20": [
+    11,
+    "contact",
+    "A05",
+    "A",
+    true
+   ]
+  },
+  "touchers": [
+   "A05"
+  ],
+  "toucherAlterations": [
+   [
+    0,
+    "A05",
+    4.8
+   ]
+  ],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "A05",
+   4.8
+  ],
+  "firstSecondaryAnyPlayer": [
+   5,
+   "A04",
+   "cover->support",
+   30.7
+  ],
+  "secondaryBeforeDiff": 1,
+  "alterationsBeforeDiff": 7,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "A",
+     17
+    ]
+   ],
+   "k20": [
+    [
+     "A",
+     11
+    ],
+    [
+     "B",
+     90
+    ]
+   ]
+  }
+ },
+ {
+  "case": "BK_31337_66674",
+  "team": "B",
+  "final": "OTHER_BRANCH_FIRST",
+  "chain": "SECONDARY",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 36,
+   "base": [
+    36,
+    "kick",
+    "A07",
+    "A",
+    true
+   ],
+   "k20": [
+    70,
+    "kick",
+    "B07",
+    "B",
+    true
+   ]
+  },
+  "touchers": [
+   "A07",
+   "B07"
+  ],
+  "toucherAlterations": [
+   [
+    0,
+    "B07",
+    22.8
+   ]
+  ],
+  "toucherSecondary": [
+   [
+    28,
+    "A07",
+    "pass->receive",
+    1
+   ],
+   [
+    32,
+    "A07",
+    "pass->intercept",
+    1
+   ]
+  ],
+  "firstAlteration": [
+   0,
+   "B01",
+   35.3
+  ],
+  "firstSecondaryAnyPlayer": [
+   28,
+   "A07",
+   "pass->receive",
+   1
+  ],
+  "secondaryBeforeDiff": 2,
+  "alterationsBeforeDiff": 15,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "A",
+     36
+    ],
+    [
+     "R:B",
+     80
+    ]
+   ],
+   "k20": [
+    [
+     "B",
+     70
+    ],
+    [
+     "A",
+     90
+    ],
+    [
+     "B",
+     91
+    ],
+    [
+     "A",
+     91
+    ]
+   ]
+  }
+ },
+ {
+  "case": "BK_31337_67302",
+  "team": "B",
+  "final": "K20_DIRECT",
+  "chain": "DIRECT",
+  "labelSettledAtFirstDifference": true,
+  "firstBallEventDiff": {
+   "dt": 67,
+   "base": [
+    67,
+    "kick",
+    "B10",
+    "B",
+    true
+   ],
+   "k20": null
+  },
+  "touchers": [
+   "B10"
+  ],
+  "toucherAlterations": [
+   [
+    0,
+    "B10",
+    21.3
+   ]
+  ],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "B02",
+   40.4
+  ],
+  "firstSecondaryAnyPlayer": [
+   67,
+   "B04",
+   "support->cover",
+   38.3
+  ],
+  "secondaryBeforeDiff": 0,
+  "alterationsBeforeDiff": 14,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "B",
+     67
+    ]
+   ],
+   "k20": []
+  }
+ },
+ {
+  "case": "KB_31337_73494",
+  "team": "B",
+  "final": "K20_DIRECT",
+  "chain": "DIRECT",
+  "labelSettledAtFirstDifference": true,
+  "firstBallEventDiff": {
+   "dt": 23,
+   "base": [
+    25,
+    "contact",
+    "B10",
+    "B",
+    false
+   ],
+   "k20": [
+    23,
+    "kick",
+    "B10",
+    "B",
+    true
+   ]
+  },
+  "touchers": [
+   "B10"
+  ],
+  "toucherAlterations": [
+   [
+    0,
+    "B10",
+    18.3
+   ]
+  ],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "B01",
+   20.8
+  ],
+  "firstSecondaryAnyPlayer": [
+   23,
+   "B00",
+   "gk_recover->gk_support",
+   42.4
+  ],
+  "secondaryBeforeDiff": 0,
+  "alterationsBeforeDiff": 7,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "A",
+     50
+    ]
+   ],
+   "k20": [
+    [
+     "B",
+     23
+    ]
+   ]
+  }
+ },
+ {
+  "case": "KB_31337_83264",
+  "team": "B",
+  "final": "UNDETERMINED",
+  "chain": "UNRESOLVED",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 23,
+   "base": [
+    26,
+    "kick",
+    "B07",
+    "B",
+    true
+   ],
+   "k20": [
+    23,
+    "kick",
+    "B07",
+    "B",
+    true
+   ]
+  },
+  "touchers": [
+   "B07"
+  ],
+  "toucherAlterations": [],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "B01",
+   35.2
+  ],
+  "firstSecondaryAnyPlayer": [
+   28,
+   "B07",
+   "dribble->receive",
+   1.1
+  ],
+  "secondaryBeforeDiff": 0,
+  "alterationsBeforeDiff": 7,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "B",
+     26
+    ],
+    [
+     "A",
+     86
+    ]
+   ],
+   "k20": [
+    [
+     "B",
+     23
+    ],
+    [
+     "A",
+     58
+    ],
+    [
+     "B",
+     66
+    ],
+    [
+     "A",
+     114
+    ],
+    [
+     "B",
+     118
+    ]
+   ]
+  }
+ },
+ {
+  "case": "BK_31337_86781",
+  "team": "B",
+  "final": "UNDETERMINED",
+  "chain": "UNRESOLVED",
+  "labelSettledAtFirstDifference": false,
+  "firstBallEventDiff": {
+   "dt": 47,
+   "base": [
+    47,
+    "kick",
+    "B01",
+    "B",
+    true
+   ],
+   "k20": [
+    49,
+    "contact",
+    "B01",
+    "B",
+    true
+   ]
+  },
+  "touchers": [
+   "B01"
+  ],
+  "toucherAlterations": [],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "B02",
+   18.6
+  ],
+  "firstSecondaryAnyPlayer": [
+   36,
+   "B00",
+   "save->gk_recover",
+   13.5
+  ],
+  "secondaryBeforeDiff": 3,
+  "alterationsBeforeDiff": 9,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "B",
+     47
+    ]
+   ],
+   "k20": [
+    [
+     "B",
+     49
+    ],
+    [
+     "R:A",
+     101
+    ]
+   ]
+  }
+ },
+ {
+  "case": "BK_31337_96671",
+  "team": "A",
+  "final": "K20_DIRECT",
+  "chain": "DIRECT",
+  "labelSettledAtFirstDifference": true,
+  "firstBallEventDiff": {
+   "dt": 53,
+   "base": [
+    53,
+    "kick",
+    "A08",
+    "A",
+    true
+   ],
+   "k20": [
+    71,
+    "restart_placement",
+    "B06",
+    "B",
+    false
+   ]
+  },
+  "touchers": [
+   "A08",
+   "B06"
+  ],
+  "toucherAlterations": [
+   [
+    0,
+    "A08",
+    11.9
+   ]
+  ],
+  "toucherSecondary": [],
+  "firstAlteration": [
+   0,
+   "A04",
+   46
+  ],
+  "firstSecondaryAnyPlayer": [
+   55,
+   "A08",
+   "dribble->receive",
+   1.3
+  ],
+  "secondaryBeforeDiff": 0,
+  "alterationsBeforeDiff": 9,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "A",
+     53
+    ]
+   ],
+   "k20": [
+    [
+     "R:B",
+     71
+    ]
+   ]
+  }
+ },
+ {
+  "case": "BK_31337_104584",
+  "team": "A",
+  "final": "OTHER_BRANCH_FIRST",
+  "chain": "SECONDARY",
+  "labelSettledAtFirstDifference": true,
+  "firstBallEventDiff": {
+   "dt": 49,
+   "base": [
+    74,
+    "kick",
+    "A05",
+    "A",
+    true
+   ],
+   "k20": [
+    49,
+    "kick",
+    "B06",
+    "B",
+    true
+   ]
+  },
+  "touchers": [
+   "A05",
+   "B06"
+  ],
+  "toucherAlterations": [
+   [
+    0,
+    "A05",
+    3.7
+   ]
+  ],
+  "toucherSecondary": [
+   [
+    40,
+    "B06",
+    "dribble->intercept",
+    1
+   ],
+   [
+    44,
+    "B06",
+    "intercept->dribble",
+    1
+   ]
+  ],
+  "firstAlteration": [
+   0,
+   "A01",
+   29.4
+  ],
+  "firstSecondaryAnyPlayer": [
+   40,
+   "B06",
+   "dribble->intercept",
+   1
+  ],
+  "secondaryBeforeDiff": 2,
+  "alterationsBeforeDiff": 9,
+  "controlSequenceAfterDiff": {
+   "base": [
+    [
+     "A",
+     74
+    ]
+   ],
+   "k20": [
+    [
+     "B",
+     49
+    ]
+   ]
+  }
+ }
+]

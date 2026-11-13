@@ -1,0 +1,46 @@
+BK_771_3969 K20_altered_the_player | toucher alt ['B06:support->receive'] | base ownFirstCtrl+out:throw_in:B passes 2 / 1 | k20 ownFirstCtrl passes 2 / 0
+KB_771_5565 only_far_players_alter | toucher alt [] | base ownFirstCtrl passes 0 / 0 | k20 ownFirstCtrl passes 1 / 0
+KB_771_6397 K20_altered_the_player | toucher alt ['A09:support->cover', 'B09:support->receive'] | base ownFirstCtrl+out:throw_in:A passes 1 / 0 | k20 ownFirstCtrl passes 2 / 0
+KB_771_12773 K20_altered_the_player | toucher alt ['A07:support->receive'] | base ownFirstCtrl passes 1 / 1 | k20 ownFirstCtrl passes 2 / 1
+BK_771_17945 K20_altered_the_player | toucher alt ['B06:support->receive'] | base ownFirstCtrl passes 3 / 0 | k20 ownFirstCtrl+out:throw_in:A passes 1 / 0
+BK_771_18956 K20_altered_the_player | toucher alt ['A02:advance_support->cover'] | base ownFirstCtrl passes 1 / 0 | k20 noCtrl passes 0 / 0
+BK_771_22900 K20_altered_the_player | toucher alt ['B06:support->cover'] | base ownFirstCtrl passes 1 / 0 | k20 ownFirstCtrl passes 0 / 0
+BK_771_23341 only_far_players_alter | toucher alt [] | base oppFirstCtrl passes 0 / 0 | k20 oppFirstCtrl passes 0 / 2
+BK_771_24123 only_far_players_alter | toucher alt [] | base oppFirstCtrl passes 1 / 0 | k20 oppFirstCtrl passes 0 / 1
+BK_771_26646 K20_altered_the_player | toucher alt ['A08:support->receive'] | base ownFirstCtrl passes 2 / 0 | k20 ownFirstCtrl passes 1 / 0
+BK_771_44317 only_far_players_alter | toucher alt [] | base oppFirstCtrl passes 1 / 0 | k20 oppFirstCtrl passes 0 / 0
+KB_771_49303 only_far_players_alter | toucher alt [] | base ownFirstCtrl passes 2 / 0 | k20 ownFirstCtrl passes 2 / 1
+KB_771_71170 only_far_players_alter | toucher alt [] | base oppFirstCtrl passes 0 / 3 | k20 oppFirstCtrl passes 1 / 0
+KB_771_82071 K20_altered_the_player | toucher alt ['A05:support->cover', 'A05:support->receive'] | base noCtrl passes 0 / 0 | k20 ownFirstCtrl passes 1 / 0
+KB_771_84823 K20_altered_the_player | toucher alt ['A05:support->cover', 'A06:support->receive'] | base ownFirstCtrl+out:throw_in:B passes 2 / 0 | k20 ownFirstCtrl passes 3 / 0
+BK_771_90050 K20_altered_the_player | toucher alt ['A06:support->cover', 'A10:support->receive'] | base ownFirstCtrl passes 1 / 0 | k20 ownFirstCtrl passes 0 / 0
+KB_771_103414 K20_altered_a_player_n | toucher alt [] | base oppFirstCtrl passes 0 / 2 | k20 oppFirstCtrl passes 1 / 1
+BK_771_105082 K20_altered_the_player | toucher alt ['B01:advance_support->intercept', 'B01:advance_support->receive', 'B03:support->cover', 'B03:support->receive'] | base ownFirstCtrl passes 1 / 0 | k20 ownFirstCtrl+out:throw_in:A passes 2 / 0
+BK_31337_1496 K20_altered_the_player | toucher alt ['A08:support->cover', 'A08:support->receive'] | base ownFirstCtrl passes 1 / 0 | k20 ownFirstCtrl+out:throw_in:B passes 1 / 0
+BK_31337_4788 only_far_players_alter | toucher alt [] | base oppFirstCtrl passes 1 / 0 | k20 oppFirstCtrl passes 0 / 1
+BK_31337_10156 K20_altered_the_player | toucher alt ['A06:support->cover'] | base ownFirstCtrl passes 3 / 1 | k20 ownFirstCtrl passes 1 / 1
+KB_31337_11544 K20_altered_the_player | toucher alt ['A07:support->receive'] | base ownFirstCtrl+out:throw_in:B passes 2 / 0 | k20 ownFirstCtrl passes 3 / 0
+KB_31337_28520 only_far_players_alter | toucher alt [] | base ownFirstCtrl passes 2 / 0 | k20 ownFirstCtrl passes 1 / 0
+BK_31337_42934 K20_altered_the_player | toucher alt ['B10:support->cover'] | base ownFirstCtrl passes 2 / 0 | k20 ownFirstCtrl passes 1 / 0
+KB_31337_45548 K20_altered_the_player | toucher alt ['B07:support->receive'] | base oppFirstCtrl passes 0 / 0 | k20 oppFirstCtrl+out:throw_in:B passes 0 / 0
+BK_31337_51554 K20_altered_the_player | toucher alt ['A05:support->receive'] | base ownFirstCtrl passes 1 / 0 | k20 ownFirstCtrl passes 0 / 1
+BK_31337_66674 K20_altered_the_player | toucher alt ['B07:support->cover'] | base ownFirstCtrl+out:throw_in:B passes 1 / 1 | k20 ownFirstCtrl passes 1 / 0
+BK_31337_67302 K20_altered_the_player | toucher alt ['B10:support->cover'] | base oppFirstCtrl passes 1 / 1 | k20 oppFirstCtrl passes 0 / 1
+KB_31337_73494 K20_altered_the_player | toucher alt ['B10:support->cover'] | base ownFirstCtrl passes 1 / 1 | k20 ownFirstCtrl passes 1 / 0
+KB_31337_83264 only_far_players_alter | toucher alt [] | base ownFirstCtrl passes 0 / 0 | k20 ownFirstCtrl passes 3 / 0
+BK_31337_86781 only_far_players_alter | toucher alt [] | base ownFirstCtrl passes 2 / 0 | k20 ownFirstCtrl+out:throw_in:A passes 2 / 0
+BK_31337_96671 K20_altered_the_player | toucher alt ['A08:support->receive'] | base ownFirstCtrl passes 2 / 0 | k20 ownFirstCtrl+out:throw_in:B passes 1 / 0
+BK_31337_104584 K20_altered_the_player | toucher alt ['A05:support->receive'] | base oppFirstCtrl passes 1 / 0 | k20 oppFirstCtrl passes 0 / 1
+
+('BK', 'oppFirstCtrl', 'oppFirstCtrl') 6
+('BK', 'ownFirstCtrl', 'noCtrl') 1
+('BK', 'ownFirstCtrl', 'ownFirstCtrl') 6
+('BK', 'ownFirstCtrl', 'ownFirstCtrl+out:throw_in:A') 3
+('BK', 'ownFirstCtrl', 'ownFirstCtrl+out:throw_in:B') 2
+('BK', 'ownFirstCtrl+out:throw_in:B', 'ownFirstCtrl') 2
+('KB', 'noCtrl', 'ownFirstCtrl') 1
+('KB', 'oppFirstCtrl', 'oppFirstCtrl') 2
+('KB', 'oppFirstCtrl', 'oppFirstCtrl+out:throw_in:B') 1
+('KB', 'ownFirstCtrl', 'ownFirstCtrl') 6
+('KB', 'ownFirstCtrl+out:throw_in:A', 'ownFirstCtrl') 1
+('KB', 'ownFirstCtrl+out:throw_in:B', 'ownFirstCtrl') 2

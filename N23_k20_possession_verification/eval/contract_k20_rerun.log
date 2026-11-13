@@ -1,0 +1,51 @@
+{
+ "771": {
+  "firstDecisionDifference": "84:B01",
+  "firstStateHashDifferenceTick": 85,
+  "ticksWithIdenticalStateHash": 85,
+  "rngStreamsIdenticalAtLastEqualTick": true,
+  "eventDigestAndCountIdenticalAtLastEqualTick": true,
+  "consistent": true
+ },
+ "1847": {
+  "firstDecisionDifference": "80:B04",
+  "firstStateHashDifferenceTick": 81,
+  "ticksWithIdenticalStateHash": 81,
+  "rngStreamsIdenticalAtLastEqualTick": true,
+  "eventDigestAndCountIdenticalAtLastEqualTick": true,
+  "consistent": true
+ },
+ "31337": {
+  "firstDecisionDifference": "80:B04",
+  "firstStateHashDifferenceTick": 81,
+  "ticksWithIdenticalStateHash": 81,
+  "rngStreamsIdenticalAtLastEqualTick": true,
+  "eventDigestAndCountIdenticalAtLastEqualTick": true,
+  "consistent": true
+ },
+ "standardRestoresK20Save": "REJECTED:PASS_PRINCIPLES_SAVE_IDENTITY",
+ "k20RestoresStandardSave": "REJECTED:PASS_PRINCIPLES_SAVE_IDENTITY",
+ "k20SaveRestoreContinuity600": {
+  "stateHashEqual": true,
+  "eventDigestEqual": true,
+  "rngEqual": true
+ },
+ "k20ActiveConfig": {
+  "halfTicks": 54000,
+  "perceptionError": true,
+  "kickoffTeam": "A",
+  "refereeReviewAdvantage": false,
+  "zonalDefence": false,
+  "zonalDefenceSide": "both",
+  "fiveLaneBoundaries": [
+   0,
+   13.6,
+   27.2,
+   40.8,
+   54.4,
+   68
+  ]
+ },
+ "k20SaveSchema": "TM_RESEARCH_K20_POSSESSION_EVIDENCE_SAVE/1",
+ "k20Engine": "TM_RESEARCH_K20_POSSESSION_EVIDENCE_ON_I8_STANDARD"
+}

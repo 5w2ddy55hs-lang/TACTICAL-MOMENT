@@ -1,0 +1,2768 @@
+[
+{
+"case": "BK_771_3969",
+"team": "B",
+"divergenceDt": 39,
+"baseAtDiv": [
+42,
+"B06",
+"B",
+"kick",
+true
+],
+"k20AtDiv": [
+39,
+"B06",
+"B",
+"kick",
+true
+],
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 16,
+"altKinds": {
+"advance_support->cover": 4,
+"support->cover": 9,
+"support->receive": 3
+},
+"altTeams": {
+"B": 16
+},
+"staleWitness(>2s)": 8,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 3969,
+"p": "B01",
+"team": "B",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 29.74,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"A10:A:foot"
+],
+"age": 13
+},
+"nearFriends": [
+{
+"id": "B10",
+"d": 1.65,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+30,
+"B08",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 30,
+"ownPasses": 2,
+"oppPasses": 1,
+"ballOut": [
+73,
+"throw_in",
+"B"
+],
+"poss6": "restart:B"
+},
+"k20": {
+"firstTouch": [
+30,
+"B08",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 30,
+"ownPasses": 2,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+}
+},
+{
+"case": "KB_771_5565",
+"team": "B",
+"divergenceDt": 26,
+"baseAtDiv": [
+26,
+"B06",
+"B",
+"kick",
+true
+],
+"k20AtDiv": [
+30,
+"B06",
+"B",
+"kick",
+true
+],
+"category": "only_far_players_altered->later_branch",
+"altsBeforeDiv": 9,
+"altKinds": {
+"advance_support->cover": 2,
+"support->cover": 4,
+"support->receive": 3
+},
+"altTeams": {
+"B": 9
+},
+"staleWitness(>2s)": 9,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 5565,
+"p": "B01",
+"team": "B",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 23.91,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"A09:A:foot"
+],
+"age": 81
+},
+"nearFriends": [
+{
+"id": "B06",
+"d": 1.55,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+3,
+"B06",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 3,
+"ownPasses": 0,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+},
+"k20": {
+"firstTouch": [
+3,
+"B06",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 3,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "B"
+}
+},
+{
+"case": "KB_771_6397",
+"team": "B",
+"divergenceDt": 35,
+"baseAtDiv": [
+78,
+"A09",
+"A",
+"restart_placement",
+false
+],
+"k20AtDiv": [
+35,
+"B09",
+"B",
+"kick",
+true
+],
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 25,
+"altKinds": {
+"advance_support->cover": 6,
+"support->cover": 14,
+"support->receive": 4,
+"support->intercept": 1
+},
+"altTeams": {
+"B": 9,
+"A": 16
+},
+"staleWitness(>2s)": 9,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 6397,
+"p": "B01",
+"team": "B",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 25.57,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"A09:A:foot"
+],
+"age": 42
+},
+"nearFriends": [
+{
+"id": "B10",
+"d": 1.96,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+3,
+"B10",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 3,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": [
+78,
+"throw_in",
+"A"
+],
+"poss6": "restart:A"
+},
+"k20": {
+"firstTouch": [
+3,
+"B10",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 3,
+"ownPasses": 2,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "B"
+}
+},
+{
+"case": "KB_771_12773",
+"team": "A",
+"divergenceDt": 12,
+"baseAtDiv": [
+13,
+"A07",
+"A",
+"contact",
+false
+],
+"k20AtDiv": [
+12,
+"A07",
+"A",
+"contact",
+false
+],
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 7,
+"altKinds": {
+"advance_support->cover": 2,
+"support->cover": 4,
+"support->receive": 1
+},
+"altTeams": {
+"A": 7
+},
+"staleWitness(>2s)": 7,
+"truthOwnControlButUnknown": 1,
+"firstAlt": {
+"t": 12773,
+"p": "A01",
+"team": "A",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 47.77,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"B10:B:foot"
+],
+"age": 42
+},
+"nearFriends": [
+{
+"id": "A09",
+"d": 1.95,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+3,
+"A09",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 3,
+"ownPasses": 1,
+"oppPasses": 1,
+"ballOut": null,
+"poss6": "B"
+},
+"k20": {
+"firstTouch": [
+3,
+"A09",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 3,
+"ownPasses": 2,
+"oppPasses": 1,
+"ballOut": null,
+"poss6": "A"
+}
+},
+{
+"case": "BK_771_17945",
+"team": "B",
+"divergenceDt": 11,
+"baseAtDiv": [
+11,
+"B06",
+"B",
+"kick",
+true
+],
+"k20AtDiv": [
+11,
+"B06",
+"B",
+"contact",
+false
+],
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 8,
+"altKinds": {
+"advance_support->cover": 2,
+"support->cover": 4,
+"support->receive": 2
+},
+"altTeams": {
+"B": 8
+},
+"staleWitness(>2s)": 8,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 17945,
+"p": "B01",
+"team": "B",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 37.53,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"A10:A:foot"
+],
+"age": 51
+},
+"nearFriends": [
+{
+"id": "B08",
+"d": 1.14,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+1,
+"B08",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 1,
+"ownPasses": 3,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "B"
+},
+"k20": {
+"firstTouch": [
+1,
+"B08",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 1,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": [
+40,
+"throw_in",
+"A"
+],
+"poss6": "restart:A"
+}
+},
+{
+"case": "BK_771_18956",
+"team": "A",
+"divergenceDt": 104,
+"baseAtDiv": [
+104,
+"A02",
+"A",
+"contact",
+true
+],
+"k20AtDiv": null,
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 27,
+"altKinds": {
+"advance_support->cover": 6,
+"support->cover": 16,
+"support->receive": 5
+},
+"altTeams": {
+"A": 27
+},
+"staleWitness(>2s)": 21,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 18956,
+"p": "A01",
+"team": "A",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 48.13,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"B07:B:body"
+],
+"age": 51
+},
+"nearFriends": [
+{
+"id": "A10",
+"d": 1.89,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+104,
+"A02",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 104,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+},
+"k20": {
+"firstTouch": null,
+"firstControlTeam": null,
+"firstControlDt": null,
+"ownPasses": 0,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "none"
+}
+},
+{
+"case": "BK_771_22900",
+"team": "B",
+"divergenceDt": 69,
+"baseAtDiv": [
+72,
+"B06",
+"B",
+"kick",
+true
+],
+"k20AtDiv": [
+69,
+"B06",
+"B",
+"kick",
+true
+],
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 16,
+"altKinds": {
+"support->receive": 2,
+"advance_support->cover": 4,
+"support->cover": 10
+},
+"altTeams": {
+"B": 16
+},
+"staleWitness(>2s)": 8,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 22900,
+"p": "B08",
+"team": "B",
+"orig": "support",
+"now": "receive",
+"selfD": 19.18,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"A05:A:foot"
+],
+"age": 8
+},
+"nearFriends": [
+{
+"id": "B10",
+"d": 1.38,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+72,
+"B06",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 72,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "B"
+},
+"k20": {
+"firstTouch": [
+69,
+"B06",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 69,
+"ownPasses": 0,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+}
+},
+{
+"case": "BK_771_23341",
+"team": "A",
+"divergenceDt": 64,
+"baseAtDiv": [
+64,
+"B08",
+"B",
+"contact",
+true
+],
+"k20AtDiv": [
+67,
+"B08",
+"B",
+"kick",
+true
+],
+"category": "only_far_players_altered->later_branch",
+"altsBeforeDiv": 5,
+"altKinds": {
+"support->cover": 4,
+"support->receive": 1
+},
+"altTeams": {
+"A": 5
+},
+"staleWitness(>2s)": 0,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 23341,
+"p": "A05",
+"team": "A",
+"orig": "support",
+"now": "cover",
+"selfD": 24.53,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"B01:B:foot"
+],
+"age": 25
+},
+"nearFriends": [
+{
+"id": "A10",
+"d": 0.99,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+0,
+"A10",
+"A",
+"noctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 62,
+"ownPasses": 0,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+},
+"k20": {
+"firstTouch": [
+0,
+"A10",
+"A",
+"noctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 62,
+"ownPasses": 0,
+"oppPasses": 2,
+"ballOut": null,
+"poss6": "B"
+}
+},
+{
+"case": "BK_771_24123",
+"team": "A",
+"divergenceDt": 54,
+"baseAtDiv": [
+60,
+"B10",
+"B",
+"kick",
+true
+],
+"k20AtDiv": [
+54,
+"B10",
+"B",
+"contact",
+true
+],
+"category": "only_far_players_altered->later_branch",
+"altsBeforeDiv": 4,
+"altKinds": {
+"support->cover": 3,
+"support->receive": 1
+},
+"altTeams": {
+"A": 4
+},
+"staleWitness(>2s)": 0,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 24123,
+"p": "A05",
+"team": "A",
+"orig": "support",
+"now": "cover",
+"selfD": 33.78,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"B06:B:foot"
+],
+"age": 6
+},
+"nearFriends": [
+{
+"id": "A10",
+"d": 1.07,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+46,
+"B10",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 46,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+},
+"k20": {
+"firstTouch": [
+46,
+"B10",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 46,
+"ownPasses": 0,
+"oppPasses": 1,
+"ballOut": null,
+"poss6": "B"
+}
+},
+{
+"case": "BK_771_26646",
+"team": "A",
+"divergenceDt": 18,
+"baseAtDiv": [
+18,
+"A08",
+"A",
+"kick",
+true
+],
+"k20AtDiv": [
+19,
+"A08",
+"A",
+"kick",
+true
+],
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 19,
+"altKinds": {
+"support->cover": 10,
+"support->receive": 5,
+"advance_support->cover": 4
+},
+"altTeams": {
+"A": 19
+},
+"staleWitness(>2s)": 8,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 26646,
+"p": "A04",
+"team": "A",
+"orig": "support",
+"now": "cover",
+"selfD": 48.51,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"B10:B:foot"
+],
+"age": 24
+},
+"nearFriends": [
+{
+"id": "A06",
+"d": 1.24,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+18,
+"A08",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 18,
+"ownPasses": 2,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+},
+"k20": {
+"firstTouch": [
+19,
+"A08",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 19,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "B"
+}
+},
+{
+"case": "BK_771_44317",
+"team": "B",
+"divergenceDt": 107,
+"baseAtDiv": [
+115,
+"A09",
+"A",
+"kick",
+true
+],
+"k20AtDiv": [
+107,
+"A09",
+"A",
+"kick",
+true
+],
+"category": "only_far_players_altered->later_branch",
+"altsBeforeDiv": 17,
+"altKinds": {
+"support->cover": 8,
+"support->receive": 6,
+"advance_support->cover": 3
+},
+"altTeams": {
+"B": 17
+},
+"staleWitness(>2s)": 3,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 44317,
+"p": "B04",
+"team": "B",
+"orig": "support",
+"now": "cover",
+"selfD": 28.62,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"A10:A:foot"
+],
+"age": 34
+},
+"nearFriends": [
+{
+"id": "B09",
+"d": 1.98,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+17,
+"A09",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 17,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "B"
+},
+"k20": {
+"firstTouch": [
+17,
+"A09",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 17,
+"ownPasses": 0,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+}
+},
+{
+"case": "KB_771_49303",
+"team": "B",
+"divergenceDt": 91,
+"baseAtDiv": [
+91,
+"A08",
+"A",
+"kick",
+true
+],
+"k20AtDiv": [
+104,
+"A10",
+"A",
+"contact",
+false
+],
+"category": "only_far_players_altered->later_branch",
+"altsBeforeDiv": 7,
+"altKinds": {
+"advance_support->cover": 1,
+"support->receive": 2,
+"support->cover": 4
+},
+"altTeams": {
+"B": 6,
+"A": 1
+},
+"staleWitness(>2s)": 1,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 49303,
+"p": "B02",
+"team": "B",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 18.97,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"A10:A:foot"
+],
+"age": 26
+},
+"nearFriends": [
+{
+"id": "B01",
+"d": 1.13,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+2,
+"B01",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 2,
+"ownPasses": 2,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+},
+"k20": {
+"firstTouch": [
+2,
+"B01",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 2,
+"ownPasses": 2,
+"oppPasses": 1,
+"ballOut": null,
+"poss6": "B"
+}
+},
+{
+"case": "KB_771_71170",
+"team": "B",
+"divergenceDt": 18,
+"baseAtDiv": [
+18,
+"A05",
+"A",
+"contact",
+false
+],
+"k20AtDiv": [
+18,
+"A05",
+"A",
+"kick",
+true
+],
+"category": "only_far_players_altered->later_branch",
+"altsBeforeDiv": 6,
+"altKinds": {
+"advance_support->cover": 1,
+"support->cover": 4,
+"support->receive": 1
+},
+"altTeams": {
+"B": 6
+},
+"staleWitness(>2s)": 0,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 71170,
+"p": "B01",
+"team": "B",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 36.98,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"A07:A:foot"
+],
+"age": 7
+},
+"nearFriends": [
+{
+"id": "B10",
+"d": 1.96,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+18,
+"A05",
+"A",
+"noctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 49,
+"ownPasses": 0,
+"oppPasses": 3,
+"ballOut": null,
+"poss6": "A"
+},
+"k20": {
+"firstTouch": [
+18,
+"A05",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 18,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "B"
+}
+},
+{
+"case": "KB_771_82071",
+"team": "A",
+"divergenceDt": 38,
+"baseAtDiv": null,
+"k20AtDiv": [
+38,
+"A05",
+"A",
+"kick",
+true
+],
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 17,
+"altKinds": {
+"advance_support->cover": 4,
+"support->cover": 10,
+"support->receive": 3
+},
+"altTeams": {
+"A": 17
+},
+"staleWitness(>2s)": 8,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 82071,
+"p": "A01",
+"team": "A",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 33.54,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"B07:B:foot"
+],
+"age": 26
+},
+"nearFriends": [
+{
+"id": "A07",
+"d": 1.65,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": null,
+"firstControlTeam": null,
+"firstControlDt": null,
+"ownPasses": 0,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "none"
+},
+"k20": {
+"firstTouch": [
+38,
+"A05",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 38,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+}
+},
+{
+"case": "KB_771_84823",
+"team": "A",
+"divergenceDt": 15,
+"baseAtDiv": [
+15,
+"A06",
+"A",
+"kick",
+true
+],
+"k20AtDiv": [
+71,
+"A05",
+"A",
+"kick",
+true
+],
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 8,
+"altKinds": {
+"advance_support->cover": 2,
+"support->cover": 5,
+"support->receive": 1
+},
+"altTeams": {
+"A": 8
+},
+"staleWitness(>2s)": 8,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 84823,
+"p": "A01",
+"team": "A",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 37.44,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"B07:B:foot"
+],
+"age": 55
+},
+"nearFriends": [
+{
+"id": "A08",
+"d": 0.46,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+0,
+"A08",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 0,
+"ownPasses": 2,
+"oppPasses": 0,
+"ballOut": [
+60,
+"throw_in",
+"B"
+],
+"poss6": "restart:B"
+},
+"k20": {
+"firstTouch": [
+0,
+"A08",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 0,
+"ownPasses": 3,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+}
+},
+{
+"case": "BK_771_90050",
+"team": "A",
+"divergenceDt": 2,
+"baseAtDiv": [
+63,
+"A06",
+"A",
+"kick",
+true
+],
+"k20AtDiv": [
+2,
+"A10",
+"A",
+"kick",
+true
+],
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 8,
+"altKinds": {
+"advance_support->cover": 2,
+"support->cover": 2,
+"support->receive": 4
+},
+"altTeams": {
+"A": 8
+},
+"staleWitness(>2s)": 0,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 90050,
+"p": "A01",
+"team": "A",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 33.15,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"B09:B:body"
+],
+"age": 10
+},
+"nearFriends": [
+{
+"id": "A07",
+"d": 1.91,
+"age": 0
+},
+{
+"id": "A10",
+"d": 1.46,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+63,
+"A06",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 63,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+},
+"k20": {
+"firstTouch": [
+2,
+"A10",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 2,
+"ownPasses": 0,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "B"
+}
+},
+{
+"case": "KB_771_103414",
+"team": "A",
+"divergenceDt": 36,
+"baseAtDiv": [
+37,
+"B09",
+"B",
+"contact",
+true
+],
+"k20AtDiv": [
+36,
+"B09",
+"B",
+"contact",
+true
+],
+"category": "K20_altered_a_player_near_ball(<=5m)_not_the_toucher",
+"altsBeforeDiv": 7,
+"altKinds": {
+"advance_support->cover": 2,
+"support->cover": 2,
+"support->receive": 3
+},
+"altTeams": {
+"A": 7
+},
+"staleWitness(>2s)": 0,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 103414,
+"p": "A01",
+"team": "A",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 32.68,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"B05:B:foot"
+],
+"age": 8
+},
+"nearFriends": [
+{
+"id": "A07",
+"d": 1.55,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+37,
+"B09",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 37,
+"ownPasses": 0,
+"oppPasses": 2,
+"ballOut": null,
+"poss6": "B"
+},
+"k20": {
+"firstTouch": [
+36,
+"B09",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 36,
+"ownPasses": 1,
+"oppPasses": 1,
+"ballOut": null,
+"poss6": "A"
+}
+},
+{
+"case": "BK_771_105082",
+"team": "B",
+"divergenceDt": 22,
+"baseAtDiv": [
+22,
+"B01",
+"B",
+"kick",
+true
+],
+"k20AtDiv": [
+37,
+"B03",
+"B",
+"contact",
+true
+],
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 36,
+"altKinds": {
+"advance_support->cover": 1,
+"support->receive": 4,
+"support->cover": 25,
+"advance_support->receive": 3,
+"advance_support->intercept": 2,
+"support->intercept": 1
+},
+"altTeams": {
+"B": 36
+},
+"staleWitness(>2s)": 7,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 105082,
+"p": "B02",
+"team": "B",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 18.48,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"A06:A:foot"
+],
+"age": 26
+},
+"nearFriends": [
+{
+"id": "B01",
+"d": 0.98,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+22,
+"B01",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 22,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "B"
+},
+"k20": {
+"firstTouch": [
+37,
+"B03",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 37,
+"ownPasses": 2,
+"oppPasses": 0,
+"ballOut": [
+110,
+"throw_in",
+"A"
+],
+"poss6": "restart:A"
+}
+},
+{
+"case": "BK_31337_1496",
+"team": "A",
+"divergenceDt": 79,
+"baseAtDiv": [
+91,
+"A08",
+"A",
+"contact",
+true
+],
+"k20AtDiv": [
+79,
+"A08",
+"A",
+"kick",
+true
+],
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 28,
+"altKinds": {
+"advance_support->cover": 7,
+"support->cover": 14,
+"support->receive": 7
+},
+"altTeams": {
+"A": 28
+},
+"staleWitness(>2s)": 20,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 1496,
+"p": "A01",
+"team": "A",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 37.19,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"B09:B:foot"
+],
+"age": 28
+},
+"nearFriends": [
+{
+"id": "A10",
+"d": 2,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+91,
+"A08",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 91,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+},
+"k20": {
+"firstTouch": [
+79,
+"A08",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 79,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": [
+111,
+"throw_in",
+"B"
+],
+"poss6": "restart:B"
+}
+},
+{
+"case": "BK_31337_4788",
+"team": "A",
+"divergenceDt": 35,
+"baseAtDiv": [
+42,
+"B10",
+"B",
+"kick",
+true
+],
+"k20AtDiv": [
+35,
+"B10",
+"B",
+"kick",
+true
+],
+"category": "only_far_players_altered->later_branch",
+"altsBeforeDiv": 11,
+"altKinds": {
+"advance_support->cover": 3,
+"support->cover": 3,
+"support->receive": 5
+},
+"altTeams": {
+"A": 11
+},
+"staleWitness(>2s)": 0,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 4788,
+"p": "A01",
+"team": "A",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 33.4,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"B08:B:foot"
+],
+"age": 18
+},
+"nearFriends": [
+{
+"id": "A10",
+"d": 2.07,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+11,
+"B10",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 11,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+},
+"k20": {
+"firstTouch": [
+11,
+"B10",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 11,
+"ownPasses": 0,
+"oppPasses": 1,
+"ballOut": null,
+"poss6": "B"
+}
+},
+{
+"case": "BK_31337_10156",
+"team": "B",
+"divergenceDt": 67,
+"baseAtDiv": [
+67,
+"A06",
+"A",
+"kick",
+true
+],
+"k20AtDiv": [
+82,
+"A06",
+"A",
+"kick",
+true
+],
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 15,
+"altKinds": {
+"advance_support->cover": 3,
+"support->cover": 9,
+"support->receive": 3
+},
+"altTeams": {
+"B": 8,
+"A": 7
+},
+"staleWitness(>2s)": 8,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 10156,
+"p": "B01",
+"team": "B",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 21.06,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"A06:A:foot"
+],
+"age": 50
+},
+"nearFriends": [
+{
+"id": "B05",
+"d": 1.65,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+3,
+"B05",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 3,
+"ownPasses": 3,
+"oppPasses": 1,
+"ballOut": null,
+"poss6": "B"
+},
+"k20": {
+"firstTouch": [
+3,
+"B05",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 3,
+"ownPasses": 1,
+"oppPasses": 1,
+"ballOut": null,
+"poss6": "A"
+}
+},
+{
+"case": "KB_31337_11544",
+"team": "A",
+"divergenceDt": 37,
+"baseAtDiv": [
+42,
+"A07",
+"A",
+"kick",
+true
+],
+"k20AtDiv": [
+37,
+"A07",
+"A",
+"contact",
+true
+],
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 5,
+"altKinds": {
+"advance_support->cover": 1,
+"support->cover": 3,
+"support->receive": 1
+},
+"altTeams": {
+"A": 5
+},
+"staleWitness(>2s)": 5,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 11544,
+"p": "A02",
+"team": "A",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 36.11,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"B07:B:foot"
+],
+"age": 41
+},
+"nearFriends": [
+{
+"id": "A10",
+"d": 1.39,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+2,
+"A10",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 2,
+"ownPasses": 2,
+"oppPasses": 0,
+"ballOut": [
+103,
+"throw_in",
+"B"
+],
+"poss6": "restart:B"
+},
+"k20": {
+"firstTouch": [
+2,
+"A10",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 2,
+"ownPasses": 3,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+}
+},
+{
+"case": "KB_31337_28520",
+"team": "B",
+"divergenceDt": 34,
+"baseAtDiv": [
+38,
+"B07",
+"B",
+"kick",
+true
+],
+"k20AtDiv": [
+34,
+"B07",
+"B",
+"kick",
+true
+],
+"category": "only_far_players_altered->later_branch",
+"altsBeforeDiv": 7,
+"altKinds": {
+"advance_support->cover": 2,
+"support->cover": 2,
+"support->receive": 3
+},
+"altTeams": {
+"B": 7
+},
+"staleWitness(>2s)": 0,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 28520,
+"p": "B01",
+"team": "B",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 34.14,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"A10:A:body"
+],
+"age": 38
+},
+"nearFriends": [
+{
+"id": "B07",
+"d": 1.36,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+2,
+"B07",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 2,
+"ownPasses": 2,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+},
+"k20": {
+"firstTouch": [
+2,
+"B07",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 2,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "B"
+}
+},
+{
+"case": "BK_31337_42934",
+"team": "B",
+"divergenceDt": 30,
+"baseAtDiv": [
+33,
+"B10",
+"B",
+"contact",
+true
+],
+"k20AtDiv": [
+30,
+"B10",
+"B",
+"contact",
+true
+],
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 7,
+"altKinds": {
+"advance_support->cover": 2,
+"support->cover": 4,
+"support->receive": 1
+},
+"altTeams": {
+"B": 7
+},
+"staleWitness(>2s)": 7,
+"truthOwnControlButUnknown": 1,
+"firstAlt": {
+"t": 42934,
+"p": "B01",
+"team": "B",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 47.14,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"A10:A:foot"
+],
+"age": 41
+},
+"nearFriends": [
+{
+"id": "B09",
+"d": 1.88,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+2,
+"B09",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 2,
+"ownPasses": 2,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "B"
+},
+"k20": {
+"firstTouch": [
+2,
+"B09",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 2,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+}
+},
+{
+"case": "KB_31337_45548",
+"team": "B",
+"divergenceDt": 40,
+"baseAtDiv": [
+82,
+"A09",
+"A",
+"kick",
+true
+],
+"k20AtDiv": [
+40,
+"B07",
+"B",
+"restart_placement",
+false
+],
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 6,
+"altKinds": {
+"advance_support->cover": 1,
+"support->cover": 4,
+"support->receive": 1
+},
+"altTeams": {
+"B": 6
+},
+"staleWitness(>2s)": 6,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 45548,
+"p": "B02",
+"team": "B",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 38.77,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"A06:A:foot"
+],
+"age": 42
+},
+"nearFriends": [
+{
+"id": "B09",
+"d": 1.09,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+10,
+"A09",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 10,
+"ownPasses": 0,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+},
+"k20": {
+"firstTouch": [
+10,
+"A09",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 10,
+"ownPasses": 0,
+"oppPasses": 0,
+"ballOut": [
+40,
+"throw_in",
+"B"
+],
+"poss6": "restart:B"
+}
+},
+{
+"case": "BK_31337_51554",
+"team": "A",
+"divergenceDt": 11,
+"baseAtDiv": [
+17,
+"A05",
+"A",
+"kick",
+true
+],
+"k20AtDiv": [
+11,
+"A05",
+"A",
+"contact",
+true
+],
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 7,
+"altKinds": {
+"support->receive": 2,
+"support->cover": 5
+},
+"altTeams": {
+"A": 7
+},
+"staleWitness(>2s)": 6,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 51554,
+"p": "A05",
+"team": "A",
+"orig": "support",
+"now": "receive",
+"selfD": 4.81,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"B00:B:hand"
+],
+"age": 91
+},
+"nearFriends": [
+{
+"id": "A07",
+"d": 2.08,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+10,
+"A05",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 10,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+},
+"k20": {
+"firstTouch": [
+10,
+"A05",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 10,
+"ownPasses": 0,
+"oppPasses": 1,
+"ballOut": null,
+"poss6": "B"
+}
+},
+{
+"case": "BK_31337_66674",
+"team": "B",
+"divergenceDt": 36,
+"baseAtDiv": [
+36,
+"A07",
+"A",
+"kick",
+true
+],
+"k20AtDiv": [
+70,
+"B07",
+"B",
+"kick",
+true
+],
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 15,
+"altKinds": {
+"advance_support->cover": 4,
+"support->cover": 8,
+"support->receive": 3
+},
+"altTeams": {
+"B": 8,
+"A": 7
+},
+"staleWitness(>2s)": 8,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 66674,
+"p": "B01",
+"team": "B",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 35.33,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"A09:A:body"
+],
+"age": 105
+},
+"nearFriends": [
+{
+"id": "B10",
+"d": 1.94,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+3,
+"B10",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 3,
+"ownPasses": 1,
+"oppPasses": 1,
+"ballOut": [
+80,
+"throw_in",
+"B"
+],
+"poss6": "restart:B"
+},
+"k20": {
+"firstTouch": [
+3,
+"B10",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 3,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+}
+},
+{
+"case": "BK_31337_67302",
+"team": "B",
+"divergenceDt": 67,
+"baseAtDiv": [
+67,
+"B10",
+"B",
+"kick",
+true
+],
+"k20AtDiv": null,
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 14,
+"altKinds": {
+"advance_support->cover": 3,
+"support->cover": 9,
+"support->receive": 2
+},
+"altTeams": {
+"B": 14
+},
+"staleWitness(>2s)": 6,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 67302,
+"p": "B02",
+"team": "B",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 40.42,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"A10:A:foot"
+],
+"age": 55
+},
+"nearFriends": [
+{
+"id": "B09",
+"d": 1,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+5,
+"A09",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 5,
+"ownPasses": 1,
+"oppPasses": 1,
+"ballOut": null,
+"poss6": "B"
+},
+"k20": {
+"firstTouch": [
+5,
+"A09",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 5,
+"ownPasses": 0,
+"oppPasses": 1,
+"ballOut": null,
+"poss6": "A"
+}
+},
+{
+"case": "KB_31337_73494",
+"team": "B",
+"divergenceDt": 23,
+"baseAtDiv": [
+25,
+"B10",
+"B",
+"contact",
+false
+],
+"k20AtDiv": [
+23,
+"B10",
+"B",
+"kick",
+true
+],
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 7,
+"altKinds": {
+"advance_support->cover": 2,
+"support->cover": 3,
+"support->receive": 2
+},
+"altTeams": {
+"B": 7
+},
+"staleWitness(>2s)": 0,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 73494,
+"p": "B01",
+"team": "B",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 20.83,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"A06:A:body"
+],
+"age": 20
+},
+"nearFriends": [
+{
+"id": "B05",
+"d": 1.58,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+2,
+"B05",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 2,
+"ownPasses": 1,
+"oppPasses": 1,
+"ballOut": null,
+"poss6": "A"
+},
+"k20": {
+"firstTouch": [
+2,
+"B05",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 2,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "B"
+}
+},
+{
+"case": "KB_31337_83264",
+"team": "B",
+"divergenceDt": 23,
+"baseAtDiv": [
+26,
+"B07",
+"B",
+"kick",
+true
+],
+"k20AtDiv": [
+23,
+"B07",
+"B",
+"kick",
+true
+],
+"category": "only_far_players_altered->later_branch",
+"altsBeforeDiv": 7,
+"altKinds": {
+"advance_support->cover": 2,
+"support->cover": 3,
+"support->receive": 2
+},
+"altTeams": {
+"B": 7
+},
+"staleWitness(>2s)": 4,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 83264,
+"p": "B01",
+"team": "B",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 35.22,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": null,
+"nearFriends": [
+{
+"id": "B07",
+"d": 0.86,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+0,
+"B07",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 0,
+"ownPasses": 0,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+},
+"k20": {
+"firstTouch": [
+0,
+"B07",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 0,
+"ownPasses": 3,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "B"
+}
+},
+{
+"case": "BK_31337_86781",
+"team": "B",
+"divergenceDt": 47,
+"baseAtDiv": [
+47,
+"B01",
+"B",
+"kick",
+true
+],
+"k20AtDiv": [
+49,
+"B01",
+"B",
+"contact",
+true
+],
+"category": "only_far_players_altered->later_branch",
+"altsBeforeDiv": 9,
+"altKinds": {
+"advance_support->cover": 1,
+"support->receive": 1,
+"support->cover": 7
+},
+"altTeams": {
+"B": 9
+},
+"staleWitness(>2s)": 0,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 86781,
+"p": "B02",
+"team": "B",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 18.61,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"A08:A:foot"
+],
+"age": 27
+},
+"nearFriends": [
+{
+"id": "B01",
+"d": 1.8,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+2,
+"B01",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 2,
+"ownPasses": 2,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "B"
+},
+"k20": {
+"firstTouch": [
+2,
+"B01",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 2,
+"ownPasses": 2,
+"oppPasses": 0,
+"ballOut": [
+101,
+"throw_in",
+"A"
+],
+"poss6": "restart:A"
+}
+},
+{
+"case": "BK_31337_96671",
+"team": "A",
+"divergenceDt": 53,
+"baseAtDiv": [
+53,
+"A08",
+"A",
+"kick",
+true
+],
+"k20AtDiv": [
+71,
+"B06",
+"B",
+"restart_placement",
+false
+],
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 9,
+"altKinds": {
+"support->cover": 5,
+"support->receive": 1,
+"advance_support->cover": 2,
+"cover_exchange->cover": 1
+},
+"altTeams": {
+"A": 9
+},
+"staleWitness(>2s)": 0,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 96671,
+"p": "A04",
+"team": "A",
+"orig": "support",
+"now": "cover",
+"selfD": 45.98,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"B05:B:body"
+],
+"age": 33
+},
+"nearFriends": [
+{
+"id": "A06",
+"d": 1.36,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+2,
+"A06",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 2,
+"ownPasses": 2,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+},
+"k20": {
+"firstTouch": [
+2,
+"A06",
+"A",
+"ctrl"
+],
+"firstControlTeam": "A",
+"firstControlDt": 2,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": [
+71,
+"throw_in",
+"B"
+],
+"poss6": "restart:B"
+}
+},
+{
+"case": "BK_31337_104584",
+"team": "A",
+"divergenceDt": 49,
+"baseAtDiv": [
+74,
+"A05",
+"A",
+"kick",
+true
+],
+"k20AtDiv": [
+49,
+"B06",
+"B",
+"kick",
+true
+],
+"category": "K20_altered_the_player_who_touches_at_divergence",
+"altsBeforeDiv": 9,
+"altKinds": {
+"advance_support->cover": 2,
+"support->cover": 5,
+"support->receive": 2
+},
+"altTeams": {
+"A": 9
+},
+"staleWitness(>2s)": 0,
+"truthOwnControlButUnknown": 0,
+"firstAlt": {
+"t": 104584,
+"p": "A01",
+"team": "A",
+"orig": "advance_support",
+"now": "cover",
+"selfD": 29.39,
+"ballAge": 0,
+"velKnown": true,
+"witnessed": {
+"who": [
+"B10:B:body"
+],
+"age": 5
+},
+"nearFriends": [
+{
+"id": "A06",
+"d": 1.56,
+"age": 0
+},
+{
+"id": "A10",
+"d": 2,
+"age": 0
+}
+],
+"truthLast": null
+},
+"base": {
+"firstTouch": [
+27,
+"B06",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 27,
+"ownPasses": 1,
+"oppPasses": 0,
+"ballOut": null,
+"poss6": "A"
+},
+"k20": {
+"firstTouch": [
+27,
+"B06",
+"B",
+"ctrl"
+],
+"firstControlTeam": "B",
+"firstControlDt": 27,
+"ownPasses": 0,
+"oppPasses": 1,
+"ballOut": null,
+"poss6": "B"
+}
+}
+]

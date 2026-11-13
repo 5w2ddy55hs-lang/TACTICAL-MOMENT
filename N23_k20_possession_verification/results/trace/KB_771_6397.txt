@@ -1,0 +1,279 @@
+base t+0 A07 press ->(56.6,22.2) sc=1.15 | seen:dBall=9.5 ballAge=0 velKnown=true holder=- nearF=[] nearE=[B10] witnessed=A09:foot@age42 | truth dBall=9.4 ballV=11.1
+base t+0 A09 cover ->(53.3,60.3) sc=0.65 | seen:dBall=23.6 ballAge=0 velKnown=true holder=- nearF=[] nearE=[B10] witnessed=A09:foot@age42 | truth dBall=23.4 ballV=11.1
+base t+0 B01 advance_support ->(83.4,23.7) sc=0.67 | seen:dBall=25.6 ballAge=0 velKnown=true holder=- nearF=[B10] nearE=[] witnessed=A09:foot@age42 | truth dBall=25.5 ballV=11.1
+base t+0 B09 support ->(52.2,58.9) sc=0.65 | seen:dBall=17.0 ballAge=0 velKnown=true holder=- nearF=[B10] nearE=[] witnessed=A09:foot@age42 | truth dBall=17.0 ballV=11.1
+base t+3 EVENT kick:dribble B10 team=B ctrl=true ball=(59.2,39.0) v=2.9
+base t+4 A07 press ->(59.0,38.9) sc=1.14 | seen:dBall=9.6 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B10] witnessed=B10:foot@age1 | truth dBall=9.6 ballV=2.9
+base t+4 A09 cover ->(53.1,59.8) sc=0.65 | seen:dBall=24.3 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B10] witnessed=B10:foot@age1 | truth dBall=24.5 ballV=2.9
+base t+4 B01 advance_support ->(83.1,23.5) sc=0.67 | seen:dBall=26.7 ballAge=0 velKnown=false holder=- nearF=[B10] nearE=[] witnessed=B10:foot@age1 | truth dBall=26.6 ballV=2.9
+base t+4 B09 support ->(52.0,58.7) sc=0.65 | seen:dBall=17.3 ballAge=0 velKnown=false holder=- nearF=[B10] nearE=[] witnessed=B10:foot@age1 | truth dBall=17.4 ballV=2.9
+base t+4 EVENT contact B10 team=B ctrl=true ball=(59.1,38.9) v=3.7
+base t+4 EVENT contact B10 team=B ctrl=true ball=(59.1,38.9) v=3.9
+base t+4 EVENT contact B10 team=B ctrl=true ball=(59.1,38.9) v=3.9
+base t+4 EVENT contact B10 team=B ctrl=true ball=(59.1,38.8) v=3.9
+base t+4 EVENT contact B10 team=B ctrl=true ball=(59.2,38.8) v=3.9
+base t+8 A07 press ->(59.5,38.3) sc=1.18 | seen:dBall=8.9 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B10] witnessed=B10:body@age4 | truth dBall=8.9 ballV=3.7
+base t+8 A09 cover ->(53.5,59.6) sc=0.65 | seen:dBall=24.2 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B10] witnessed=B10:body@age4 | truth dBall=24.3 ballV=3.7
+base t+8 B01 advance_support ->(83.5,23.5) sc=0.67 | seen:dBall=26.8 ballAge=0 velKnown=false holder=- nearF=[B10] nearE=[] witnessed=B10:body@age4 | truth dBall=26.9 ballV=3.7
+base t+8 B09 support ->(52.3,58.6) sc=0.65 | seen:dBall=16.7 ballAge=0 velKnown=false holder=- nearF=[B10] nearE=[] witnessed=B10:body@age4 | truth dBall=16.7 ballV=3.7
+base t+10 EVENT kick:dribble B10 team=B ctrl=true ball=(59.9,38.1) v=5.4
+base t+10 EVENT contact B10 team=B ctrl=true ball=(59.7,38.0) v=2.5
+base t+10 EVENT contact B10 team=B ctrl=true ball=(59.7,38.0) v=2.4
+base t+12 A07 press ->(59.7,37.9) sc=1.22 | seen:dBall=8.0 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B10] witnessed=B10:body@age2 | truth dBall=8.0 ballV=2.3
+base t+12 A09 cover ->(53.5,59.4) sc=0.65 | seen:dBall=24.2 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B10] witnessed=B10:body@age2 | truth dBall=24.2 ballV=2.3
+base t+12 B01 advance_support ->(83.6,23.4) sc=0.67 | seen:dBall=27.2 ballAge=0 velKnown=false holder=- nearF=[B10] nearE=[] witnessed=B10:body@age2 | truth dBall=27.3 ballV=2.3
+base t+12 B09 support ->(52.3,58.6) sc=0.65 | seen:dBall=16.2 ballAge=0 velKnown=false holder=- nearF=[B10] nearE=[] witnessed=B10:body@age2 | truth dBall=16.2 ballV=2.3
+base t+16 A07 intercept ->(61.5,35.0) sc=1.27 | seen:dBall=7.1 ballAge=0 velKnown=true holder=- nearF=[A10] nearE=[B10] witnessed=B10:body@age6 | truth dBall=7.0 ballV=2.1
+base t+16 A09 cover ->(53.6,59.2) sc=0.65 | seen:dBall=23.9 ballAge=0 velKnown=true holder=- nearF=[A10] nearE=[B10] witnessed=B10:body@age6 | truth dBall=24.0 ballV=2.1
+base t+16 B01 cover ->(91.6,24.2) sc=0.65 | seen:dBall=27.5 ballAge=0 velKnown=true holder=- nearF=[B10] nearE=[A10] witnessed=B10:body@age6 | truth dBall=27.5 ballV=2.1
+base t+16 B09 cover ->(58.6,59.2) sc=0.65 | seen:dBall=16.0 ballAge=0 velKnown=true holder=- nearF=[B10] nearE=[A10] witnessed=B10:body@age6 | truth dBall=15.9 ballV=2.1
+base t+17 EVENT kick:pass B10 team=B ctrl=true ball=(60.0,37.4) v=12.2
+base t+20 A07 support ->(50.6,48.7) sc=0.65 | seen:dBall=4.0 ballAge=0 velKnown=false holder=- nearF=[A10] nearE=[] witnessed=B10:foot@age3 | truth dBall=4.0 ballV=12.0
+base t+20 A09 support ->(61.5,58.7) sc=0.65 | seen:dBall=21.8 ballAge=0 velKnown=false holder=- nearF=[A10] nearE=[] witnessed=B10:foot@age3 | truth dBall=21.8 ballV=12.0
+base t+20 B01 cover ->(91.6,24.9) sc=0.65 | seen:dBall=28.5 ballAge=0 velKnown=false holder=- nearF=[] nearE=[A10] witnessed=B10:foot@age3 | truth dBall=28.5 ballV=12.0
+base t+20 B09 press ->(60.0,39.3) sc=0.95 | seen:dBall=13.6 ballAge=0 velKnown=false holder=- nearF=[] nearE=[A10] witnessed=B10:foot@age3 | truth dBall=13.7 ballV=12.0
+base t+24 A07 receive ->(59.7,61.3) sc=1.77 | seen:dBall=1.2 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age7 | truth dBall=1.2 ballV=11.7
+base t+24 A09 support ->(61.5,59.0) sc=0.65 | seen:dBall=19.2 ballAge=0 velKnown=true holder=- nearF=[A07] nearE=[] witnessed=B10:foot@age7 | truth dBall=19.1 ballV=11.7
+base t+24 B01 cover ->(91.6,25.6) sc=0.65 | seen:dBall=30.2 ballAge=0 velKnown=true holder=- nearF=[] nearE=[A07] witnessed=B10:foot@age7 | truth dBall=30.2 ballV=11.7
+base t+24 B09 press ->(60.0,48.0) sc=1.07 | seen:dBall=11.1 ballAge=0 velKnown=true holder=- nearF=[] nearE=[A07] witnessed=B10:foot@age7 | truth dBall=11.1 ballV=11.7
+base t+28 A07 receive ->(61.2,63.0) sc=1.65 | seen:dBall=3.6 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age11 | truth dBall=3.6 ballV=11.4
+base t+28 A09 cover ->(53.7,61.4) sc=0.65 | seen:dBall=16.6 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age11 | truth dBall=16.5 ballV=11.4
+base t+28 B01 cover ->(91.7,26.4) sc=0.65 | seen:dBall=32.1 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age11 | truth dBall=32.2 ballV=11.4
+base t+28 B09 receive ->(59.9,48.9) sc=1.43 | seen:dBall=8.3 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age11 | truth dBall=8.4 ballV=11.4
+base t+32 A07 receive ->(58.9,63.5) sc=1.51 | seen:dBall=6.5 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age15 | truth dBall=6.5 ballV=11.1
+base t+32 A09 receive ->(59.9,55.7) sc=0.71 | seen:dBall=14.1 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age15 | truth dBall=14.1 ballV=11.1
+base t+32 B01 cover ->(91.7,27.2) sc=0.65 | seen:dBall=34.3 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age15 | truth dBall=34.5 ballV=11.1
+base t+32 B09 receive ->(60.3,49.6) sc=1.56 | seen:dBall=5.6 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age15 | truth dBall=5.6 ballV=11.1
+base t+36 A07 receive ->(62.0,67.4) sc=1.38 | seen:dBall=9.3 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age19 | truth dBall=9.3 ballV=10.8
+base t+36 A09 receive ->(61.1,57.2) sc=1.03 | seen:dBall=12.0 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age19 | truth dBall=12.0 ballV=10.8
+base t+36 B01 cover ->(91.6,28.0) sc=0.65 | seen:dBall=36.8 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age19 | truth dBall=36.8 ballV=10.8
+base t+36 B09 receive ->(59.9,50.1) sc=1.68 | seen:dBall=2.9 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age19 | truth dBall=3.0 ballV=10.8
+base t+40 A07 press ->(58.7,66.6) sc=1.27 | seen:dBall=11.6 ballAge=0 velKnown=true holder=- nearF=[] nearE=[B09] witnessed=B10:foot@age23 | truth dBall=11.7 ballV=10.5
+base t+40 A09 press ->(59.5,57.5) sc=1.36 | seen:dBall=9.8 ballAge=0 velKnown=true holder=- nearF=[] nearE=[B09] witnessed=B10:foot@age23 | truth dBall=9.8 ballV=10.5
+base t+40 B01 advance_support ->(83.8,24.9) sc=0.67 | seen:dBall=38.9 ballAge=0 velKnown=true holder=- nearF=[B09] nearE=[] witnessed=B10:foot@age23 | truth dBall=39.0 ballV=10.5
+base t+40 B09 receive ->(60.6,67.7) sc=1.75 | seen:dBall=1.5 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age23 | truth dBall=1.6 ballV=10.5
+base t+44 A07 receive ->(62.1,67.7) sc=0.94 | seen:dBall=13.8 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age27 | truth dBall=13.8 ballV=10.2
+base t+44 A09 receive ->(60.9,59.6) sc=1.45 | seen:dBall=7.9 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age27 | truth dBall=7.8 ballV=10.2
+base t+44 B01 cover ->(91.6,29.5) sc=0.65 | seen:dBall=41.2 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age27 | truth dBall=41.1 ballV=10.2
+base t+44 B09 receive ->(60.9,67.7) sc=1.67 | seen:dBall=3.1 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age27 | truth dBall=3.1 ballV=10.2
+base t+48 A07 receive ->(60.0,67.7) sc=0.85 | seen:dBall=15.7 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age31 | truth dBall=15.6 ballV=9.9
+base t+48 A09 receive ->(59.9,60.3) sc=1.55 | seen:dBall=5.8 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age31 | truth dBall=5.8 ballV=9.9
+base t+48 B01 cover ->(91.7,30.1) sc=0.65 | seen:dBall=42.8 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age31 | truth dBall=42.9 ballV=9.9
+base t+48 B09 receive ->(61.0,67.7) sc=1.58 | seen:dBall=5.1 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age31 | truth dBall=5.2 ballV=9.9
+base t+52 A07 receive ->(61.0,67.7) sc=0.79 | seen:dBall=17.0 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age35 | truth dBall=17.1 ballV=9.7
+base t+52 A09 receive ->(61.6,67.7) sc=1.62 | seen:dBall=4.2 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age35 | truth dBall=4.1 ballV=9.7
+base t+52 B01 cover ->(91.7,30.9) sc=0.65 | seen:dBall=44.6 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age35 | truth dBall=44.5 ballV=9.7
+base t+52 B09 receive ->(59.2,67.7) sc=1.48 | seen:dBall=7.1 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age35 | truth dBall=7.1 ballV=9.7
+base t+56 A07 receive ->(60.6,67.7) sc=0.73 | seen:dBall=18.2 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age39 | truth dBall=18.3 ballV=9.4
+base t+56 A09 receive ->(60.4,67.7) sc=1.67 | seen:dBall=3.1 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age39 | truth dBall=3.0 ballV=9.4
+base t+56 B01 cover ->(91.8,31.5) sc=0.65 | seen:dBall=45.9 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age39 | truth dBall=45.9 ballV=9.4
+base t+56 B09 receive ->(61.0,67.7) sc=1.41 | seen:dBall=8.7 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age39 | truth dBall=8.7 ballV=9.4
+base t+60 A07 receive ->(60.3,67.7) sc=0.69 | seen:dBall=19.0 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age43 | truth dBall=19.1 ballV=9.1
+base t+60 A09 receive ->(59.9,67.7) sc=1.69 | seen:dBall=2.8 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age43 | truth dBall=2.8 ballV=9.1
+base t+60 B01 cover ->(91.7,32.2) sc=0.65 | seen:dBall=47.1 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age43 | truth dBall=47.1 ballV=9.1
+base t+60 B09 receive ->(61.0,67.7) sc=1.35 | seen:dBall=10.0 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age43 | truth dBall=10.1 ballV=9.1
+base t+64 A07 receive ->(60.0,67.7) sc=0.66 | seen:dBall=19.6 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age47 | truth dBall=19.7 ballV=8.8
+base t+64 A09 receive ->(60.5,67.7) sc=1.67 | seen:dBall=3.3 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age47 | truth dBall=3.3 ballV=8.8
+base t+64 B01 cover ->(91.8,32.8) sc=0.65 | seen:dBall=47.9 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age47 | truth dBall=47.9 ballV=8.8
+base t+64 B09 receive ->(59.3,67.7) sc=1.29 | seen:dBall=11.2 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age47 | truth dBall=11.1 ballV=8.8
+base t+68 A07 cover ->(42.8,58.4) sc=0.65 | seen:dBall=19.9 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age51 | truth dBall=20.0 ballV=8.6
+base t+68 A09 receive ->(60.9,67.7) sc=1.63 | seen:dBall=4.1 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age51 | truth dBall=4.0 ballV=8.6
+base t+68 B01 cover ->(91.8,33.4) sc=0.65 | seen:dBall=48.5 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age51 | truth dBall=48.5 ballV=8.6
+base t+68 B09 receive ->(62.0,67.7) sc=1.25 | seen:dBall=11.9 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age51 | truth dBall=11.9 ballV=8.6
+base t+72 A07 cover ->(42.7,59.0) sc=0.65 | seen:dBall=20.3 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age55 | truth dBall=20.2 ballV=8.3
+base t+72 A09 receive ->(59.9,67.7) sc=1.61 | seen:dBall=4.5 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age55 | truth dBall=4.5 ballV=8.3
+base t+72 B01 cover ->(91.7,34.0) sc=0.65 | seen:dBall=49.0 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age55 | truth dBall=48.8 ballV=8.3
+base t+72 B09 receive ->(61.4,67.7) sc=1.24 | seen:dBall=12.3 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age55 | truth dBall=12.4 ballV=8.3
+base t+76 A07 cover ->(42.8,59.6) sc=0.65 | seen:dBall=20.6 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age59 | truth dBall=20.6 ballV=8.1
+base t+76 A09 receive ->(60.7,67.7) sc=1.59 | seen:dBall=4.9 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age59 | truth dBall=4.9 ballV=8.1
+base t+76 B01 cover ->(91.8,34.6) sc=0.65 | seen:dBall=48.9 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age59 | truth dBall=48.9 ballV=8.1
+base t+76 B09 receive ->(60.2,67.7) sc=1.21 | seen:dBall=12.7 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age59 | truth dBall=12.7 ballV=8.1
+base t+78 EVENT restart_placement:throw_in A09 team=A ctrl=false ball=(60.4,68.8) v=0.0
+base t+79 A07 restart_position ->(49.3,48.0) sc=9.00 | seen:dBall=21.5 ballAge=0 velKnown=false holder=- nearF=[] nearE=[] witnessed=none | truth dBall=21.6 ballV=0.0
+base t+79 A09 throw_position ->(60.4,68.3) sc=10.00 | seen:dBall=5.8 ballAge=0 velKnown=false holder=- nearF=[] nearE=[] witnessed=none | truth dBall=5.8 ballV=0.0
+base t+79 B01 restart_position ->(84.3,23.0) sc=9.00 | seen:dBall=49.5 ballAge=0 velKnown=false holder=- nearF=[] nearE=[] witnessed=none | truth dBall=49.5 ballV=0.0
+base t+79 B09 restart_position ->(51.3,58.0) sc=9.00 | seen:dBall=13.6 ballAge=0 velKnown=false holder=- nearF=[] nearE=[] witnessed=none | truth dBall=13.5 ballV=0.0
+base t+83 A07 restart_position ->(49.3,48.0) sc=9.00 | seen:dBall=20.8 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=none | truth dBall=20.7 ballV=0.0
+base t+83 A09 throw_position ->(60.4,68.3) sc=10.00 | seen:dBall=4.6 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=none | truth dBall=4.5 ballV=0.0
+base t+83 B01 restart_position ->(84.3,23.0) sc=9.00 | seen:dBall=48.6 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=none | truth dBall=48.6 ballV=0.0
+base t+83 B09 restart_position ->(51.3,58.0) sc=9.00 | seen:dBall=12.2 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=none | truth dBall=12.3 ballV=0.0
+base t+87 A07 restart_position ->(49.3,48.0) sc=9.00 | seen:dBall=19.9 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=none | truth dBall=19.9 ballV=0.0
+base t+87 A09 throw_position ->(60.4,68.3) sc=10.00 | seen:dBall=3.3 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=none | truth dBall=3.2 ballV=0.0
+base t+87 B01 restart_position ->(84.3,23.0) sc=9.00 | seen:dBall=47.6 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=none | truth dBall=47.7 ballV=0.0
+base t+87 B09 restart_position ->(51.3,58.0) sc=9.00 | seen:dBall=11.1 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=none | truth dBall=11.2 ballV=0.0
+base t+91 A07 restart_position ->(49.3,48.0) sc=9.00 | seen:dBall=19.4 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=none | truth dBall=19.4 ballV=0.0
+base t+91 A09 throw_position ->(60.4,68.3) sc=10.00 | seen:dBall=2.3 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=none | truth dBall=2.2 ballV=0.0
+base t+91 B01 restart_position ->(84.3,23.0) sc=9.00 | seen:dBall=46.9 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=none | truth dBall=47.0 ballV=0.0
+base t+91 B09 restart_position ->(51.3,58.0) sc=9.00 | seen:dBall=10.2 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=none | truth dBall=10.3 ballV=0.0
+base t+95 A07 restart_position ->(49.3,48.0) sc=9.00 | seen:dBall=19.2 ballAge=0 velKnown=true holder=- nearF=[A09] nearE=[] witnessed=none | truth dBall=19.2 ballV=0.0
+base t+95 A09 throw_position ->(60.4,68.3) sc=10.00 | seen:dBall=1.5 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=none | truth dBall=1.4 ballV=0.0
+base t+95 B01 restart_position ->(84.3,23.0) sc=9.00 | seen:dBall=46.4 ballAge=0 velKnown=true holder=- nearF=[] nearE=[A09] witnessed=none | truth dBall=46.4 ballV=0.0
+base t+95 B09 restart_position ->(51.3,58.0) sc=9.00 | seen:dBall=9.5 ballAge=0 velKnown=true holder=- nearF=[] nearE=[A09] witnessed=none | truth dBall=9.6 ballV=0.0
+base t+99 A07 restart_position ->(49.3,48.0) sc=9.00 | seen:dBall=19.2 ballAge=0 velKnown=true holder=- nearF=[A09] nearE=[] witnessed=none | truth dBall=19.3 ballV=0.0
+base t+99 A09 throw_position ->(60.4,68.3) sc=10.00 | seen:dBall=1.0 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=none | truth dBall=0.9 ballV=0.0
+base t+99 B01 restart_position ->(84.3,23.0) sc=9.00 | seen:dBall=46.0 ballAge=0 velKnown=true holder=- nearF=[] nearE=[A09] witnessed=none | truth dBall=46.0 ballV=0.0
+base t+99 B09 restart_position ->(51.3,58.0) sc=9.00 | seen:dBall=9.2 ballAge=0 velKnown=true holder=- nearF=[] nearE=[A09] witnessed=none | truth dBall=9.1 ballV=0.0
+base t+103 A07 restart_position ->(49.3,48.0) sc=9.00 | seen:dBall=19.6 ballAge=0 velKnown=true holder=- nearF=[A09] nearE=[] witnessed=none | truth dBall=19.6 ballV=0.0
+base t+103 A09 throw_position ->(60.4,68.3) sc=10.00 | seen:dBall=0.5 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=none | truth dBall=0.6 ballV=0.0
+base t+103 B01 restart_position ->(84.3,23.0) sc=9.00 | seen:dBall=45.6 ballAge=0 velKnown=true holder=- nearF=[] nearE=[A09] witnessed=none | truth dBall=45.7 ballV=0.0
+base t+103 B09 restart_position ->(51.3,58.0) sc=9.00 | seen:dBall=9.0 ballAge=0 velKnown=true holder=- nearF=[] nearE=[A09] witnessed=none | truth dBall=9.0 ballV=0.0
+base t+107 A07 restart_position ->(49.3,48.0) sc=9.00 | seen:dBall=20.2 ballAge=0 velKnown=true holder=- nearF=[A09] nearE=[] witnessed=none | truth dBall=20.2 ballV=0.0
+base t+107 A09 throw_position ->(60.4,68.3) sc=10.00 | seen:dBall=0.4 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=none | truth dBall=0.5 ballV=0.0
+base t+107 B01 restart_position ->(84.3,23.0) sc=9.00 | seen:dBall=45.5 ballAge=0 velKnown=true holder=- nearF=[] nearE=[A09] witnessed=none | truth dBall=45.5 ballV=0.0
+base t+107 B09 restart_position ->(51.3,58.0) sc=9.00 | seen:dBall=9.1 ballAge=0 velKnown=true holder=- nearF=[] nearE=[A09] witnessed=none | truth dBall=9.2 ballV=0.0
+base t+111 A07 restart_position ->(49.3,48.0) sc=9.00 | seen:dBall=20.9 ballAge=0 velKnown=true holder=- nearF=[A09] nearE=[] witnessed=none | truth dBall=20.9 ballV=0.0
+base t+111 A09 throw_in ->(70.4,56.0) sc=10.00 | seen:dBall=0.5 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=none | truth dBall=0.5 ballV=0.0
+base t+111 B01 restart_position ->(84.3,23.0) sc=9.00 | seen:dBall=45.6 ballAge=0 velKnown=true holder=- nearF=[] nearE=[A09] witnessed=none | truth dBall=45.5 ballV=0.0
+base t+111 B09 restart_position ->(51.3,58.0) sc=9.00 | seen:dBall=9.6 ballAge=0 velKnown=true holder=- nearF=[] nearE=[A09] witnessed=none | truth dBall=9.7 ballV=0.0
+base t+115 A07 restart_position ->(49.3,48.0) sc=9.00 | seen:dBall=21.5 ballAge=0 velKnown=true holder=- nearF=[A09] nearE=[] witnessed=none | truth dBall=21.5 ballV=1.5
+base t+115 A09 throw_in ->(70.4,56.0) sc=10.00 | seen:dBall=0.4 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=none | truth dBall=0.3 ballV=1.5
+base t+115 B01 restart_position ->(84.3,23.0) sc=9.00 | seen:dBall=45.8 ballAge=0 velKnown=true holder=- nearF=[] nearE=[A09] witnessed=none | truth dBall=45.6 ballV=1.5
+base t+115 B09 restart_position ->(51.3,58.0) sc=9.00 | seen:dBall=10.4 ballAge=0 velKnown=true holder=- nearF=[] nearE=[A09] witnessed=none | truth dBall=10.4 ballV=1.5
+base t+119 A07 restart_position ->(49.3,48.0) sc=9.00 | seen:dBall=21.9 ballAge=0 velKnown=true holder=- nearF=[A09] nearE=[] witnessed=none | truth dBall=21.9 ballV=1.5
+base t+119 A09 throw_in ->(70.4,56.0) sc=10.00 | seen:dBall=0.1 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=none | truth dBall=0.0 ballV=1.5
+base t+119 B01 restart_position ->(84.3,23.0) sc=9.00 | seen:dBall=45.7 ballAge=0 velKnown=true holder=- nearF=[] nearE=[A09] witnessed=none | truth dBall=45.8 ballV=1.5
+base t+119 B09 restart_position ->(51.3,58.0) sc=9.00 | seen:dBall=11.4 ballAge=0 velKnown=true holder=- nearF=[] nearE=[A09] witnessed=none | truth dBall=11.3 ballV=1.5
+k20 t+0 A07 press ->(56.6,22.2) sc=1.15 | seen:dBall=9.5 ballAge=0 velKnown=true holder=- nearF=[] nearE=[B10] witnessed=A09:foot@age42 | truth dBall=9.4 ballV=11.1
+k20 t+0 A09 cover ->(53.3,60.3) sc=0.65 | seen:dBall=23.6 ballAge=0 velKnown=true holder=- nearF=[] nearE=[B10] witnessed=A09:foot@age42 | truth dBall=23.4 ballV=11.1
+k20 t+0 B01 cover ->(91.3,25.3) sc=0.65 | seen:dBall=25.6 ballAge=0 velKnown=true holder=- nearF=[B10] nearE=[] witnessed=A09:foot@age42 | truth dBall=25.5 ballV=11.1
+k20 t+0 B09 receive ->(57.7,22.4) sc=0.79 | seen:dBall=17.0 ballAge=0 velKnown=true holder=- nearF=[B10] nearE=[] witnessed=A09:foot@age42 | truth dBall=17.0 ballV=11.1
+k20 t+3 EVENT kick:dribble B10 team=B ctrl=true ball=(59.2,39.0) v=2.9
+k20 t+4 A07 press ->(59.0,38.9) sc=1.14 | seen:dBall=9.6 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B10] witnessed=B10:foot@age1 | truth dBall=9.6 ballV=2.9
+k20 t+4 A09 cover ->(53.1,59.8) sc=0.65 | seen:dBall=24.3 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B10] witnessed=B10:foot@age1 | truth dBall=24.5 ballV=2.9
+k20 t+4 B01 advance_support ->(83.1,23.5) sc=0.67 | seen:dBall=26.7 ballAge=0 velKnown=false holder=- nearF=[B10] nearE=[] witnessed=B10:foot@age1 | truth dBall=26.6 ballV=2.9
+k20 t+4 B09 support ->(52.0,58.7) sc=0.65 | seen:dBall=17.3 ballAge=0 velKnown=false holder=- nearF=[B10] nearE=[] witnessed=B10:foot@age1 | truth dBall=17.4 ballV=2.9
+k20 t+4 EVENT contact B10 team=B ctrl=true ball=(59.1,38.9) v=3.7
+k20 t+4 EVENT contact B10 team=B ctrl=true ball=(59.1,38.9) v=3.9
+k20 t+4 EVENT contact B10 team=B ctrl=true ball=(59.1,38.9) v=3.9
+k20 t+4 EVENT contact B10 team=B ctrl=true ball=(59.1,38.8) v=3.9
+k20 t+4 EVENT contact B10 team=B ctrl=true ball=(59.2,38.8) v=3.9
+k20 t+8 A07 press ->(59.5,38.3) sc=1.18 | seen:dBall=8.9 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B10] witnessed=B10:body@age4 | truth dBall=8.9 ballV=3.7
+k20 t+8 A09 cover ->(53.5,59.6) sc=0.65 | seen:dBall=24.2 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B10] witnessed=B10:body@age4 | truth dBall=24.3 ballV=3.7
+k20 t+8 B01 advance_support ->(83.5,23.5) sc=0.67 | seen:dBall=27.0 ballAge=0 velKnown=false holder=- nearF=[B10] nearE=[] witnessed=B10:body@age4 | truth dBall=27.1 ballV=3.7
+k20 t+8 B09 support ->(52.3,58.6) sc=0.65 | seen:dBall=16.5 ballAge=0 velKnown=false holder=- nearF=[B10] nearE=[] witnessed=B10:body@age4 | truth dBall=16.5 ballV=3.7
+k20 t+10 EVENT kick:dribble B10 team=B ctrl=true ball=(59.9,38.1) v=5.4
+k20 t+10 EVENT contact B10 team=B ctrl=true ball=(59.7,38.0) v=2.5
+k20 t+10 EVENT contact B10 team=B ctrl=true ball=(59.7,38.0) v=2.4
+k20 t+12 A07 press ->(59.7,37.9) sc=1.22 | seen:dBall=8.0 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B10] witnessed=B10:body@age2 | truth dBall=8.0 ballV=2.3
+k20 t+12 A09 cover ->(53.5,59.4) sc=0.65 | seen:dBall=24.2 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B10] witnessed=B10:body@age2 | truth dBall=24.2 ballV=2.3
+k20 t+12 B01 advance_support ->(83.6,23.4) sc=0.67 | seen:dBall=27.6 ballAge=0 velKnown=false holder=- nearF=[B10] nearE=[] witnessed=B10:body@age2 | truth dBall=27.6 ballV=2.3
+k20 t+12 B09 support ->(52.3,58.6) sc=0.65 | seen:dBall=15.8 ballAge=0 velKnown=false holder=- nearF=[B10] nearE=[] witnessed=B10:body@age2 | truth dBall=15.8 ballV=2.3
+k20 t+16 A07 intercept ->(61.5,35.0) sc=1.27 | seen:dBall=7.1 ballAge=0 velKnown=true holder=- nearF=[A10] nearE=[B10] witnessed=B10:body@age6 | truth dBall=7.0 ballV=2.1
+k20 t+16 A09 cover ->(53.6,59.2) sc=0.65 | seen:dBall=23.9 ballAge=0 velKnown=true holder=- nearF=[A10] nearE=[B10] witnessed=B10:body@age6 | truth dBall=24.0 ballV=2.1
+k20 t+16 B01 cover ->(91.6,24.2) sc=0.65 | seen:dBall=28.0 ballAge=0 velKnown=true holder=- nearF=[B10] nearE=[A10] witnessed=B10:body@age6 | truth dBall=28.0 ballV=2.1
+k20 t+16 B09 receive ->(63.7,33.2) sc=0.87 | seen:dBall=15.3 ballAge=0 velKnown=true holder=- nearF=[B10] nearE=[A10] witnessed=B10:body@age6 | truth dBall=15.2 ballV=2.1
+k20 t+17 EVENT kick:pass B10 team=B ctrl=true ball=(60.0,37.4) v=11.9
+k20 t+20 A07 intercept ->(60.2,39.1) sc=1.41 | seen:dBall=4.1 ballAge=0 velKnown=false holder=- nearF=[A10] nearE=[] witnessed=B10:foot@age3 | truth dBall=4.1 ballV=11.7
+k20 t+20 A09 cover ->(53.6,59.8) sc=0.65 | seen:dBall=21.8 ballAge=0 velKnown=false holder=- nearF=[A10] nearE=[] witnessed=B10:foot@age3 | truth dBall=21.9 ballV=11.7
+k20 t+20 B01 cover ->(91.7,24.8) sc=0.65 | seen:dBall=29.0 ballAge=0 velKnown=false holder=- nearF=[] nearE=[A10] witnessed=B10:foot@age3 | truth dBall=29.0 ballV=11.7
+k20 t+20 B09 press ->(60.1,39.1) sc=0.99 | seen:dBall=12.8 ballAge=0 velKnown=false holder=- nearF=[] nearE=[A10] witnessed=B10:foot@age3 | truth dBall=12.8 ballV=11.7
+k20 t+24 A07 receive ->(61.0,60.7) sc=1.76 | seen:dBall=1.4 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age7 | truth dBall=1.4 ballV=11.4
+k20 t+24 A09 cover ->(53.7,60.6) sc=0.65 | seen:dBall=19.4 ballAge=0 velKnown=true holder=- nearF=[A07] nearE=[] witnessed=B10:foot@age7 | truth dBall=19.3 ballV=11.4
+k20 t+24 B01 cover ->(91.7,25.6) sc=0.65 | seen:dBall=30.7 ballAge=0 velKnown=true holder=- nearF=[] nearE=[A07] witnessed=B10:foot@age7 | truth dBall=30.6 ballV=11.4
+k20 t+24 B09 press ->(60.5,47.1) sc=1.15 | seen:dBall=9.6 ballAge=0 velKnown=true holder=- nearF=[] nearE=[A07] witnessed=B10:foot@age7 | truth dBall=9.5 ballV=11.4
+k20 t+28 A07 receive ->(62.7,62.3) sc=1.66 | seen:dBall=3.5 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age11 | truth dBall=3.4 ballV=11.1
+k20 t+28 A09 cover ->(53.8,61.4) sc=0.65 | seen:dBall=17.2 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age11 | truth dBall=17.1 ballV=11.1
+k20 t+28 B01 cover ->(91.8,26.4) sc=0.65 | seen:dBall=32.7 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age11 | truth dBall=32.6 ballV=11.1
+k20 t+28 B09 receive ->(61.0,48.2) sc=1.52 | seen:dBall=6.3 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age11 | truth dBall=6.2 ballV=11.1
+k20 t+32 A07 receive ->(60.4,62.8) sc=1.53 | seen:dBall=6.2 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age15 | truth dBall=6.2 ballV=10.8
+k20 t+32 A09 receive ->(61.0,57.1) sc=0.65 | seen:dBall=15.2 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age15 | truth dBall=15.3 ballV=10.8
+k20 t+32 B01 cover ->(91.8,27.1) sc=0.65 | seen:dBall=34.9 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age15 | truth dBall=34.8 ballV=10.8
+k20 t+32 B09 receive ->(60.7,47.6) sc=1.68 | seen:dBall=3.0 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B10:foot@age15 | truth dBall=2.9 ballV=10.8
+k20 t+35 EVENT kick:dribble B09 team=B ctrl=true ball=(60.7,47.5) v=3.5
+k20 t+36 A07 press ->(60.7,47.5) sc=1.42 | seen:dBall=8.4 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B09] witnessed=B09:foot@age1 | truth dBall=8.3 ballV=3.4
+k20 t+36 A09 press ->(60.7,47.5) sc=0.71 | seen:dBall=14.1 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B09] witnessed=B09:foot@age1 | truth dBall=14.0 ballV=3.4
+k20 t+36 B01 advance_support ->(84.1,24.6) sc=0.67 | seen:dBall=36.8 ballAge=0 velKnown=false holder=- nearF=[B09] nearE=[] witnessed=B09:foot@age1 | truth dBall=36.8 ballV=3.4
+k20 t+36 B09 dribble ->(53.6,48.0) sc=1.15 | seen:dBall=0.5 ballAge=0 velKnown=false holder=- nearF=[] nearE=[] witnessed=B09:foot@age1 | truth dBall=0.5 ballV=3.4
+k20 t+36 EVENT contact B09 team=B ctrl=true ball=(60.6,47.5) v=3.7
+k20 t+36 EVENT contact B09 team=B ctrl=true ball=(60.5,47.4) v=3.7
+k20 t+36 EVENT contact B09 team=B ctrl=true ball=(60.5,47.4) v=3.7
+k20 t+36 EVENT contact B09 team=B ctrl=true ball=(60.5,47.4) v=3.7
+k20 t+36 EVENT contact B09 team=B ctrl=true ball=(60.6,47.3) v=3.7
+k20 t+40 A07 press ->(60.5,46.7) sc=1.45 | seen:dBall=7.8 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B09] witnessed=B09:body@age4 | truth dBall=7.8 ballV=3.5
+k20 t+40 A09 press ->(60.5,46.8) sc=0.69 | seen:dBall=14.5 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B09] witnessed=B09:body@age4 | truth dBall=14.6 ballV=3.5
+k20 t+40 B01 advance_support ->(84.1,24.5) sc=0.67 | seen:dBall=37.1 ballAge=0 velKnown=false holder=- nearF=[B09] nearE=[] witnessed=B09:body@age4 | truth dBall=37.2 ballV=3.5
+k20 t+40 B09 dribble ->(53.5,47.3) sc=1.15 | seen:dBall=0.6 ballAge=0 velKnown=false holder=- nearF=[] nearE=[] witnessed=B09:body@age4 | truth dBall=0.5 ballV=3.5
+k20 t+42 EVENT kick:dribble B09 team=B ctrl=true ball=(60.6,46.4) v=5.5
+k20 t+42 EVENT contact B09 team=B ctrl=true ball=(60.4,46.4) v=3.1
+k20 t+42 EVENT contact B09 team=B ctrl=true ball=(60.4,46.4) v=2.8
+k20 t+44 A07 press ->(60.4,46.3) sc=1.47 | seen:dBall=7.4 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B09] witnessed=B09:body@age2 | truth dBall=7.4 ballV=2.8
+k20 t+44 A09 press ->(60.4,46.2) sc=0.68 | seen:dBall=14.7 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B09] witnessed=B09:body@age2 | truth dBall=14.6 ballV=2.8
+k20 t+44 B01 advance_support ->(83.9,24.4) sc=0.67 | seen:dBall=37.7 ballAge=0 velKnown=false holder=- nearF=[B09] nearE=[] witnessed=B09:body@age2 | truth dBall=37.8 ballV=2.8
+k20 t+44 B09 dribble ->(53.3,46.8) sc=1.13 | seen:dBall=0.6 ballAge=0 velKnown=false holder=- nearF=[] nearE=[] witnessed=B09:body@age2 | truth dBall=0.5 ballV=2.8
+k20 t+48 A07 press ->(59.2,44.4) sc=1.50 | seen:dBall=6.8 ballAge=0 velKnown=true holder=- nearF=[] nearE=[B09] witnessed=B09:body@age6 | truth dBall=6.8 ballV=2.6
+k20 t+48 A09 press ->(57.2,43.6) sc=0.70 | seen:dBall=14.3 ballAge=0 velKnown=true holder=- nearF=[] nearE=[B09] witnessed=B09:body@age6 | truth dBall=14.4 ballV=2.6
+k20 t+48 B01 advance_support ->(83.7,24.4) sc=0.67 | seen:dBall=38.1 ballAge=0 velKnown=true holder=- nearF=[B09] nearE=[] witnessed=B09:body@age6 | truth dBall=38.1 ballV=2.6
+k20 t+48 B09 dribble ->(54.2,50.6) sc=1.10 | seen:dBall=0.7 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:body@age6 | truth dBall=0.6 ballV=2.6
+k20 t+49 EVENT kick:dribble B09 team=B ctrl=true ball=(60.0,45.7) v=5.2
+k20 t+50 EVENT contact B09 team=B ctrl=true ball=(59.5,45.8) v=3.4
+k20 t+52 A07 press ->(59.3,45.7) sc=1.51 | seen:dBall=6.5 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B09] witnessed=B09:body@age2 | truth dBall=6.5 ballV=3.3
+k20 t+52 A09 press ->(59.2,45.8) sc=0.75 | seen:dBall=13.3 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B09] witnessed=B09:body@age2 | truth dBall=13.4 ballV=3.3
+k20 t+52 B01 advance_support ->(83.2,24.3) sc=0.67 | seen:dBall=38.9 ballAge=0 velKnown=false holder=- nearF=[B09] nearE=[] witnessed=B09:body@age2 | truth dBall=38.9 ballV=3.3
+k20 t+52 B09 dribble ->(53.6,50.4) sc=1.07 | seen:dBall=0.6 ballAge=0 velKnown=false holder=- nearF=[] nearE=[] witnessed=B09:body@age2 | truth dBall=0.5 ballV=3.3
+k20 t+56 A07 press ->(56.6,44.7) sc=1.32 | seen:dBall=5.9 ballAge=0 velKnown=true holder=- nearF=[] nearE=[B09] witnessed=B09:body@age6 | truth dBall=5.9 ballV=3.1
+k20 t+56 A09 press ->(55.4,43.6) sc=0.79 | seen:dBall=12.4 ballAge=0 velKnown=true holder=- nearF=[] nearE=[B09] witnessed=B09:body@age6 | truth dBall=12.3 ballV=3.1
+k20 t+56 B01 advance_support ->(82.9,24.3) sc=0.67 | seen:dBall=39.3 ballAge=0 velKnown=true holder=- nearF=[B09] nearE=[] witnessed=B09:body@age6 | truth dBall=39.3 ballV=3.1
+k20 t+56 B09 pass ->(53.5,37.6) sc=1.03 | seen:dBall=0.8 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:body@age6 | truth dBall=0.7 ballV=3.1
+k20 t+56 EVENT kick:dribble B09 team=B ctrl=true ball=(58.7,45.6) v=5.4
+k20 t+57 EVENT contact B09 team=B ctrl=true ball=(58.4,45.9) v=3.7
+k20 t+60 A07 press ->(58.0,45.9) sc=1.33 | seen:dBall=5.8 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B09] witnessed=B09:body@age3 | truth dBall=5.9 ballV=3.5
+k20 t+60 A09 press ->(57.9,46.1) sc=0.89 | seen:dBall=10.4 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B09] witnessed=B09:body@age3 | truth dBall=10.5 ballV=3.5
+k20 t+60 B01 advance_support ->(82.5,24.4) sc=0.67 | seen:dBall=39.8 ballAge=0 velKnown=false holder=- nearF=[B09] nearE=[] witnessed=B09:body@age3 | truth dBall=39.9 ballV=3.5
+k20 t+60 B09 pass ->(51.6,37.0) sc=1.11 | seen:dBall=0.4 ballAge=0 velKnown=false holder=- nearF=[] nearE=[] witnessed=B09:body@age3 | truth dBall=0.5 ballV=3.5
+k20 t+63 EVENT kick:pass B09 team=B ctrl=true ball=(57.5,46.2) v=10.8
+k20 t+64 A07 press ->(57.2,45.7) sc=1.35 | seen:dBall=5.4 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B09] witnessed=B09:foot@age1 | truth dBall=5.4 ballV=10.8
+k20 t+64 A09 press ->(57.2,45.8) sc=0.95 | seen:dBall=9.1 ballAge=0 velKnown=false holder=- nearF=[] nearE=[B09] witnessed=B09:foot@age1 | truth dBall=9.3 ballV=10.8
+k20 t+64 B01 advance_support ->(82.0,24.3) sc=0.67 | seen:dBall=39.8 ballAge=0 velKnown=false holder=- nearF=[B09] nearE=[] witnessed=B09:foot@age1 | truth dBall=39.9 ballV=10.8
+k20 t+64 B09 intercept ->(57.3,45.7) sc=1.76 | seen:dBall=1.3 ballAge=0 velKnown=false holder=- nearF=[] nearE=[] witnessed=B09:foot@age1 | truth dBall=1.3 ballV=10.8
+k20 t+68 A07 receive ->(47.5,28.8) sc=1.58 | seen:dBall=5.1 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age5 | truth dBall=5.1 ballV=10.5
+k20 t+68 A09 receive ->(48.3,27.8) sc=0.93 | seen:dBall=9.6 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age5 | truth dBall=9.6 ballV=10.5
+k20 t+68 B01 cover ->(89.8,26.5) sc=0.65 | seen:dBall=39.0 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age5 | truth dBall=39.0 ballV=10.5
+k20 t+68 B09 receive ->(46.7,29.0) sc=1.66 | seen:dBall=3.5 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age5 | truth dBall=3.5 ballV=10.5
+k20 t+72 A07 receive ->(47.2,27.9) sc=1.53 | seen:dBall=6.1 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age9 | truth dBall=6.1 ballV=10.2
+k20 t+72 A09 receive ->(46.2,27.1) sc=0.90 | seen:dBall=10.1 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age9 | truth dBall=10.1 ballV=10.2
+k20 t+72 B01 cover ->(89.3,25.8) sc=0.65 | seen:dBall=38.0 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age9 | truth dBall=38.0 ballV=10.2
+k20 t+72 B09 receive ->(47.4,25.7) sc=1.55 | seen:dBall=5.7 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age9 | truth dBall=5.5 ballV=10.2
+k20 t+76 A07 receive ->(45.9,25.1) sc=1.45 | seen:dBall=7.8 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age13 | truth dBall=7.8 ballV=9.9
+k20 t+76 A09 receive ->(45.8,24.6) sc=0.87 | seen:dBall=10.7 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age13 | truth dBall=10.6 ballV=9.9
+k20 t+76 B01 cover ->(88.9,25.2) sc=0.65 | seen:dBall=37.2 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age13 | truth dBall=37.3 ballV=9.9
+k20 t+76 B09 receive ->(46.5,25.7) sc=1.47 | seen:dBall=7.4 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age13 | truth dBall=7.3 ballV=9.9
+k20 t+80 A07 receive ->(46.2,23.9) sc=1.37 | seen:dBall=9.5 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age17 | truth dBall=9.5 ballV=9.7
+k20 t+80 A09 receive ->(46.5,26.4) sc=1.29 | seen:dBall=11.0 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age17 | truth dBall=11.1 ballV=9.7
+k20 t+80 B01 cover ->(88.3,24.6) sc=0.65 | seen:dBall=36.9 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age17 | truth dBall=36.7 ballV=9.7
+k20 t+80 B09 receive ->(44.1,25.8) sc=1.19 | seen:dBall=8.7 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age17 | truth dBall=8.7 ballV=9.7
+k20 t+84 A07 receive ->(43.8,23.1) sc=1.29 | seen:dBall=11.2 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age21 | truth dBall=11.1 ballV=9.4
+k20 t+84 A09 receive ->(44.0,23.0) sc=1.26 | seen:dBall=11.7 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age21 | truth dBall=11.8 ballV=9.4
+k20 t+84 B01 cover ->(88.0,24.0) sc=0.65 | seen:dBall=36.4 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age21 | truth dBall=36.5 ballV=9.4
+k20 t+84 B09 receive ->(46.1,23.7) sc=1.14 | seen:dBall=9.8 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age21 | truth dBall=9.9 ballV=9.4
+k20 t+88 A07 receive ->(43.7,22.4) sc=1.22 | seen:dBall=12.5 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age25 | truth dBall=12.4 ballV=9.1
+k20 t+88 A09 receive ->(45.2,22.4) sc=1.23 | seen:dBall=12.4 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age25 | truth dBall=12.5 ballV=9.1
+k20 t+88 B01 cover ->(87.5,23.4) sc=0.65 | seen:dBall=36.7 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age25 | truth dBall=36.7 ballV=9.1
+k20 t+88 B09 receive ->(44.5,21.8) sc=1.09 | seen:dBall=10.6 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age25 | truth dBall=10.7 ballV=9.1
+k20 t+92 A07 receive ->(44.9,21.3) sc=1.18 | seen:dBall=13.5 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age29 | truth dBall=13.5 ballV=8.9
+k20 t+92 A09 receive ->(41.9,21.2) sc=1.19 | seen:dBall=13.2 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age29 | truth dBall=13.3 ballV=8.9
+k20 t+92 B01 cover ->(87.0,22.9) sc=0.65 | seen:dBall=37.2 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age29 | truth dBall=37.1 ballV=8.9
+k20 t+92 B09 receive ->(43.0,20.1) sc=1.06 | seen:dBall=11.3 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age29 | truth dBall=11.3 ballV=8.9
+k20 t+96 A07 receive ->(42.0,19.0) sc=1.13 | seen:dBall=14.4 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age33 | truth dBall=14.3 ballV=8.6
+k20 t+96 A09 receive ->(43.7,17.8) sc=1.14 | seen:dBall=14.2 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age33 | truth dBall=14.1 ballV=8.6
+k20 t+96 B01 cover ->(86.6,22.3) sc=0.65 | seen:dBall=37.9 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age33 | truth dBall=37.8 ballV=8.6
+k20 t+96 B09 receive ->(42.7,21.1) sc=1.05 | seen:dBall=11.5 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age33 | truth dBall=11.7 ballV=8.6
+k20 t+100 A07 receive ->(41.8,18.4) sc=1.11 | seen:dBall=14.9 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age37 | truth dBall=14.9 ballV=8.3
+k20 t+100 A09 receive ->(42.8,20.3) sc=1.12 | seen:dBall=14.6 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age37 | truth dBall=14.7 ballV=8.3
+k20 t+100 B01 cover ->(86.3,21.9) sc=0.65 | seen:dBall=38.5 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age37 | truth dBall=38.5 ballV=8.3
+k20 t+100 B09 receive ->(41.0,17.2) sc=1.03 | seen:dBall=12.0 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age37 | truth dBall=12.0 ballV=8.3
+k20 t+104 A07 receive ->(42.2,17.7) sc=1.10 | seen:dBall=15.1 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age41 | truth dBall=15.1 ballV=8.1
+k20 t+104 A09 receive ->(40.7,16.2) sc=1.10 | seen:dBall=15.1 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age41 | truth dBall=15.1 ballV=8.1
+k20 t+104 B01 cover ->(85.9,21.4) sc=0.65 | seen:dBall=39.2 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age41 | truth dBall=39.2 ballV=8.1
+k20 t+104 B09 receive ->(41.7,18.9) sc=1.02 | seen:dBall=12.1 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age41 | truth dBall=12.2 ballV=8.1
+k20 t+108 A07 receive ->(40.9,17.0) sc=0.87 | seen:dBall=15.2 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age45 | truth dBall=15.3 ballV=7.8
+k20 t+108 A09 receive ->(41.0,15.9) sc=0.87 | seen:dBall=15.3 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age45 | truth dBall=15.2 ballV=7.8
+k20 t+108 B01 cover ->(85.5,20.9) sc=0.65 | seen:dBall=39.7 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age45 | truth dBall=39.7 ballV=7.8
+k20 t+108 B09 receive ->(41.1,16.1) sc=1.01 | seen:dBall=12.4 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age45 | truth dBall=12.4 ballV=7.8
+k20 t+112 A07 receive ->(39.4,15.4) sc=0.87 | seen:dBall=15.4 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age49 | truth dBall=15.4 ballV=7.6
+k20 t+112 A09 receive ->(41.1,15.2) sc=0.86 | seen:dBall=15.5 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age49 | truth dBall=15.4 ballV=7.6
+k20 t+112 B01 cover ->(85.1,20.4) sc=0.65 | seen:dBall=40.1 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age49 | truth dBall=40.0 ballV=7.6
+k20 t+112 B09 receive ->(40.7,15.0) sc=1.00 | seen:dBall=12.6 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age49 | truth dBall=12.6 ballV=7.6
+k20 t+116 A07 receive ->(40.2,14.4) sc=0.86 | seen:dBall=15.4 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age53 | truth dBall=15.4 ballV=7.3
+k20 t+116 A09 receive ->(38.6,16.3) sc=0.86 | seen:dBall=15.4 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age53 | truth dBall=15.5 ballV=7.3
+k20 t+116 B01 cover ->(84.8,20.0) sc=0.65 | seen:dBall=40.3 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age53 | truth dBall=40.2 ballV=7.3
+k20 t+116 B09 receive ->(39.3,14.7) sc=0.99 | seen:dBall=12.7 ballAge=0 velKnown=true holder=- nearF=[] nearE=[] witnessed=B09:foot@age53 | truth dBall=12.7 ballV=7.3

@@ -1,0 +1,26 @@
+Alterations in the first decision cycle (+0..+3), by K20 judgement vs the next actual controlling team:
+  ('BK', 'K20 says not-ours; next control=opp') 38
+  ('BK', 'K20 says not-ours; next control=own') 105
+  ('BK', 'other-direction:cover_exchange->cover') 1
+  ('KB', 'K20 says not-ours; next control=none') 8
+  ('KB', 'K20 says not-ours; next control=opp') 19
+  ('KB', 'K20 says not-ours; next control=own') 64
+Witness age of those alterations:
+  ('BK', 'age>40') 40
+  ('BK', 'no witness') 3
+  ('BK', 'witness age 21-40') 51
+  ('BK', 'witness age<=20') 49
+  ('KB', 'age>40') 47
+  ('KB', 'no witness') 3
+  ('KB', 'witness age 21-40') 21
+  ('KB', 'witness age<=20') 20
+Distance to ball:
+  ('BK', '5-15') 18
+  ('BK', '>15m') 119
+  ('BK', 'selfD<=5') 6
+  ('KB', '5-15') 19
+  ('KB', '>15m') 71
+  ('KB', 'selfD<=5') 1
+Cases: (first-cycle alterations, later alterations before first ball-event difference)
+ BK [(8, 8), (8, 0), (9, 18), (8, 8), (5, 0), (4, 0), (9, 10), (9, 8), (8, 0), (6, 30), (9, 19), (6, 5), (8, 7), (6, 1), (1, 6), (8, 7), (5, 9), (9, 0), (9, 0), (9, 0)]
+ KB [(9, 0), (9, 16), (6, 1), (6, 1), (6, 0), (8, 9), (8, 0), (7, 0), (5, 0), (7, 0), (6, 0), (7, 0), (7, 0)]

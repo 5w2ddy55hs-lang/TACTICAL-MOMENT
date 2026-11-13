@@ -1,0 +1,2718 @@
+[
+{
+"case": "F_771_3051",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_3969",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": false,
+"altsAny": 16,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_4610",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 12,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_4657",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 7,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_5028",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 6,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_5565",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": true,
+"altsAny": 11,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 2,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_5769",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 13,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_6397",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": true,
+"altsAny": 25,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 2,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_7326",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 24,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 2,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_7706",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 5,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_12773",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": true,
+"altsAny": 23,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 2,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_17179",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 7,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_17945",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": false,
+"altsAny": 16,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_18956",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": false,
+"altsAny": 27,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": null
+}
+},
+{
+"case": "F_771_22766",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 17,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_22900",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": false,
+"altsAny": 16,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_23341",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": false,
+"altsAny": 5,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_24123",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": false,
+"altsAny": 4,
+"altsFirstCycle": 4,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_25813",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 4,
+"altsFirstCycle": 4,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_26257",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 9,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_26396",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_26646",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": false,
+"altsAny": 21,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_29267",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_29417",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 15,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_29719",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 10,
+"altsFirstCycle": 10,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_29901",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 17,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_31219",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 15,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_32052",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 5,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_32644",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 28,
+"altsFirstCycle": 4,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_33716",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 6,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_34678",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 9,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_35759",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 27,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_36731",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 16,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_37012",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 21,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_37741",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 8,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_39298",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 3,
+"altsFirstCycle": 3,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_39552",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 14,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_40974",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_44317",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": false,
+"altsAny": 17,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_48514",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 11,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_49303",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": true,
+"altsAny": 15,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_49487",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 14,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_50543",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_52257",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 6,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_52405",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_54256",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 10,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_57916",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_59094",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 16,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_60417",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 27,
+"altsFirstCycle": 4,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_60869",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 23,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 2,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": null
+}
+},
+{
+"case": "F_771_64725",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 16,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_64850",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 11,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_64955",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 6,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_65334",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 10,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_65438",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 4,
+"altsFirstCycle": 3,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_65794",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_66142",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_67100",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 26,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": null,
+"k20": "A"
+}
+},
+{
+"case": "F_771_69176",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 8,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_69388",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 5,
+"altsFirstCycle": 4,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_71170",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": true,
+"altsAny": 7,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_71558",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_71726",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 14,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_71838",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 16,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_73321",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 27,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_73760",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 7,
+"altsFirstCycle": 3,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_74026",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 5,
+"altsFirstCycle": 1,
+"altNearBall<=5m": 3,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_74550",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_74690",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 1,
+"altsFirstCycle": 1,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_74943",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 65,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 3,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_75245",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 16,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_79330",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 1,
+"altsFirstCycle": 1,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_80332",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 22,
+"altsFirstCycle": 1,
+"altNearBall<=5m": 5,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_80374",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 22,
+"altsFirstCycle": 3,
+"altNearBall<=5m": 5,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "A"
+}
+},
+{
+"case": "F_771_80843",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 1,
+"altsFirstCycle": 1,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_82071",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": true,
+"altsAny": 23,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": null,
+"k20": "A"
+}
+},
+{
+"case": "F_771_83031",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 5,
+"altsFirstCycle": 4,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_83621",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 26,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_84823",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": true,
+"altsAny": 16,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_87760",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 7,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_89958",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 33,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 8,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_90050",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": false,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 3,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_90294",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 11,
+"altsFirstCycle": 1,
+"altNearBall<=5m": 2,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_91514",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_91699",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 2,
+"altsFirstCycle": 1,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_91850",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 13,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 3,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_91939",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 2,
+"altsFirstCycle": 1,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_92656",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 12,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_92766",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 6,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_92913",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_94486",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 19,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_94969",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 14,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_95085",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 9,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_95666",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 1,
+"altsFirstCycle": 1,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_95740",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 6,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_97581",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 11,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_98263",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 37,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 4,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_99213",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 15,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_99844",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_101884",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 11,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_771_103414",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": true,
+"altsAny": 8,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 2,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_105082",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": false,
+"altsAny": 47,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_771_105222",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_106018",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 16,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_106365",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_771_106523",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 2,
+"altsFirstCycle": 1,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_84",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 5,
+"altsFirstCycle": 2,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_704",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 10,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_1496",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": false,
+"altsAny": 31,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_2310",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 15,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_2862",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 25,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_31337_3163",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 6,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_4021",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 8,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_4177",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 17,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_4788",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": false,
+"altsAny": 87,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 12,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_5044",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 5,
+"altsFirstCycle": 4,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_6859",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 21,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 5,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_8434",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 8,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_8700",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 37,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 2,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_10156",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": false,
+"altsAny": 28,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_11324",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 11,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_11544",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": true,
+"altsAny": 14,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_14279",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 11,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_31337_18597",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_31337_21988",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_22728",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 18,
+"altsFirstCycle": 3,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_24069",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 8,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_25888",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 7,
+"altsFirstCycle": 2,
+"altNearBall<=5m": 2,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_26339",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 6,
+"altsFirstCycle": 2,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_27671",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_31337_27910",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 12,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_28282",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_31337_28520",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": true,
+"altsAny": 8,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_29970",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 12,
+"altsFirstCycle": 10,
+"altNearBall<=5m": 2,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_33171",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 24,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_33827",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 23,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_33939",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 31,
+"altsFirstCycle": 3,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_34894",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 16,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_31337_35118",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 10,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_35858",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 18,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_36500",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 18,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_41513",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 13,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_41924",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 23,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_42934",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": false,
+"altsAny": 7,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_43929",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_31337_44094",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 6,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_45548",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": true,
+"altsAny": 17,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_45905",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 9,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 4,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_47236",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 6,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_31337_48082",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 18,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_48246",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 16,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_48357",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 20,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_48474",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 5,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": null
+}
+},
+{
+"case": "F_31337_51554",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": false,
+"altsAny": 41,
+"altsFirstCycle": 1,
+"altNearBall<=5m": 9,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_52480",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 7,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_53679",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 29,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_31337_53908",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 4,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_54904",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 25,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_31337_58449",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 9,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 2,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_31337_59022",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 7,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_31337_59796",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 33,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_60421",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 23,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_60477",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 11,
+"altsFirstCycle": 3,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_62176",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 5,
+"altsFirstCycle": 1,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_62995",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 14,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_63123",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 5,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_31337_64146",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 2,
+"altsFirstCycle": 2,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_31337_64957",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 16,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_66674",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": false,
+"altsAny": 15,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_67302",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": false,
+"altsAny": 31,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_69065",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 8,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_69314",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 14,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_71407",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 4,
+"altsFirstCycle": 4,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_73494",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": true,
+"altsAny": 7,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_79751",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 11,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_80074",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 6,
+"altsFirstCycle": 4,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_81776",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 8,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_31337_83264",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": true,
+"altsAny": 9,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 2,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_86781",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": false,
+"altsAny": 9,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_89736",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": false,
+"altsAny": 12,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_91166",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 8,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_31337_93689",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 10,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_94240",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 56,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 6,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_94573",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 1,
+"altsFirstCycle": 1,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_95111",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 16,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_95471",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 9,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 1,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_96671",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": false,
+"altsAny": 9,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_97166",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 11,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_97768",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 13,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "A",
+"k20": "A"
+}
+},
+{
+"case": "F_31337_99423",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 20,
+"altsFirstCycle": 8,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "A",
+"k20": null
+}
+},
+{
+"case": "F_31337_104584",
+"team": "A",
+"baseKeeps": true,
+"k20Keeps": false,
+"altsAny": 24,
+"altsFirstCycle": 9,
+"altNearBall<=5m": 5,
+"ballEventsDiffer": true,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_105453",
+"team": "B",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 6,
+"altsFirstCycle": 6,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+},
+{
+"case": "F_31337_105962",
+"team": "A",
+"baseKeeps": false,
+"k20Keeps": false,
+"altsAny": 5,
+"altsFirstCycle": 5,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": null,
+"k20": null
+}
+},
+{
+"case": "F_31337_106214",
+"team": "B",
+"baseKeeps": true,
+"k20Keeps": true,
+"altsAny": 8,
+"altsFirstCycle": 7,
+"altNearBall<=5m": 0,
+"ballEventsDiffer": false,
+"firstCtrlTeam": {
+"base": "B",
+"k20": "B"
+}
+}
+]

@@ -1,0 +1,34 @@
+save_72000.json  (original: runs_l21/l21_31337/save_72000.json, copied byte-for-byte)
+SHA-256: 0196e9885c3b97b28be3a47dd324c55f32a8746ed37f448ff4f8edb520b2063e
+size: 2065608 bytes
+
+What it is
+  L21 research save (NOT adopted). Outer identity:
+    schema      TM_RESEARCH_L21_EVIDENT_COLLECTOR_SAVE/1
+    engine      TM_RESEARCH_L21_EVIDENT_COLLECTOR_ON_I8_STANDARD
+    buildSha256 df3c076d952fd590b648a207f38fc2e33e791a945476d09963e8db68b8d545e2
+  The I17 standard engine rejects it (PASS_PRINCIPLES_SAVE_IDENTITY). Restore with the L21 research branch
+  (rebuild it against your own I17 extraction with build_l21.py: research branches import unchanged modules by
+  absolute file:// paths of the machine that built them).
+
+How it was written
+  recorder rec_any.mjs, variant branch:<L21 branch>, seed 31337, save() every 6000 ticks from kickoff.
+  written 2026-11-12 22:08 (container clock) in this research session's container.
+  Node/OS versions at recording time were not logged. Kernel string at session start: 6.18.44-fc-v378.
+
+Active config (meta_l21_31337.json, activeConfig)
+  halfTicks 54000, perceptionError true, kickoffTeam A, refereeReviewAdvantage false,
+  zonalDefence false, zonalDefenceSide both, fiveLaneBoundaries [0,13.6,27.2,40.8,54.4,68]; passPrinciples default (true)
+
+Current environment (all N23 checks)
+  node v22.23.4
+  Linux 6.18.44-fc-v445 x86_64
+  PRETTY_NAME="Ubuntu 24.04.5 LTS"
+
+Checks (N23)
+  - fresh L21 run from seed 31337 with save every 6000 ticks regenerates a byte-identical save_72000 (same SHA-256)
+  - save()/physicalSnapshot() have no side effects: 3 regimes give identical stateHash at every 6000-tick checkpoint,
+    final b5b5313279fcf987
+  - restore at 72000 -> hash 0a61858fc21e4b96 (= fresh run), all later checkpoints and final equal
+  - restore + step to each M22 opportunity with t>=72000 (35): stateHash equal to the fresh-run manifest for all 35,
+    yield (L21 vs K20 decision on the identical DTO) reproduced for all 35 (eval/from72000_check.json)

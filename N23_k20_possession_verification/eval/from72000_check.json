@@ -1,0 +1,220 @@
+{
+ "save": "save_72000.json",
+ "restoredTick": 72000,
+ "restoredHash": "0a61858fc21e4b96",
+ "opportunities": 35,
+ "allStateHashEqual": true,
+ "allYieldReproduced": true,
+ "rows": [
+  {
+   "t": 72333,
+   "label": "velunknown:B07",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 73494,
+   "label": "fastyield:B06",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 73878,
+   "label": "velunknown:B07",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 77232,
+   "label": "velunknown:B08",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 79294,
+   "label": "velunknown:A06",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 79751,
+   "label": "fastyield:B01",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 80074,
+   "label": "fastyield:B07",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 81776,
+   "label": "fastyield:B04",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 83264,
+   "label": "fastyield:B05",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 84886,
+   "label": "velunknown:A01",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 86781,
+   "label": "fastyield:B03",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 88206,
+   "label": "velunknown:B06",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 89736,
+   "label": "fastyield:B03",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 89815,
+   "label": "velunknown:B01",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 91166,
+   "label": "fastyield:B01",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 92353,
+   "label": "velunknown:A10",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 93689,
+   "label": "fastyield:B09",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 94240,
+   "label": "fastyield:A05",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 94573,
+   "label": "fastyield:B04",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 95079,
+   "label": "velunknown:A06",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 95111,
+   "label": "fastyield:A06",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 95471,
+   "label": "fastyield:A10",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 95493,
+   "label": "velunknown:B08",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 96671,
+   "label": "fastyield:A08",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 96831,
+   "label": "velunknown:A08",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 97166,
+   "label": "fastyield:B03",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 97768,
+   "label": "fastyield:A07",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 98326,
+   "label": "velunknown:A10",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 99423,
+   "label": "fastyield:A09",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 100979,
+   "label": "velunknown:B10",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 104584,
+   "label": "fastyield:A05",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 105453,
+   "label": "fastyield:B02",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 105962,
+   "label": "fastyield:A09",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 106214,
+   "label": "fastyield:B06",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  },
+  {
+   "t": 107231,
+   "label": "velunknown:B01",
+   "stateHashEqual": true,
+   "yieldReproduced": true
+  }
+ ]
+}

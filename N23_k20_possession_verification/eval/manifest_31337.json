@@ -1,0 +1,3809 @@
+{
+ "engine": "L21 (research, not adopted)",
+ "seed": 31337,
+ "node": "v22.23.4",
+ "platform": "linux x64",
+ "count": 129,
+ "yieldReproducedAll": true,
+ "rows": [
+  {
+   "t": 84,
+   "team": "B",
+   "label": "fastyield:B06",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "b1052de2e283609b",
+   "saveSha256": "3c5267aad99425454f524344a691c6838feed26437891ea0ec8880b2e0668bd4",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      64.77484636901059,
+      11.475887080873402
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      48.71941224376988,
+      0.3
+     ],
+     "score": 1.2277074965267223
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "0c60ff22a73854ed2ff127d77c4a2cdd62326de1607517650301ebe5fa737b4b"
+   }
+  },
+  {
+   "t": 704,
+   "team": "B",
+   "label": "fastyield:B07",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "f52b21b1c3512200",
+   "saveSha256": "d7a487136d9f3a1340b0a3305a5e8bab1711c39687f5b27c0a2eb7b3a9a8bee5",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      64.6130151017933,
+      56.95069457388796
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      48.34332530696075,
+      67.7
+     ],
+     "score": 1.228642385664248
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "71f9d9bd6d5d4bce5b47209541475e028e343965a63dc167f3aa832c31757c5c"
+   }
+  },
+  {
+   "t": 1306,
+   "team": "A",
+   "label": "velunknown:A08",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "5c7b868e49b854ef",
+   "saveSha256": "71fe58846137e9ca2d98dd28de348758a3a9c1bb08f86c6543f505554640d8b9",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      61.26011055490355,
+      3
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      75.95856365604905,
+      6.147215903181617
+     ],
+     "score": 1.3941488612129158
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "fe8ef4a2fec406ab00ecb0bd8ab9b2439e51214c87a1fc06d1f45ca07b72124d"
+   }
+  },
+  {
+   "t": 1496,
+   "team": "A",
+   "label": "fastyield:A09",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "75d33669171b42f2",
+   "saveSha256": "c6d91c3ddc9ce6799d69ab78742427c79a93fbf3c23e3e8f6a2e3d8b658da110",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      48.4549355096869,
+      62.073023094393776
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      46.95056419479266,
+      26.051098833432565
+     ],
+     "score": 0.8386861290888621
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "d32388d3f567304411d270a58a5e2e73c9bf3b91e2ee9c4aeacdab1ba7c5b3e2"
+   }
+  },
+  {
+   "t": 2310,
+   "team": "A",
+   "label": "fastyield:A06",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "dcec658619cb6279",
+   "saveSha256": "cbb106dc92827673a82ca1094c4c9d94a28cb5beb6209e2019d68cd77abf1cb5",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      44.0211478758127,
+      10.480382397389064
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      59.525441705857865,
+      0.3
+     ],
+     "score": 1.1632294076983727
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "50f0b6e4c5d16c8cb64f9d88ac6db74da94a9bf45e959ee9ef1d80c5c1413092"
+   }
+  },
+  {
+   "t": 2862,
+   "team": "A",
+   "label": "fastyield:A06",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "544b079f58602e76",
+   "saveSha256": "c4c27da0dc8d13656f1fe9dda982816a6d3bed3f99fb6c0ba1589c8f656a9bc1",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      46.52410587193008,
+      13.005718894857136
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      71.73939436797141,
+      0.3
+     ],
+     "score": 1.0296656041881191
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "a51abe55624447e3502a5d3a7eb259585809eb1fb3e336e19d9f271fca8b9748"
+   }
+  },
+  {
+   "t": 3163,
+   "team": "A",
+   "label": "fastyield:A10",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "fc2aaf051943534a",
+   "saveSha256": "ecf1fefbe6beb4432fed25151eee2f9790d632a73b20b3f9f29bb58635be3311",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      73.88625764888783,
+      33.83043181167188
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      74.21271379888341,
+      15.315255108629444
+     ],
+     "score": 1.321749840473446
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "6dcee039b483e5827afb4357097d332eb2becf16874443a34da9355f1df0987f"
+   }
+  },
+  {
+   "t": 4021,
+   "team": "A",
+   "label": "fastyield:A09",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "56474a132f8d3cc4",
+   "saveSha256": "c3892f5e4433ac721b6e90fe6a0036513a3ad72dedab37a0de978ad16bda73aa",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      55.660198935785814,
+      63.36425945329907
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      47.40094171245141,
+      38.90376461185306
+     ],
+     "score": 1.2283786646440555
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "6bc8189e8efd000b0d2f2f7ec4813b6a97862be43c647459ada9717f99265124"
+   }
+  },
+  {
+   "t": 4177,
+   "team": "B",
+   "label": "fastyield:B07",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "13567499f24b222e",
+   "saveSha256": "ef3465a582446765617240cd6d7e80a0893be6952faf749a32a19dd5d57b0c79",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      61.01441462968069,
+      57.10459806355715
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      45.72963100009369,
+      67.7
+     ],
+     "score": 1.244294717445562
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "3f9eab53088f5199aa29358d6cee4147d5cdf41f59d68253985b95445bcb7a55"
+   }
+  },
+  {
+   "t": 4628,
+   "team": "A",
+   "label": "velunknown:A04",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "f03e2a53a74bd162",
+   "saveSha256": "d7cdb9abadd0d2fb124d3769934254526327bf5c2f783a2090dbdcfc56e0ea4a",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      14.650505764343823,
+      65
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      37.1885536757163,
+      52.536018749461206
+     ],
+     "score": 1.6986362648745024
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "49032a43b95022ef2b8a791dcb34ed31ee3e7aeb8bae3b29155e7bfdc2a08dd6"
+   }
+  },
+  {
+   "t": 4788,
+   "team": "A",
+   "label": "fastyield:A06",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "b4a8b545b5a196da",
+   "saveSha256": "02fe4817d800f005a4b49daf74b7aaf52c4be30ab748ad9f4ab2dd3543b7abfc",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      36.817509543207095,
+      14.420455751614137
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      48.6089781896788,
+      36.61461787875734
+     ],
+     "score": 0.7682371898660989
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "f262d997afa682fd284ba1db97525c272413c6d5426936c82b0f3c53869f81b3"
+   }
+  },
+  {
+   "t": 4848,
+   "team": "A",
+   "label": "velunknown:A09",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "1f82075a7171af9f",
+   "saveSha256": "aa20d74831968664395da963db456c350978394d5be9adf8baac805e8c7d526e",
+   "decision": {
+    "l21": {
+     "kind": "pass",
+     "target": [
+      26.776647585925097,
+      31.057934034735332
+     ],
+     "score": 0.7370094783454786,
+     "reason": "remembered_outlet_lane"
+    },
+    "k20": {
+     "kind": "dribble",
+     "target": [
+      47.64651200003238,
+      31.466606880671357
+     ],
+     "score": 0.676688768085292
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "c73b5c3fdb4f101978f5f1ea463d5541848436afd49216f6e9b25f88324f00d0"
+   }
+  },
+  {
+   "t": 5044,
+   "team": "B",
+   "label": "fastyield:B07",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "8c4a741c5ad52dd7",
+   "saveSha256": "ec3b26708b3e03bc4284c161ae642f04f1075480d714b4c94f66a1e68757256b",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      53.25847477409742,
+      53.57400934622492
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      43.8083786371987,
+      35.08777745323424
+     ],
+     "score": 1.3171870895335642
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "236c206fb851ce2b8338d7a5e5079e592a51988e09c904b13d9a03e33d3ad263"
+   }
+  },
+  {
+   "t": 6390,
+   "team": "A",
+   "label": "velunknown:A08",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "37627500d1532df3",
+   "saveSha256": "1861ba0b3beece0990e8c4c440b47fb36017ebbfbc8ddd560f54b100f081f7b5",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      62.46198542547144,
+      8.948636720763824
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      78.46246963639884,
+      30.99610491646807
+     ],
+     "score": 1.7285345800555618
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "25239b437934f255dd0b225c08b63386ccbbe0dad29f69c20499546e798a031b"
+   }
+  },
+  {
+   "t": 6859,
+   "team": "A",
+   "label": "fastyield:A10",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "f1bec290f388e683",
+   "saveSha256": "0fc63bb34eb87538bb4e90d589cbebe979f233feeb958f9cec0eb27e98ea2244",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      60.80209004065529,
+      23.77153209577478
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      51.123170141190144,
+      0.3
+     ],
+     "score": 0.744076935481639
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "b5e8f08222465cdfa78cb242012b03bf4b3abecedf6d3087569426fdda5613ad"
+   }
+  },
+  {
+   "t": 8254,
+   "team": "A",
+   "label": "velunknown:A10",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "fbab127087a7a6f3",
+   "saveSha256": "db747134d081e82e843923c1f734c5b3c146a09f4d9e63095d09e47e690800bd",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      78.9763909603377,
+      32.84778648545537
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      102.45081450070353,
+      30.707961387015352
+     ],
+     "score": 1.4153500444902671
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "ec2666611f3088a976f9dc0905f6c4de788d6a9b2c02622f0c29d25223fb5a40"
+   }
+  },
+  {
+   "t": 8434,
+   "team": "A",
+   "label": "fastyield:A05",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "c711c8b47951a135",
+   "saveSha256": "97c083173bf1459d6b7bb3198c3b485c63ce83eb8ca529ebb629409a4c020ca5",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      27.69206105432211,
+      38.91729052998138
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      39.45223622362069,
+      66.29523001201326
+     ],
+     "score": 1.0353410485516374
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "af37ff57f8fc4f943225f6b1d6431b22c2dd1d19e9a59cc863a5cec2c67f9d7b"
+   }
+  },
+  {
+   "t": 8700,
+   "team": "A",
+   "label": "fastyield:A09",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "035f499821327e2b",
+   "saveSha256": "d837005810e67c3bd9aeed853ee9d15dd7fce6f556c846c47053a731376a1549",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      50.77220175328003,
+      62.01298658439279
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      50.93830139035383,
+      24.888543532736655
+     ],
+     "score": 0.9055837799713751
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "47be1230132d253a7cd203af684562f587f9abf69f52662f180a3a455b4aab0b"
+   }
+  },
+  {
+   "t": 9089,
+   "team": "B",
+   "label": "velunknown:B07",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "7b41e26b4a4b2ea8",
+   "saveSha256": "908c0ec3cb90d4c91442045f7437d129b7b864660257f133b3f0ee3180c97723",
+   "decision": {
+    "l21": {
+     "kind": "pass",
+     "target": [
+      53.50775182014363,
+      37.89166500306576
+     ],
+     "score": 1.2017522308542192,
+     "reason": "remembered_outlet_lane"
+    },
+    "k20": {
+     "kind": "dribble",
+     "target": [
+      55.28940505808047,
+      43.201358532683216
+     ],
+     "score": 0.6992271565712994
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "df1057a41e271c6f69f9f1453856db0de36890de2b1692ba3aefe3fc5b01d0bf"
+   }
+  },
+  {
+   "t": 9623,
+   "team": "B",
+   "label": "velunknown:B10",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "e982b0214983a692",
+   "saveSha256": "8776913af8d1aad7f4b96ca1e41363368d306ba3a37e64bd3f78848d9af8d096",
+   "decision": {
+    "l21": {
+     "kind": "pass",
+     "target": [
+      77.69003127878284,
+      56.91294773476072
+     ],
+     "score": 1.0708431762386643,
+     "reason": "remembered_outlet_lane"
+    },
+    "k20": {
+     "kind": "dribble",
+     "target": [
+      71.62670816508047,
+      57.95591198928269
+     ],
+     "score": 0.6726349372502058
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "34993212cfe5ba1d9a03bc59592fa0d1b00339ff9fd8cfd100c1fb0d9eb235bf"
+   }
+  },
+  {
+   "t": 10156,
+   "team": "B",
+   "label": "fastyield:B06",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "6a7a636faace08ac",
+   "saveSha256": "3f4a0aefbbd8a55d0fce706d167a96f377d73bdbe6b8bf166b2824d55523aa44",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      74.93918692397207,
+      18.140745342980775
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      85.28342700474197,
+      41.36652285039379
+     ],
+     "score": 0.9269718773988664
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "6cbb3b19264e48ba021d77df2e730810fea0c1aba91d27551c9e34981c22a988"
+   }
+  },
+  {
+   "t": 11324,
+   "team": "B",
+   "label": "fastyield:B07",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "c6b7889318b3f770",
+   "saveSha256": "c98e5e918fd99cf70a8f6a452ed436a327d8121001535ba52893b24275800ae4",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      65.08063276847271,
+      55.62935325275146
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      48.87263171764034,
+      67.7
+     ],
+     "score": 1.203167962441489
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "c40dbf363f60f4c1c29b433616e47cfce4c4ed1357490fde016f8f6b63996bfc"
+   }
+  },
+  {
+   "t": 11544,
+   "team": "A",
+   "label": "fastyield:A07",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "45ba78141b2083f1",
+   "saveSha256": "86c339942e82c66cc49c798da9512c2ab27549f691298fce678503f602cfe09b",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      39.551500478051025,
+      50.37687913138009
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      48.21215622358277,
+      21.32464727472307
+     ],
+     "score": 0.9564704444634422
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "c2e9d4fb381fb761eb9339b0a5749fb1f8f6bbb760262eba4bae597f33a22153"
+   }
+  },
+  {
+   "t": 14279,
+   "team": "A",
+   "label": "fastyield:A05",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "8ae16d08f43dbd5f",
+   "saveSha256": "9712a1d27ec5aaf097aec9b0c932f838a318e978932a024bbee32f38add729d1",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      28.280189816738435,
+      29.18651104335671
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      40.13626413840608,
+      1.4599717015039175
+     ],
+     "score": 0.7630348034950005
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "fc036acc58444244b325b25b6edf7f0561ef66698b1b028ed3f0facdbfeceaeb"
+   }
+  },
+  {
+   "t": 14927,
+   "team": "B",
+   "label": "velunknown:B09",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "c2f27558fe7d5205",
+   "saveSha256": "94f2a65d1a0b32382300ada14efda70c202b29548a69094ac87a209a5e73b6e1",
+   "decision": {
+    "l21": {
+     "kind": "pass",
+     "target": [
+      89.87799757979869,
+      45.50338766999537
+     ],
+     "score": 0.9096384333511081,
+     "reason": "remembered_outlet_lane"
+    },
+    "k20": {
+     "kind": "dribble",
+     "target": [
+      81.31630382391836,
+      65.96164803427277
+     ],
+     "score": 0.7052810863181327
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "a0ef45ffbaf2311578bfe9c88d6c9cf7f971d227b0fe2b10661503a343c0ba55"
+   }
+  },
+  {
+   "t": 18597,
+   "team": "A",
+   "label": "fastyield:A01",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "28ca6a3fa11f18ae",
+   "saveSha256": "ca1d403af95bf626546d756bd655106626b01c1e14a3a1b67e3a7a607b2cf6ee",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      3,
+      23.933683837752373
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      0.3,
+      30.85121080119531
+     ],
+     "score": 1.0483661913341509
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "d26f3e53d4c2fe5c5a2c3b368997d905d436c8b06f43f8fb370dd31bb6d51938"
+   }
+  },
+  {
+   "t": 21544,
+   "team": "B",
+   "label": "velunknown:B05",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "b99decc26b684529",
+   "saveSha256": "63dc142076f84d51b9aa10783997c635f6cd5a9c55fe8063ad181533269c3da9",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      78.43105760846234,
+      35.517040630159045
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      63.81470335096319,
+      38.334401800454415
+     ],
+     "score": 0.7938374596690363
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "22c5d9513796b5fca36aa1cff45023817ed594caa3cd0c015c7577dade40bf92"
+   }
+  },
+  {
+   "t": 21988,
+   "team": "B",
+   "label": "fastyield:B04",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "9f232c38e06bbf79",
+   "saveSha256": "bf84c8cb1ebaa1e17ac8d4f01cfc5b3895b118ed087cf3f7ce185c39c28d60a6",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      102,
+      64.60068524937292
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      103.66615764091493,
+      21.98026124154871
+     ],
+     "score": 0.7482592957542822
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "7c2ab8e9f463e881dc9121b877b3df85059abd0f323863ae641f5c9b242efeca"
+   }
+  },
+  {
+   "t": 22728,
+   "team": "B",
+   "label": "fastyield:B10",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "3df8917bd4aa8042",
+   "saveSha256": "32a229fc309231adb4f85c9a8f7cf3eb63009215eee54e36508247c20612cd5a",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      36.52166217983422,
+      38.29141613494693
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      46.68387446232455,
+      48.96065313478623
+     ],
+     "score": 1.325240179055575
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "0974cafb2e1fc617f734b1d6937468b4b4ad13d0872fc49d541f345d94182172"
+   }
+  },
+  {
+   "t": 23436,
+   "team": "B",
+   "label": "velunknown:B01",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "ededb5c7d781931c",
+   "saveSha256": "5d6d109a59602bfcce73e86290947c3bea56a6912c392e548ab88beccfa07dbe",
+   "decision": {
+    "l21": {
+     "kind": "pass",
+     "target": [
+      104.31419972729692,
+      30.207121423370058
+     ],
+     "score": 0.8529288514577096,
+     "reason": "remembered_outlet_lane"
+    },
+    "k20": {
+     "kind": "dribble",
+     "target": [
+      98.0819901769034,
+      4.847367528578932
+     ],
+     "score": 0.7014189804301549
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "1b06c901874c9323c324bb18f03b2131de77a783a002a84b4c5e374ef838e522"
+   }
+  },
+  {
+   "t": 24069,
+   "team": "A",
+   "label": "fastyield:A03",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "a513f73524fbce96",
+   "saveSha256": "ef768a3965feffce9aee7fab0719b91d176abf62c9911182e69aa6e1bd446bc3",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      3,
+      3.84858233532728
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      2.3950597689943502,
+      47.79498640529593
+     ],
+     "score": 0.7517381530226745
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "572ded7152d6a546b8b43d1519f2967103c8ed4d368e9d3c10cd16307fb43158"
+   }
+  },
+  {
+   "t": 24577,
+   "team": "A",
+   "label": "velunknown:A09",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "2682f0f19c52ef10",
+   "saveSha256": "76a89c17e0d11fd53c2da005f85938a28e578543b03c05537bd39dfec419dcc9",
+   "decision": {
+    "l21": {
+     "kind": "pass",
+     "target": [
+      33.56763916546495,
+      23.291685103276482
+     ],
+     "score": 0.7830329687617044,
+     "reason": "remembered_outlet_lane"
+    },
+    "k20": {
+     "kind": "dribble",
+     "target": [
+      48.09470203838082,
+      38.783039662795275
+     ],
+     "score": 0.6694899151584679
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "e8f714953f0a4cdc44ba87d301fc98350692999c643347c62d85d8d12c1f26b8"
+   }
+  },
+  {
+   "t": 25888,
+   "team": "B",
+   "label": "fastyield:B08",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "8712323c502a8d35",
+   "saveSha256": "6900b8a2bd694580ae9e5254c9011282dd5233209d881735a5a973002234d737",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      44.35130805610561,
+      12.915490869410299
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      49.59037897460787,
+      36.53486320239944
+     ],
+     "score": 1.3854980396008856
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "bbab2ff531a05276f8a8f728b5f490f59837e85b1ff16e9cc756415495b94ad0"
+   }
+  },
+  {
+   "t": 26339,
+   "team": "B",
+   "label": "fastyield:B03",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "5dbb079cc2925745",
+   "saveSha256": "8e6b9f886d95253f22a87b6454b5ea5feca81cc3fb9ea46a55ce252f33c8754d",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      102,
+      3
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      104.7,
+      44.49389930875904
+     ],
+     "score": 1.0296737445239885
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "10ec07223418f47120a6e0d3fd8e708bb66594a386d81e8ed10e12c2b6327c2b"
+   }
+  },
+  {
+   "t": 27671,
+   "team": "A",
+   "label": "fastyield:A01",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "352886819cfcc0be",
+   "saveSha256": "1e7541fd68459c6ffdabf9a619d4b2179efb65a633477fa955fd3f89bc553a4f",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      3,
+      23.284534247983125
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      0.3,
+      28.648249525087902
+     ],
+     "score": 0.8873505129620596
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "732304e62954ef774159b54005bc4389b5c4c1b58ed452edbd176d8e84ee0579"
+   }
+  },
+  {
+   "t": 27910,
+   "team": "B",
+   "label": "fastyield:B07",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "fe7ea5ea67241713",
+   "saveSha256": "0fa2e61a97a30d372f988f165532a4966265d7afed183ce9b1e6d0e6fc12836f",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      64.94592202435832,
+      56.23130981941093
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      47.87843544538552,
+      67.7
+     ],
+     "score": 1.2601001605480693
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "3449ce65f6dc3ed2d5ac6942499ce5e879f215039e4fae11239cc5be6659598c"
+   }
+  },
+  {
+   "t": 28282,
+   "team": "A",
+   "label": "fastyield:A07",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "67bd010457449ff9",
+   "saveSha256": "de37850cd9d5433cd2422a5c384c7aefb20ebb18f69af39abbc404bf66ace488",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      37.124544924444095,
+      40.71398507012896
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      49.46276829025221,
+      0.3
+     ],
+     "score": 0.8045363908326115
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "303043c02ba98302eb56b1bd4a2aae508312949abe634d6b54ab45cc865b83a4"
+   }
+  },
+  {
+   "t": 28520,
+   "team": "B",
+   "label": "fastyield:B09",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "a5efa194246142b9",
+   "saveSha256": "bbd2ad12aaa045db936b374549f1a1a48cf244c17f18f7c8711a14e43995c686",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      65.61266352218435,
+      64.15925222934574
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      75.8029064078221,
+      66.39581696234151
+     ],
+     "score": 0.9444120689808924
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "4eb178aa0aae474d880c05106cf82b4f99145627203d27e61f2de809a0bb489e"
+   }
+  },
+  {
+   "t": 29964,
+   "team": "A",
+   "label": "velunknown:A05",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "36940513c87743c4",
+   "saveSha256": "0662412ccbd4bd016fed57397cce30eea68f5cc4223090ef8322f16bc0a3061b",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      7.714411130129008,
+      38.661526126936195
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      1.9050231877687593,
+      47.31864607696056
+     ],
+     "score": 1.7277822047276186
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "a3d32fdedc742d0646fb68457ac678523679b6770069885b7d7a5e156556dc79"
+   }
+  },
+  {
+   "t": 29970,
+   "team": "A",
+   "label": "fastyield:A08",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "86694c3fcd109750",
+   "saveSha256": "9d5d424d080c1564505ef21f4e90b0d56b62f881b198068d0a7a347dfd57676b",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      24.82445360801204,
+      11.630387776949245
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      0.3,
+      0.3
+     ],
+     "score": 1.2639780854848914
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "159cab9421a25ac250e87703e36a185f4d013f909ade9185f1198f3a78e0656e"
+   }
+  },
+  {
+   "t": 33171,
+   "team": "B",
+   "label": "fastyield:B06",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "1f392e84076f70cd",
+   "saveSha256": "989671601bcd0654964969756513c2af408142f793f91158b889d7ef4c583e64",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      68.86264668455794,
+      9.198032090290074
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      58.16023236116486,
+      0.3
+     ],
+     "score": 1.1248484284393672
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "f1d71fecf3cdcf4b01833abdf8133f7198e2be641a06cecb8a08d2ea9b6d5b77"
+   }
+  },
+  {
+   "t": 33827,
+   "team": "B",
+   "label": "fastyield:B05",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "df06ac38fc48c3fb",
+   "saveSha256": "260cf3efe8f80c045ef8ca6e76cb6c595ccb9319c970d7ecb93f1e4ab3fcdfa6",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      83.98115005831362,
+      42.23260799213897
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      80.61638064908732,
+      49.76548749681882
+     ],
+     "score": 0.9515940176973072
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "e8626840d2b0dcba995f3f51b3d01125e95b5fef85898660cde9acedd29d0eae"
+   }
+  },
+  {
+   "t": 33939,
+   "team": "A",
+   "label": "fastyield:A10",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "b5b596630cb0077a",
+   "saveSha256": "95e2788f07091e325258b35bab67eb2829dbb740e5c86727fa744ddff771ccc4",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      70.21721945578246,
+      36.130564254039605
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      68.07285628607632,
+      55.57545994110298
+     ],
+     "score": 0.9876601566839418
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "b1fafd229abbc8fe7919032a82fc8ee751205ba6af277d51df53645f2b583a5b"
+   }
+  },
+  {
+   "t": 34115,
+   "team": "A",
+   "label": "velunknown:A10",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "b239a52025017279",
+   "saveSha256": "25f84355535260db14599286d270c8caef8b845f2c06980ba959ac9cba8d08a5",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      57.816210267963186,
+      31.147490707111164
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      58.367104724923294,
+      25.849973448889042
+     ],
+     "score": 1.3871045596288363
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "8717c5d290aa82cb1ed1794172ec90c87a1070c1c5d7401bf1927b51772c0c99"
+   }
+  },
+  {
+   "t": 34894,
+   "team": "A",
+   "label": "fastyield:A02",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "1ce8342705c42bfa",
+   "saveSha256": "dd1ec8127ace4e1a48fe91c6d095555292db6aa475fa93d052ae8aab628d2972",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      3,
+      44.77358254278631
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      0.3,
+      36.70602610370996
+     ],
+     "score": 1.1063038181467029
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "d96e790d1de464b173f210f1ee1c44a36f1176a4e76b38cf5ac7c858b3b839d4"
+   }
+  },
+  {
+   "t": 35118,
+   "team": "B",
+   "label": "fastyield:B06",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "c7f7f3bc52dd13a9",
+   "saveSha256": "7f8116163ed7856540695d77009b83c9cb9b9e21afb8f4482f6ea2a92cdd74a3",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      64.73134944552814,
+      11.924941082446997
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      48.146626995194076,
+      0.3
+     ],
+     "score": 1.1247040214219555
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "65a5d2ff66ab574bcbd9f1cc84aed28cdd7816e55c7053aca091e4f429df6eaf"
+   }
+  },
+  {
+   "t": 35638,
+   "team": "A",
+   "label": "velunknown:A06",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "e260b032b3694787",
+   "saveSha256": "33cccee20fa700f1a574b0994f41d591005c5d01fea2a3093a140ed008989358",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      34.00276438795787,
+      20.98332449235985
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      42.08909247491223,
+      36.80949854959957
+     ],
+     "score": 1.104798570752431
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "edd8951229cc979a1bb175842da3ac82e69b8755b00828c629312e35eb43d46a"
+   }
+  },
+  {
+   "t": 35858,
+   "team": "B",
+   "label": "fastyield:B07",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "5215525ff70fd3c6",
+   "saveSha256": "7b206b25ae8982bd787b0ca7398857b07164aa2fd8a53e349191ac0878f5f156",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      73.61921138684234,
+      58.98380103220238
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      73.58958053075087,
+      60.7333542431082
+     ],
+     "score": 1.0551513707448612
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "e69909f7ecc29acb45a28227bfab10e09195a1f533dd475510c23eb7c73b75f4"
+   }
+  },
+  {
+   "t": 36500,
+   "team": "A",
+   "label": "fastyield:A10",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "eabb709a39dd6605",
+   "saveSha256": "5ea59e2106a64aa12bf8e3ed766b0d13599f60b2f7ba6ba0ae4b83435113e939",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      62.9734935264284,
+      42.529100691927816
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      56.329900195884555,
+      50.48591368952399
+     ],
+     "score": 0.8172734407242885
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "13dcf92dde5e7700b5a277e6a6cae2a1d6f8cc2c0eb3b6f2581f76a528ce26cf"
+   }
+  },
+  {
+   "t": 36943,
+   "team": "B",
+   "label": "velunknown:B08",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "cfa57e3cea8a6fed",
+   "saveSha256": "d1f3c4e1d41f586a65752cdfbb33ef6f56e8d928bff86fa94551c47f5657faf9",
+   "decision": {
+    "l21": {
+     "kind": "pass",
+     "target": [
+      98.11249704650378,
+      3.0164955376312137
+     ],
+     "score": 0.7086042968548948,
+     "reason": "remembered_outlet_lane"
+    },
+    "k20": {
+     "kind": "dribble",
+     "target": [
+      76.12223617282726,
+      12.388909861693781
+     ],
+     "score": 0.666103211668431
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "ce6f7b29f4c9dbb37764ac6d550a51f25b2627f93021beeb919df12b9f09a5e0"
+   }
+  },
+  {
+   "t": 37113,
+   "team": "A",
+   "label": "velunknown:A06",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "c2b1b1ad7b2723c4",
+   "saveSha256": "6c17a26f8465fd2e08bc68c30a0882af78a1b0d11fd70ba4b2b8cec92c041cb2",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      42.81764333249526,
+      11.880361574082858
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      60.453423609365124,
+      10.801033068808168
+     ],
+     "score": 1.264532540427343
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "331e40cd121930b6b7ff331d50b8302b3f3a5cf217492e8bbbc741a97a1d4a1c"
+   }
+  },
+  {
+   "t": 39004,
+   "team": "A",
+   "label": "velunknown:A08",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "e48cf20aa85171bd",
+   "saveSha256": "81ef0e1006b2218aa0cc2046d1e45a6c9f851278678ed9dd25ca0eeca337b6be",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      61.70733198663777,
+      3
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      76.89027497216203,
+      4.355893968164944
+     ],
+     "score": 1.6920360811795414
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "99c4b6d842719a2392ce2959cce5f70690a4795632229c1a283d66cf36005b90"
+   }
+  },
+  {
+   "t": 41513,
+   "team": "B",
+   "label": "fastyield:B02",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "52e1a37e58b24e21",
+   "saveSha256": "a07dd3a28f7c1432e2a010d6993e7925a003e3622d9375f0a5e8c44d169706d4",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      102,
+      49.844502568738285
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      101.4288118369602,
+      36.26629469409726
+     ],
+     "score": 0.9528888839181091
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "49b19320a464aa6e37b4ff5988d8387bf1432b9ace5dc89f88ce1e6b47a682a4"
+   }
+  },
+  {
+   "t": 41924,
+   "team": "B",
+   "label": "fastyield:B07",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "eac4ccfbf16e80aa",
+   "saveSha256": "4252a9cc5a308b1121b821b54693ddc5352be3d2f97f84fd1ebbc4ad6a1ade59",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      61.700107115640236,
+      56.863488979310226
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      50.16212273274664,
+      67.7
+     ],
+     "score": 1.104084476358795
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "090226ba2225bc8b1478306bceef80d41a4ab83c6949caa920a6d988a1316724"
+   }
+  },
+  {
+   "t": 42934,
+   "team": "B",
+   "label": "fastyield:B07",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "e4f8713ce0f3b75b",
+   "saveSha256": "ec8b2c18865762aca235b560c1cc3321ce906a69669dd8bfad01a997ba1f391c",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      65.06862931294965,
+      57.02475227881402
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      54.49140048598261,
+      67.7
+     ],
+     "score": 1.0195571668294687
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "3f20495f74d35b2807f22163263f72c29ddcd45bf905a3f31ccd168d7d619a84"
+   }
+  },
+  {
+   "t": 43929,
+   "team": "B",
+   "label": "fastyield:B03",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "70bc53504226c087",
+   "saveSha256": "d6c57cef7c62ced64da25cc4e2a83308c4fbf763828e530bc77c7bc6ae3a47ca",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      102,
+      4.619985258807375
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      101.932569386524,
+      47.71547413879092
+     ],
+     "score": 0.7169060693008487
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "3c5702aa8c4fcdb4d9f7e64376bb51dd10afa5bf5d59c4b4b49e5616095e5cdc"
+   }
+  },
+  {
+   "t": 44094,
+   "team": "B",
+   "label": "fastyield:B03",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "f8a6d0949149acad",
+   "saveSha256": "ec746198307dc2e7854323b2ea32b1c1b60a6daaa04f7af8f03481b9c4b53f1e",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      102,
+      3.9250932780846455
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      104.55106433578008,
+      48.40817501104982
+     ],
+     "score": 0.7314120125723031
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "a07cb6d2d2a04d4ea6ec5f4d4b3db2f595cbf6412c45d19726e0dafc2e8d5cc5"
+   }
+  },
+  {
+   "t": 44630,
+   "team": "B",
+   "label": "velunknown:B10",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "c6922e1134d043e8",
+   "saveSha256": "5c88dae917b341115dfad7a78f1b60f85c7b5b643d5bcc14e819200cf51a1b65",
+   "decision": {
+    "l21": {
+     "kind": "pass",
+     "target": [
+      60.281690553508696,
+      15.807046773248645
+     ],
+     "score": 0.8610529384909422,
+     "reason": "remembered_outlet_lane"
+    },
+    "k20": {
+     "kind": "dribble",
+     "target": [
+      56.77219286100655,
+      46.52522558324306
+     ],
+     "score": 0.6826888798508965
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "f6dc3ebb14298d5b8d05d24663ece9699b55937f6218d1932dfd88a58dc45e6e"
+   }
+  },
+  {
+   "t": 45504,
+   "team": "A",
+   "label": "velunknown:A06",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "da1121c155d8eb62",
+   "saveSha256": "a9e3fdca7f67ca5bef526d2ac84d81d7db52453c808e68712805f4e78fa6e598",
+   "decision": {
+    "l21": {
+     "kind": "pass",
+     "target": [
+      46.55258835489386,
+      58.00705971766321
+     ],
+     "score": 0.9421973109692334,
+     "reason": "remembered_outlet_lane"
+    },
+    "k20": {
+     "kind": "dribble",
+     "target": [
+      50.739466461241356,
+      36.64982018496385
+     ],
+     "score": 0.6828530347579962
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "0b44b71545964565b0ad54f61692454cf077108418c9833cef88048ad31eaa11"
+   }
+  },
+  {
+   "t": 45548,
+   "team": "B",
+   "label": "fastyield:B07",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "f9c3d7f94c75551c",
+   "saveSha256": "ebf9b82b5c8414142ce50d0767f21bd88721ba67b9d2742d0519a6f60d337502",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      63.751045108091155,
+      57.40563796410816
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      50.15528875665019,
+      67.7
+     ],
+     "score": 1.1218165181337465
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "300002ff97e9d04afdc623ffc17b067373d113e947de60499bd54f9891f65a8e"
+   }
+  },
+  {
+   "t": 45905,
+   "team": "A",
+   "label": "fastyield:A09",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "500116b968b0aea2",
+   "saveSha256": "a2dfbd2fee3a12e7b4ef209fa23b88be8080a10e0c2e94dddab7f8c5595a47dc",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      63.27769806454933,
+      60.82434316640617
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      56.563811633501274,
+      39.967617155545334
+     ],
+     "score": 0.7542642818765035
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "b1162edfb3b912962e6d323602851c0fb7aea306482425340ffdbe3ec5156f70"
+   }
+  },
+  {
+   "t": 45951,
+   "team": "B",
+   "label": "velunknown:B04",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "321bd45bb3980f58",
+   "saveSha256": "7c25ecb69a25dd114048234d149c852ae0958c014b36697ccd909bed5dc88a7f",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      100.77941372813248,
+      60.89237623257504
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      89.54044526694265,
+      36.54964637878583
+     ],
+     "score": 1.4083997736890814
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "c92a5255fd814a410c67329a36339df9f72129d5f3a33645df32681890c414dc"
+   }
+  },
+  {
+   "t": 47236,
+   "team": "B",
+   "label": "fastyield:B03",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "eb25b8c42289953d",
+   "saveSha256": "9a3bafe0065cb4d3261c45945ef6250eb7288bf4b21ea1b1707be65dfb20add8",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      102,
+      4.098156135589232
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      102.1333900315055,
+      49.13773568391179
+     ],
+     "score": 0.7256191174736963
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "fc0938ac7510bed028fe062259cabe811cc0a45f3ba3187fc5c54303705fdf84"
+   }
+  },
+  {
+   "t": 48082,
+   "team": "A",
+   "label": "fastyield:A06",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "7f28f202d8d49665",
+   "saveSha256": "5d7307a89f1c791ff3df21187f836b1b50d08c50e785694d292956114e14f33d",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      36.43755248904098,
+      11.815431371775432
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      49.69414908760428,
+      31.447332915700912
+     ],
+     "score": 1.6829759277445282
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "5e798f4dd3636f11897e9aefee21855667358c31eaa55ead92e8d9c0cf4b7956"
+   }
+  },
+  {
+   "t": 48246,
+   "team": "B",
+   "label": "fastyield:B07",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "58b851aeb839ebcb",
+   "saveSha256": "76891ed38a19c8ea0c64bae9eb665ec64a604190390792ed1a4e07dd72ab4db0",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      58.83718443155995,
+      52.550414470895866
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      31.770557356448258,
+      23.416808833887764
+     ],
+     "score": 0.8828922269806798
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "75d7d5331324406c5f2e12ef607b9d5ce1249ff36eac204760d82ae0bb62978f"
+   }
+  },
+  {
+   "t": 48357,
+   "team": "B",
+   "label": "fastyield:B08",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "221b8e3951646a9a",
+   "saveSha256": "48fb7dbe069f2b4bc12f0cfc60025ddcbc5a06df94af479cf9f939b9525132bb",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      49.580602075001124,
+      6.115741186485815
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      58.21110921683446,
+      39.02341335397108
+     ],
+     "score": 0.9428042492372153
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "3df9a2a74f2873adeeebc4c3957eb2780050a7fbfeeccf65780df4d11a4dbc62"
+   }
+  },
+  {
+   "t": 48474,
+   "team": "A",
+   "label": "fastyield:A10",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "dc881ab5a493e1a0",
+   "saveSha256": "95d1c5fa15ad0c433abdbe94dc129d57e5123d78e8822b67718efc60172cc79b",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      61.15157170999436,
+      28.886912779273032
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      43.808934205376,
+      9.089146983249137
+     ],
+     "score": 0.8904500820031032
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "f1ea79fa87850e8cc4e77b9c7f454377757a3abdbf98512c36c6862ba0b02f61"
+   }
+  },
+  {
+   "t": 51554,
+   "team": "A",
+   "label": "fastyield:A05",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "61fd2e61c4fbf9b6",
+   "saveSha256": "e235c5e8d4b6507faca0d7d04938b34721a87f5ffbd900eb18d0546ae88fb693",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      28.39710942036993,
+      35.68181460058302
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      41.53519601166511,
+      39.98208529985685
+     ],
+     "score": 1.3743493483455145
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "c946b50492242f1dc2b78519bea72db3d952f5b84f9422078b70b6b0f32b2518"
+   }
+  },
+  {
+   "t": 52480,
+   "team": "A",
+   "label": "fastyield:A06",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "62b729a9a72ccfbe",
+   "saveSha256": "1d3169822fef6c26850cc6e5c77acc89830f4ef6f6ae11facd922ebdf3e5d08a",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      47.08164729257177,
+      19.844469130586916
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      65.08107827451973,
+      31.817325503288476
+     ],
+     "score": 1.2999445561548626
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "262fc0bee9c1a21226e2e523ebd6a1c29974c9f891d8867a9c47703956684f14"
+   }
+  },
+  {
+   "t": 53679,
+   "team": "A",
+   "label": "fastyield:A09",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "7afe894852dfdca7",
+   "saveSha256": "3f8833536bc4102792e19639c8a9757dc41d67e4116887db35cdbb0355b67c36",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      55.50228787513318,
+      65
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      68.33660044459309,
+      43.342092166231254
+     ],
+     "score": 1.327808442986564
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "a71d081c1f34026a56ea3698400f6c5629d5b3273f2e00604d3054e7093b9754"
+   }
+  },
+  {
+   "t": 53908,
+   "team": "B",
+   "label": "fastyield:B01",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "e0dfb9ade78319a6",
+   "saveSha256": "df58007a95e78ec4b16e75fe6cfafea1e66ed5dd2624c637a717e0acffb4eb19",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      102,
+      21.543754055761525
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      101.16636492681806,
+      29.215309935223058
+     ],
+     "score": 1.7412637687397148
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "f66a3b28766638db2d62b157f0aee72a452953d73ad30e5fc58b3c07cce5e29b"
+   }
+  },
+  {
+   "t": 54616,
+   "team": "B",
+   "label": "velunknown:B03",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "5b9b068f600557c0",
+   "saveSha256": "7521f9abba3d462533f190726cb9f18337c5a17a930c67702a5118821d265d66",
+   "decision": {
+    "l21": {
+     "kind": "pass",
+     "target": [
+      14.844218626233552,
+      25.5744108891946
+     ],
+     "score": 0.9891008972012969,
+     "reason": "remembered_outlet_lane"
+    },
+    "k20": {
+     "kind": "dribble",
+     "target": [
+      21.802194437230284,
+      14.288411881557664
+     ],
+     "score": 0.6807479670944961
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "f1bd7c261f99f45c1993108a1872e7b8eeb9ee09858f9eee04824b4eba31740c"
+   },
+   "saveFile": "l21_31337_opp_54616.json"
+  },
+  {
+   "t": 54675,
+   "team": "B",
+   "label": "velunknown:B08",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "b47c686011f4c505",
+   "saveSha256": "974aa37e709a661e629ed45510b7f83360fb890719ef8491cca90948ad4368fc",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      32.08926770125334,
+      7.466790489095395
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      15.185974377611124,
+      26.762258540272555
+     ],
+     "score": 1.4561193655089208
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "0763585b9a19675a9faf12fb0815ba4f2b3bfa72c84d7c89efaf963931793fae"
+   },
+   "saveFile": "l21_31337_opp_54675.json"
+  },
+  {
+   "t": 54904,
+   "team": "B",
+   "label": "fastyield:B09",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "79831ba03516478b",
+   "saveSha256": "dcd4da1e9dbf2df76714b1d14e27860464857f845d153d912590d428e26323cd",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      48.418714376120214,
+      65
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      47.59908565316179,
+      36.96345272540328
+     ],
+     "score": 1.2320236441275028
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "f021f51e60739a5e80cca6b2ed78051890b336ba6227fc2a485beea762e8f375"
+   },
+   "saveFile": "l21_31337_opp_54904.json"
+  },
+  {
+   "t": 58337,
+   "team": "B",
+   "label": "velunknown:B03",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "20333fb35e4c2764",
+   "saveSha256": "1a8a97a3be81fa4a654fb68248e1fbff21d5d0cfe74524647203b100c3829e76",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      11.00779608341665,
+      3
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      29.599575173784686,
+      18.49375692926822
+     ],
+     "score": 1.7048880357637186
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "09858b107bd9422b8929de59e12437a6f8ba02aa4eee4507f4e782e6bb3061ec"
+   },
+   "saveFile": "l21_31337_opp_58337.json"
+  },
+  {
+   "t": 58449,
+   "team": "B",
+   "label": "fastyield:B06",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "6e08a637ca019f80",
+   "saveSha256": "e6899f93d54c2752b929acac3020a4fea21d0c7cebce225894f942e6df47b717",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      36.521968148533986,
+      17.44557956993195
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      36.987577498423235,
+      3.591180250591357
+     ],
+     "score": 1.7446391990866077
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "a1600be557ed58d3d8e26e152f96ad5559e8866886988aed8001a37d6b7c6a8a"
+   },
+   "saveFile": "l21_31337_opp_58449.json"
+  },
+  {
+   "t": 59022,
+   "team": "A",
+   "label": "fastyield:A07",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "9ed77b7a6e382cbf",
+   "saveSha256": "0d27887ff568dc3988abaebb331b11927829ab1abf06596ba0ba22016da1aabd",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      62.09735421426056,
+      59.697015815633364
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      54.31700388819526,
+      67.7
+     ],
+     "score": 0.8494727161164193
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "9c5d495ad8366f32a72f6a1ac978ef655fb69c3ee317c104f834c2537201d5fe"
+   },
+   "saveFile": "l21_31337_opp_59022.json"
+  },
+  {
+   "t": 59796,
+   "team": "B",
+   "label": "fastyield:B01",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "6e68363a51f644a7",
+   "saveSha256": "8f0be3376bb79e1b600893334ca74b2479bdd08d83da335be9bcc910590c2e03",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      3,
+      17.871058977935224
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      39.94869514875891,
+      1.0921689426718508
+     ],
+     "score": 0.9034224721079394
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "1c65bbcc3177b47ca7490b53416b79dd941d46db8a6180c420c56311dbe2ce65"
+   },
+   "saveFile": "l21_31337_opp_59796.json"
+  },
+  {
+   "t": 60421,
+   "team": "A",
+   "label": "fastyield:A06",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "6799571b305b6924",
+   "saveSha256": "4cb31bd371bd3598cb6ecf54af78ee7bdbec3cc8d60415175303b0484ec37e42",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      61.04098840812976,
+      9.72158101237447
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      59.498466665257396,
+      0.3
+     ],
+     "score": 0.9612083466815982
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "ad56b33c6bd906387e73ae4b51924764f46e8347983bfa68ba7a78372238a6e9"
+   },
+   "saveFile": "l21_31337_opp_60421.json"
+  },
+  {
+   "t": 60477,
+   "team": "B",
+   "label": "fastyield:B03",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "804dcce34d0a2ab6",
+   "saveSha256": "8de8e824b28fe968f78192a0d6d361229a09f5e199fbaaaf445d8b12e82b6a40",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      3,
+      3
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      0.3,
+      19.146404723957186
+     ],
+     "score": 1.0585371253663702
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "29187a14d6c16e22b54da322b238e4ed36981fd85018b2e80d500a75f350ccd5"
+   },
+   "saveFile": "l21_31337_opp_60477.json"
+  },
+  {
+   "t": 62078,
+   "team": "A",
+   "label": "velunknown:A09",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "5527ab57d03c4a50",
+   "saveSha256": "0d025dd0e186108df25f2e95322f17b48bdc36dfb1f48b1cee52ba87d7e04484",
+   "decision": {
+    "l21": {
+     "kind": "pass",
+     "target": [
+      74.34532827940068,
+      45.7024053679153
+     ],
+     "score": 1.322892680889892,
+     "reason": "remembered_outlet_lane"
+    },
+    "k20": {
+     "kind": "dribble",
+     "target": [
+      95.2952539173214,
+      66.99799471713088
+     ],
+     "score": 0.7255351562082972
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "28984e95ac1a9006d8db9d963fc4ce7ae88604d39df675d9fe7c5184d16b121e"
+   },
+   "saveFile": "l21_31337_opp_62078.json"
+  },
+  {
+   "t": 62176,
+   "team": "A",
+   "label": "fastyield:A04",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "7aab42c2324ca325",
+   "saveSha256": "9302ca0957ac1ee0452b01d94cec15f6f0a877e1cf8b5d636ccefc1304497420",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      98.79529013543453,
+      65
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      94.97784568897833,
+      65.63476553863644
+     ],
+     "score": 1.1779573146249074
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "33b1fba0e961ae01d6fa512d9d9c7c4a521a443f8e93a209456f4802739306b1"
+   },
+   "saveFile": "l21_31337_opp_62176.json"
+  },
+  {
+   "t": 62995,
+   "team": "A",
+   "label": "fastyield:A06",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "51295da1fb68aff2",
+   "saveSha256": "2f00e8c66a2ea5b38f1b5490d2ed4bd8246b3920164e805f24bd9a31964a9528",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      70.56145199076121,
+      18.262271198887234
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      81.41487297621384,
+      23.04918228745916
+     ],
+     "score": 1.6369989675999281
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "7b3f2965178e689059ccb45967dd63f286c957ac01e70475d9e104993d9406ce"
+   },
+   "saveFile": "l21_31337_opp_62995.json"
+  },
+  {
+   "t": 63123,
+   "team": "B",
+   "label": "fastyield:B06",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "21615afd35ab81ee",
+   "saveSha256": "d5a7d1bf2aaedb084f9f3f33832fe65b91212407931fffbfd2c8a98c2c3755e9",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      48.26601159951146,
+      9.572306535020829
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      57.715910565877486,
+      0.3
+     ],
+     "score": 0.8509596723323656
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "0b5fca09db9f240f2e1499ce26e21bfbe989dc3e10e69e03d02cf4534d10f2e2"
+   },
+   "saveFile": "l21_31337_opp_63123.json"
+  },
+  {
+   "t": 64146,
+   "team": "B",
+   "label": "fastyield:B08",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "b368132160b5cc54",
+   "saveSha256": "e62d3f0f6a8f2e73e134f2de97e126c9232b481729a12b6aaceb8a28f72dc415",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      27.04700920381223,
+      9.686395990112834
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      0.3,
+      50.29492574906263
+     ],
+     "score": 0.6573867968788041
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "e3582127431a1b01baedc3e5956aa3df690d5817ea0d1bef6bf25af02d292f96"
+   },
+   "saveFile": "l21_31337_opp_64146.json"
+  },
+  {
+   "t": 64957,
+   "team": "A",
+   "label": "fastyield:A02",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "8f0dd3ff31e01756",
+   "saveSha256": "ac98475558325957306b67a44cc1c2cad479a855c352f1c842a50ab2a46b0cc0",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      99.61881927105946,
+      50.19359325893007
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      81.41333571339067,
+      54.253707358538854
+     ],
+     "score": 1.0072373690466387
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "4e849c76081189e9d6955c96e491ec3d8e8286f09caaa2ae66f04cc0619d35c9"
+   },
+   "saveFile": "l21_31337_opp_64957.json"
+  },
+  {
+   "t": 65197,
+   "team": "A",
+   "label": "velunknown:A09",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "dba4e615a21e5cfe",
+   "saveSha256": "3ecc858c24b0f02dbac1d2d095daa3f4e1a6ad9b94b48505d20c79a64a5ec229",
+   "decision": {
+    "l21": {
+     "kind": "pass",
+     "target": [
+      48.855037461410674,
+      13.422817857287402
+     ],
+     "score": 0.6654148627865653,
+     "reason": "remembered_outlet_lane"
+    },
+    "k20": {
+     "kind": "dribble",
+     "target": [
+      32.27836523752847,
+      35.85439095087202
+     ],
+     "score": 0.6541245259369464
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "c3e160d1010f87dfccd9c99127f47f585d8e4baac953f2156f708f229eb6962f"
+   },
+   "saveFile": "l21_31337_opp_65197.json"
+  },
+  {
+   "t": 66674,
+   "team": "B",
+   "label": "fastyield:B09",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "c5703a1fc941f782",
+   "saveSha256": "0d6aa7a5a3e8d1e2f59e404db7b98a7280ea58c62e142d625c83ffa7b3986b64",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      50.41825562462129,
+      60.39720444143944
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      47.70390805106445,
+      21.595454551029707
+     ],
+     "score": 0.7143803768239694
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "42825f836f5fa5db1b3927447d168456f15c958d3ebdd1514724ccf8dc524569"
+   },
+   "saveFile": "l21_31337_opp_66674.json"
+  },
+  {
+   "t": 67302,
+   "team": "B",
+   "label": "fastyield:B07",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "2ec0a20f1dd538da",
+   "saveSha256": "eb225e5b997ad4d58d744ff645b067ecc0b6df8d39925f53f800938b5fa14ea2",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      42.619915255880315,
+      58.584807084036456
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      55.20671412919172,
+      67.7
+     ],
+     "score": 0.784335309173547
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "043891e8790b76f786e2aadf4069d2ef5fd2806790aff6a592bdb1568ed20dcf"
+   },
+   "saveFile": "l21_31337_opp_67302.json"
+  },
+  {
+   "t": 69065,
+   "team": "A",
+   "label": "fastyield:A07",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "96b38c327ae24b23",
+   "saveSha256": "538efed27af2ca2e91410d51a7483aa0680481ac3ef84f1a9253dd803647fb72",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      64.77639306014885,
+      58.18885510528811
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      49.00184704076293,
+      67.7
+     ],
+     "score": 1.2103979069081081
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "3ea67b6be33d62b5126c3c1d183c539b21651f4663e88ad6f87db578c2048b23"
+   },
+   "saveFile": "l21_31337_opp_69065.json"
+  },
+  {
+   "t": 69314,
+   "team": "A",
+   "label": "fastyield:A01",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "5d51eca8ef896e7b",
+   "saveSha256": "c96f7bb38e094ae800821d65a9c132a453174a72542099874207be3455dc95b9",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      102,
+      24.15349947757182
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      104.7,
+      30.333061626173908
+     ],
+     "score": 1.1145864777348993
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "af78dce79b003e5b8205888211973e63255a4c6e016971940cc29abd2d04dadc"
+   },
+   "saveFile": "l21_31337_opp_69314.json"
+  },
+  {
+   "t": 69783,
+   "team": "A",
+   "label": "velunknown:A08",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "cc18feb7daf9ad50",
+   "saveSha256": "4a8771b0c17fe1cc689c4cf2d88415f1205e109e2790ab9b73ba2673157f7459",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      71.04547676403813,
+      11.206589597838185
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      85.9280765917461,
+      37.447398850966245
+     ],
+     "score": 1.1530170406709555
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "7bf1f8431ffdf27fca02c4a4792743feda651d58ee38f9d8347784ebe0e34640"
+   },
+   "saveFile": "l21_31337_opp_69783.json"
+  },
+  {
+   "t": 70682,
+   "team": "B",
+   "label": "velunknown:B05",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "9326d4c871943ad5",
+   "saveSha256": "fefdad30abe1d5c9ed83ac4d5bb89412745f85fbf8e0f75edfe3c01068b74aeb",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      34.828377197740245,
+      32.578861428388095
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      58.39245249529218,
+      29.939604081108843
+     ],
+     "score": 1.6639603219326808
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "bdb6857c6858809d112cf44e3c828f47bcfa2df78809523060c337ed5cf6b268"
+   },
+   "saveFile": "l21_31337_opp_70682.json"
+  },
+  {
+   "t": 71407,
+   "team": "A",
+   "label": "fastyield:A06",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "a8b0014199f61bae",
+   "saveSha256": "0df417b1cf042fc289bd44ed0a49e9e741d34e1de3f3ed15fd5053ce701629e4",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      64.10209942730593,
+      9.682981454607514
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      50.48807156817564,
+      0.3
+     ],
+     "score": 0.9428348472604022
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "bfc67e1cf64a3760c44a8426c0779ccc3785e5d3d21c5f6828bd4ec9c25bd6da"
+   },
+   "saveFile": "l21_31337_opp_71407.json"
+  },
+  {
+   "t": 72333,
+   "team": "B",
+   "label": "velunknown:B07",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "5deeca37854ae748",
+   "saveSha256": "95784a379d392c700c48dc2ea774e89c88682c608bf670fc9d13f71e9a9618f4",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      24.81780999830268,
+      52.391298516060345
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      22.95377082979725,
+      46.54656718874385
+     ],
+     "score": 1.66231475090454
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "8fd17cb59a2f28c39523c840e9ae16e035a5def41bf6e17cfc459f58cc0cdf74"
+   },
+   "saveFile": "l21_31337_opp_72333.json"
+  },
+  {
+   "t": 73494,
+   "team": "B",
+   "label": "fastyield:B06",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "aefa4464c8ecb5f5",
+   "saveSha256": "289c363b40fbbf7873b3ba9ca256c4aa433577fdd7b64e22ca988a5209f15ed0",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      30.571025913643247,
+      18.63676927020839
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      17.418595900852186,
+      48.275346698873996
+     ],
+     "score": 0.9510744697828584
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "9880fbd5de360493d34dcd01ac55af8ce8c51a5339c980f31554b622c31397cd"
+   },
+   "saveFile": "l21_31337_opp_73494.json"
+  },
+  {
+   "t": 73878,
+   "team": "B",
+   "label": "velunknown:B07",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "6faf906dced2bd44",
+   "saveSha256": "26f4685e043a72bb85a712ee0e7651573bcd8cde72cf2d6e72a316fe78ad74b9",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      28.55562521179727,
+      51.887142526113834
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      30.740885857910982,
+      45.10612150318239
+     ],
+     "score": 1.7301709665744063
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "e3e77029103e568735040a2722fb67a8c2b0217dbe48aacfb7a3f5d286571f26"
+   },
+   "saveFile": "l21_31337_opp_73878.json"
+  },
+  {
+   "t": 77232,
+   "team": "B",
+   "label": "velunknown:B08",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "32f224084fbb4b1f",
+   "saveSha256": "d5fa2972c61365b92cbea2a50a3566864a386bf3f1326e6466c87ad186a97480",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      56.730399297469525,
+      7.0011198795803855
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      66.52166520306152,
+      25.431771084515386
+     ],
+     "score": 1.3610644490858577
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "ffb91a635c4052ee3b21ac301fce62b3001c49783cfab48cbe0fddc1e8fa94e4"
+   },
+   "saveFile": "l21_31337_opp_77232.json"
+  },
+  {
+   "t": 79294,
+   "team": "A",
+   "label": "velunknown:A06",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "5c864761c4ca842c",
+   "saveSha256": "8e8e23fc947a744b7f0c63fb95e065d0a1784ace3a4aaeefb53f21ebc30bb318",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      63.90600902402754,
+      17.232461439934763
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      48.13751880005738,
+      26.09274697124218
+     ],
+     "score": 1.2385074510136118
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "d16a27820a5311f1a747c2ae94841d65b5310633f3a27c7541af2d68d24746c8"
+   },
+   "saveFile": "l21_31337_opp_79294.json"
+  },
+  {
+   "t": 79751,
+   "team": "B",
+   "label": "fastyield:B01",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "a69fae4ec26fd39f",
+   "saveSha256": "108adff948313a4470328e78426f89657bcf5be824340e47adc6e050eb4badc5",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      3,
+      23.579953331982626
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      0.3631360496945062,
+      30.390128514542972
+     ],
+     "score": 1.2047469183348154
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "2077221fb9524d5aea2cb2974639b4c907378401c86eee7d97b025d52b6c2af8"
+   },
+   "saveFile": "l21_31337_opp_79751.json"
+  },
+  {
+   "t": 80074,
+   "team": "B",
+   "label": "fastyield:B07",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "186254d9a8cdb8bc",
+   "saveSha256": "32af4a38c34f0b178c3b7e3dbfabf76d15000a31ecf0edb485882d2f0be4f540",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      44.72088154507183,
+      51.24043668452686
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      56.869453405662604,
+      27.38031901027278
+     ],
+     "score": 0.9443457082140758
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "e89ebeef1a9f21571b2fc334033d041ea3176f80eb4e0c2992dd8a484945481b"
+   },
+   "saveFile": "l21_31337_opp_80074.json"
+  },
+  {
+   "t": 81776,
+   "team": "B",
+   "label": "fastyield:B04",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "3305ca8581fd6e4c",
+   "saveSha256": "6d39c5e3256a02416db84c377d7cea77b1b07b5155da219ec545d663ebc477d0",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      13.383530620086738,
+      65
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      50.61301036320624,
+      67.7
+     ],
+     "score": 0.7006616412704774
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "4d59d5c8a49fa6f5cb4a0f06ba95c75693d250481855ede92f311a733884a089"
+   },
+   "saveFile": "l21_31337_opp_81776.json"
+  },
+  {
+   "t": 83264,
+   "team": "B",
+   "label": "fastyield:B05",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "2e1a3e82835950b7",
+   "saveSha256": "ea10e4bfc52d72c4ac1ac303817b285dcbd2cbb1c8a6f37644f3fe5183fd5143",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      28.988592561308934,
+      38.833472230570386
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      32.22498638402297,
+      63.93779648361462
+     ],
+     "score": 1.1046809317936357
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "0d04d419591bcc86a3f61fc2d541429e934855ed6035e3c84af519e2f77897ef"
+   },
+   "saveFile": "l21_31337_opp_83264.json"
+  },
+  {
+   "t": 84886,
+   "team": "A",
+   "label": "velunknown:A01",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "63cf34d35986a62a",
+   "saveSha256": "0a35d0a17d5976becb91193c72ce34978bf4435eed8ea09a402a3dc05ee95c1b",
+   "decision": {
+    "l21": {
+     "kind": "pass",
+     "target": [
+      91.15519616884988,
+      19.12036219054475
+     ],
+     "score": 1.2107998989606656,
+     "reason": "remembered_outlet_lane"
+    },
+    "k20": {
+     "kind": "dribble",
+     "target": [
+      98.69815503036268,
+      27.966213456032865
+     ],
+     "score": 0.6725107831789445
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "a1f3d5e92134f737ed5a7aea756735488d1ec0cebf8ed55689ad6341943d742c"
+   },
+   "saveFile": "l21_31337_opp_84886.json"
+  },
+  {
+   "t": 86781,
+   "team": "B",
+   "label": "fastyield:B03",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "0475cff1b0b84df4",
+   "saveSha256": "3e80bb1e966413aab77965c7e952f8a1ab7d08fa2e7c97815d33047e67c5470a",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      3,
+      3.994058965575742
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      3.341845438890473,
+      47.289378899487176
+     ],
+     "score": 0.7429370894710117
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "8e229e4c0aac7b7bd020586182d07652427df5f7fa8d8abae06d9f11d9ce1b96"
+   },
+   "saveFile": "l21_31337_opp_86781.json"
+  },
+  {
+   "t": 88206,
+   "team": "B",
+   "label": "velunknown:B06",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "f0cc35cb7216f95c",
+   "saveSha256": "e40ad408734a7bdd01c5558acc36180bf3be969bdacb2db41dd9062389a0115a",
+   "decision": {
+    "l21": {
+     "kind": "pass",
+     "target": [
+      34.91394050144939,
+      4.4878541530446245
+     ],
+     "score": 1.1867087387124797,
+     "reason": "remembered_outlet_lane"
+    },
+    "k20": {
+     "kind": "dribble",
+     "target": [
+      28.54160134484846,
+      15.12984754502569
+     ],
+     "score": 0.6979412791009791
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "3cc28a1f069d2c01a308ffe17f546859578d8f0dffa2724e0068a99d669f9711"
+   },
+   "saveFile": "l21_31337_opp_88206.json"
+  },
+  {
+   "t": 89736,
+   "team": "B",
+   "label": "fastyield:B03",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "cacd4408f0cd7de9",
+   "saveSha256": "392e7e4d38e2cb778a07101a07b9ae7eeaf9cbe3dec617eb82f76379d2f80d13",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      3,
+      3.473732323788738
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      0.3,
+      46.148186072786146
+     ],
+     "score": 0.7740816373787718
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "6c34c6ea973c16629eb4e2de5bb7ff3fc502df06ef3b77031629c7ba67a128f6"
+   },
+   "saveFile": "l21_31337_opp_89736.json"
+  },
+  {
+   "t": 89815,
+   "team": "B",
+   "label": "velunknown:B01",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "5ca9bc80fbca5171",
+   "saveSha256": "53f2a48f7bdfcf77b8b10586f70c760125c72f56c36f6ea3bec47beea8e00ac8",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      3,
+      21.953088192415855
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      17.573661989344977,
+      31.008823406902447
+     ],
+     "score": 1.1387212629501247
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "ccc80c553169fe7fa623f8d2c41a9b77ef3c6083c39803fd7cca55bbb4253d83"
+   },
+   "saveFile": "l21_31337_opp_89815.json"
+  },
+  {
+   "t": 91166,
+   "team": "B",
+   "label": "fastyield:B01",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "3ac89e4863937261",
+   "saveSha256": "c356859c51e4f2578ddec64988eda538fe4f897b5f2b8485053e59e85199d40c",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      3,
+      23.767411051530814
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      0.3,
+      22.43317889181152
+     ],
+     "score": 0.9423787468107978
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "e86361e04bf9b5a2b08fa19ea5d5edc9198e00deac6a8ab0159094b544203ce9"
+   },
+   "saveFile": "l21_31337_opp_91166.json"
+  },
+  {
+   "t": 92353,
+   "team": "A",
+   "label": "velunknown:A10",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "20b2229fe34d701a",
+   "saveSha256": "d0898b38630c55b8c8c55bc12ddd8ce403d4fd3b9929aa645fa0c96ddb40576b",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      43.35127979876534,
+      38.375258393614594
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      38.648499580761126,
+      46.50073826747026
+     ],
+     "score": 1.6553831069244889
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "6f4ec45abae7e8e7a8beacf916f3996c51d18b0def46fceac46cb9e830c80a2d"
+   },
+   "saveFile": "l21_31337_opp_92353.json"
+  },
+  {
+   "t": 93689,
+   "team": "B",
+   "label": "fastyield:B09",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "f48de9959f069a8c",
+   "saveSha256": "e785faa01dc73c2eb330b2ee65501fd35665d385d9cf2eca0fed08991cdeee0c",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      44.81926477119028,
+      65
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      44.721408924282514,
+      39.68842023686254
+     ],
+     "score": 1.1380362888772226
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "b403b60beadc5de9a7719d4f9a5f3faa3a2fa42b9cce3059d917136a250b51fe"
+   },
+   "saveFile": "l21_31337_opp_93689.json"
+  },
+  {
+   "t": 94240,
+   "team": "A",
+   "label": "fastyield:A05",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "0acbacdefca84963",
+   "saveSha256": "aa8d96c14fe77e10db22197c054f725c9a45bc3f5e1f0f1abb65d2d687a522dc",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      78.0093385892082,
+      32.391106120454936
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      71.64667522782415,
+      10.338841201445302
+     ],
+     "score": 1.6887652935000173
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "088fadc5f2e09131d24c9a9e281d420a52c09040b1ab78b7875020f319c23488"
+   },
+   "saveFile": "l21_31337_opp_94240.json"
+  },
+  {
+   "t": 94573,
+   "team": "B",
+   "label": "fastyield:B04",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "12eba0bff8caafd8",
+   "saveSha256": "ad57cd6305f732c3da04f2a0c0242675bfc4e9e4dec082fa6df2bfa914d1c1a9",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      3,
+      63.552905099697135
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      0.3,
+      18.289825206005567
+     ],
+     "score": 0.6517382076041078
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "5d133f3291fcfc0186bc7374c7601606b862b6382ef75de6d27d5c5e78990e9f"
+   },
+   "saveFile": "l21_31337_opp_94573.json"
+  },
+  {
+   "t": 95079,
+   "team": "A",
+   "label": "velunknown:A06",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "b28bcb3b748c5c78",
+   "saveSha256": "ef2357efdda31998255318d9b4a722a7c66501b858f649b1655610c871a9c774",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      64.9535740832581,
+      9.665527014287795
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      50.31994600678772,
+      4.472934326536557
+     ],
+     "score": 0.6703656556224915
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "3306097e6a892395f849adc0c8f20dc6bcf02799050d2fd98101c83377e8e1cf"
+   },
+   "saveFile": "l21_31337_opp_95079.json"
+  },
+  {
+   "t": 95111,
+   "team": "A",
+   "label": "fastyield:A06",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "515bb0cf80c7bcf0",
+   "saveSha256": "2f95bf5ffba1131182eaee70c92b47642b0a4f894a3a328e650588fa8cae04d5",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      66.66901333285429,
+      16.6106535311732
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      57.22413093077708,
+      43.16564616444255
+     ],
+     "score": 0.967567770840805
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "bd879eab7070d446a5b75288afefda25320e358adcadbc5e2776a9bb0a69add9"
+   },
+   "saveFile": "l21_31337_opp_95111.json"
+  },
+  {
+   "t": 95471,
+   "team": "A",
+   "label": "fastyield:A10",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "3efdb1023c07014d",
+   "saveSha256": "7004cfa051a3e7d285160c4b23018fb74f74510f23c805c9ee049539fcf9c355",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      41.87818186777976,
+      25.00684794220742
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      33.10486680774378,
+      14.101146512021547
+     ],
+     "score": 1.3244408858456063
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "b4f8dd7117870e191ffcfd790428f5f750c6064c86a26e418976f09937b2a804"
+   },
+   "saveFile": "l21_31337_opp_95471.json"
+  },
+  {
+   "t": 95493,
+   "team": "B",
+   "label": "velunknown:B08",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "191bb0a91e3688ec",
+   "saveSha256": "fcd4ea7d42778c910223b37ee5fce1d5cba0ec3c95e46e532f4dfb4c8dc1a749",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      41.0856173111258,
+      3
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      33.928369398178745,
+      7.416696825274236
+     ],
+     "score": 1.683061443305799
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "200a77662a8e34038a979431bfc123ba2bbeecf278453baa01096c4ffebc71e4"
+   },
+   "saveFile": "l21_31337_opp_95493.json"
+  },
+  {
+   "t": 96671,
+   "team": "A",
+   "label": "fastyield:A08",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "0e1b6aba41349a5f",
+   "saveSha256": "cbf7ec4dde1ea07bd62d27fd891f2be8aac23ae188d83f43b9312e66ff3aaf16",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      52.791643389047074,
+      4.666904871947632
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      59.485662231422886,
+      4.137833551893767
+     ],
+     "score": 1.0342568887685992
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "0eca55a14956efcb6cc498294872bd4f77d02df18b6a7ffa677841ac9b42417d"
+   },
+   "saveFile": "l21_31337_opp_96671.json"
+  },
+  {
+   "t": 96831,
+   "team": "A",
+   "label": "velunknown:A08",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "d16a45603ecf1369",
+   "saveSha256": "001d51d804623a4cde8d305423d0e8f8c2534f40a2810ec1164362d2ccc941be",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      49.41708636757924,
+      3
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      40.868929932456744,
+      6.41544530450204
+     ],
+     "score": 1.274076309287269
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "c247f5b9333731b5d33c93a7ee68b35b576df3edcaceff037175bb8ed99869fa"
+   },
+   "saveFile": "l21_31337_opp_96831.json"
+  },
+  {
+   "t": 97166,
+   "team": "B",
+   "label": "fastyield:B03",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "c410290ea90bcd55",
+   "saveSha256": "da87482e48467b44e054a80a69267d4ef4b38bd52449281a2471b0b33e8d80e5",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      3,
+      4.4210704521263295
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      3.91806631075445,
+      48.23997890898666
+     ],
+     "score": 0.7380652364989493
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "25d6ddc9296ba000d0a68b5f87cfe63d698f5fdf648e9f6c55b3fa5fabdbc291"
+   },
+   "saveFile": "l21_31337_opp_97166.json"
+  },
+  {
+   "t": 97768,
+   "team": "A",
+   "label": "fastyield:A07",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "ab71630e11640099",
+   "saveSha256": "668166264de4b0f6c9d772e4c2cfd398da240599df0de8ec01786e5b71ae8d85",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      68.94163566135747,
+      56.6866493917103
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      64.7334778236108,
+      67.7
+     ],
+     "score": 1.2313941582768226
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "af78d547f50cd2f7fe12898a5a4c8185116c4220dcf3299b70ad08fe502e1602"
+   },
+   "saveFile": "l21_31337_opp_97768.json"
+  },
+  {
+   "t": 98326,
+   "team": "A",
+   "label": "velunknown:A10",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "1bedc412161c5dff",
+   "saveSha256": "fdf300d38859068c85cb57135d81ee904e040a3e85f1fcee14cff8745b06110a",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      43.26052094042376,
+      33.51057122053226
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      38.459418625882826,
+      32.601632058663604
+     ],
+     "score": 1.2982715604842412
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "633d19cd5d12531772ad662e4e94532d7952644c736b587c7c3ed5a91d237797"
+   },
+   "saveFile": "l21_31337_opp_98326.json"
+  },
+  {
+   "t": 99423,
+   "team": "A",
+   "label": "fastyield:A09",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "8041c4f2bd29ee95",
+   "saveSha256": "3457dce47a336c7fb228b1c74030303186dc91b29f411e184221d6df657702a4",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      64.04380884405472,
+      64.77370874035735
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      76.31009843094067,
+      32.703065958065686
+     ],
+     "score": 0.9490319837367951
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "bf12fbb7f93b09e3703e46fe17b85c8f969c71531b1299b4c9cfe86a0b046395"
+   },
+   "saveFile": "l21_31337_opp_99423.json"
+  },
+  {
+   "t": 100979,
+   "team": "B",
+   "label": "velunknown:B10",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "a0d604f6e6922783",
+   "saveSha256": "f9f9fe38c5e3cc03ba57b37124b59e10d4898309f33d748625bb95656d971d33",
+   "decision": {
+    "l21": {
+     "kind": "pass",
+     "target": [
+      51.639721622465395,
+      13.177824839935074
+     ],
+     "score": 1.0105872115667394,
+     "reason": "remembered_outlet_lane"
+    },
+    "k20": {
+     "kind": "dribble",
+     "target": [
+      59.72509002772714,
+      16.531555154165055
+     ],
+     "score": 0.6527115403129954
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "8425e0eff9f10551431af9cb729d45dcd147a689bab4b3f32a201ba2397a99d2"
+   },
+   "saveFile": "l21_31337_opp_100979.json"
+  },
+  {
+   "t": 104584,
+   "team": "A",
+   "label": "fastyield:A05",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "daeb171dffdba1bc",
+   "saveSha256": "a3e3b43770e0bae934acc2af7b6740ec1edea5ab4e8f265b694c399a804cf8f8",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      80.28515030569419,
+      33.0079949112455
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      54.77103827439647,
+      19.121424579709643
+     ],
+     "score": 1.429046536565667
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "0ff3c3d45a599499afecc4d5d29bcd8ea57e91354ec27ed735eff7877872d69a"
+   },
+   "saveFile": "l21_31337_opp_104584.json"
+  },
+  {
+   "t": 105453,
+   "team": "B",
+   "label": "fastyield:B02",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "fa49a68097536553",
+   "saveSha256": "24e3586555d87ad16cf8365ba8faf0923f4ed5a6fc0685294095ec1f1942fc94",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      3,
+      44.73196414962458
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      0.3,
+      35.05505870954013
+     ],
+     "score": 1.0557182513272738
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "e4d617b298e90a050ec29aad3b040f491ac77b17d473372f62fb07e1ee5e760f"
+   },
+   "saveFile": "l21_31337_opp_105453.json"
+  },
+  {
+   "t": 105962,
+   "team": "A",
+   "label": "fastyield:A09",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "cc87415f5e5f1130",
+   "saveSha256": "5c945f96f823e7053c329b5a3e8553c07e9e29064b2109b417011e5af41337ad",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      55.99260986320726,
+      65
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      81.4165043550484,
+      61.93856742791405
+     ],
+     "score": 1.1006494109119882
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "4805eafe61e28dc6f6cec6e0b9cb0763da3fc3ec92d19e5f60ee083d9e73ea63"
+   },
+   "saveFile": "l21_31337_opp_105962.json"
+  },
+  {
+   "t": 106214,
+   "team": "B",
+   "label": "fastyield:B06",
+   "source": "fast_triggers_31337.json",
+   "stateHash": "24defc60504c55bd",
+   "saveSha256": "afa4ff0db4e315703d230b0c58b816ff942388171cf024bf3d16feb07f425ed2",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      41.48696159674869,
+      8.909396280010613
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      50.8678360864867,
+      0.3
+     ],
+     "score": 1.0802949889505116
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "09e45bd2639caf45bf64f2178aa20f9113548dc03aa2b5480a5195a2625ec9ea"
+   },
+   "saveFile": "l21_31337_opp_106214.json"
+  },
+  {
+   "t": 107231,
+   "team": "B",
+   "label": "velunknown:B01",
+   "source": "velunk_triggers_31337.json",
+   "stateHash": "1c612f3cf7e2f011",
+   "saveSha256": "23f87d6c864928f3e3073c67517062fb9528408b3dfaecb7c1c5abbd5dfb3116",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      3,
+      21.31754175399889
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "intercept",
+     "target": [
+      11.8861890559185,
+      29.19297643999682
+     ],
+     "score": 0.9380352226938762
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "0bed82d07d90acfcd30b091e901715eb5fc4b74a2cebff0bc038ad58bf68314b"
+   },
+   "saveFile": "l21_31337_opp_107231.json"
+  }
+ ]
+}

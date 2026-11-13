@@ -1,0 +1,550 @@
+{
+ "engine": "L21 (research, not adopted)",
+ "seed": 771,
+ "node": "v22.23.4",
+ "platform": "linux x64",
+ "count": 18,
+ "yieldReproducedAll": true,
+ "rows": [
+  {
+   "t": 3969,
+   "team": "B",
+   "label": "fastyield:B06",
+   "source": "bk_cases_771.json",
+   "stateHash": "8fa056083d4cae99",
+   "saveSha256": "3cd4f449bf9f8296613d5ea835811334faf024891190d6a6b8e2539a9b9972f8",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      65.80984439132024,
+      16.979226106938025
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      51.54564556630427,
+      2.951402982140138
+     ],
+     "score": 1.2167710885091572
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "860e369287722f3c517182e635e48a5e3e58b2a8e870342d942a0e238619245a"
+   },
+   "saveFile": "l21_771_opp_3969.json"
+  },
+  {
+   "t": 5565,
+   "team": "B",
+   "label": "fastyield:B05",
+   "source": "bk_cases_771.json",
+   "stateHash": "98642cf5789e0210",
+   "saveSha256": "06e9f7508161d86bfce42f000905a5f10a41bc0476a5c7f8f9902b17583b8fa4",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      83.33466955661973,
+      26.960513718749265
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      78.49759228111883,
+      0.3
+     ],
+     "score": 1.086114645462155
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "086068739b160ee243e4f3078980e8ddd7cc88cad68463f856fdded3b5c08bb5"
+   },
+   "saveFile": "l21_771_opp_5565.json"
+  },
+  {
+   "t": 6397,
+   "team": "B",
+   "label": "fastyield:B05",
+   "source": "bk_cases_771.json",
+   "stateHash": "cb28931370787170",
+   "saveSha256": "6d81d3da3fa0e8e754687cad4c636fcb371b4e36eb7f30b6db0f5d33127cbded",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      76.35496237424931,
+      36.31279505119071
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      56.71032937534568,
+      21.835865741483897
+     ],
+     "score": 0.7659861348812724
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "65cfe809147e797151f021a677e3e3ca6a66179f7fa2d12851f4b796aad14f52"
+   },
+   "saveFile": "l21_771_opp_6397.json"
+  },
+  {
+   "t": 12773,
+   "team": "A",
+   "label": "fastyield:A07",
+   "source": "bk_cases_771.json",
+   "stateHash": "7a22a21dfb1ef5d4",
+   "saveSha256": "74c2275a670420c439d3db350550d9a11e4248610426e47c3b1097ab680e9509",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      39.83086684641333,
+      57.03993705396496
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      56.00693048455206,
+      67.7
+     ],
+     "score": 1.2501096844581947
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "6d1f83cda06e364259bc476e7138a0878af828532aff70c2a9b930d687ff3e74"
+   },
+   "saveFile": "l21_771_opp_12773.json"
+  },
+  {
+   "t": 17945,
+   "team": "B",
+   "label": "fastyield:B06",
+   "source": "bk_cases_771.json",
+   "stateHash": "d2d1c2c537f1d91c",
+   "saveSha256": "27dc398c6daa3587568ce342336ae13561ef77ad9f6d52cf57d5086725df9c9f",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      65.45657843012208,
+      9.54849872237507
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      50.756582517380856,
+      0.3
+     ],
+     "score": 1.1973145161365408
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "a674bfef8e4aa75eb1c0c9d7e71f026cb0e0ebb010f26d9f4b4bfd9789133e9f"
+   },
+   "saveFile": "l21_771_opp_17945.json"
+  },
+  {
+   "t": 18956,
+   "team": "A",
+   "label": "fastyield:A07",
+   "source": "bk_cases_771.json",
+   "stateHash": "8774a24017e5516b",
+   "saveSha256": "c6e13e6cdc3e83e7fef789e4d1938add3318a167fd5a0959b993a358db5ac34a",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      47.557740504733445,
+      50.15657677648347
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      49.217792651134644,
+      40.57850342980971
+     ],
+     "score": 1.1827320262603935
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "a66a01afa9efdc7774c16090ee19d088545e67030ee9ec466b4f94bf0ec32ba4"
+   },
+   "saveFile": "l21_771_opp_18956.json"
+  },
+  {
+   "t": 22900,
+   "team": "B",
+   "label": "fastyield:B08",
+   "source": "bk_cases_771.json",
+   "stateHash": "11c18463e3b4e3a4",
+   "saveSha256": "585ac5153041fa7e5b2ff906fa1592748033a983e322a14c6d57c4a46b293b66",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      46.76497584514806,
+      10.127928506318353
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      48.52721634830864,
+      27.79215086390658
+     ],
+     "score": 0.6844075963808016
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "2f2bf1f5b59002a2c1f11fd4fedde0d7232b92648ce738c6fede37cbb74ac714"
+   },
+   "saveFile": "l21_771_opp_22900.json"
+  },
+  {
+   "t": 23341,
+   "team": "A",
+   "label": "fastyield:A08",
+   "source": "bk_cases_771.json",
+   "stateHash": "0539f4bde93da0b0",
+   "saveSha256": "b83a81c2d66a059440dc5f9380d7fa76bf5ee51b8bc6ebe9a809b6c4cd308863",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      60.13519378947072,
+      7.0764719666311535
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      52.01500789121967,
+      32.86678449461505
+     ],
+     "score": 1.0562341806712658
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "bea488eff6c5fe9a3bdcbeeb2af4c537dc9dc4954d576d16022cfcf4a078bd7c"
+   },
+   "saveFile": "l21_771_opp_23341.json"
+  },
+  {
+   "t": 24123,
+   "team": "A",
+   "label": "fastyield:A09",
+   "source": "bk_cases_771.json",
+   "stateHash": "b96c7a085efae9db",
+   "saveSha256": "8501968f5bcf7cad7a20d54469ac5f812b88366b7bcaa265fbb57e5ebaa1329d",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      63.47901091085819,
+      55.16358053455242
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      59.465004164591164,
+      32.01658474439033
+     ],
+     "score": 1.2123582623008797
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "18cc0fca1a1ca6dd9b6db3f07c891435b14c04e7de3d013dba9efcc74b342e3f"
+   },
+   "saveFile": "l21_771_opp_24123.json"
+  },
+  {
+   "t": 26646,
+   "team": "A",
+   "label": "fastyield:A08",
+   "source": "bk_cases_771.json",
+   "stateHash": "826b3b883833b87f",
+   "saveSha256": "0909611e2d97067b51b77de546c50fff52e57f5dd47f7834e17d62f2307cd3c6",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      44.80610898877447,
+      3.980308216687865
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      44.88698621372618,
+      5.076977859927908
+     ],
+     "score": 1.0548293439747256
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "230eb21e0761c6996c3a9fb904282c6978ef4ccad4ba5939b756610016a4a762"
+   },
+   "saveFile": "l21_771_opp_26646.json"
+  },
+  {
+   "t": 44317,
+   "team": "B",
+   "label": "fastyield:B08",
+   "source": "bk_cases_771.json",
+   "stateHash": "bdca2fff4a73d348",
+   "saveSha256": "25f03b0cf4c9f30814578cf3b8d187ae52975b4b3954726ed8b4cba28ec7ab2a",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      59.023312509091376,
+      19.073679441221273
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      50.97640386652112,
+      67.7
+     ],
+     "score": 0.7639648305378115
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "22cb18c97558f32af805c6f57e075cfb07e357127003ed84c4df02f44a92fd12"
+   },
+   "saveFile": "l21_771_opp_44317.json"
+  },
+  {
+   "t": 49303,
+   "team": "B",
+   "label": "fastyield:B03",
+   "source": "bk_cases_771.json",
+   "stateHash": "e208c3fd72132434",
+   "saveSha256": "1353d0516f2851f94f801fdfe8006c3256893540a1ecd4c3aa4a04869875c6a3",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      102,
+      3.9262375185483194
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      104.7,
+      49.38661811020971
+     ],
+     "score": 0.729544206799974
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "b6c49bd53d2e929522ee20f83a545cea8dd68541578825029236968b0d8896fc"
+   },
+   "saveFile": "l21_771_opp_49303.json"
+  },
+  {
+   "t": 71170,
+   "team": "B",
+   "label": "fastyield:B07",
+   "source": "bk_cases_771.json",
+   "stateHash": "557294e412beae71",
+   "saveSha256": "67f0f3db0c902b32353c37d2c5133c9f042db65ac97ac375bea96e79b0584208",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      39.630062469098725,
+      50.48057699797534
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      38.250974930088645,
+      19.33260202064676
+     ],
+     "score": 1.2578620014451989
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "88f2a27a4865a58ee79feba252210e887bbd79f71d3bef33f9612cc136bdcbe7"
+   },
+   "saveFile": "l21_771_opp_71170.json"
+  },
+  {
+   "t": 82071,
+   "team": "A",
+   "label": "fastyield:A09",
+   "source": "bk_cases_771.json",
+   "stateHash": "d5b48f87d2bc9038",
+   "saveSha256": "865b402b92b42445f7b8d169ed7759e2d6cfa5f1c3d9be076dbd113df199cfc1",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      59.71328032313248,
+      65
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      78.81554543381782,
+      46.46535683023116
+     ],
+     "score": 1.044459308126192
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "ae9417a14067d86d7634a3e4da9dc5cc3f1c3195eed70ca38da39a197931c6cc"
+   },
+   "saveFile": "l21_771_opp_82071.json"
+  },
+  {
+   "t": 84823,
+   "team": "A",
+   "label": "fastyield:A06",
+   "source": "bk_cases_771.json",
+   "stateHash": "60c8b05f7030d15e",
+   "saveSha256": "c5ace54e839d2c71646f85759ff59328a89a1158d93b11e9e6e1e22501b784c3",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      64.96138727412105,
+      10.811171289488545
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      53.14162291777956,
+      0.3
+     ],
+     "score": 1.0472866342105172
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "664fbc132dc4e34b72ce2e526fd076bc6ce840f887ae94a893e082bad3781be9"
+   },
+   "saveFile": "l21_771_opp_84823.json"
+  },
+  {
+   "t": 90050,
+   "team": "A",
+   "label": "fastyield:A05",
+   "source": "bk_cases_771.json",
+   "stateHash": "2003e0281d5cf8ab",
+   "saveSha256": "952c749c7cfb5f112197fe9b3117a8630e7ab5f18cb34f5953a9368ebe2c1e6b",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      81.91290239472352,
+      39.74707466165978
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      74.06949797979311,
+      32.65890703839726
+     ],
+     "score": 1.6629809155941797
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "f5ba527b23d5b59c8a1311cad8054f2be6e66438781a53beca83a895e00480d5"
+   },
+   "saveFile": "l21_771_opp_90050.json"
+  },
+  {
+   "t": 103414,
+   "team": "A",
+   "label": "fastyield:A06",
+   "source": "bk_cases_771.json",
+   "stateHash": "fca6e58f64e4e140",
+   "saveSha256": "2e9b5f2ba8fcfcde805821de687cfb766185517ea6bb6e647c6a5f712d181b02",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      73.82001078287622,
+      22.67137090738734
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      64.66442499924973,
+      64.08174444741373
+     ],
+     "score": 1.4007481228843106
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "221ca4384149dbc1af3fdde28a2f1ed0d43d23bd98f621e2ffb3dd58cde6dcb2"
+   },
+   "saveFile": "l21_771_opp_103414.json"
+  },
+  {
+   "t": 105082,
+   "team": "B",
+   "label": "fastyield:B03",
+   "source": "bk_cases_771.json",
+   "stateHash": "72c6064c7d371db1",
+   "saveSha256": "2b0474e195b5c232bb213369999272122b9db83731ecd2d2d6db3cab8c62dc41",
+   "decision": {
+    "l21": {
+     "kind": "cover",
+     "target": [
+      3,
+      4.053387278349466
+     ],
+     "score": 0.65,
+     "reason": "private_shape_and_possession_hypothesis"
+    },
+    "k20": {
+     "kind": "receive",
+     "target": [
+      0.3,
+      48.1181386293476
+     ],
+     "score": 0.7078634227847302
+    },
+    "yieldReproduced": true,
+    "dtoSha256": "22ba7cf26cd1e92da460726d338951dab7cce14f18b65a6e1ff288b85207bea3"
+   },
+   "saveFile": "l21_771_opp_105082.json"
+  }
+ ]
+}
