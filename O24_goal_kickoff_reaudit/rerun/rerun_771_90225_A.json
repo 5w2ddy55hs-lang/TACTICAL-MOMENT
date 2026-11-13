@@ -1,0 +1,265 @@
+{
+ "seed": 771,
+ "trigger": {
+  "type": "change",
+  "t": 90225,
+  "team": "A",
+  "player": "A07"
+ },
+ "storedTrigger": {
+  "type": "change",
+  "t": 90225,
+  "team": "A",
+  "player": "A07"
+ },
+ "stateSha256": "1b41a48a36d825daaa6a08eeb76cf310ddf6fc6feabbd2b5e66742bff464e0eb",
+ "stateHash": "428a3af540efb3ee",
+ "node": "v22.23.4",
+ "engines": {
+  "base": {
+   "reproduced": true,
+   "got": {
+    "poss3": "none",
+    "poss6": "restart:A",
+    "restart": "kickoff:A",
+    "goals": [
+     {
+      "t": 90304,
+      "team": "B",
+      "own": false
+     }
+    ]
+   },
+   "stored": {
+    "poss3": "none",
+    "poss6": "restart:A",
+    "restart": "kickoff:A",
+    "goals": [
+     {
+      "t": 90304,
+      "team": "B",
+      "own": false
+     }
+    ]
+   },
+   "events": [
+    [
+     79,
+     "goal",
+     null,
+     null,
+     "B",
+     false
+    ],
+    [
+     79,
+     "restart_placement",
+     "kickoff",
+     "A10",
+     "A",
+     false
+    ]
+   ]
+  },
+  "k20": {
+   "reproduced": true,
+   "got": {
+    "poss3": "none",
+    "poss6": "A",
+    "restart": null,
+    "goals": []
+   },
+   "stored": {
+    "poss3": "none",
+    "poss6": "A",
+    "restart": null,
+    "goals": []
+   },
+   "events": [
+    [
+     72,
+     "kick",
+     "pass",
+     "A01",
+     "A",
+     true
+    ],
+    [
+     94,
+     "contact",
+     null,
+     "A06",
+     "A",
+     false
+    ]
+   ]
+  },
+  "l21": {
+   "reproduced": true,
+   "got": {
+    "poss3": "none",
+    "poss6": "restart:A",
+    "restart": "kickoff:A",
+    "goals": [
+     {
+      "t": 90304,
+      "team": "B",
+      "own": false
+     }
+    ]
+   },
+   "stored": {
+    "poss3": "none",
+    "poss6": "restart:A",
+    "restart": "kickoff:A",
+    "goals": [
+     {
+      "t": 90304,
+      "team": "B",
+      "own": false
+     }
+    ]
+   },
+   "events": [
+    [
+     79,
+     "goal",
+     null,
+     null,
+     "B",
+     false
+    ],
+    [
+     79,
+     "restart_placement",
+     "kickoff",
+     "A10",
+     "A",
+     false
+    ]
+   ],
+   "l21YieldsBeforeRestart": [
+    [
+     54,
+     "A01",
+     "receive->cover",
+     8.3
+    ],
+    [
+     54,
+     "A02",
+     "receive->cover",
+     7.7
+    ],
+    [
+     54,
+     "A05",
+     "receive->cover",
+     8.1
+    ],
+    [
+     54,
+     "A07",
+     "receive->cover",
+     4.6
+    ],
+    [
+     54,
+     "A09",
+     "receive->cover",
+     7.4
+    ],
+    [
+     54,
+     "A10",
+     "receive->cover",
+     13.4
+    ],
+    [
+     58,
+     "A01",
+     "receive->cover",
+     6.5
+    ],
+    [
+     58,
+     "A02",
+     "receive->cover",
+     6.6
+    ],
+    [
+     58,
+     "A05",
+     "receive->cover",
+     8
+    ],
+    [
+     58,
+     "A07",
+     "receive->cover",
+     4.5
+    ],
+    [
+     58,
+     "A09",
+     "receive->cover",
+     7.4
+    ],
+    [
+     58,
+     "A10",
+     "receive->cover",
+     13.3
+    ],
+    [
+     74,
+     "A02",
+     "receive->cover",
+     3.2
+    ],
+    [
+     74,
+     "A05",
+     "receive->cover",
+     7.3
+    ],
+    [
+     74,
+     "A07",
+     "receive->cover",
+     5
+    ],
+    [
+     74,
+     "A09",
+     "receive->cover",
+     8.7
+    ],
+    [
+     74,
+     "A10",
+     "receive->cover",
+     13.1
+    ],
+    [
+     78,
+     "A05",
+     "receive->cover",
+     7
+    ],
+    [
+     78,
+     "A07",
+     "receive->cover",
+     5.2
+    ],
+    [
+     78,
+     "A10",
+     "receive->cover",
+     12.9
+    ]
+   ]
+  }
+ }
+}

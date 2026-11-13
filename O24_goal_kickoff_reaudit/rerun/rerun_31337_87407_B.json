@@ -1,0 +1,315 @@
+{
+ "seed": 31337,
+ "trigger": {
+  "type": "change",
+  "t": 87407,
+  "team": "B",
+  "player": "B07"
+ },
+ "storedTrigger": {
+  "type": "change",
+  "t": 87407,
+  "team": "B",
+  "player": "B07"
+ },
+ "stateSha256": "2286160058ea435a2dda4669e5d8bb05d5a4e10efe9faf1ac1d19a44feab4e9f",
+ "stateHash": "0981ae87d9ea3234",
+ "node": "v22.23.4",
+ "engines": {
+  "base": {
+   "reproduced": true,
+   "got": {
+    "poss3": "none",
+    "poss6": "B",
+    "restart": null,
+    "goals": []
+   },
+   "stored": {
+    "poss3": "none",
+    "poss6": "B",
+    "restart": null,
+    "goals": []
+   },
+   "events": [
+    [
+     35,
+     "contact",
+     null,
+     "B00",
+     "B",
+     false
+    ],
+    [
+     52,
+     "contact",
+     null,
+     "A10",
+     "A",
+     false
+    ],
+    [
+     80,
+     "kick",
+     "pass",
+     "B01",
+     "B",
+     true
+    ]
+   ]
+  },
+  "k20": {
+   "reproduced": true,
+   "got": {
+    "poss3": "A",
+    "poss6": "restart:A",
+    "restart": "corner:A",
+    "goals": []
+   },
+   "stored": {
+    "poss3": "A",
+    "poss6": "restart:A",
+    "restart": "corner:A",
+    "goals": []
+   },
+   "events": [
+    [
+     35,
+     "contact",
+     null,
+     "B00",
+     "B",
+     false
+    ],
+    [
+     52,
+     "kick",
+     "shoot",
+     "A10",
+     "A",
+     true
+    ],
+    [
+     56,
+     "contact",
+     null,
+     "B00",
+     "B",
+     false
+    ],
+    [
+     66,
+     "contact",
+     null,
+     "A07",
+     "A",
+     true
+    ],
+    [
+     67,
+     "contact",
+     null,
+     "A07",
+     "A",
+     true
+    ],
+    [
+     67,
+     "contact",
+     null,
+     "A07",
+     "A",
+     true
+    ],
+    [
+     67,
+     "contact",
+     null,
+     "A07",
+     "A",
+     true
+    ],
+    [
+     67,
+     "contact",
+     null,
+     "A07",
+     "A",
+     true
+    ],
+    [
+     67,
+     "contact",
+     null,
+     "A07",
+     "A",
+     true
+    ],
+    [
+     68,
+     "kick",
+     "shoot",
+     "A07",
+     "A",
+     true
+    ],
+    [
+     73,
+     "contact",
+     null,
+     "B00",
+     "B",
+     false
+    ],
+    [
+     86,
+     "contact",
+     null,
+     "A10",
+     "A",
+     false
+    ],
+    [
+     92,
+     "kick",
+     "shoot",
+     "A07",
+     "A",
+     true
+    ],
+    [
+     92,
+     "contact",
+     null,
+     "B05",
+     "B",
+     false
+    ],
+    [
+     118,
+     "restart_placement",
+     "corner",
+     "A07",
+     "A",
+     false
+    ]
+   ]
+  },
+  "l21": {
+   "reproduced": true,
+   "got": {
+    "poss3": "A",
+    "poss6": "restart:B",
+    "restart": "kickoff:B",
+    "goals": [
+     {
+      "t": 87479,
+      "team": "A",
+      "own": true
+     }
+    ]
+   },
+   "stored": {
+    "poss3": "A",
+    "poss6": "restart:B",
+    "restart": "kickoff:B",
+    "goals": [
+     {
+      "t": 87479,
+      "team": "A",
+      "own": true
+     }
+    ]
+   },
+   "events": [
+    [
+     35,
+     "contact",
+     null,
+     "B00",
+     "B",
+     false
+    ],
+    [
+     52,
+     "kick",
+     "shoot",
+     "A10",
+     "A",
+     true
+    ],
+    [
+     56,
+     "contact",
+     null,
+     "B00",
+     "B",
+     false
+    ],
+    [
+     65,
+     "kick",
+     "shoot",
+     "A07",
+     "A",
+     true
+    ],
+    [
+     69,
+     "contact",
+     null,
+     "B00",
+     "B",
+     false
+    ],
+    [
+     72,
+     "goal",
+     null,
+     null,
+     "A",
+     false
+    ],
+    [
+     72,
+     "restart_placement",
+     "kickoff",
+     "B10",
+     "B",
+     false
+    ]
+   ],
+   "l21YieldsBeforeRestart": [
+    [
+     34,
+     "B01",
+     "receive->cover",
+     11.5
+    ],
+    [
+     34,
+     "B02",
+     "receive->cover",
+     9.4
+    ],
+    [
+     34,
+     "B05",
+     "receive->cover",
+     10.7
+    ],
+    [
+     50,
+     "A07",
+     "receive->cover",
+     1.8
+    ],
+    [
+     50,
+     "A09",
+     "receive->cover",
+     3.9
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "n": 1154,
+ "old": {
+  "喪失/喪失/喪失": 530,
+  "保持/保持/保持": 508,
+  "保持/喪失/喪失": 34,
+  "喪失/保持/保持": 30,
+  "保持/保持/喪失": 16,
+  "喪失/喪失/保持": 10,
+  "喪失/保持/喪失": 14,
+  "保持/喪失/保持": 12
+ },
+ "corrected": {
+  "喪失/喪失/喪失": 537,
+  "保持/保持/保持": 500,
+  "保持/喪失/喪失": 35,
+  "喪失/保持/保持": 30,
+  "保持/保持/喪失": 16,
+  "喪失/喪失/保持": 10,
+  "喪失/保持/喪失": 15,
+  "保持/喪失/保持": 11
+ },
+ "moved": [
+  {
+   "t": 34209,
+   "team": "B",
+   "old": "保持/保持/保持",
+   "corrected": "喪失/喪失/喪失",
+   "classes": {
+    "base": "GOAL_AGAINST",
+    "k20": "GOAL_AGAINST",
+    "l21": "GOAL_AGAINST"
+   }
+  },
+  {
+   "t": 42500,
+   "team": "B",
+   "old": "保持/保持/保持",
+   "corrected": "喪失/喪失/喪失",
+   "classes": {
+    "base": "GOAL_AGAINST",
+    "k20": "GOAL_AGAINST",
+    "l21": "GOAL_AGAINST"
+   }
+  },
+  {
+   "t": 88593,
+   "team": "B",
+   "old": "保持/保持/保持",
+   "corrected": "喪失/喪失/喪失",
+   "classes": {
+    "base": "GOAL_AGAINST",
+    "k20": "GOAL_AGAINST",
+    "l21": "GOAL_AGAINST"
+   }
+  },
+  {
+   "t": 90225,
+   "team": "A",
+   "old": "保持/保持/保持",
+   "corrected": "喪失/保持/喪失",
+   "classes": {
+    "base": "GOAL_AGAINST",
+    "k20": "CTRL_OWN",
+    "l21": "GOAL_AGAINST"
+   }
+  },
+  {
+   "t": 26987,
+   "team": "B",
+   "old": "保持/保持/保持",
+   "corrected": "喪失/喪失/喪失",
+   "classes": {
+    "base": "GOAL_AGAINST",
+    "k20": "GOAL_AGAINST",
+    "l21": "GOAL_AGAINST"
+   }
+  },
+  {
+   "t": 77569,
+   "team": "B",
+   "old": "保持/保持/保持",
+   "corrected": "喪失/喪失/喪失",
+   "classes": {
+    "base": "GOAL_AGAINST",
+    "k20": "GOAL_AGAINST",
+    "l21": "GOAL_AGAINST"
+   }
+  },
+  {
+   "t": 77625,
+   "team": "B",
+   "old": "保持/保持/保持",
+   "corrected": "喪失/喪失/喪失",
+   "classes": {
+    "base": "GOAL_AGAINST",
+    "k20": "GOAL_AGAINST",
+    "l21": "GOAL_AGAINST"
+   }
+  },
+  {
+   "t": 80202,
+   "team": "A",
+   "old": "保持/保持/保持",
+   "corrected": "喪失/喪失/喪失",
+   "classes": {
+    "base": "GOAL_AGAINST",
+    "k20": "GOAL_AGAINST",
+    "l21": "GOAL_AGAINST"
+   }
+  },
+  {
+   "t": 87407,
+   "team": "B",
+   "old": "保持/喪失/保持",
+   "corrected": "保持/喪失/喪失",
+   "classes": {
+    "base": "CTRL_OWN",
+    "k20": "RESTART_OPP",
+    "l21": "GOAL_AGAINST"
+   }
+  }
+ ]
+}

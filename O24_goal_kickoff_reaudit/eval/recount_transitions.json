@@ -1,0 +1,2564 @@
+{
+ "ck_off_1847": {
+  "validAgainstAnalysis": true,
+  "goals": 5,
+  "turnovers": 235,
+  "byLabel": {
+   "IN_PLAY": 200,
+   "AFTER_RESTART:throw_in": 17,
+   "AFTER_RESTART:goal_kick": 8,
+   "AFTER_RESTART:corner": 4,
+   "AFTER_GOAL": 5,
+   "AFTER_RESTART:dropped_ball": 1
+  },
+  "loserRegain2s": 87,
+  "transitionsShot10s": 14,
+  "afterGoal": {
+   "n": 5,
+   "wonByConcedingTeam": 5,
+   "loserRegain2s": 0,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 230,
+   "loserRegain2s": 87,
+   "transitionsShot10s": 14
+  },
+  "playSeconds": 1397.5,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 235,
+    "gs0": 1931,
+    "gs100": 1725
+   },
+   "corrected": {
+    "n": 230,
+    "gs0": 1882,
+    "gs100": 1693
+   },
+   "allPlay5s": {
+    "n": 170,
+    "gs0": 1431,
+    "gs100": 1291
+   },
+   "allPlay5sCorrected": {
+    "n": 166,
+    "gs0": 1392,
+    "gs100": 1263
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 200,
+   "loserRegain2s": 83,
+   "transitionsShot10s": 13
+  }
+ },
+ "ck_off_31337": {
+  "validAgainstAnalysis": true,
+  "goals": 16,
+  "turnovers": 681,
+  "byLabel": {
+   "IN_PLAY": 585,
+   "AFTER_RESTART:throw_in": 44,
+   "AFTER_RESTART:goal_kick": 17,
+   "AFTER_GOAL": 13,
+   "AFTER_RESTART:corner": 18,
+   "AFTER_RESTART:dropped_ball": 2,
+   "AFTER_RESTART:kickoff": 1,
+   "AFTER_RESTART:direct_free_kick": 1
+  },
+  "loserRegain2s": 265,
+  "transitionsShot10s": 50,
+  "afterGoal": {
+   "n": 13,
+   "wonByConcedingTeam": 13,
+   "loserRegain2s": 1,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 668,
+   "loserRegain2s": 264,
+   "transitionsShot10s": 50
+  },
+  "playSeconds": 4157.75,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 681,
+    "gs0": 5621,
+    "gs100": 4998
+   },
+   "corrected": {
+    "n": 668,
+    "gs0": 5491,
+    "gs100": 4907
+   },
+   "allPlay5s": {
+    "n": 508,
+    "gs0": 4293,
+    "gs100": 3827
+   },
+   "allPlay5sCorrected": {
+    "n": 503,
+    "gs0": 4243,
+    "gs100": 3795
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 585,
+   "loserRegain2s": 255,
+   "transitionsShot10s": 45
+  }
+ },
+ "ck_off_600613": {
+  "validAgainstAnalysis": true,
+  "goals": 17,
+  "turnovers": 655,
+  "byLabel": {
+   "IN_PLAY": 565,
+   "AFTER_RESTART:throw_in": 59,
+   "AFTER_GOAL": 16,
+   "AFTER_RESTART:corner": 9,
+   "AFTER_RESTART:goal_kick": 5,
+   "AFTER_RESTART:indirect_free_kick": 1
+  },
+  "loserRegain2s": 244,
+  "transitionsShot10s": 37,
+  "afterGoal": {
+   "n": 16,
+   "wonByConcedingTeam": 16,
+   "loserRegain2s": 1,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 639,
+   "loserRegain2s": 243,
+   "transitionsShot10s": 37
+  },
+  "playSeconds": 4093.7,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 655,
+    "gs0": 5467,
+    "gs100": 4838
+   },
+   "corrected": {
+    "n": 639,
+    "gs0": 5310,
+    "gs100": 4725
+   },
+   "allPlay5s": {
+    "n": 471,
+    "gs0": 4014,
+    "gs100": 3527
+   },
+   "allPlay5sCorrected": {
+    "n": 462,
+    "gs0": 3926,
+    "gs100": 3460
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 565,
+   "loserRegain2s": 229,
+   "transitionsShot10s": 32
+  }
+ },
+ "ck_off_771": {
+  "validAgainstAnalysis": true,
+  "goals": 10,
+  "turnovers": 400,
+  "byLabel": {
+   "IN_PLAY": 339,
+   "AFTER_RESTART:throw_in": 29,
+   "AFTER_RESTART:goal_kick": 7,
+   "AFTER_RESTART:corner": 10,
+   "AFTER_GOAL": 10,
+   "AFTER_RESTART:dropped_ball": 5
+  },
+  "loserRegain2s": 135,
+  "transitionsShot10s": 14,
+  "afterGoal": {
+   "n": 10,
+   "wonByConcedingTeam": 10,
+   "loserRegain2s": 0,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 390,
+   "loserRegain2s": 135,
+   "transitionsShot10s": 14
+  },
+  "playSeconds": 2258.45,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 400,
+    "gs0": 3307,
+    "gs100": 3002
+   },
+   "corrected": {
+    "n": 390,
+    "gs0": 3208,
+    "gs100": 2930
+   },
+   "allPlay5s": {
+    "n": 307,
+    "gs0": 2596,
+    "gs100": 2341
+   },
+   "allPlay5sCorrected": {
+    "n": 301,
+    "gs0": 2537,
+    "gs100": 2297
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 339,
+   "loserRegain2s": 127,
+   "transitionsShot10s": 11
+  }
+ },
+ "ck_off_8081": {
+  "validAgainstAnalysis": true,
+  "goals": 5,
+  "turnovers": 388,
+  "byLabel": {
+   "IN_PLAY": 329,
+   "AFTER_RESTART:goal_kick": 10,
+   "AFTER_RESTART:dropped_ball": 3,
+   "AFTER_RESTART:throw_in": 36,
+   "AFTER_RESTART:corner": 6,
+   "AFTER_GOAL": 4
+  },
+  "loserRegain2s": 153,
+  "transitionsShot10s": 19,
+  "afterGoal": {
+   "n": 4,
+   "wonByConcedingTeam": 4,
+   "loserRegain2s": 0,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 384,
+   "loserRegain2s": 153,
+   "transitionsShot10s": 19
+  },
+  "playSeconds": 2466.45,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 388,
+    "gs0": 3237,
+    "gs100": 2873
+   },
+   "corrected": {
+    "n": 384,
+    "gs0": 3198,
+    "gs100": 2844
+   },
+   "allPlay5s": {
+    "n": 294,
+    "gs0": 2478,
+    "gs100": 2210
+   },
+   "allPlay5sCorrected": {
+    "n": 293,
+    "gs0": 2468,
+    "gs100": 2202
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 329,
+   "loserRegain2s": 143,
+   "transitionsShot10s": 16
+  }
+ },
+ "std_off_1847": {
+  "validAgainstAnalysis": true,
+  "goals": 12,
+  "turnovers": 753,
+  "byLabel": {
+   "IN_PLAY": 639,
+   "AFTER_RESTART:throw_in": 56,
+   "AFTER_RESTART:goal_kick": 34,
+   "AFTER_GOAL": 9,
+   "AFTER_RESTART:corner": 12,
+   "AFTER_RESTART:dropped_ball": 3
+  },
+  "loserRegain2s": 311,
+  "transitionsShot10s": 37,
+  "afterGoal": {
+   "n": 9,
+   "wonByConcedingTeam": 8,
+   "loserRegain2s": 4,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 744,
+   "loserRegain2s": 307,
+   "transitionsShot10s": 37
+  },
+  "playSeconds": 4308.95,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 753,
+    "gs0": 6292,
+    "gs100": 5701
+   },
+   "corrected": {
+    "n": 744,
+    "gs0": 6203,
+    "gs100": 5641
+   },
+   "allPlay5s": {
+    "n": 556,
+    "gs0": 4707,
+    "gs100": 4295
+   },
+   "allPlay5sCorrected": {
+    "n": 549,
+    "gs0": 4638,
+    "gs100": 4245
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 639,
+   "loserRegain2s": 292,
+   "transitionsShot10s": 33
+  }
+ },
+ "std_off_31337": {
+  "validAgainstAnalysis": true,
+  "goals": 17,
+  "turnovers": 679,
+  "byLabel": {
+   "IN_PLAY": 571,
+   "AFTER_RESTART:throw_in": 49,
+   "AFTER_RESTART:corner": 10,
+   "AFTER_GOAL": 13,
+   "AFTER_RESTART:goal_kick": 34,
+   "AFTER_RESTART:dropped_ball": 2
+  },
+  "loserRegain2s": 258,
+  "transitionsShot10s": 33,
+  "afterGoal": {
+   "n": 13,
+   "wonByConcedingTeam": 10,
+   "loserRegain2s": 0,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 666,
+   "loserRegain2s": 258,
+   "transitionsShot10s": 33
+  },
+  "playSeconds": 4203.65,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 679,
+    "gs0": 5673,
+    "gs100": 5093
+   },
+   "corrected": {
+    "n": 666,
+    "gs0": 5549,
+    "gs100": 5001
+   },
+   "allPlay5s": {
+    "n": 506,
+    "gs0": 4275,
+    "gs100": 3858
+   },
+   "allPlay5sCorrected": {
+    "n": 501,
+    "gs0": 4225,
+    "gs100": 3821
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 571,
+   "loserRegain2s": 250,
+   "transitionsShot10s": 28
+  }
+ },
+ "std_off_4049_koB": {
+  "validAgainstAnalysis": true,
+  "goals": 10,
+  "turnovers": 706,
+  "byLabel": {
+   "AFTER_RESTART:corner": 13,
+   "IN_PLAY": 602,
+   "AFTER_GOAL": 8,
+   "AFTER_RESTART:throw_in": 55,
+   "AFTER_RESTART:goal_kick": 24,
+   "AFTER_RESTART:dropped_ball": 4
+  },
+  "loserRegain2s": 255,
+  "transitionsShot10s": 47,
+  "afterGoal": {
+   "n": 8,
+   "wonByConcedingTeam": 8,
+   "loserRegain2s": 0,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 698,
+   "loserRegain2s": 255,
+   "transitionsShot10s": 47
+  },
+  "playSeconds": 4430.15,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 706,
+    "gs0": 5945,
+    "gs100": 5232
+   },
+   "corrected": {
+    "n": 698,
+    "gs0": 5867,
+    "gs100": 5175
+   },
+   "allPlay5s": {
+    "n": 530,
+    "gs0": 4515,
+    "gs100": 3955
+   },
+   "allPlay5sCorrected": {
+    "n": 524,
+    "gs0": 4456,
+    "gs100": 3910
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 602,
+   "loserRegain2s": 243,
+   "transitionsShot10s": 42
+  }
+ },
+ "std_off_600613": {
+  "validAgainstAnalysis": true,
+  "goals": 18,
+  "turnovers": 707,
+  "byLabel": {
+   "IN_PLAY": 614,
+   "AFTER_RESTART:throw_in": 44,
+   "AFTER_GOAL": 12,
+   "AFTER_RESTART:goal_kick": 30,
+   "AFTER_RESTART:corner": 5,
+   "AFTER_RESTART:dropped_ball": 2
+  },
+  "loserRegain2s": 270,
+  "transitionsShot10s": 28,
+  "afterGoal": {
+   "n": 12,
+   "wonByConcedingTeam": 12,
+   "loserRegain2s": 2,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 695,
+   "loserRegain2s": 268,
+   "transitionsShot10s": 28
+  },
+  "playSeconds": 4385.8,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 707,
+    "gs0": 5892,
+    "gs100": 5284
+   },
+   "corrected": {
+    "n": 695,
+    "gs0": 5772,
+    "gs100": 5193
+   },
+   "allPlay5s": {
+    "n": 540,
+    "gs0": 4546,
+    "gs100": 4051
+   },
+   "allPlay5sCorrected": {
+    "n": 533,
+    "gs0": 4476,
+    "gs100": 3998
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 614,
+   "loserRegain2s": 258,
+   "transitionsShot10s": 24
+  }
+ },
+ "std_off_771": {
+  "validAgainstAnalysis": true,
+  "goals": 15,
+  "turnovers": 695,
+  "byLabel": {
+   "IN_PLAY": 602,
+   "AFTER_RESTART:throw_in": 47,
+   "AFTER_RESTART:goal_kick": 22,
+   "AFTER_RESTART:corner": 10,
+   "AFTER_GOAL": 11,
+   "AFTER_RESTART:dropped_ball": 3
+  },
+  "loserRegain2s": 267,
+  "transitionsShot10s": 27,
+  "afterGoal": {
+   "n": 11,
+   "wonByConcedingTeam": 11,
+   "loserRegain2s": 1,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 684,
+   "loserRegain2s": 266,
+   "transitionsShot10s": 27
+  },
+  "playSeconds": 4339.2,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 695,
+    "gs0": 5870,
+    "gs100": 5315
+   },
+   "corrected": {
+    "n": 684,
+    "gs0": 5763,
+    "gs100": 5237
+   },
+   "allPlay5s": {
+    "n": 511,
+    "gs0": 4366,
+    "gs100": 3945
+   },
+   "allPlay5sCorrected": {
+    "n": 507,
+    "gs0": 4327,
+    "gs100": 3918
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 602,
+   "loserRegain2s": 256,
+   "transitionsShot10s": 26
+  }
+ },
+ "std_off_8081": {
+  "validAgainstAnalysis": true,
+  "goals": 15,
+  "turnovers": 731,
+  "byLabel": {
+   "IN_PLAY": 622,
+   "AFTER_RESTART:goal_kick": 25,
+   "AFTER_RESTART:throw_in": 56,
+   "AFTER_RESTART:corner": 13,
+   "AFTER_GOAL": 12,
+   "AFTER_RESTART:dropped_ball": 3
+  },
+  "loserRegain2s": 269,
+  "transitionsShot10s": 42,
+  "afterGoal": {
+   "n": 12,
+   "wonByConcedingTeam": 12,
+   "loserRegain2s": 2,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 719,
+   "loserRegain2s": 267,
+   "transitionsShot10s": 42
+  },
+  "playSeconds": 4321.35,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 731,
+    "gs0": 6094,
+    "gs100": 5464
+   },
+   "corrected": {
+    "n": 719,
+    "gs0": 5975,
+    "gs100": 5376
+   },
+   "allPlay5s": {
+    "n": 562,
+    "gs0": 4719,
+    "gs100": 4217
+   },
+   "allPlay5sCorrected": {
+    "n": 554,
+    "gs0": 4640,
+    "gs100": 4156
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 622,
+   "loserRegain2s": 262,
+   "transitionsShot10s": 39
+  }
+ },
+ "std_on_1847": {
+  "validAgainstAnalysis": true,
+  "goals": 8,
+  "turnovers": 621,
+  "byLabel": {
+   "IN_PLAY": 524,
+   "AFTER_RESTART:corner": 12,
+   "AFTER_RESTART:throw_in": 56,
+   "AFTER_RESTART:goal_kick": 17,
+   "AFTER_RESTART:dropped_ball": 7,
+   "AFTER_GOAL": 5
+  },
+  "loserRegain2s": 227,
+  "transitionsShot10s": 22,
+  "afterGoal": {
+   "n": 5,
+   "wonByConcedingTeam": 5,
+   "loserRegain2s": 2,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 616,
+   "loserRegain2s": 225,
+   "transitionsShot10s": 22
+  },
+  "playSeconds": 4370.95,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 621,
+    "gs0": 5165,
+    "gs100": 4611
+   },
+   "corrected": {
+    "n": 616,
+    "gs0": 5115,
+    "gs100": 4571
+   },
+   "allPlay5s": {
+    "n": 437,
+    "gs0": 3739,
+    "gs100": 3311
+   },
+   "allPlay5sCorrected": {
+    "n": 433,
+    "gs0": 3699,
+    "gs100": 3279
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 524,
+   "loserRegain2s": 215,
+   "transitionsShot10s": 22
+  }
+ },
+ "std_on_31337": {
+  "validAgainstAnalysis": true,
+  "goals": 8,
+  "turnovers": 603,
+  "byLabel": {
+   "IN_PLAY": 494,
+   "AFTER_GOAL": 7,
+   "AFTER_RESTART:goal_kick": 25,
+   "AFTER_RESTART:throw_in": 59,
+   "AFTER_RESTART:corner": 15,
+   "AFTER_RESTART:dropped_ball": 3
+  },
+  "loserRegain2s": 208,
+  "transitionsShot10s": 36,
+  "afterGoal": {
+   "n": 7,
+   "wonByConcedingTeam": 7,
+   "loserRegain2s": 0,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 596,
+   "loserRegain2s": 208,
+   "transitionsShot10s": 36
+  },
+  "playSeconds": 4341.25,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 603,
+    "gs0": 5033,
+    "gs100": 4549
+   },
+   "corrected": {
+    "n": 596,
+    "gs0": 4963,
+    "gs100": 4498
+   },
+   "allPlay5s": {
+    "n": 433,
+    "gs0": 3668,
+    "gs100": 3349
+   },
+   "allPlay5sCorrected": {
+    "n": 429,
+    "gs0": 3628,
+    "gs100": 3318
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 494,
+   "loserRegain2s": 196,
+   "transitionsShot10s": 34
+  }
+ },
+ "std_on_4049_koB": {
+  "validAgainstAnalysis": true,
+  "goals": 6,
+  "turnovers": 573,
+  "byLabel": {
+   "IN_PLAY": 487,
+   "AFTER_RESTART:throw_in": 47,
+   "AFTER_RESTART:goal_kick": 23,
+   "AFTER_GOAL": 5,
+   "AFTER_RESTART:corner": 8,
+   "AFTER_RESTART:dropped_ball": 3
+  },
+  "loserRegain2s": 194,
+  "transitionsShot10s": 32,
+  "afterGoal": {
+   "n": 5,
+   "wonByConcedingTeam": 5,
+   "loserRegain2s": 1,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 568,
+   "loserRegain2s": 193,
+   "transitionsShot10s": 32
+  },
+  "playSeconds": 4410.2,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 573,
+    "gs0": 4777,
+    "gs100": 4279
+   },
+   "corrected": {
+    "n": 568,
+    "gs0": 4727,
+    "gs100": 4247
+   },
+   "allPlay5s": {
+    "n": 444,
+    "gs0": 3707,
+    "gs100": 3344
+   },
+   "allPlay5sCorrected": {
+    "n": 441,
+    "gs0": 3677,
+    "gs100": 3326
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 487,
+   "loserRegain2s": 186,
+   "transitionsShot10s": 30
+  }
+ },
+ "std_on_600613": {
+  "validAgainstAnalysis": true,
+  "goals": 17,
+  "turnovers": 659,
+  "byLabel": {
+   "AFTER_RESTART:throw_in": 56,
+   "IN_PLAY": 543,
+   "AFTER_RESTART:dropped_ball": 2,
+   "AFTER_RESTART:goal_kick": 28,
+   "AFTER_RESTART:corner": 13,
+   "AFTER_GOAL": 15,
+   "AFTER_RESTART:kickoff": 1,
+   "AFTER_RESTART:direct_free_kick": 1
+  },
+  "loserRegain2s": 242,
+  "transitionsShot10s": 37,
+  "afterGoal": {
+   "n": 15,
+   "wonByConcedingTeam": 15,
+   "loserRegain2s": 2,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 644,
+   "loserRegain2s": 240,
+   "transitionsShot10s": 37
+  },
+  "playSeconds": 4268.4,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 659,
+    "gs0": 5462,
+    "gs100": 4879
+   },
+   "corrected": {
+    "n": 644,
+    "gs0": 5312,
+    "gs100": 4771
+   },
+   "allPlay5s": {
+    "n": 455,
+    "gs0": 3832,
+    "gs100": 3391
+   },
+   "allPlay5sCorrected": {
+    "n": 443,
+    "gs0": 3712,
+    "gs100": 3304
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 543,
+   "loserRegain2s": 226,
+   "transitionsShot10s": 35
+  }
+ },
+ "std_on_771": {
+  "validAgainstAnalysis": true,
+  "goals": 13,
+  "turnovers": 621,
+  "byLabel": {
+   "AFTER_RESTART:throw_in": 44,
+   "IN_PLAY": 519,
+   "AFTER_RESTART:goal_kick": 24,
+   "AFTER_RESTART:dropped_ball": 2,
+   "AFTER_GOAL": 12,
+   "AFTER_RESTART:indirect_free_kick": 1,
+   "AFTER_RESTART:corner": 19
+  },
+  "loserRegain2s": 212,
+  "transitionsShot10s": 44,
+  "afterGoal": {
+   "n": 12,
+   "wonByConcedingTeam": 12,
+   "loserRegain2s": 2,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 609,
+   "loserRegain2s": 210,
+   "transitionsShot10s": 44
+  },
+  "playSeconds": 4302,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 621,
+    "gs0": 5169,
+    "gs100": 4616
+   },
+   "corrected": {
+    "n": 609,
+    "gs0": 5049,
+    "gs100": 4530
+   },
+   "allPlay5s": {
+    "n": 436,
+    "gs0": 3704,
+    "gs100": 3291
+   },
+   "allPlay5sCorrected": {
+    "n": 428,
+    "gs0": 3624,
+    "gs100": 3234
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 519,
+   "loserRegain2s": 201,
+   "transitionsShot10s": 41
+  }
+ },
+ "std_on_8081": {
+  "validAgainstAnalysis": true,
+  "goals": 8,
+  "turnovers": 593,
+  "byLabel": {
+   "IN_PLAY": 492,
+   "AFTER_RESTART:throw_in": 52,
+   "AFTER_RESTART:goal_kick": 28,
+   "AFTER_GOAL": 8,
+   "AFTER_RESTART:corner": 9,
+   "AFTER_RESTART:dropped_ball": 3,
+   "AFTER_RESTART:kickoff": 1
+  },
+  "loserRegain2s": 208,
+  "transitionsShot10s": 32,
+  "afterGoal": {
+   "n": 8,
+   "wonByConcedingTeam": 8,
+   "loserRegain2s": 1,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 585,
+   "loserRegain2s": 207,
+   "transitionsShot10s": 32
+  },
+  "playSeconds": 4317.15,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 593,
+    "gs0": 4971,
+    "gs100": 4447
+   },
+   "corrected": {
+    "n": 585,
+    "gs0": 4891,
+    "gs100": 4390
+   },
+   "allPlay5s": {
+    "n": 408,
+    "gs0": 3461,
+    "gs100": 3072
+   },
+   "allPlay5sCorrected": {
+    "n": 402,
+    "gs0": 3401,
+    "gs100": 3029
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 492,
+   "loserRegain2s": 195,
+   "transitionsShot10s": 30
+  }
+ },
+ "i18_1847": {
+  "validAgainstAnalysis": true,
+  "goals": 13,
+  "turnovers": 608,
+  "byLabel": {
+   "IN_PLAY": 494,
+   "AFTER_RESTART:throw_in": 56,
+   "AFTER_RESTART:goal_kick": 31,
+   "AFTER_RESTART:dropped_ball": 2,
+   "AFTER_RESTART:corner": 13,
+   "AFTER_GOAL": 11,
+   "AFTER_RESTART:kickoff": 1
+  },
+  "loserRegain2s": 192,
+  "transitionsShot10s": 22,
+  "afterGoal": {
+   "n": 11,
+   "wonByConcedingTeam": 11,
+   "loserRegain2s": 1,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 597,
+   "loserRegain2s": 191,
+   "transitionsShot10s": 22
+  },
+  "playSeconds": 4214.5,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 608,
+    "gs0": 5129,
+    "gs100": 4542
+   },
+   "corrected": {
+    "n": 597,
+    "gs0": 5019,
+    "gs100": 4452
+   },
+   "allPlay5s": {
+    "n": 416,
+    "gs0": 3559,
+    "gs100": 3152
+   },
+   "allPlay5sCorrected": {
+    "n": 412,
+    "gs0": 3519,
+    "gs100": 3121
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 494,
+   "loserRegain2s": 180,
+   "transitionsShot10s": 17
+  }
+ },
+ "i18_31337": {
+  "validAgainstAnalysis": true,
+  "goals": 16,
+  "turnovers": 632,
+  "byLabel": {
+   "AFTER_RESTART:corner": 21,
+   "AFTER_RESTART:throw_in": 50,
+   "IN_PLAY": 522,
+   "AFTER_RESTART:goal_kick": 28,
+   "AFTER_GOAL": 10,
+   "AFTER_RESTART:dropped_ball": 1
+  },
+  "loserRegain2s": 226,
+  "transitionsShot10s": 42,
+  "afterGoal": {
+   "n": 10,
+   "wonByConcedingTeam": 9,
+   "loserRegain2s": 1,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 622,
+   "loserRegain2s": 225,
+   "transitionsShot10s": 42
+  },
+  "playSeconds": 4198.75,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 632,
+    "gs0": 5288,
+    "gs100": 4679
+   },
+   "corrected": {
+    "n": 622,
+    "gs0": 5191,
+    "gs100": 4602
+   },
+   "allPlay5s": {
+    "n": 439,
+    "gs0": 3707,
+    "gs100": 3283
+   },
+   "allPlay5sCorrected": {
+    "n": 434,
+    "gs0": 3657,
+    "gs100": 3246
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 522,
+   "loserRegain2s": 215,
+   "transitionsShot10s": 41
+  }
+ },
+ "i18_4049_koB": {
+  "validAgainstAnalysis": true,
+  "goals": 15,
+  "turnovers": 675,
+  "byLabel": {
+   "AFTER_RESTART:goal_kick": 33,
+   "IN_PLAY": 554,
+   "AFTER_GOAL": 14,
+   "AFTER_RESTART:throw_in": 61,
+   "AFTER_RESTART:corner": 11,
+   "AFTER_RESTART:dropped_ball": 2
+  },
+  "loserRegain2s": 237,
+  "transitionsShot10s": 45,
+  "afterGoal": {
+   "n": 14,
+   "wonByConcedingTeam": 13,
+   "loserRegain2s": 5,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 661,
+   "loserRegain2s": 232,
+   "transitionsShot10s": 45
+  },
+  "playSeconds": 4288.85,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 675,
+    "gs0": 5575,
+    "gs100": 4967
+   },
+   "corrected": {
+    "n": 661,
+    "gs0": 5436,
+    "gs100": 4856
+   },
+   "allPlay5s": {
+    "n": 478,
+    "gs0": 4024,
+    "gs100": 3563
+   },
+   "allPlay5sCorrected": {
+    "n": 472,
+    "gs0": 3965,
+    "gs100": 3511
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 554,
+   "loserRegain2s": 217,
+   "transitionsShot10s": 40
+  }
+ },
+ "i18_600613": {
+  "validAgainstAnalysis": true,
+  "goals": 17,
+  "turnovers": 674,
+  "byLabel": {
+   "IN_PLAY": 569,
+   "AFTER_RESTART:goal_kick": 36,
+   "AFTER_RESTART:dropped_ball": 2,
+   "AFTER_RESTART:throw_in": 39,
+   "AFTER_RESTART:corner": 13,
+   "AFTER_GOAL": 14,
+   "AFTER_RESTART:kickoff": 1
+  },
+  "loserRegain2s": 247,
+  "transitionsShot10s": 33,
+  "afterGoal": {
+   "n": 14,
+   "wonByConcedingTeam": 13,
+   "loserRegain2s": 2,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 660,
+   "loserRegain2s": 245,
+   "transitionsShot10s": 33
+  },
+  "playSeconds": 4171.15,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 674,
+    "gs0": 5628,
+    "gs100": 4988
+   },
+   "corrected": {
+    "n": 660,
+    "gs0": 5491,
+    "gs100": 4881
+   },
+   "allPlay5s": {
+    "n": 480,
+    "gs0": 4091,
+    "gs100": 3572
+   },
+   "allPlay5sCorrected": {
+    "n": 473,
+    "gs0": 4022,
+    "gs100": 3515
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 569,
+   "loserRegain2s": 228,
+   "transitionsShot10s": 27
+  }
+ },
+ "i18_771": {
+  "validAgainstAnalysis": true,
+  "goals": 15,
+  "turnovers": 728,
+  "byLabel": {
+   "IN_PLAY": 625,
+   "AFTER_RESTART:throw_in": 53,
+   "AFTER_GOAL": 10,
+   "AFTER_RESTART:goal_kick": 27,
+   "AFTER_RESTART:corner": 10,
+   "AFTER_RESTART:kickoff": 1,
+   "AFTER_RESTART:direct_free_kick": 1,
+   "AFTER_RESTART:dropped_ball": 1
+  },
+  "loserRegain2s": 290,
+  "transitionsShot10s": 26,
+  "afterGoal": {
+   "n": 10,
+   "wonByConcedingTeam": 10,
+   "loserRegain2s": 1,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 718,
+   "loserRegain2s": 289,
+   "transitionsShot10s": 26
+  },
+  "playSeconds": 4349.4,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 728,
+    "gs0": 6118,
+    "gs100": 5450
+   },
+   "corrected": {
+    "n": 718,
+    "gs0": 6019,
+    "gs100": 5371
+   },
+   "allPlay5s": {
+    "n": 557,
+    "gs0": 4668,
+    "gs100": 4162
+   },
+   "allPlay5sCorrected": {
+    "n": 553,
+    "gs0": 4629,
+    "gs100": 4133
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 625,
+   "loserRegain2s": 271,
+   "transitionsShot10s": 24
+  }
+ },
+ "i18_8081": {
+  "validAgainstAnalysis": true,
+  "goals": 16,
+  "turnovers": 560,
+  "byLabel": {
+   "IN_PLAY": 455,
+   "AFTER_RESTART:throw_in": 52,
+   "AFTER_RESTART:goal_kick": 23,
+   "AFTER_GOAL": 14,
+   "AFTER_RESTART:corner": 13,
+   "AFTER_RESTART:dropped_ball": 3
+  },
+  "loserRegain2s": 174,
+  "transitionsShot10s": 40,
+  "afterGoal": {
+   "n": 14,
+   "wonByConcedingTeam": 14,
+   "loserRegain2s": 0,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 546,
+   "loserRegain2s": 174,
+   "transitionsShot10s": 40
+  },
+  "playSeconds": 4198.1,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 560,
+    "gs0": 4690,
+    "gs100": 4168
+   },
+   "corrected": {
+    "n": 546,
+    "gs0": 4552,
+    "gs100": 4064
+   },
+   "allPlay5s": {
+    "n": 390,
+    "gs0": 3301,
+    "gs100": 2882
+   },
+   "allPlay5sCorrected": {
+    "n": 382,
+    "gs0": 3223,
+    "gs100": 2825
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 455,
+   "loserRegain2s": 161,
+   "transitionsShot10s": 40
+  }
+ },
+ "j19_1847": {
+  "validAgainstAnalysis": true,
+  "goals": 16,
+  "turnovers": 735,
+  "byLabel": {
+   "IN_PLAY": 629,
+   "AFTER_RESTART:goal_kick": 26,
+   "AFTER_RESTART:throw_in": 47,
+   "AFTER_RESTART:corner": 20,
+   "AFTER_GOAL": 11,
+   "AFTER_RESTART:indirect_free_kick": 1,
+   "AFTER_RESTART:kickoff": 1
+  },
+  "loserRegain2s": 290,
+  "transitionsShot10s": 50,
+  "afterGoal": {
+   "n": 11,
+   "wonByConcedingTeam": 11,
+   "loserRegain2s": 1,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 724,
+   "loserRegain2s": 289,
+   "transitionsShot10s": 50
+  },
+  "playSeconds": 4352.85,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 735,
+    "gs0": 6161,
+    "gs100": 5503
+   },
+   "corrected": {
+    "n": 724,
+    "gs0": 6055,
+    "gs100": 5424
+   },
+   "allPlay5s": {
+    "n": 552,
+    "gs0": 4665,
+    "gs100": 4157
+   },
+   "allPlay5sCorrected": {
+    "n": 548,
+    "gs0": 4625,
+    "gs100": 4128
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 629,
+   "loserRegain2s": 279,
+   "transitionsShot10s": 48
+  }
+ },
+ "j19_31337": {
+  "validAgainstAnalysis": true,
+  "goals": 6,
+  "turnovers": 751,
+  "byLabel": {
+   "IN_PLAY": 647,
+   "AFTER_RESTART:throw_in": 55,
+   "AFTER_RESTART:corner": 16,
+   "AFTER_RESTART:goal_kick": 23,
+   "AFTER_RESTART:dropped_ball": 4,
+   "AFTER_GOAL": 5,
+   "AFTER_RESTART:kickoff": 1
+  },
+  "loserRegain2s": 308,
+  "transitionsShot10s": 35,
+  "afterGoal": {
+   "n": 5,
+   "wonByConcedingTeam": 5,
+   "loserRegain2s": 0,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 746,
+   "loserRegain2s": 308,
+   "transitionsShot10s": 35
+  },
+  "playSeconds": 4360,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 751,
+    "gs0": 6248,
+    "gs100": 5624
+   },
+   "corrected": {
+    "n": 746,
+    "gs0": 6200,
+    "gs100": 5590
+   },
+   "allPlay5s": {
+    "n": 559,
+    "gs0": 4698,
+    "gs100": 4236
+   },
+   "allPlay5sCorrected": {
+    "n": 555,
+    "gs0": 4659,
+    "gs100": 4209
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 647,
+   "loserRegain2s": 294,
+   "transitionsShot10s": 32
+  }
+ },
+ "j19_4049_koB": {
+  "validAgainstAnalysis": true,
+  "goals": 9,
+  "turnovers": 743,
+  "byLabel": {
+   "IN_PLAY": 643,
+   "AFTER_RESTART:goal_kick": 26,
+   "AFTER_RESTART:throw_in": 56,
+   "AFTER_GOAL": 6,
+   "AFTER_RESTART:corner": 10,
+   "AFTER_RESTART:kickoff": 1,
+   "AFTER_RESTART:dropped_ball": 1
+  },
+  "loserRegain2s": 298,
+  "transitionsShot10s": 26,
+  "afterGoal": {
+   "n": 6,
+   "wonByConcedingTeam": 6,
+   "loserRegain2s": 0,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 737,
+   "loserRegain2s": 298,
+   "transitionsShot10s": 26
+  },
+  "playSeconds": 4328.05,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 743,
+    "gs0": 6217,
+    "gs100": 5547
+   },
+   "corrected": {
+    "n": 737,
+    "gs0": 6157,
+    "gs100": 5506
+   },
+   "allPlay5s": {
+    "n": 597,
+    "gs0": 5017,
+    "gs100": 4456
+   },
+   "allPlay5sCorrected": {
+    "n": 594,
+    "gs0": 4987,
+    "gs100": 4436
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 643,
+   "loserRegain2s": 287,
+   "transitionsShot10s": 24
+  }
+ },
+ "j19_600613": {
+  "validAgainstAnalysis": true,
+  "goals": 11,
+  "turnovers": 772,
+  "byLabel": {
+   "IN_PLAY": 660,
+   "AFTER_RESTART:throw_in": 54,
+   "AFTER_RESTART:goal_kick": 31,
+   "AFTER_RESTART:corner": 16,
+   "AFTER_GOAL": 8,
+   "AFTER_RESTART:dropped_ball": 3
+  },
+  "loserRegain2s": 314,
+  "transitionsShot10s": 44,
+  "afterGoal": {
+   "n": 8,
+   "wonByConcedingTeam": 8,
+   "loserRegain2s": 1,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 764,
+   "loserRegain2s": 313,
+   "transitionsShot10s": 44
+  },
+  "playSeconds": 4326.15,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 772,
+    "gs0": 6312,
+    "gs100": 5712
+   },
+   "corrected": {
+    "n": 764,
+    "gs0": 6233,
+    "gs100": 5659
+   },
+   "allPlay5s": {
+    "n": 565,
+    "gs0": 4648,
+    "gs100": 4255
+   },
+   "allPlay5sCorrected": {
+    "n": 562,
+    "gs0": 4619,
+    "gs100": 4237
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 660,
+   "loserRegain2s": 300,
+   "transitionsShot10s": 38
+  }
+ },
+ "j19_771": {
+  "validAgainstAnalysis": true,
+  "goals": 17,
+  "turnovers": 670,
+  "byLabel": {
+   "IN_PLAY": 561,
+   "AFTER_RESTART:throw_in": 45,
+   "AFTER_RESTART:goal_kick": 37,
+   "AFTER_RESTART:corner": 7,
+   "AFTER_GOAL": 17,
+   "AFTER_RESTART:dropped_ball": 3
+  },
+  "loserRegain2s": 240,
+  "transitionsShot10s": 29,
+  "afterGoal": {
+   "n": 17,
+   "wonByConcedingTeam": 16,
+   "loserRegain2s": 1,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 653,
+   "loserRegain2s": 239,
+   "transitionsShot10s": 29
+  },
+  "playSeconds": 4210.4,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 670,
+    "gs0": 5640,
+    "gs100": 5025
+   },
+   "corrected": {
+    "n": 653,
+    "gs0": 5473,
+    "gs100": 4905
+   },
+   "allPlay5s": {
+    "n": 483,
+    "gs0": 4120,
+    "gs100": 3634
+   },
+   "allPlay5sCorrected": {
+    "n": 472,
+    "gs0": 4012,
+    "gs100": 3561
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 561,
+   "loserRegain2s": 230,
+   "transitionsShot10s": 26
+  }
+ },
+ "j19_8081": {
+  "validAgainstAnalysis": true,
+  "goals": 10,
+  "turnovers": 769,
+  "byLabel": {
+   "IN_PLAY": 666,
+   "AFTER_RESTART:throw_in": 48,
+   "AFTER_RESTART:goal_kick": 27,
+   "AFTER_GOAL": 9,
+   "AFTER_RESTART:corner": 12,
+   "AFTER_RESTART:dropped_ball": 6,
+   "AFTER_RESTART:kickoff": 1
+  },
+  "loserRegain2s": 313,
+  "transitionsShot10s": 38,
+  "afterGoal": {
+   "n": 9,
+   "wonByConcedingTeam": 9,
+   "loserRegain2s": 0,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 760,
+   "loserRegain2s": 313,
+   "transitionsShot10s": 38
+  },
+  "playSeconds": 4306.2,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 769,
+    "gs0": 6429,
+    "gs100": 5690
+   },
+   "corrected": {
+    "n": 760,
+    "gs0": 6339,
+    "gs100": 5627
+   },
+   "allPlay5s": {
+    "n": 572,
+    "gs0": 4822,
+    "gs100": 4296
+   },
+   "allPlay5sCorrected": {
+    "n": 570,
+    "gs0": 4802,
+    "gs100": 4283
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 666,
+   "loserRegain2s": 304,
+   "transitionsShot10s": 36
+  }
+ },
+ "k20_1847": {
+  "validAgainstAnalysis": true,
+  "goals": 11,
+  "turnovers": 664,
+  "byLabel": {
+   "IN_PLAY": 572,
+   "AFTER_RESTART:throw_in": 48,
+   "AFTER_GOAL": 8,
+   "AFTER_RESTART:corner": 12,
+   "AFTER_RESTART:goal_kick": 22,
+   "AFTER_RESTART:kickoff": 1,
+   "AFTER_RESTART:dropped_ball": 1
+  },
+  "loserRegain2s": 223,
+  "transitionsShot10s": 35,
+  "afterGoal": {
+   "n": 8,
+   "wonByConcedingTeam": 8,
+   "loserRegain2s": 0,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 656,
+   "loserRegain2s": 223,
+   "transitionsShot10s": 35
+  },
+  "playSeconds": 4332.55,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 664,
+    "gs0": 5580,
+    "gs100": 4943
+   },
+   "corrected": {
+    "n": 656,
+    "gs0": 5501,
+    "gs100": 4882
+   },
+   "allPlay5s": {
+    "n": 496,
+    "gs0": 4202,
+    "gs100": 3707
+   },
+   "allPlay5sCorrected": {
+    "n": 492,
+    "gs0": 4162,
+    "gs100": 3680
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 572,
+   "loserRegain2s": 213,
+   "transitionsShot10s": 32
+  }
+ },
+ "k20_31337": {
+  "validAgainstAnalysis": true,
+  "goals": 12,
+  "turnovers": 694,
+  "byLabel": {
+   "IN_PLAY": 590,
+   "AFTER_RESTART:throw_in": 50,
+   "AFTER_RESTART:goal_kick": 30,
+   "AFTER_RESTART:corner": 14,
+   "AFTER_GOAL": 8,
+   "AFTER_RESTART:kickoff": 1,
+   "AFTER_RESTART:dropped_ball": 1
+  },
+  "loserRegain2s": 262,
+  "transitionsShot10s": 39,
+  "afterGoal": {
+   "n": 8,
+   "wonByConcedingTeam": 7,
+   "loserRegain2s": 2,
+   "shot10s": 1
+  },
+  "corrected": {
+   "turnovers": 686,
+   "loserRegain2s": 260,
+   "transitionsShot10s": 38
+  },
+  "playSeconds": 4235.15,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 694,
+    "gs0": 5836,
+    "gs100": 5195
+   },
+   "corrected": {
+    "n": 686,
+    "gs0": 5758,
+    "gs100": 5138
+   },
+   "allPlay5s": {
+    "n": 502,
+    "gs0": 4281,
+    "gs100": 3825
+   },
+   "allPlay5sCorrected": {
+    "n": 499,
+    "gs0": 4251,
+    "gs100": 3799
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 590,
+   "loserRegain2s": 248,
+   "transitionsShot10s": 37
+  }
+ },
+ "k20_4049_koB": {
+  "validAgainstAnalysis": true,
+  "goals": 10,
+  "turnovers": 718,
+  "byLabel": {
+   "AFTER_RESTART:corner": 15,
+   "IN_PLAY": 611,
+   "AFTER_RESTART:throw_in": 46,
+   "AFTER_RESTART:goal_kick": 35,
+   "AFTER_GOAL": 9,
+   "AFTER_RESTART:dropped_ball": 1,
+   "AFTER_RESTART:kickoff": 1
+  },
+  "loserRegain2s": 280,
+  "transitionsShot10s": 17,
+  "afterGoal": {
+   "n": 9,
+   "wonByConcedingTeam": 9,
+   "loserRegain2s": 0,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 709,
+   "loserRegain2s": 280,
+   "transitionsShot10s": 17
+  },
+  "playSeconds": 4262.5,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 718,
+    "gs0": 5985,
+    "gs100": 5408
+   },
+   "corrected": {
+    "n": 709,
+    "gs0": 5895,
+    "gs100": 5346
+   },
+   "allPlay5s": {
+    "n": 540,
+    "gs0": 4542,
+    "gs100": 4126
+   },
+   "allPlay5sCorrected": {
+    "n": 532,
+    "gs0": 4462,
+    "gs100": 4069
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 611,
+   "loserRegain2s": 268,
+   "transitionsShot10s": 15
+  }
+ },
+ "k20_600613": {
+  "validAgainstAnalysis": true,
+  "goals": 9,
+  "turnovers": 692,
+  "byLabel": {
+   "IN_PLAY": 595,
+   "AFTER_RESTART:throw_in": 43,
+   "AFTER_RESTART:goal_kick": 29,
+   "AFTER_RESTART:corner": 13,
+   "AFTER_GOAL": 9,
+   "AFTER_RESTART:kickoff": 1,
+   "AFTER_RESTART:dropped_ball": 2
+  },
+  "loserRegain2s": 259,
+  "transitionsShot10s": 18,
+  "afterGoal": {
+   "n": 9,
+   "wonByConcedingTeam": 9,
+   "loserRegain2s": 0,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 683,
+   "loserRegain2s": 259,
+   "transitionsShot10s": 18
+  },
+  "playSeconds": 4336.35,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 692,
+    "gs0": 5801,
+    "gs100": 5228
+   },
+   "corrected": {
+    "n": 683,
+    "gs0": 5712,
+    "gs100": 5162
+   },
+   "allPlay5s": {
+    "n": 530,
+    "gs0": 4488,
+    "gs100": 4014
+   },
+   "allPlay5sCorrected": {
+    "n": 525,
+    "gs0": 4439,
+    "gs100": 3979
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 595,
+   "loserRegain2s": 252,
+   "transitionsShot10s": 16
+  }
+ },
+ "k20_771": {
+  "validAgainstAnalysis": true,
+  "goals": 20,
+  "turnovers": 712,
+  "byLabel": {
+   "IN_PLAY": 603,
+   "AFTER_GOAL": 18,
+   "AFTER_RESTART:throw_in": 52,
+   "AFTER_RESTART:corner": 15,
+   "AFTER_RESTART:goal_kick": 23,
+   "AFTER_RESTART:dropped_ball": 1
+  },
+  "loserRegain2s": 277,
+  "transitionsShot10s": 45,
+  "afterGoal": {
+   "n": 18,
+   "wonByConcedingTeam": 15,
+   "loserRegain2s": 4,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 694,
+   "loserRegain2s": 273,
+   "transitionsShot10s": 45
+  },
+  "playSeconds": 4201.15,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 712,
+    "gs0": 5912,
+    "gs100": 5288
+   },
+   "corrected": {
+    "n": 694,
+    "gs0": 5738,
+    "gs100": 5163
+   },
+   "allPlay5s": {
+    "n": 488,
+    "gs0": 4082,
+    "gs100": 3696
+   },
+   "allPlay5sCorrected": {
+    "n": 481,
+    "gs0": 4014,
+    "gs100": 3646
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 603,
+   "loserRegain2s": 266,
+   "transitionsShot10s": 43
+  }
+ },
+ "k20_8081": {
+  "validAgainstAnalysis": true,
+  "goals": 12,
+  "turnovers": 658,
+  "byLabel": {
+   "IN_PLAY": 564,
+   "AFTER_RESTART:throw_in": 45,
+   "AFTER_RESTART:goal_kick": 28,
+   "AFTER_RESTART:corner": 13,
+   "AFTER_RESTART:dropped_ball": 1,
+   "AFTER_GOAL": 7
+  },
+  "loserRegain2s": 222,
+  "transitionsShot10s": 48,
+  "afterGoal": {
+   "n": 7,
+   "wonByConcedingTeam": 7,
+   "loserRegain2s": 1,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 651,
+   "loserRegain2s": 221,
+   "transitionsShot10s": 48
+  },
+  "playSeconds": 4258.4,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 658,
+    "gs0": 5574,
+    "gs100": 4911
+   },
+   "corrected": {
+    "n": 651,
+    "gs0": 5504,
+    "gs100": 4856
+   },
+   "allPlay5s": {
+    "n": 461,
+    "gs0": 3932,
+    "gs100": 3452
+   },
+   "allPlay5sCorrected": {
+    "n": 457,
+    "gs0": 3892,
+    "gs100": 3421
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 564,
+   "loserRegain2s": 214,
+   "transitionsShot10s": 46
+  }
+ },
+ "l21_1847": {
+  "validAgainstAnalysis": true,
+  "goals": 22,
+  "turnovers": 695,
+  "byLabel": {
+   "IN_PLAY": 574,
+   "AFTER_RESTART:throw_in": 60,
+   "AFTER_GOAL": 15,
+   "AFTER_RESTART:goal_kick": 32,
+   "AFTER_RESTART:corner": 13,
+   "AFTER_RESTART:dropped_ball": 1
+  },
+  "loserRegain2s": 243,
+  "transitionsShot10s": 35,
+  "afterGoal": {
+   "n": 15,
+   "wonByConcedingTeam": 15,
+   "loserRegain2s": 2,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 680,
+   "loserRegain2s": 241,
+   "transitionsShot10s": 35
+  },
+  "playSeconds": 4288.05,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 695,
+    "gs0": 5881,
+    "gs100": 5193
+   },
+   "corrected": {
+    "n": 680,
+    "gs0": 5731,
+    "gs100": 5089
+   },
+   "allPlay5s": {
+    "n": 492,
+    "gs0": 4261,
+    "gs100": 3734
+   },
+   "allPlay5sCorrected": {
+    "n": 482,
+    "gs0": 4161,
+    "gs100": 3666
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 574,
+   "loserRegain2s": 231,
+   "transitionsShot10s": 30
+  }
+ },
+ "l21_31337": {
+  "validAgainstAnalysis": true,
+  "goals": 20,
+  "turnovers": 785,
+  "byLabel": {
+   "AFTER_RESTART:throw_in": 55,
+   "IN_PLAY": 673,
+   "AFTER_GOAL": 18,
+   "AFTER_RESTART:dropped_ball": 2,
+   "AFTER_RESTART:goal_kick": 27,
+   "AFTER_RESTART:corner": 10
+  },
+  "loserRegain2s": 310,
+  "transitionsShot10s": 47,
+  "afterGoal": {
+   "n": 18,
+   "wonByConcedingTeam": 18,
+   "loserRegain2s": 2,
+   "shot10s": 1
+  },
+  "corrected": {
+   "turnovers": 767,
+   "loserRegain2s": 308,
+   "transitionsShot10s": 46
+  },
+  "playSeconds": 4349.1,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 785,
+    "gs0": 6584,
+    "gs100": 5802
+   },
+   "corrected": {
+    "n": 767,
+    "gs0": 6407,
+    "gs100": 5674
+   },
+   "allPlay5s": {
+    "n": 554,
+    "gs0": 4750,
+    "gs100": 4180
+   },
+   "allPlay5sCorrected": {
+    "n": 546,
+    "gs0": 4673,
+    "gs100": 4123
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 673,
+   "loserRegain2s": 295,
+   "transitionsShot10s": 43
+  }
+ },
+ "l21_4049_koB": {
+  "validAgainstAnalysis": true,
+  "goals": 9,
+  "turnovers": 653,
+  "byLabel": {
+   "AFTER_RESTART:corner": 16,
+   "AFTER_RESTART:goal_kick": 24,
+   "IN_PLAY": 560,
+   "AFTER_RESTART:throw_in": 45,
+   "AFTER_GOAL": 6,
+   "AFTER_RESTART:indirect_free_kick": 1,
+   "AFTER_RESTART:dropped_ball": 1
+  },
+  "loserRegain2s": 232,
+  "transitionsShot10s": 30,
+  "afterGoal": {
+   "n": 6,
+   "wonByConcedingTeam": 5,
+   "loserRegain2s": 2,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 647,
+   "loserRegain2s": 230,
+   "transitionsShot10s": 30
+  },
+  "playSeconds": 4351.05,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 653,
+    "gs0": 5561,
+    "gs100": 4903
+   },
+   "corrected": {
+    "n": 647,
+    "gs0": 5502,
+    "gs100": 4852
+   },
+   "allPlay5s": {
+    "n": 482,
+    "gs0": 4142,
+    "gs100": 3630
+   },
+   "allPlay5sCorrected": {
+    "n": 478,
+    "gs0": 4102,
+    "gs100": 3595
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 560,
+   "loserRegain2s": 222,
+   "transitionsShot10s": 30
+  }
+ },
+ "l21_600613": {
+  "validAgainstAnalysis": true,
+  "goals": 12,
+  "turnovers": 675,
+  "byLabel": {
+   "IN_PLAY": 578,
+   "AFTER_RESTART:goal_kick": 28,
+   "AFTER_GOAL": 10,
+   "AFTER_RESTART:dropped_ball": 5,
+   "AFTER_RESTART:throw_in": 43,
+   "AFTER_RESTART:corner": 11
+  },
+  "loserRegain2s": 230,
+  "transitionsShot10s": 32,
+  "afterGoal": {
+   "n": 10,
+   "wonByConcedingTeam": 9,
+   "loserRegain2s": 1,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 665,
+   "loserRegain2s": 229,
+   "transitionsShot10s": 32
+  },
+  "playSeconds": 4322.75,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 675,
+    "gs0": 5711,
+    "gs100": 5042
+   },
+   "corrected": {
+    "n": 665,
+    "gs0": 5614,
+    "gs100": 4972
+   },
+   "allPlay5s": {
+    "n": 505,
+    "gs0": 4299,
+    "gs100": 3834
+   },
+   "allPlay5sCorrected": {
+    "n": 499,
+    "gs0": 4241,
+    "gs100": 3792
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 578,
+   "loserRegain2s": 217,
+   "transitionsShot10s": 30
+  }
+ },
+ "l21_771": {
+  "validAgainstAnalysis": true,
+  "goals": 15,
+  "turnovers": 682,
+  "byLabel": {
+   "IN_PLAY": 575,
+   "AFTER_RESTART:goal_kick": 26,
+   "AFTER_RESTART:throw_in": 55,
+   "AFTER_GOAL": 11,
+   "AFTER_RESTART:corner": 12,
+   "AFTER_RESTART:dropped_ball": 2,
+   "AFTER_RESTART:indirect_free_kick": 1
+  },
+  "loserRegain2s": 244,
+  "transitionsShot10s": 44,
+  "afterGoal": {
+   "n": 11,
+   "wonByConcedingTeam": 11,
+   "loserRegain2s": 1,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 671,
+   "loserRegain2s": 243,
+   "transitionsShot10s": 44
+  },
+  "playSeconds": 4235,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 682,
+    "gs0": 5764,
+    "gs100": 5130
+   },
+   "corrected": {
+    "n": 671,
+    "gs0": 5655,
+    "gs100": 5049
+   },
+   "allPlay5s": {
+    "n": 504,
+    "gs0": 4316,
+    "gs100": 3857
+   },
+   "allPlay5sCorrected": {
+    "n": 499,
+    "gs0": 4266,
+    "gs100": 3820
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 575,
+   "loserRegain2s": 234,
+   "transitionsShot10s": 40
+  }
+ },
+ "l21_8081": {
+  "validAgainstAnalysis": true,
+  "goals": 17,
+  "turnovers": 673,
+  "byLabel": {
+   "IN_PLAY": 563,
+   "AFTER_RESTART:throw_in": 51,
+   "AFTER_GOAL": 16,
+   "AFTER_RESTART:goal_kick": 31,
+   "AFTER_RESTART:corner": 10,
+   "AFTER_RESTART:dropped_ball": 1,
+   "AFTER_RESTART:indirect_free_kick": 1
+  },
+  "loserRegain2s": 251,
+  "transitionsShot10s": 44,
+  "afterGoal": {
+   "n": 16,
+   "wonByConcedingTeam": 15,
+   "loserRegain2s": 2,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 657,
+   "loserRegain2s": 249,
+   "transitionsShot10s": 44
+  },
+  "playSeconds": 4218.1,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 673,
+    "gs0": 5603,
+    "gs100": 4958
+   },
+   "corrected": {
+    "n": 657,
+    "gs0": 5449,
+    "gs100": 4852
+   },
+   "allPlay5s": {
+    "n": 454,
+    "gs0": 3833,
+    "gs100": 3444
+   },
+   "allPlay5sCorrected": {
+    "n": 447,
+    "gs0": 3766,
+    "gs100": 3395
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 563,
+   "loserRegain2s": 238,
+   "transitionsShot10s": 40
+  }
+ },
+ "m22_1847": {
+  "validAgainstAnalysis": true,
+  "goals": 12,
+  "turnovers": 679,
+  "byLabel": {
+   "IN_PLAY": 577,
+   "AFTER_RESTART:throw_in": 56,
+   "AFTER_GOAL": 8,
+   "AFTER_RESTART:goal_kick": 18,
+   "AFTER_RESTART:corner": 18,
+   "AFTER_RESTART:direct_free_kick": 1,
+   "AFTER_RESTART:kickoff": 1
+  },
+  "loserRegain2s": 265,
+  "transitionsShot10s": 33,
+  "afterGoal": {
+   "n": 8,
+   "wonByConcedingTeam": 7,
+   "loserRegain2s": 0,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 671,
+   "loserRegain2s": 265,
+   "transitionsShot10s": 33
+  },
+  "playSeconds": 4273.95,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 679,
+    "gs0": 5698,
+    "gs100": 5143
+   },
+   "corrected": {
+    "n": 671,
+    "gs0": 5620,
+    "gs100": 5092
+   },
+   "allPlay5s": {
+    "n": 512,
+    "gs0": 4305,
+    "gs100": 3927
+   },
+   "allPlay5sCorrected": {
+    "n": 509,
+    "gs0": 4277,
+    "gs100": 3905
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 577,
+   "loserRegain2s": 248,
+   "transitionsShot10s": 32
+  }
+ },
+ "m22_31337": {
+  "validAgainstAnalysis": true,
+  "goals": 13,
+  "turnovers": 707,
+  "byLabel": {
+   "IN_PLAY": 611,
+   "AFTER_RESTART:throw_in": 42,
+   "AFTER_RESTART:goal_kick": 28,
+   "AFTER_RESTART:corner": 15,
+   "AFTER_GOAL": 10,
+   "AFTER_RESTART:dropped_ball": 1
+  },
+  "loserRegain2s": 276,
+  "transitionsShot10s": 36,
+  "afterGoal": {
+   "n": 10,
+   "wonByConcedingTeam": 10,
+   "loserRegain2s": 1,
+   "shot10s": 1
+  },
+  "corrected": {
+   "turnovers": 697,
+   "loserRegain2s": 275,
+   "transitionsShot10s": 35
+  },
+  "playSeconds": 4306.85,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 707,
+    "gs0": 5862,
+    "gs100": 5339
+   },
+   "corrected": {
+    "n": 697,
+    "gs0": 5765,
+    "gs100": 5267
+   },
+   "allPlay5s": {
+    "n": 542,
+    "gs0": 4557,
+    "gs100": 4130
+   },
+   "allPlay5sCorrected": {
+    "n": 536,
+    "gs0": 4498,
+    "gs100": 4091
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 611,
+   "loserRegain2s": 264,
+   "transitionsShot10s": 33
+  }
+ },
+ "m22_4049_koB": {
+  "validAgainstAnalysis": true,
+  "goals": 15,
+  "turnovers": 700,
+  "byLabel": {
+   "AFTER_RESTART:corner": 26,
+   "IN_PLAY": 587,
+   "AFTER_RESTART:throw_in": 54,
+   "AFTER_RESTART:goal_kick": 22,
+   "AFTER_GOAL": 9,
+   "AFTER_RESTART:dropped_ball": 2
+  },
+  "loserRegain2s": 273,
+  "transitionsShot10s": 42,
+  "afterGoal": {
+   "n": 9,
+   "wonByConcedingTeam": 9,
+   "loserRegain2s": 0,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 691,
+   "loserRegain2s": 273,
+   "transitionsShot10s": 42
+  },
+  "playSeconds": 4241,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 700,
+    "gs0": 5842,
+    "gs100": 5225
+   },
+   "corrected": {
+    "n": 691,
+    "gs0": 5752,
+    "gs100": 5159
+   },
+   "allPlay5s": {
+    "n": 494,
+    "gs0": 4163,
+    "gs100": 3733
+   },
+   "allPlay5sCorrected": {
+    "n": 492,
+    "gs0": 4143,
+    "gs100": 3717
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 587,
+   "loserRegain2s": 256,
+   "transitionsShot10s": 38
+  }
+ },
+ "m22_600613": {
+  "validAgainstAnalysis": true,
+  "goals": 11,
+  "turnovers": 718,
+  "byLabel": {
+   "IN_PLAY": 624,
+   "AFTER_RESTART:goal_kick": 26,
+   "AFTER_RESTART:corner": 16,
+   "AFTER_RESTART:dropped_ball": 1,
+   "AFTER_RESTART:throw_in": 43,
+   "AFTER_GOAL": 8
+  },
+  "loserRegain2s": 274,
+  "transitionsShot10s": 31,
+  "afterGoal": {
+   "n": 8,
+   "wonByConcedingTeam": 8,
+   "loserRegain2s": 1,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 710,
+   "loserRegain2s": 273,
+   "transitionsShot10s": 31
+  },
+  "playSeconds": 4313.55,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 718,
+    "gs0": 6017,
+    "gs100": 5365
+   },
+   "corrected": {
+    "n": 710,
+    "gs0": 5937,
+    "gs100": 5306
+   },
+   "allPlay5s": {
+    "n": 529,
+    "gs0": 4491,
+    "gs100": 4047
+   },
+   "allPlay5sCorrected": {
+    "n": 526,
+    "gs0": 4461,
+    "gs100": 4026
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 624,
+   "loserRegain2s": 263,
+   "transitionsShot10s": 30
+  }
+ },
+ "m22_771": {
+  "validAgainstAnalysis": true,
+  "goals": 14,
+  "turnovers": 710,
+  "byLabel": {
+   "IN_PLAY": 608,
+   "AFTER_RESTART:throw_in": 47,
+   "AFTER_RESTART:goal_kick": 26,
+   "AFTER_GOAL": 7,
+   "AFTER_RESTART:corner": 17,
+   "AFTER_RESTART:dropped_ball": 5
+  },
+  "loserRegain2s": 260,
+  "transitionsShot10s": 29,
+  "afterGoal": {
+   "n": 7,
+   "wonByConcedingTeam": 7,
+   "loserRegain2s": 2,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 703,
+   "loserRegain2s": 258,
+   "transitionsShot10s": 29
+  },
+  "playSeconds": 4266,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 710,
+    "gs0": 5954,
+    "gs100": 5321
+   },
+   "corrected": {
+    "n": 703,
+    "gs0": 5886,
+    "gs100": 5270
+   },
+   "allPlay5s": {
+    "n": 521,
+    "gs0": 4463,
+    "gs100": 3989
+   },
+   "allPlay5sCorrected": {
+    "n": 518,
+    "gs0": 4435,
+    "gs100": 3971
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 608,
+   "loserRegain2s": 250,
+   "transitionsShot10s": 28
+  }
+ },
+ "m22_8081": {
+  "validAgainstAnalysis": true,
+  "goals": 15,
+  "turnovers": 644,
+  "byLabel": {
+   "IN_PLAY": 538,
+   "AFTER_RESTART:throw_in": 55,
+   "AFTER_RESTART:goal_kick": 20,
+   "AFTER_GOAL": 10,
+   "AFTER_RESTART:dropped_ball": 2,
+   "AFTER_RESTART:corner": 17,
+   "AFTER_RESTART:direct_free_kick": 1,
+   "AFTER_RESTART:kickoff": 1
+  },
+  "loserRegain2s": 234,
+  "transitionsShot10s": 35,
+  "afterGoal": {
+   "n": 10,
+   "wonByConcedingTeam": 10,
+   "loserRegain2s": 0,
+   "shot10s": 0
+  },
+  "corrected": {
+   "turnovers": 634,
+   "loserRegain2s": 234,
+   "transitionsShot10s": 35
+  },
+  "playSeconds": 4165.9,
+  "loserGoalSideSums": {
+   "all": {
+    "n": 644,
+    "gs0": 5482,
+    "gs100": 4837
+   },
+   "corrected": {
+    "n": 634,
+    "gs0": 5382,
+    "gs100": 4773
+   },
+   "allPlay5s": {
+    "n": 458,
+    "gs0": 3943,
+    "gs100": 3470
+   },
+   "allPlay5sCorrected": {
+    "n": 454,
+    "gs0": 3903,
+    "gs100": 3443
+   }
+  },
+  "inPlayOnly": {
+   "turnovers": 538,
+   "loserRegain2s": 222,
+   "transitionsShot10s": 32
+  }
+ }
+}

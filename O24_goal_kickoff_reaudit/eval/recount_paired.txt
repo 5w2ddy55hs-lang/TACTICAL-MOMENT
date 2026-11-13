@@ -1,0 +1,43 @@
+## K20_change_3seeds n 1754 engines ['base', 'k20']
+   3s base: old 961 (check 961) -> corrected 953  GA 8 GF 24 cut 0 (den 1754) UNK 0 | k20: old 956 (check 956) -> corrected 948  GA 8 GF 24 cut 0 (den 1754) UNK 0
+      base vs k20: one-sided old 17/12 -> corrected 17/12; rows changed 0
+   6s base: old 859 (check 859) -> corrected 848  GA 11 GF 27 cut 1 (den 1753) UNK 0 | k20: old 862 (check 862) -> corrected 852  GA 10 GF 26 cut 1 (den 1753) UNK 0
+      base vs k20: one-sided old 65/68 -> corrected 65/69; rows changed 1
+## L21_pm_k20_3seeds n 1754 engines ['base', 'k20']
+   3s base: old 961 (check 961) -> corrected 953  GA 8 GF 24 cut 0 (den 1754) UNK 0 | k20: old 956 (check 956) -> corrected 948  GA 8 GF 24 cut 0 (den 1754) UNK 0
+      base vs k20: one-sided old 17/12 -> corrected 17/12; rows changed 0
+   6s base: old 859 (check 859) -> corrected 848  GA 11 GF 27 cut 1 (den 1753) UNK 0 | k20: old 862 (check 862) -> corrected 852  GA 10 GF 26 cut 1 (den 1753) UNK 0
+      base vs k20: one-sided old 65/68 -> corrected 65/69; rows changed 1
+## L21_pm3_2seeds n 1154 engines ['base', 'k20', 'l21']
+   3s base: old 638 (check 638) -> corrected 632  GA 6 GF 16 cut 0 (den 1154) UNK 0 | k20: old 639 (check 639) -> corrected 633  GA 6 GF 16 cut 0 (den 1154) UNK 0 | l21: old 639 (check 639) -> corrected 633  GA 6 GF 16 cut 0 (den 1154) UNK 0
+      base vs k20: one-sided old 10/11 -> corrected 10/11; rows changed 0
+      base vs l21: one-sided old 9/10 -> corrected 9/10; rows changed 0
+   6s base: old 570 (check 570) -> corrected 562  GA 8 GF 18 cut 0 (den 1154) UNK 0 | k20: old 568 (check 568) -> corrected 561  GA 7 GF 18 cut 0 (den 1154) UNK 0 | l21: old 560 (check 560) -> corrected 551  GA 9 GF 18 cut 0 (den 1154) UNK 0
+      base vs k20: one-sided old 46/44 -> corrected 46/45; rows changed 1
+      base vs l21: one-sided old 50/40 -> corrected 51/40; rows changed 1
+## L21_unseen_2seeds n 119 engines ['base', 'k20']
+   3s base: old 79 (check 79) -> corrected 76  GA 2 GF 1 cut 1 (den 118) UNK 0 | k20: old 79 (check 79) -> corrected 76  GA 2 GF 0 cut 1 (den 118) UNK 0
+      base vs k20: one-sided old 1/1 -> corrected 1/1; rows changed 0
+   6s base: old 66 (check 66) -> corrected 62  GA 3 GF 1 cut 1 (den 118) UNK 0 | k20: old 62 (check 62) -> corrected 59  GA 2 GF 0 cut 1 (den 118) UNK 0
+      base vs k20: one-sided old 11/7 -> corrected 11/8; rows changed 1
+## M22_pm_m22_2seeds n 1154 engines ['base', 'm22']
+   3s base: old 638 (check 638) -> corrected 632  GA 6 GF 16 cut 0 (den 1154) UNK 0 | m22: old 639 (check 639) -> corrected 633  GA 6 GF 16 cut 0 (den 1154) UNK 0
+      base vs m22: one-sided old 9/10 -> corrected 9/10; rows changed 0
+   6s base: old 570 (check 570) -> corrected 562  GA 8 GF 18 cut 0 (den 1154) UNK 0 | m22: old 558 (check 558) -> corrected 550  GA 8 GF 18 cut 0 (den 1154) UNK 0
+      base vs m22: one-sided old 53/41 -> corrected 53/41; rows changed 0
+## M22_fast194 n 194 engines ['base', 'k20', 'l21', 'm22']
+   3s base: old 89 (check 89) -> corrected 80  GA 9 GF 0 cut 0 (den 194) UNK 0 | k20: old 94 (check 94) -> corrected 85  GA 9 GF 0 cut 0 (den 194) UNK 0 | l21: old 94 (check 94) -> corrected 85  GA 9 GF 1 cut 0 (den 194) UNK 0 | m22: old 95 (check 95) -> corrected 86  GA 9 GF 0 cut 0 (den 194) UNK 0
+      base vs k20: one-sided old 4/9 -> corrected 4/9; rows changed 0
+      base vs l21: one-sided old 4/9 -> corrected 4/9; rows changed 0
+      base vs m22: one-sided old 3/9 -> corrected 3/9; rows changed 0
+   6s base: old 96 (check 96) -> corrected 86  GA 9 GF 0 cut 1 (den 193) UNK 0 | k20: old 89 (check 89) -> corrected 78  GA 10 GF 0 cut 1 (den 193) UNK 0 | l21: old 88 (check 88) -> corrected 78  GA 9 GF 1 cut 1 (den 193) UNK 0 | m22: old 89 (check 89) -> corrected 78  GA 10 GF 0 cut 1 (den 193) UNK 0
+      base vs k20: one-sided old 20/13 -> corrected 21/13; rows changed 1
+      base vs l21: one-sided old 17/9 -> corrected 17/9; rows changed 0
+      base vs m22: one-sided old 18/11 -> corrected 19/11; rows changed 1
+## M22_velunk n 99 engines ['base', 'k20', 'l21']
+   3s base: old 47 (check 47) -> corrected 41  GA 6 GF 0 cut 0 (den 99) UNK 0 | k20: old 49 (check 49) -> corrected 43  GA 6 GF 0 cut 0 (den 99) UNK 0 | l21: old 48 (check 48) -> corrected 42  GA 6 GF 0 cut 0 (den 99) UNK 0
+      base vs k20: one-sided old 1/3 -> corrected 1/3; rows changed 0
+      base vs l21: one-sided old 0/1 -> corrected 0/1; rows changed 0
+   6s base: old 52 (check 52) -> corrected 46  GA 6 GF 0 cut 0 (den 99) UNK 0 | k20: old 57 (check 57) -> corrected 49  GA 8 GF 0 cut 0 (den 99) UNK 0 | l21: old 54 (check 54) -> corrected 47  GA 7 GF 0 cut 0 (den 99) UNK 0
+      base vs k20: one-sided old 4/9 -> corrected 4/7; rows changed 2
+      base vs l21: one-sided old 4/6 -> corrected 4/5; rows changed 1

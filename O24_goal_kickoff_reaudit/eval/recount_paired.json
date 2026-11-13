@@ -1,0 +1,918 @@
+{
+ "K20_change_3seeds": {
+  "n": 1754,
+  "files": [
+   "k20/eval/paired_771.json",
+   "k20/eval/paired_31337.json",
+   "k20/eval/paired_8081.json"
+  ],
+  "engines": [
+   "base",
+   "k20"
+  ],
+  "3s:base": {
+   "classes": {
+    "CTRL_OPP": 491,
+    "CTRL_OWN": 871,
+    "GOAL_AGAINST": 8,
+    "GOAL_FOR": 24,
+    "NO_CTRL": 121,
+    "RESTART_OPP": 157,
+    "RESTART_OWN": 82
+   },
+   "oldKeep": 961,
+   "oldKeepCheck": 961,
+   "correctedKeep": 953,
+   "correctedDenominator": 1754,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 271
+  },
+  "3s:k20": {
+   "classes": {
+    "CTRL_OPP": 498,
+    "CTRL_OWN": 862,
+    "GOAL_AGAINST": 8,
+    "GOAL_FOR": 24,
+    "NO_CTRL": 118,
+    "RESTART_OPP": 158,
+    "RESTART_OWN": 86
+   },
+   "oldKeep": 956,
+   "oldKeepCheck": 956,
+   "correctedKeep": 948,
+   "correctedDenominator": 1754,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 276
+  },
+  "3s:base_vs_k20": {
+   "old_onlyBase": 17,
+   "old_onlyOther": 12,
+   "corrected_onlyBase": 17,
+   "corrected_onlyOther": 12,
+   "rowsWhoseDiscordanceChanged": []
+  },
+  "6s:base": {
+   "classes": {
+    "CTRL_OPP": 540,
+    "CTRL_OWN": 688,
+    "GOAL_AGAINST": 11,
+    "GOAL_FOR": 27,
+    "NO_CTRL": 17,
+    "PERIOD_END": 1,
+    "RESTART_OPP": 310,
+    "RESTART_OWN": 160
+   },
+   "oldKeep": 859,
+   "oldKeepCheck": 859,
+   "correctedKeep": 848,
+   "correctedDenominator": 1753,
+   "periodEndCut": 1,
+   "stoppedByRestartBeforeWindowEnd": 509
+  },
+  "6s:k20": {
+   "classes": {
+    "CTRL_OPP": 544,
+    "CTRL_OWN": 677,
+    "GOAL_AGAINST": 10,
+    "GOAL_FOR": 26,
+    "NO_CTRL": 16,
+    "PERIOD_END": 1,
+    "RESTART_OPP": 305,
+    "RESTART_OWN": 175
+   },
+   "oldKeep": 862,
+   "oldKeepCheck": 862,
+   "correctedKeep": 852,
+   "correctedDenominator": 1753,
+   "periodEndCut": 1,
+   "stoppedByRestartBeforeWindowEnd": 517
+  },
+  "6s:base_vs_k20": {
+   "old_onlyBase": 65,
+   "old_onlyOther": 68,
+   "corrected_onlyBase": 65,
+   "corrected_onlyOther": 69,
+   "rowsWhoseDiscordanceChanged": [
+    {
+     "t": 90225,
+     "team": "A",
+     "base": "GOAL_AGAINST",
+     "k20": "CTRL_OWN"
+    }
+   ]
+  }
+ },
+ "L21_pm_k20_3seeds": {
+  "n": 1754,
+  "files": [
+   "l21/eval/pm_k20_771.json",
+   "l21/eval/pm_k20_31337.json",
+   "l21/eval/pm_k20_8081.json"
+  ],
+  "engines": [
+   "base",
+   "k20"
+  ],
+  "3s:base": {
+   "classes": {
+    "CTRL_OPP": 491,
+    "CTRL_OWN": 871,
+    "GOAL_AGAINST": 8,
+    "GOAL_FOR": 24,
+    "NO_CTRL": 121,
+    "RESTART_OPP": 157,
+    "RESTART_OWN": 82
+   },
+   "oldKeep": 961,
+   "oldKeepCheck": 961,
+   "correctedKeep": 953,
+   "correctedDenominator": 1754,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 271
+  },
+  "3s:k20": {
+   "classes": {
+    "CTRL_OPP": 498,
+    "CTRL_OWN": 862,
+    "GOAL_AGAINST": 8,
+    "GOAL_FOR": 24,
+    "NO_CTRL": 118,
+    "RESTART_OPP": 158,
+    "RESTART_OWN": 86
+   },
+   "oldKeep": 956,
+   "oldKeepCheck": 956,
+   "correctedKeep": 948,
+   "correctedDenominator": 1754,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 276
+  },
+  "3s:base_vs_k20": {
+   "old_onlyBase": 17,
+   "old_onlyOther": 12,
+   "corrected_onlyBase": 17,
+   "corrected_onlyOther": 12,
+   "rowsWhoseDiscordanceChanged": []
+  },
+  "6s:base": {
+   "classes": {
+    "CTRL_OPP": 540,
+    "CTRL_OWN": 688,
+    "GOAL_AGAINST": 11,
+    "GOAL_FOR": 27,
+    "NO_CTRL": 17,
+    "PERIOD_END": 1,
+    "RESTART_OPP": 310,
+    "RESTART_OWN": 160
+   },
+   "oldKeep": 859,
+   "oldKeepCheck": 859,
+   "correctedKeep": 848,
+   "correctedDenominator": 1753,
+   "periodEndCut": 1,
+   "stoppedByRestartBeforeWindowEnd": 509
+  },
+  "6s:k20": {
+   "classes": {
+    "CTRL_OPP": 544,
+    "CTRL_OWN": 677,
+    "GOAL_AGAINST": 10,
+    "GOAL_FOR": 26,
+    "NO_CTRL": 16,
+    "PERIOD_END": 1,
+    "RESTART_OPP": 305,
+    "RESTART_OWN": 175
+   },
+   "oldKeep": 862,
+   "oldKeepCheck": 862,
+   "correctedKeep": 852,
+   "correctedDenominator": 1753,
+   "periodEndCut": 1,
+   "stoppedByRestartBeforeWindowEnd": 517
+  },
+  "6s:base_vs_k20": {
+   "old_onlyBase": 65,
+   "old_onlyOther": 68,
+   "corrected_onlyBase": 65,
+   "corrected_onlyOther": 69,
+   "rowsWhoseDiscordanceChanged": [
+    {
+     "t": 90225,
+     "team": "A",
+     "base": "GOAL_AGAINST",
+     "k20": "CTRL_OWN"
+    }
+   ]
+  }
+ },
+ "L21_pm3_2seeds": {
+  "n": 1154,
+  "files": [
+   "l21/eval/pm3_771.json",
+   "l21/eval/pm3_31337.json"
+  ],
+  "engines": [
+   "base",
+   "k20",
+   "l21"
+  ],
+  "3s:base": {
+   "classes": {
+    "CTRL_OPP": 319,
+    "CTRL_OWN": 572,
+    "GOAL_AGAINST": 6,
+    "GOAL_FOR": 16,
+    "NO_CTRL": 79,
+    "RESTART_OPP": 102,
+    "RESTART_OWN": 60
+   },
+   "oldKeep": 638,
+   "oldKeepCheck": 638,
+   "correctedKeep": 632,
+   "correctedDenominator": 1154,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 184
+  },
+  "3s:k20": {
+   "classes": {
+    "CTRL_OPP": 323,
+    "CTRL_OWN": 570,
+    "GOAL_AGAINST": 6,
+    "GOAL_FOR": 16,
+    "NO_CTRL": 75,
+    "RESTART_OPP": 101,
+    "RESTART_OWN": 63
+   },
+   "oldKeep": 639,
+   "oldKeepCheck": 639,
+   "correctedKeep": 633,
+   "correctedDenominator": 1154,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 186
+  },
+  "3s:l21": {
+   "classes": {
+    "CTRL_OPP": 321,
+    "CTRL_OWN": 572,
+    "GOAL_AGAINST": 6,
+    "GOAL_FOR": 16,
+    "NO_CTRL": 77,
+    "RESTART_OPP": 101,
+    "RESTART_OWN": 61
+   },
+   "oldKeep": 639,
+   "oldKeepCheck": 639,
+   "correctedKeep": 633,
+   "correctedDenominator": 1154,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 184
+  },
+  "3s:base_vs_k20": {
+   "old_onlyBase": 10,
+   "old_onlyOther": 11,
+   "corrected_onlyBase": 10,
+   "corrected_onlyOther": 11,
+   "rowsWhoseDiscordanceChanged": []
+  },
+  "3s:base_vs_l21": {
+   "old_onlyBase": 9,
+   "old_onlyOther": 10,
+   "corrected_onlyBase": 9,
+   "corrected_onlyOther": 10,
+   "rowsWhoseDiscordanceChanged": []
+  },
+  "6s:base": {
+   "classes": {
+    "CTRL_OPP": 350,
+    "CTRL_OWN": 444,
+    "GOAL_AGAINST": 8,
+    "GOAL_FOR": 18,
+    "NO_CTRL": 10,
+    "RESTART_OPP": 206,
+    "RESTART_OWN": 118
+   },
+   "oldKeep": 570,
+   "oldKeepCheck": 570,
+   "correctedKeep": 562,
+   "correctedDenominator": 1154,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 350
+  },
+  "6s:k20": {
+   "classes": {
+    "CTRL_OPP": 356,
+    "CTRL_OWN": 438,
+    "GOAL_AGAINST": 7,
+    "GOAL_FOR": 18,
+    "NO_CTRL": 8,
+    "RESTART_OPP": 204,
+    "RESTART_OWN": 123
+   },
+   "oldKeep": 568,
+   "oldKeepCheck": 568,
+   "correctedKeep": 561,
+   "correctedDenominator": 1154,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 352
+  },
+  "6s:l21": {
+   "classes": {
+    "CTRL_OPP": 362,
+    "CTRL_OWN": 435,
+    "GOAL_AGAINST": 9,
+    "GOAL_FOR": 18,
+    "NO_CTRL": 9,
+    "RESTART_OPP": 205,
+    "RESTART_OWN": 116
+   },
+   "oldKeep": 560,
+   "oldKeepCheck": 560,
+   "correctedKeep": 551,
+   "correctedDenominator": 1154,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 348
+  },
+  "6s:base_vs_k20": {
+   "old_onlyBase": 46,
+   "old_onlyOther": 44,
+   "corrected_onlyBase": 46,
+   "corrected_onlyOther": 45,
+   "rowsWhoseDiscordanceChanged": [
+    {
+     "t": 90225,
+     "team": "A",
+     "base": "GOAL_AGAINST",
+     "k20": "CTRL_OWN"
+    }
+   ]
+  },
+  "6s:base_vs_l21": {
+   "old_onlyBase": 50,
+   "old_onlyOther": 40,
+   "corrected_onlyBase": 51,
+   "corrected_onlyOther": 40,
+   "rowsWhoseDiscordanceChanged": [
+    {
+     "t": 87407,
+     "team": "B",
+     "base": "CTRL_OWN",
+     "l21": "GOAL_AGAINST"
+    }
+   ]
+  }
+ },
+ "L21_unseen_2seeds": {
+  "n": 119,
+  "files": [
+   "l21/eval/pm_unseen_771.json",
+   "l21/eval/pm_unseen_31337.json"
+  ],
+  "engines": [
+   "base",
+   "k20"
+  ],
+  "3s:base": {
+   "classes": {
+    "CTRL_OPP": 16,
+    "CTRL_OWN": 75,
+    "GOAL_AGAINST": 2,
+    "GOAL_FOR": 1,
+    "NO_CTRL": 14,
+    "PERIOD_END": 1,
+    "RESTART_OPP": 9,
+    "RESTART_OWN": 1
+   },
+   "oldKeep": 79,
+   "oldKeepCheck": 79,
+   "correctedKeep": 76,
+   "correctedDenominator": 118,
+   "periodEndCut": 1,
+   "stoppedByRestartBeforeWindowEnd": 14
+  },
+  "3s:k20": {
+   "classes": {
+    "CTRL_OPP": 18,
+    "CTRL_OWN": 75,
+    "GOAL_AGAINST": 2,
+    "NO_CTRL": 13,
+    "PERIOD_END": 1,
+    "RESTART_OPP": 9,
+    "RESTART_OWN": 1
+   },
+   "oldKeep": 79,
+   "oldKeepCheck": 79,
+   "correctedKeep": 76,
+   "correctedDenominator": 118,
+   "periodEndCut": 1,
+   "stoppedByRestartBeforeWindowEnd": 13
+  },
+  "3s:base_vs_k20": {
+   "old_onlyBase": 1,
+   "old_onlyOther": 1,
+   "corrected_onlyBase": 1,
+   "corrected_onlyOther": 1,
+   "rowsWhoseDiscordanceChanged": []
+  },
+  "6s:base": {
+   "classes": {
+    "CTRL_OPP": 26,
+    "CTRL_OWN": 55,
+    "GOAL_AGAINST": 3,
+    "GOAL_FOR": 1,
+    "NO_CTRL": 1,
+    "PERIOD_END": 1,
+    "RESTART_OPP": 25,
+    "RESTART_OWN": 7
+   },
+   "oldKeep": 66,
+   "oldKeepCheck": 66,
+   "correctedKeep": 62,
+   "correctedDenominator": 118,
+   "periodEndCut": 1,
+   "stoppedByRestartBeforeWindowEnd": 37
+  },
+  "6s:k20": {
+   "classes": {
+    "CTRL_OPP": 32,
+    "CTRL_OWN": 52,
+    "GOAL_AGAINST": 2,
+    "NO_CTRL": 1,
+    "PERIOD_END": 1,
+    "RESTART_OPP": 24,
+    "RESTART_OWN": 7
+   },
+   "oldKeep": 62,
+   "oldKeepCheck": 62,
+   "correctedKeep": 59,
+   "correctedDenominator": 118,
+   "periodEndCut": 1,
+   "stoppedByRestartBeforeWindowEnd": 34
+  },
+  "6s:base_vs_k20": {
+   "old_onlyBase": 11,
+   "old_onlyOther": 7,
+   "corrected_onlyBase": 11,
+   "corrected_onlyOther": 8,
+   "rowsWhoseDiscordanceChanged": [
+    {
+     "t": 42411,
+     "team": "B",
+     "base": "GOAL_AGAINST",
+     "k20": "CTRL_OWN"
+    }
+   ]
+  }
+ },
+ "M22_pm_m22_2seeds": {
+  "n": 1154,
+  "files": [
+   "m22/eval/pm_m22_771.json",
+   "m22/eval/pm_m22_31337.json"
+  ],
+  "engines": [
+   "base",
+   "m22"
+  ],
+  "3s:base": {
+   "classes": {
+    "CTRL_OPP": 319,
+    "CTRL_OWN": 572,
+    "GOAL_AGAINST": 6,
+    "GOAL_FOR": 16,
+    "NO_CTRL": 79,
+    "RESTART_OPP": 102,
+    "RESTART_OWN": 60
+   },
+   "oldKeep": 638,
+   "oldKeepCheck": 638,
+   "correctedKeep": 632,
+   "correctedDenominator": 1154,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 184
+  },
+  "3s:m22": {
+   "classes": {
+    "CTRL_OPP": 321,
+    "CTRL_OWN": 572,
+    "GOAL_AGAINST": 6,
+    "GOAL_FOR": 16,
+    "NO_CTRL": 77,
+    "RESTART_OPP": 101,
+    "RESTART_OWN": 61
+   },
+   "oldKeep": 639,
+   "oldKeepCheck": 639,
+   "correctedKeep": 633,
+   "correctedDenominator": 1154,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 184
+  },
+  "3s:base_vs_m22": {
+   "old_onlyBase": 9,
+   "old_onlyOther": 10,
+   "corrected_onlyBase": 9,
+   "corrected_onlyOther": 10,
+   "rowsWhoseDiscordanceChanged": []
+  },
+  "6s:base": {
+   "classes": {
+    "CTRL_OPP": 350,
+    "CTRL_OWN": 444,
+    "GOAL_AGAINST": 8,
+    "GOAL_FOR": 18,
+    "NO_CTRL": 10,
+    "RESTART_OPP": 206,
+    "RESTART_OWN": 118
+   },
+   "oldKeep": 570,
+   "oldKeepCheck": 570,
+   "correctedKeep": 562,
+   "correctedDenominator": 1154,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 350
+  },
+  "6s:m22": {
+   "classes": {
+    "CTRL_OPP": 364,
+    "CTRL_OWN": 434,
+    "GOAL_AGAINST": 8,
+    "GOAL_FOR": 18,
+    "NO_CTRL": 9,
+    "RESTART_OPP": 205,
+    "RESTART_OWN": 116
+   },
+   "oldKeep": 558,
+   "oldKeepCheck": 558,
+   "correctedKeep": 550,
+   "correctedDenominator": 1154,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 347
+  },
+  "6s:base_vs_m22": {
+   "old_onlyBase": 53,
+   "old_onlyOther": 41,
+   "corrected_onlyBase": 53,
+   "corrected_onlyOther": 41,
+   "rowsWhoseDiscordanceChanged": []
+  }
+ },
+ "M22_fast194": {
+  "n": 194,
+  "files": [
+   "m22/eval/fast_771.json",
+   "m22/eval/fast_31337.json"
+  ],
+  "engines": [
+   "base",
+   "k20",
+   "l21",
+   "m22"
+  ],
+  "3s:base": {
+   "classes": {
+    "CTRL_OPP": 41,
+    "CTRL_OWN": 56,
+    "GOAL_AGAINST": 9,
+    "NO_CTRL": 27,
+    "RESTART_OPP": 37,
+    "RESTART_OWN": 24
+   },
+   "oldKeep": 89,
+   "oldKeepCheck": 89,
+   "correctedKeep": 80,
+   "correctedDenominator": 194,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 70
+  },
+  "3s:k20": {
+   "classes": {
+    "CTRL_OPP": 37,
+    "CTRL_OWN": 60,
+    "GOAL_AGAINST": 9,
+    "NO_CTRL": 26,
+    "RESTART_OPP": 37,
+    "RESTART_OWN": 25
+   },
+   "oldKeep": 94,
+   "oldKeepCheck": 94,
+   "correctedKeep": 85,
+   "correctedDenominator": 194,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 71
+  },
+  "3s:l21": {
+   "classes": {
+    "CTRL_OPP": 36,
+    "CTRL_OWN": 59,
+    "GOAL_AGAINST": 9,
+    "GOAL_FOR": 1,
+    "NO_CTRL": 26,
+    "RESTART_OPP": 37,
+    "RESTART_OWN": 26
+   },
+   "oldKeep": 94,
+   "oldKeepCheck": 94,
+   "correctedKeep": 85,
+   "correctedDenominator": 194,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 73
+  },
+  "3s:m22": {
+   "classes": {
+    "CTRL_OPP": 36,
+    "CTRL_OWN": 61,
+    "GOAL_AGAINST": 9,
+    "NO_CTRL": 26,
+    "RESTART_OPP": 37,
+    "RESTART_OWN": 25
+   },
+   "oldKeep": 95,
+   "oldKeepCheck": 95,
+   "correctedKeep": 86,
+   "correctedDenominator": 194,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 71
+  },
+  "3s:base_vs_k20": {
+   "old_onlyBase": 4,
+   "old_onlyOther": 9,
+   "corrected_onlyBase": 4,
+   "corrected_onlyOther": 9,
+   "rowsWhoseDiscordanceChanged": []
+  },
+  "3s:base_vs_l21": {
+   "old_onlyBase": 4,
+   "old_onlyOther": 9,
+   "corrected_onlyBase": 4,
+   "corrected_onlyOther": 9,
+   "rowsWhoseDiscordanceChanged": []
+  },
+  "3s:base_vs_m22": {
+   "old_onlyBase": 3,
+   "old_onlyOther": 9,
+   "corrected_onlyBase": 3,
+   "corrected_onlyOther": 9,
+   "rowsWhoseDiscordanceChanged": []
+  },
+  "6s:base": {
+   "classes": {
+    "CTRL_OPP": 46,
+    "CTRL_OWN": 55,
+    "GOAL_AGAINST": 9,
+    "NO_CTRL": 4,
+    "PERIOD_END": 1,
+    "RESTART_OPP": 48,
+    "RESTART_OWN": 31
+   },
+   "oldKeep": 96,
+   "oldKeepCheck": 96,
+   "correctedKeep": 86,
+   "correctedDenominator": 193,
+   "periodEndCut": 1,
+   "stoppedByRestartBeforeWindowEnd": 89
+  },
+  "6s:k20": {
+   "classes": {
+    "CTRL_OPP": 51,
+    "CTRL_OWN": 45,
+    "GOAL_AGAINST": 10,
+    "NO_CTRL": 3,
+    "PERIOD_END": 1,
+    "RESTART_OPP": 51,
+    "RESTART_OWN": 33
+   },
+   "oldKeep": 89,
+   "oldKeepCheck": 89,
+   "correctedKeep": 78,
+   "correctedDenominator": 193,
+   "periodEndCut": 1,
+   "stoppedByRestartBeforeWindowEnd": 95
+  },
+  "6s:l21": {
+   "classes": {
+    "CTRL_OPP": 53,
+    "CTRL_OWN": 46,
+    "GOAL_AGAINST": 9,
+    "GOAL_FOR": 1,
+    "NO_CTRL": 3,
+    "PERIOD_END": 1,
+    "RESTART_OPP": 49,
+    "RESTART_OWN": 32
+   },
+   "oldKeep": 88,
+   "oldKeepCheck": 88,
+   "correctedKeep": 78,
+   "correctedDenominator": 193,
+   "periodEndCut": 1,
+   "stoppedByRestartBeforeWindowEnd": 92
+  },
+  "6s:m22": {
+   "classes": {
+    "CTRL_OPP": 52,
+    "CTRL_OWN": 45,
+    "GOAL_AGAINST": 10,
+    "NO_CTRL": 3,
+    "PERIOD_END": 1,
+    "RESTART_OPP": 50,
+    "RESTART_OWN": 33
+   },
+   "oldKeep": 89,
+   "oldKeepCheck": 89,
+   "correctedKeep": 78,
+   "correctedDenominator": 193,
+   "periodEndCut": 1,
+   "stoppedByRestartBeforeWindowEnd": 94
+  },
+  "6s:base_vs_k20": {
+   "old_onlyBase": 20,
+   "old_onlyOther": 13,
+   "corrected_onlyBase": 21,
+   "corrected_onlyOther": 13,
+   "rowsWhoseDiscordanceChanged": [
+    {
+     "t": 95666,
+     "team": "A",
+     "base": "CTRL_OWN",
+     "k20": "GOAL_AGAINST"
+    }
+   ]
+  },
+  "6s:base_vs_l21": {
+   "old_onlyBase": 17,
+   "old_onlyOther": 9,
+   "corrected_onlyBase": 17,
+   "corrected_onlyOther": 9,
+   "rowsWhoseDiscordanceChanged": []
+  },
+  "6s:base_vs_m22": {
+   "old_onlyBase": 18,
+   "old_onlyOther": 11,
+   "corrected_onlyBase": 19,
+   "corrected_onlyOther": 11,
+   "rowsWhoseDiscordanceChanged": [
+    {
+     "t": 95666,
+     "team": "A",
+     "base": "CTRL_OWN",
+     "m22": "GOAL_AGAINST"
+    }
+   ]
+  }
+ },
+ "M22_velunk": {
+  "n": 99,
+  "files": [
+   "m22/eval/velunk_771.json",
+   "m22/eval/velunk_31337.json"
+  ],
+  "engines": [
+   "base",
+   "k20",
+   "l21"
+  ],
+  "3s:base": {
+   "classes": {
+    "CTRL_OPP": 25,
+    "CTRL_OWN": 32,
+    "GOAL_AGAINST": 6,
+    "NO_CTRL": 20,
+    "RESTART_OPP": 7,
+    "RESTART_OWN": 9
+   },
+   "oldKeep": 47,
+   "oldKeepCheck": 47,
+   "correctedKeep": 41,
+   "correctedDenominator": 99,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 22
+  },
+  "3s:k20": {
+   "classes": {
+    "CTRL_OPP": 23,
+    "CTRL_OWN": 34,
+    "GOAL_AGAINST": 6,
+    "NO_CTRL": 20,
+    "RESTART_OPP": 7,
+    "RESTART_OWN": 9
+   },
+   "oldKeep": 49,
+   "oldKeepCheck": 49,
+   "correctedKeep": 43,
+   "correctedDenominator": 99,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 22
+  },
+  "3s:l21": {
+   "classes": {
+    "CTRL_OPP": 24,
+    "CTRL_OWN": 33,
+    "GOAL_AGAINST": 6,
+    "NO_CTRL": 19,
+    "RESTART_OPP": 8,
+    "RESTART_OWN": 9
+   },
+   "oldKeep": 48,
+   "oldKeepCheck": 48,
+   "correctedKeep": 42,
+   "correctedDenominator": 99,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 23
+  },
+  "3s:base_vs_k20": {
+   "old_onlyBase": 1,
+   "old_onlyOther": 3,
+   "corrected_onlyBase": 1,
+   "corrected_onlyOther": 3,
+   "rowsWhoseDiscordanceChanged": []
+  },
+  "3s:base_vs_l21": {
+   "old_onlyBase": 0,
+   "old_onlyOther": 1,
+   "corrected_onlyBase": 0,
+   "corrected_onlyOther": 1,
+   "rowsWhoseDiscordanceChanged": []
+  },
+  "6s:base": {
+   "classes": {
+    "CTRL_OPP": 33,
+    "CTRL_OWN": 30,
+    "GOAL_AGAINST": 6,
+    "NO_CTRL": 1,
+    "RESTART_OPP": 13,
+    "RESTART_OWN": 16
+   },
+   "oldKeep": 52,
+   "oldKeepCheck": 52,
+   "correctedKeep": 46,
+   "correctedDenominator": 99,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 35
+  },
+  "6s:k20": {
+   "classes": {
+    "CTRL_OPP": 28,
+    "CTRL_OWN": 35,
+    "GOAL_AGAINST": 8,
+    "NO_CTRL": 1,
+    "RESTART_OPP": 13,
+    "RESTART_OWN": 14
+   },
+   "oldKeep": 57,
+   "oldKeepCheck": 57,
+   "correctedKeep": 49,
+   "correctedDenominator": 99,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 35
+  },
+  "6s:l21": {
+   "classes": {
+    "CTRL_OPP": 28,
+    "CTRL_OWN": 33,
+    "GOAL_AGAINST": 7,
+    "NO_CTRL": 2,
+    "RESTART_OPP": 15,
+    "RESTART_OWN": 14
+   },
+   "oldKeep": 54,
+   "oldKeepCheck": 54,
+   "correctedKeep": 47,
+   "correctedDenominator": 99,
+   "periodEndCut": 0,
+   "stoppedByRestartBeforeWindowEnd": 36
+  },
+  "6s:base_vs_k20": {
+   "old_onlyBase": 4,
+   "old_onlyOther": 9,
+   "corrected_onlyBase": 4,
+   "corrected_onlyOther": 7,
+   "rowsWhoseDiscordanceChanged": [
+    {
+     "t": 103870,
+     "team": "A",
+     "base": "RESTART_OPP",
+     "k20": "GOAL_AGAINST"
+    },
+    {
+     "t": 95493,
+     "team": "B",
+     "base": "CTRL_OPP",
+     "k20": "GOAL_AGAINST"
+    }
+   ]
+  },
+  "6s:base_vs_l21": {
+   "old_onlyBase": 4,
+   "old_onlyOther": 6,
+   "corrected_onlyBase": 4,
+   "corrected_onlyOther": 5,
+   "rowsWhoseDiscordanceChanged": [
+    {
+     "t": 103870,
+     "team": "A",
+     "base": "RESTART_OPP",
+     "l21": "GOAL_AGAINST"
+    }
+   ]
+  }
+ }
+}

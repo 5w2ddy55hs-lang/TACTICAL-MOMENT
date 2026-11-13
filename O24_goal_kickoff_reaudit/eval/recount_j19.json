@@ -1,0 +1,60 @@
+{
+ "all": {
+  "n": 1754,
+  "base": {
+   "classes": {
+    "NO_REGAIN_WINDOW_END": 370,
+    "REGAIN_PLAY": 1067,
+    "RESTART_ATT": 60,
+    "RESTART_DEF_AFTER_OPP_GOAL": 24,
+    "RESTART_DEF_OTHER": 233
+   },
+   "oldRegained": 1324,
+   "oldCheck": 1324,
+   "correctedRegained": 1300,
+   "regainInPlay": 1067
+  },
+  "j19": {
+   "classes": {
+    "NO_REGAIN_WINDOW_END": 359,
+    "REGAIN_PLAY": 1080,
+    "RESTART_ATT": 61,
+    "RESTART_DEF_AFTER_OPP_GOAL": 23,
+    "RESTART_DEF_OTHER": 231
+   },
+   "oldRegained": 1334,
+   "oldCheck": 1334,
+   "correctedRegained": 1311,
+   "regainInPlay": 1080
+  }
+ },
+ "onChanged(J19 intervened)": {
+  "n": 456,
+  "base": {
+   "classes": {
+    "NO_REGAIN_WINDOW_END": 205,
+    "REGAIN_PLAY": 186,
+    "RESTART_ATT": 4,
+    "RESTART_DEF_AFTER_OPP_GOAL": 2,
+    "RESTART_DEF_OTHER": 59
+   },
+   "oldRegained": 247,
+   "oldCheck": 247,
+   "correctedRegained": 245,
+   "regainInPlay": 186
+  },
+  "j19": {
+   "classes": {
+    "NO_REGAIN_WINDOW_END": 193,
+    "REGAIN_PLAY": 199,
+    "RESTART_ATT": 5,
+    "RESTART_DEF_AFTER_OPP_GOAL": 1,
+    "RESTART_DEF_OTHER": 58
+   },
+   "oldRegained": 258,
+   "oldCheck": 258,
+   "correctedRegained": 257,
+   "regainInPlay": 199
+  }
+ }
+}

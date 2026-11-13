@@ -1,0 +1,41 @@
+{
+ "base": {
+  "classes": {
+   "CTRL_OPP": 56,
+   "CTRL_OWN": 65,
+   "GOAL_AGAINST": 10,
+   "NO_CTRL": 4,
+   "PERIOD_END": 1,
+   "RESTART_OPP": 34,
+   "RESTART_OWN": 24
+  },
+  "oldKeep": 100,
+  "correctedKeep": 89,
+  "correctedDenominator": 193
+ },
+ "k20": {
+  "classes": {
+   "CTRL_OPP": 61,
+   "CTRL_OWN": 55,
+   "GOAL_AGAINST": 10,
+   "NO_CTRL": 3,
+   "PERIOD_END": 1,
+   "RESTART_OPP": 38,
+   "RESTART_OWN": 26
+  },
+  "oldKeep": 92,
+  "correctedKeep": 81,
+  "correctedDenominator": 193
+ },
+ "oneSided": {
+  "old": [
+   21,
+   13
+  ],
+  "corrected": [
+   21,
+   13
+  ]
+ },
+ "n": 194
+}
