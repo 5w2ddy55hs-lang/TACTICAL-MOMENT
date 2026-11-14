@@ -1,0 +1,32 @@
+
+## O1 A05  frames identical until: base/flight 42191  v2/combo 42171  base/v2 42163
+ [base] 42160: receive target 2.68m ahead, eta 0.3 | i17 gate: closest_passed | v2: plan(miss 0.49, rel 0.82, eta 1.05) | generic: FE t=0.3 | own speed 5.05
+      motion: max speed 5.05 @42160; first dBall<1.0 @None | next kick (42190, 'pass', 'A10') | chosen by 42168->42170 pass(EBI) | candidates ['intercept:1.77', 'cover:0.65']
+      trail (tick,dBall,speed): [(42160, 1.78, 5.05), (42164, 1.57, 4.72), (42168, 1.36, 4.55), (42172, 1.23, 3.75), (42176, 1.18, 3.1), (42180, 1.21, 2.83), (42184, 1.19, 2.95), (42188, 1.13, 3.07)]
+ [v2] 42160: receive(DP) target 6.2m ahead, eta 1.05 | i17 gate: closest_passed | v2: plan(miss 0.49, rel 0.82, eta 1.05) | generic: FE t=0.3 | own speed 5.05
+      motion: max speed 6.37 @42170; first dBall<1.0 @42169 | next kick (42170, 'pass', 'A10') | chosen by 42168->42170 pass | candidates ['pass→A10:1.19', 'pass→A08:1.09', 'pass→A09:1.09', 'dribble:0.89']
+      trail (tick,dBall,speed): [(42160, 1.78, 5.05), (42164, 1.53, 5.31), (42168, 1.04, 6.09), (42172, 0.95, 5.76), (42176, 2.62, 4.54), (42180, 4.31, 3.81), (42184, 5.74, 3.77), (42188, 6.9, 4.08)]
+
+## O3 A07  frames identical until: base/flight 12368  v2/combo 12356  base/v2 12344
+ [base] 12341: receive target 1.36m ahead, eta 0.1 | i17 gate: closest_passed | v2: plan(miss 0.49, rel 0.51, eta 0.9) | generic: FE t=0.1 | own speed 3.45
+      motion: max speed 4.25 @12353; first dBall<1.0 @12366 | next kick (12367, 'pass', 'A09') | chosen by 12365->12367 pass(EBI) | candidates ['intercept:1.77', 'cover:0.65']
+      trail (tick,dBall,speed): [(12341, 1.15, 3.45), (12345, 1.32, 3.08), (12349, 1.48, 3.23), (12353, 1.4, 4.25), (12357, 1.28, 4.09), (12361, 1.15, 3.86), (12365, 1.02, 3.7), (12369, 1.67, 2.42)]
+ [v2] 12341: receive(DP) target 4.81m ahead, eta 0.9 | i17 gate: closest_passed | v2: plan(miss 0.49, rel 0.51, eta 0.9) | generic: FE t=0.1 | own speed 3.45
+      motion: max speed 6.35 @12355; first dBall<1.0 @12352 | next kick (12355, 'pass', 'A09') | chosen by 12353->12355 pass | candidates ['pass→A09:1.18', 'pass→A10:1.13', 'dribble:1.04', 'cover:0.65']
+      trail (tick,dBall,speed): [(12341, 1.15, 3.45), (12345, 1.3, 3.42), (12349, 1.21, 4.62), (12353, 0.84, 5.8), (12357, 1.07, 5.7), (12361, 2.17, 4.49), (12365, 3.22, 4.33), (12369, 3.98, 5.29)]
+
+## O4 B09  frames identical until: base/flight 60144  v2/combo None  base/v2 60052
+ [base] 60049: receive target 1.35m ahead, eta 0.1 | i17 gate: closest_passed | v2: plan(miss 0.47, rel 0.58, eta 0.8) | generic: FE t=0.1 | own speed 4
+      motion: max speed 4.54 @60065; first dBall<1.0 @60078 | next kick (60083, 'dribble', None) | chosen by 60081->60083 dribble | candidates ['dribble:0.67', 'cover:0.65', 'pass→B10:-0.34']
+      trail (tick,dBall,speed): [(60049, 1.1, 4), (60053, 1.26, 2.93), (60057, 1.5, 2.91), (60061, 1.54, 3.77), (60065, 1.39, 4.54), (60069, 1.23, 3.89), (60073, 1.08, 3.82), (60077, 1, 3.04)]
+ [v2] 60049: receive(DP) target 4.4m ahead, eta 0.8 | i17 gate: closest_passed | v2: plan(miss 0.47, rel 0.58, eta 0.8) | generic: FE t=0.1 | own speed 4
+      motion: max speed 4.83 @60056; first dBall<1.0 @None | next kick (60056, 'dribble', None) | chosen by 60053->60055 dribble(EBI) | candidates ['receive:1.77', 'cover:0.65']
+      trail (tick,dBall,speed): [(60049, 1.1, 4), (60053, 1.18, 3.99), (60057, 1.04, 4.75), (60061, 1.04, 4.06), (60065, 1.3, 3.98), (60069, 1.59, 4.19), (60073, 1.8, 3.84), (60077, 1.81, 3.85)]
+
+## O2 A09  frames identical until: base/flight 42191  v2/combo 42191  base/v2 42319
+ [base] 42316: receive target 1.78m ahead, eta 0.2 | i17 gate: closest_passed | v2: plan(miss 0.44, rel 0.27, eta 1.05) | generic: FE t=0.2 | own speed 2.52
+      motion: max speed 3.76 @42344; first dBall<1.0 @42328 | next kick (42330, 'dribble', None) | chosen by 42328->42330 dribble | candidates ['dribble:0.76', 'cover:0.65', 'pass→A05:-0.23', 'pass→A10:-0.23']
+      trail (tick,dBall,speed): [(42316, 1.25, 2.52), (42320, 1.23, 3.19), (42324, 1.06, 3.16), (42328, 0.95, 3.15), (42332, 0.85, 2.71), (42336, 1.07, 2.44), (42340, 1.39, 2.68), (42344, 1.49, 3.76)]
+ [v2] 42316: receive(DP) target 5.05m ahead, eta 1.05 | i17 gate: closest_passed | v2: plan(miss 0.44, rel 0.27, eta 1.05) | generic: FE t=0.2 | own speed 2.52
+      motion: max speed 5.47 @42338; first dBall<1.0 @None | next kick (42323, 'dribble', None) | chosen by 42320->42322 dribble(EBI) | candidates ['intercept:1.77', 'cover:0.65']
+      trail (tick,dBall,speed): [(42316, 1.25, 2.52), (42320, 1.23, 3.19), (42324, 1.04, 3.67), (42328, 1.09, 3.21), (42332, 1.33, 3.1), (42336, 1.25, 4.89), (42340, 1.05, 5.07), (42344, 1.11, 4.27)]

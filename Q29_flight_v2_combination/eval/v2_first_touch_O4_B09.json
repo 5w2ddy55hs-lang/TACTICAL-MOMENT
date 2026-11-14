@@ -1,0 +1,3847 @@
+{
+ "opportunity": "O4",
+ "player": "B09",
+ "window": [
+  60040,
+  60090
+ ],
+ "arms": {
+  "base": {
+   "decisions": [
+    {
+     "tick": 60041,
+     "apply": 60043,
+     "kind": "dribble",
+     "targetId": null,
+     "target": {
+      "x": 71.49,
+      "y": 64.77
+     },
+     "eta": null,
+     "dedicated": false,
+     "reason": "observed_space_and_pressure",
+     "ebi": null,
+     "dTarget": 7,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.81,
+     "dBall": 0.93,
+     "tClosest": -0.22,
+     "closestOffset": 0.37,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.49, rel 0.68, eta 0.7000000000000001)",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": true,
+     "ownSpeed": 4.04,
+     "touch": false,
+     "candidates": [
+      "dribble:1.15",
+      "pass→B07:0.87",
+      "cover:0.65",
+      "pass→B05:0.36",
+      "pass→B04:0.15",
+      "pass→B02:0.03",
+      "pass→B10:-0.54"
+     ]
+    },
+    {
+     "tick": 60045,
+     "apply": 60047,
+     "kind": "intercept",
+     "targetId": null,
+     "target": {
+      "x": 66.4,
+      "y": 64.54
+     },
+     "eta": 2,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 1.17,
+     "z": 0.11,
+     "velocityKnown": false,
+     "i17": "velocity_unknown",
+     "v2": "velocity_unknown",
+     "candidates": [
+      "intercept:1.77",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60049,
+     "apply": 60051,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 67.45,
+      "y": 64.64
+     },
+     "eta": 0.1,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": {
+      "kind": "dribble",
+      "targetId": null,
+      "apply": 60051
+     },
+     "dTarget": 1.35,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.76,
+     "dBall": 1.05,
+     "tClosest": -0.28,
+     "closestOffset": 0.15,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.47, rel 0.58, eta 0.8)",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": false,
+     "ownSpeed": 4,
+     "touch": false,
+     "candidates": [
+      "receive:1.77",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60053,
+     "apply": 60055,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 68.53,
+      "y": 64.9
+     },
+     "eta": 0.2,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 1.79,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.89,
+     "dBall": 1.16,
+     "tClosest": -0.3,
+     "closestOffset": 0.1,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.44, rel 0.79, eta 1.2000000000000002)",
+     "generic": "FE t=0.2",
+     "canPlayGeometry": false,
+     "ownSpeed": 2.93,
+     "touch": false,
+     "candidates": [
+      "receive:1.77",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60057,
+     "apply": 60059,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 69.81,
+      "y": 64.4
+     },
+     "eta": 0.3,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 2.54,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 4.34,
+     "dBall": 1.48,
+     "tClosest": -0.34,
+     "closestOffset": 0.23,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "miss>0.49_or_rel>threshold_or_unreachable",
+     "generic": "FE t=0.3",
+     "canPlayGeometry": false,
+     "ownSpeed": 2.91,
+     "touch": false,
+     "candidates": [
+      "receive:1.75",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60061,
+     "apply": 60063,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 70.49,
+      "y": 64.67
+     },
+     "eta": 0.3,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 2.52,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.89,
+     "dBall": 1.57,
+     "tClosest": -0.4,
+     "closestOffset": 0.18,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.43, rel 0.8, eta 1.1500000000000001)",
+     "generic": "FE t=0.3",
+     "canPlayGeometry": false,
+     "ownSpeed": 3.77,
+     "touch": false,
+     "candidates": [
+      "receive:1.75",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60065,
+     "apply": 60067,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 70.85,
+      "y": 64.85
+     },
+     "eta": 0.2,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 2.04,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.66,
+     "dBall": 1.45,
+     "tClosest": -0.39,
+     "closestOffset": 0.19,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.43, rel 0.56, eta 0.9)",
+     "generic": "FE t=0.2",
+     "canPlayGeometry": false,
+     "ownSpeed": 4.54,
+     "touch": false,
+     "candidates": [
+      "receive:1.76",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60069,
+     "apply": 60071,
+     "kind": "press",
+     "targetId": null,
+     "target": {
+      "x": 71,
+      "y": 64.82
+     },
+     "eta": 0.1,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 1.39,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 2.67,
+     "dBall": 1.17,
+     "tClosest": -0.44,
+     "closestOffset": 0.04,
+     "threshold": 10.26,
+     "i17": "slow(<=3)",
+     "v2": "slow(<=3)",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": false,
+     "ownSpeed": 3.89,
+     "touch": false,
+     "candidates": [
+      "press:1.77",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60073,
+     "apply": 60075,
+     "kind": "press",
+     "targetId": null,
+     "target": {
+      "x": 71.64,
+      "y": 64.73
+     },
+     "eta": 0.1,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 1.27,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.03,
+     "dBall": 1.02,
+     "tClosest": -0.34,
+     "closestOffset": 0.02,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.4, rel 0.37, eta 0.65)",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": false,
+     "ownSpeed": 3.82,
+     "touch": false,
+     "candidates": [
+      "press:1.78",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60077,
+     "apply": 60079,
+     "kind": "press",
+     "targetId": null,
+     "target": {
+      "x": 72.43,
+      "y": 64.82
+     },
+     "eta": 0.1,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 1.41,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.69,
+     "dBall": 1.11,
+     "tClosest": -0.3,
+     "closestOffset": 0.17,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.48, rel 0.51, eta 1)",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": false,
+     "ownSpeed": 3.04,
+     "touch": false,
+     "candidates": [
+      "press:1.77",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60081,
+     "apply": 60083,
+     "kind": "dribble",
+     "targetId": null,
+     "target": {
+      "x": 78.58,
+      "y": 64.82
+     },
+     "eta": null,
+     "dedicated": false,
+     "reason": "observed_space_and_pressure",
+     "ebi": null,
+     "dTarget": 7,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 2.12,
+     "dBall": 0.97,
+     "tClosest": -0.46,
+     "closestOffset": 0.05,
+     "threshold": 10.26,
+     "i17": "slow(<=3)",
+     "v2": "slow(<=3)",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": true,
+     "ownSpeed": 3.04,
+     "touch": false,
+     "candidates": [
+      "dribble:0.67",
+      "cover:0.65",
+      "pass→B10:-0.34"
+     ]
+    },
+    {
+     "tick": 60085,
+     "apply": 60087,
+     "kind": "dribble",
+     "targetId": null,
+     "target": {
+      "x": 79.18,
+      "y": 64.83
+     },
+     "eta": null,
+     "dedicated": false,
+     "reason": "observed_space_and_pressure",
+     "ebi": null,
+     "dTarget": 7,
+     "z": 0.11,
+     "velocityKnown": false,
+     "i17": "velocity_unknown",
+     "v2": "velocity_unknown",
+     "candidates": [
+      "dribble:0.68",
+      "cover:0.65",
+      "pass→B10:-0.36"
+     ]
+    },
+    {
+     "tick": 60089,
+     "apply": 60091,
+     "kind": "press",
+     "targetId": null,
+     "target": {
+      "x": 74.39,
+      "y": 65.02
+     },
+     "eta": 0.1,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 1.41,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 4.61,
+     "dBall": 1.03,
+     "tClosest": -0.22,
+     "closestOffset": 0.11,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.45, rel 1.48, eta 1.1500000000000001)",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": false,
+     "ownSpeed": 4.53,
+     "touch": false,
+     "candidates": [
+      "press:1.78",
+      "cover:0.65"
+     ]
+    }
+   ],
+   "events": [
+    {
+     "tick": 60043,
+     "type": "kick",
+     "kind": "dribble",
+     "control": null,
+     "targetId": null,
+     "team": "B"
+    },
+    {
+     "tick": 60083,
+     "type": "kick",
+     "kind": "dribble",
+     "control": null,
+     "targetId": null,
+     "team": "B"
+    },
+    {
+     "tick": 60090,
+     "type": "kick",
+     "kind": "dribble",
+     "control": null,
+     "targetId": null,
+     "team": "B"
+    }
+   ],
+   "truth": [
+    {
+     "tick": 60040,
+     "x": 64.29,
+     "y": 64.78,
+     "speed": 4.3,
+     "dBall": 1.02,
+     "ballSpeed": 4.46,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60041,
+     "x": 64.49,
+     "y": 64.77,
+     "speed": 4.04,
+     "dBall": 1.02,
+     "ballSpeed": 4.4,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60042,
+     "x": 64.68,
+     "y": 64.75,
+     "speed": 3.77,
+     "dBall": 1.03,
+     "ballSpeed": 4.35,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60043,
+     "x": 64.85,
+     "y": 64.72,
+     "speed": 3.49,
+     "dBall": 1.06,
+     "ballSpeed": 4.3,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60044,
+     "x": 65.04,
+     "y": 64.7,
+     "speed": 3.76,
+     "dBall": 1.09,
+     "ballSpeed": 4.45,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60045,
+     "x": 65.24,
+     "y": 64.69,
+     "speed": 4.03,
+     "dBall": 1.11,
+     "ballSpeed": 4.4,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60046,
+     "x": 65.45,
+     "y": 64.68,
+     "speed": 4.31,
+     "dBall": 1.11,
+     "ballSpeed": 4.34,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60047,
+     "x": 65.68,
+     "y": 64.68,
+     "speed": 4.59,
+     "dBall": 1.1,
+     "ballSpeed": 4.29,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60048,
+     "x": 65.9,
+     "y": 64.67,
+     "speed": 4.29,
+     "dBall": 1.09,
+     "ballSpeed": 4.23,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60049,
+     "x": 66.1,
+     "y": 64.67,
+     "speed": 4,
+     "dBall": 1.1,
+     "ballSpeed": 4.18,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60050,
+     "x": 66.28,
+     "y": 64.66,
+     "speed": 3.7,
+     "dBall": 1.13,
+     "ballSpeed": 4.13,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60051,
+     "x": 66.45,
+     "y": 64.64,
+     "speed": 3.4,
+     "dBall": 1.16,
+     "ballSpeed": 4.07,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60052,
+     "x": 66.61,
+     "y": 64.64,
+     "speed": 3.23,
+     "dBall": 1.2,
+     "ballSpeed": 4.02,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60053,
+     "x": 66.76,
+     "y": 64.64,
+     "speed": 2.93,
+     "dBall": 1.26,
+     "ballSpeed": 3.97,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60054,
+     "x": 66.89,
+     "y": 64.64,
+     "speed": 2.62,
+     "dBall": 1.32,
+     "ballSpeed": 3.91,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60055,
+     "x": 67.01,
+     "y": 64.64,
+     "speed": 2.34,
+     "dBall": 1.4,
+     "ballSpeed": 3.86,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60056,
+     "x": 67.14,
+     "y": 64.65,
+     "speed": 2.62,
+     "dBall": 1.46,
+     "ballSpeed": 3.81,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60057,
+     "x": 67.28,
+     "y": 64.66,
+     "speed": 2.91,
+     "dBall": 1.5,
+     "ballSpeed": 3.75,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60058,
+     "x": 67.44,
+     "y": 64.68,
+     "speed": 3.19,
+     "dBall": 1.53,
+     "ballSpeed": 3.7,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60059,
+     "x": 67.61,
+     "y": 64.71,
+     "speed": 3.4,
+     "dBall": 1.55,
+     "ballSpeed": 3.65,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60060,
+     "x": 67.78,
+     "y": 64.74,
+     "speed": 3.59,
+     "dBall": 1.55,
+     "ballSpeed": 3.59,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60061,
+     "x": 67.97,
+     "y": 64.75,
+     "speed": 3.77,
+     "dBall": 1.54,
+     "ballSpeed": 3.54,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60062,
+     "x": 68.17,
+     "y": 64.75,
+     "speed": 3.92,
+     "dBall": 1.52,
+     "ballSpeed": 3.49,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60063,
+     "x": 68.37,
+     "y": 64.73,
+     "speed": 4.01,
+     "dBall": 1.5,
+     "ballSpeed": 3.44,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60064,
+     "x": 68.58,
+     "y": 64.72,
+     "speed": 4.3,
+     "dBall": 1.45,
+     "ballSpeed": 3.39,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60065,
+     "x": 68.81,
+     "y": 64.71,
+     "speed": 4.54,
+     "dBall": 1.39,
+     "ballSpeed": 3.33,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60066,
+     "x": 69.02,
+     "y": 64.71,
+     "speed": 4.24,
+     "dBall": 1.35,
+     "ballSpeed": 3.28,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60067,
+     "x": 69.22,
+     "y": 64.7,
+     "speed": 3.95,
+     "dBall": 1.31,
+     "ballSpeed": 3.23,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60068,
+     "x": 69.42,
+     "y": 64.71,
+     "speed": 4.08,
+     "dBall": 1.27,
+     "ballSpeed": 3.18,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60069,
+     "x": 69.62,
+     "y": 64.73,
+     "speed": 3.89,
+     "dBall": 1.23,
+     "ballSpeed": 3.13,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60070,
+     "x": 69.8,
+     "y": 64.75,
+     "speed": 3.6,
+     "dBall": 1.21,
+     "ballSpeed": 3.08,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60071,
+     "x": 69.99,
+     "y": 64.78,
+     "speed": 3.87,
+     "dBall": 1.17,
+     "ballSpeed": 3.03,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60072,
+     "x": 70.18,
+     "y": 64.82,
+     "speed": 4.06,
+     "dBall": 1.12,
+     "ballSpeed": 2.98,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60073,
+     "x": 70.37,
+     "y": 64.86,
+     "speed": 3.82,
+     "dBall": 1.08,
+     "ballSpeed": 2.93,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60074,
+     "x": 70.55,
+     "y": 64.88,
+     "speed": 3.56,
+     "dBall": 1.05,
+     "ballSpeed": 2.88,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60075,
+     "x": 70.71,
+     "y": 64.9,
+     "speed": 3.28,
+     "dBall": 1.04,
+     "ballSpeed": 2.83,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60076,
+     "x": 70.87,
+     "y": 64.91,
+     "speed": 3.2,
+     "dBall": 1.02,
+     "ballSpeed": 2.78,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60077,
+     "x": 71.02,
+     "y": 64.9,
+     "speed": 3.04,
+     "dBall": 1,
+     "ballSpeed": 2.73,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60078,
+     "x": 71.16,
+     "y": 64.88,
+     "speed": 2.82,
+     "dBall": 0.99,
+     "ballSpeed": 2.68,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60079,
+     "x": 71.29,
+     "y": 64.85,
+     "speed": 2.55,
+     "dBall": 1,
+     "ballSpeed": 2.63,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60080,
+     "x": 71.43,
+     "y": 64.83,
+     "speed": 2.82,
+     "dBall": 0.99,
+     "ballSpeed": 2.58,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60081,
+     "x": 71.58,
+     "y": 64.82,
+     "speed": 3.04,
+     "dBall": 0.97,
+     "ballSpeed": 2.53,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60082,
+     "x": 71.73,
+     "y": 64.83,
+     "speed": 2.97,
+     "dBall": 0.94,
+     "ballSpeed": 2.48,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60083,
+     "x": 71.86,
+     "y": 64.83,
+     "speed": 2.69,
+     "dBall": 0.93,
+     "ballSpeed": 2.43,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60084,
+     "x": 72.01,
+     "y": 64.83,
+     "speed": 3,
+     "dBall": 1,
+     "ballSpeed": 4.29,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60085,
+     "x": 72.18,
+     "y": 64.83,
+     "speed": 3.31,
+     "dBall": 1.05,
+     "ballSpeed": 4.23,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60086,
+     "x": 72.36,
+     "y": 64.83,
+     "speed": 3.61,
+     "dBall": 1.08,
+     "ballSpeed": 4.18,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60087,
+     "x": 72.56,
+     "y": 64.82,
+     "speed": 3.92,
+     "dBall": 1.09,
+     "ballSpeed": 4.12,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60088,
+     "x": 72.77,
+     "y": 64.82,
+     "speed": 4.23,
+     "dBall": 1.08,
+     "ballSpeed": 4.07,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60089,
+     "x": 72.99,
+     "y": 64.82,
+     "speed": 4.53,
+     "dBall": 1.06,
+     "ballSpeed": 4.02,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60090,
+     "x": 73.21,
+     "y": 64.84,
+     "speed": 4.44,
+     "dBall": 1.04,
+     "ballSpeed": 3.96,
+     "ballZ": 0.11,
+     "action": "dribble"
+    }
+   ]
+  },
+  "v2": {
+   "decisions": [
+    {
+     "tick": 60041,
+     "apply": 60043,
+     "kind": "dribble",
+     "targetId": null,
+     "target": {
+      "x": 71.49,
+      "y": 64.77
+     },
+     "eta": null,
+     "dedicated": false,
+     "reason": "observed_space_and_pressure",
+     "ebi": null,
+     "dTarget": 7,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.81,
+     "dBall": 0.93,
+     "tClosest": -0.22,
+     "closestOffset": 0.37,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.49, rel 0.68, eta 0.7000000000000001)",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": true,
+     "ownSpeed": 4.04,
+     "touch": false,
+     "candidates": [
+      "dribble:1.15",
+      "pass→B07:0.87",
+      "cover:0.65",
+      "pass→B05:0.36",
+      "pass→B04:0.15",
+      "pass→B02:0.03",
+      "pass→B10:-0.54"
+     ]
+    },
+    {
+     "tick": 60045,
+     "apply": 60047,
+     "kind": "intercept",
+     "targetId": null,
+     "target": {
+      "x": 66.4,
+      "y": 64.54
+     },
+     "eta": 2,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 1.17,
+     "z": 0.11,
+     "velocityKnown": false,
+     "i17": "velocity_unknown",
+     "v2": "velocity_unknown",
+     "candidates": [
+      "intercept:1.77",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60049,
+     "apply": 60051,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 70.48,
+      "y": 64.94
+     },
+     "eta": 0.8,
+     "dedicated": true,
+     "reason": "R07_perceived_contact_cost_no_future_truth",
+     "ebi": {
+      "kind": "dribble",
+      "targetId": null,
+      "apply": 60051
+     },
+     "dTarget": 4.4,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.76,
+     "dBall": 1.05,
+     "tClosest": -0.28,
+     "closestOffset": 0.15,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.47, rel 0.58, eta 0.8)",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": false,
+     "ownSpeed": 4,
+     "touch": false,
+     "candidates": [
+      "receive:1.77",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60053,
+     "apply": 60055,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 71.68,
+      "y": 65.54
+     },
+     "eta": 0.9,
+     "dedicated": true,
+     "reason": "R07_perceived_contact_cost_no_future_truth",
+     "ebi": {
+      "kind": "dribble",
+      "targetId": null,
+      "apply": 60055
+     },
+     "dTarget": 4.93,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.89,
+     "dBall": 1.08,
+     "tClosest": -0.28,
+     "closestOffset": 0.07,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.48, rel 0.72, eta 0.9)",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": false,
+     "ownSpeed": 3.99,
+     "touch": false,
+     "candidates": [
+      "receive:1.77",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60057,
+     "apply": 60059,
+     "kind": "intercept",
+     "targetId": null,
+     "target": {
+      "x": 68.75,
+      "y": 64.76
+     },
+     "eta": 2,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 1,
+     "z": 0.11,
+     "velocityKnown": false,
+     "i17": "velocity_unknown",
+     "v2": "velocity_unknown",
+     "candidates": [
+      "intercept:1.78",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60061,
+     "apply": 60063,
+     "kind": "dribble",
+     "targetId": null,
+     "target": {
+      "x": 75.62,
+      "y": 64.84
+     },
+     "eta": null,
+     "dedicated": false,
+     "reason": "observed_space_and_pressure",
+     "ebi": null,
+     "dTarget": 7,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 4.6,
+     "dBall": 0.98,
+     "tClosest": -0.21,
+     "closestOffset": 0.15,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "miss>0.49_or_rel>threshold_or_unreachable",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": true,
+     "ownSpeed": 4.06,
+     "touch": false,
+     "candidates": [
+      "dribble:0.88",
+      "pass→B10:0.87",
+      "cover:0.65",
+      "pass→B05:-0.9"
+     ]
+    },
+    {
+     "tick": 60065,
+     "apply": 60067,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 70.62,
+      "y": 66.38
+     },
+     "eta": 0.2,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 1.91,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 4.28,
+     "dBall": 1.21,
+     "tClosest": -0.28,
+     "closestOffset": 0.2,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "miss>0.49_or_rel>threshold_or_unreachable",
+     "generic": "FE t=0.2",
+     "canPlayGeometry": false,
+     "ownSpeed": 3.98,
+     "touch": false,
+     "candidates": [
+      "receive:1.77",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60069,
+     "apply": 60071,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 71.89,
+      "y": 66.98
+     },
+     "eta": 0.3,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 2.59,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 4.67,
+     "dBall": 1.54,
+     "tClosest": -0.28,
+     "closestOffset": 0.84,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "miss>0.49_or_rel>threshold_or_unreachable",
+     "generic": "FE t=0.3",
+     "canPlayGeometry": false,
+     "ownSpeed": 4.19,
+     "touch": false,
+     "candidates": [
+      "receive:1.75",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60073,
+     "apply": 60075,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 72,
+      "y": 67.7
+     },
+     "eta": 0.3,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 2.68,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.88,
+     "dBall": 1.81,
+     "tClosest": -0.42,
+     "closestOffset": 0.78,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "miss>0.49_or_rel>threshold_or_unreachable",
+     "generic": "FE t=0.3",
+     "canPlayGeometry": false,
+     "ownSpeed": 3.84,
+     "touch": false,
+     "candidates": [
+      "receive:1.74",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60077,
+     "apply": 60079,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 73.09,
+      "y": 67.7
+     },
+     "eta": 0.3,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 2.53,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 4.38,
+     "dBall": 1.84,
+     "tClosest": -0.31,
+     "closestOffset": 1.24,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "miss>0.49_or_rel>threshold_or_unreachable",
+     "generic": "FE t=0.3",
+     "canPlayGeometry": false,
+     "ownSpeed": 3.85,
+     "touch": false,
+     "candidates": [
+      "receive:1.74",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60081,
+     "apply": 60083,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 73.1,
+      "y": 67.7
+     },
+     "eta": 0.2,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 1.72,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.39,
+     "dBall": 1.66,
+     "tClosest": -0.43,
+     "closestOffset": 0.82,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "miss>0.49_or_rel>threshold_or_unreachable",
+     "generic": "FE t=0.2",
+     "canPlayGeometry": false,
+     "ownSpeed": 4.44,
+     "touch": false,
+     "candidates": [
+      "receive:1.75",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60084,
+     "apply": 60086,
+     "kind": "restart_position",
+     "targetId": null,
+     "target": {
+      "x": 65.57,
+      "y": 58
+     },
+     "eta": null,
+     "dedicated": false,
+     "reason": "public_restart_constraints",
+     "ebi": null,
+     "dTarget": 11.04,
+     "z": 1.55,
+     "velocityKnown": false,
+     "i17": "velocity_unknown",
+     "v2": "velocity_unknown",
+     "candidates": [
+      "restart_position:9"
+     ]
+    },
+    {
+     "tick": 60088,
+     "apply": 60090,
+     "kind": "restart_position",
+     "targetId": null,
+     "target": {
+      "x": 65.57,
+      "y": 58
+     },
+     "eta": null,
+     "dedicated": false,
+     "reason": "public_restart_constraints",
+     "ebi": null,
+     "dTarget": 11.63,
+     "z": 1.55,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 0.64,
+     "dBall": 1.62,
+     "tClosest": 2.36,
+     "closestOffset": 0.57,
+     "threshold": 10.26,
+     "i17": "ball_high",
+     "v2": "ball_high",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": false,
+     "ownSpeed": 2.48,
+     "touch": false,
+     "candidates": [
+      "restart_position:9"
+     ]
+    }
+   ],
+   "events": [
+    {
+     "tick": 60043,
+     "type": "kick",
+     "kind": "dribble",
+     "control": null,
+     "targetId": null,
+     "team": "B"
+    },
+    {
+     "tick": 60056,
+     "type": "kick",
+     "kind": "dribble",
+     "control": null,
+     "targetId": null,
+     "team": "B"
+    },
+    {
+     "tick": 60083,
+     "type": "restart_placement",
+     "kind": "throw_in",
+     "control": null,
+     "targetId": null,
+     "team": "A"
+    }
+   ],
+   "truth": [
+    {
+     "tick": 60040,
+     "x": 64.29,
+     "y": 64.78,
+     "speed": 4.3,
+     "dBall": 1.02,
+     "ballSpeed": 4.46,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60041,
+     "x": 64.49,
+     "y": 64.77,
+     "speed": 4.04,
+     "dBall": 1.02,
+     "ballSpeed": 4.4,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60042,
+     "x": 64.68,
+     "y": 64.75,
+     "speed": 3.77,
+     "dBall": 1.03,
+     "ballSpeed": 4.35,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60043,
+     "x": 64.85,
+     "y": 64.72,
+     "speed": 3.49,
+     "dBall": 1.06,
+     "ballSpeed": 4.3,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60044,
+     "x": 65.04,
+     "y": 64.7,
+     "speed": 3.76,
+     "dBall": 1.09,
+     "ballSpeed": 4.45,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60045,
+     "x": 65.24,
+     "y": 64.69,
+     "speed": 4.03,
+     "dBall": 1.11,
+     "ballSpeed": 4.4,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60046,
+     "x": 65.45,
+     "y": 64.68,
+     "speed": 4.31,
+     "dBall": 1.11,
+     "ballSpeed": 4.34,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60047,
+     "x": 65.68,
+     "y": 64.68,
+     "speed": 4.59,
+     "dBall": 1.1,
+     "ballSpeed": 4.29,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60048,
+     "x": 65.9,
+     "y": 64.67,
+     "speed": 4.29,
+     "dBall": 1.09,
+     "ballSpeed": 4.23,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60049,
+     "x": 66.1,
+     "y": 64.67,
+     "speed": 4,
+     "dBall": 1.1,
+     "ballSpeed": 4.18,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60050,
+     "x": 66.28,
+     "y": 64.66,
+     "speed": 3.7,
+     "dBall": 1.13,
+     "ballSpeed": 4.13,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60051,
+     "x": 66.45,
+     "y": 64.64,
+     "speed": 3.4,
+     "dBall": 1.16,
+     "ballSpeed": 4.07,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60052,
+     "x": 66.63,
+     "y": 64.63,
+     "speed": 3.69,
+     "dBall": 1.18,
+     "ballSpeed": 4.02,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60053,
+     "x": 66.83,
+     "y": 64.62,
+     "speed": 3.99,
+     "dBall": 1.18,
+     "ballSpeed": 3.97,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60054,
+     "x": 67.05,
+     "y": 64.62,
+     "speed": 4.28,
+     "dBall": 1.16,
+     "ballSpeed": 3.91,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60055,
+     "x": 67.28,
+     "y": 64.62,
+     "speed": 4.57,
+     "dBall": 1.13,
+     "ballSpeed": 3.86,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60056,
+     "x": 67.52,
+     "y": 64.63,
+     "speed": 4.83,
+     "dBall": 1.08,
+     "ballSpeed": 3.81,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60057,
+     "x": 67.75,
+     "y": 64.66,
+     "speed": 4.75,
+     "dBall": 1.04,
+     "ballSpeed": 4.71,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60058,
+     "x": 67.98,
+     "y": 64.7,
+     "speed": 4.7,
+     "dBall": 1.02,
+     "ballSpeed": 4.66,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60059,
+     "x": 68.21,
+     "y": 64.75,
+     "speed": 4.65,
+     "dBall": 1,
+     "ballSpeed": 4.6,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60060,
+     "x": 68.42,
+     "y": 64.8,
+     "speed": 4.35,
+     "dBall": 1.01,
+     "ballSpeed": 4.55,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60061,
+     "x": 68.62,
+     "y": 64.84,
+     "speed": 4.06,
+     "dBall": 1.04,
+     "ballSpeed": 4.49,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60062,
+     "x": 68.81,
+     "y": 64.88,
+     "speed": 3.76,
+     "dBall": 1.09,
+     "ballSpeed": 4.44,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60063,
+     "x": 68.98,
+     "y": 64.91,
+     "speed": 3.46,
+     "dBall": 1.16,
+     "ballSpeed": 4.38,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60064,
+     "x": 69.16,
+     "y": 64.93,
+     "speed": 3.72,
+     "dBall": 1.23,
+     "ballSpeed": 4.33,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60065,
+     "x": 69.36,
+     "y": 64.95,
+     "speed": 3.98,
+     "dBall": 1.3,
+     "ballSpeed": 4.27,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60066,
+     "x": 69.57,
+     "y": 64.96,
+     "speed": 4.24,
+     "dBall": 1.37,
+     "ballSpeed": 4.22,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60067,
+     "x": 69.8,
+     "y": 64.96,
+     "speed": 4.51,
+     "dBall": 1.44,
+     "ballSpeed": 4.17,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60068,
+     "x": 70.01,
+     "y": 64.97,
+     "speed": 4.35,
+     "dBall": 1.51,
+     "ballSpeed": 4.11,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60069,
+     "x": 70.22,
+     "y": 65,
+     "speed": 4.19,
+     "dBall": 1.59,
+     "ballSpeed": 4.06,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60070,
+     "x": 70.42,
+     "y": 65.04,
+     "speed": 4.01,
+     "dBall": 1.65,
+     "ballSpeed": 4.01,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60071,
+     "x": 70.6,
+     "y": 65.09,
+     "speed": 3.83,
+     "dBall": 1.71,
+     "ballSpeed": 3.95,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60072,
+     "x": 70.79,
+     "y": 65.15,
+     "speed": 3.84,
+     "dBall": 1.76,
+     "ballSpeed": 3.9,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60073,
+     "x": 70.96,
+     "y": 65.23,
+     "speed": 3.84,
+     "dBall": 1.8,
+     "ballSpeed": 3.85,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60074,
+     "x": 71.13,
+     "y": 65.32,
+     "speed": 3.83,
+     "dBall": 1.82,
+     "ballSpeed": 3.79,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60075,
+     "x": 71.29,
+     "y": 65.42,
+     "speed": 3.81,
+     "dBall": 1.83,
+     "ballSpeed": 3.74,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60076,
+     "x": 71.44,
+     "y": 65.54,
+     "speed": 3.83,
+     "dBall": 1.83,
+     "ballSpeed": 3.69,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60077,
+     "x": 71.58,
+     "y": 65.67,
+     "speed": 3.85,
+     "dBall": 1.81,
+     "ballSpeed": 3.63,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60078,
+     "x": 71.72,
+     "y": 65.81,
+     "speed": 3.86,
+     "dBall": 1.79,
+     "ballSpeed": 3.58,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60079,
+     "x": 71.84,
+     "y": 65.96,
+     "speed": 3.86,
+     "dBall": 1.75,
+     "ballSpeed": 3.53,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60080,
+     "x": 71.96,
+     "y": 66.13,
+     "speed": 4.15,
+     "dBall": 1.71,
+     "ballSpeed": 3.48,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60081,
+     "x": 72.09,
+     "y": 66.3,
+     "speed": 4.44,
+     "dBall": 1.64,
+     "ballSpeed": 3.43,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60082,
+     "x": 72.22,
+     "y": 66.48,
+     "speed": 4.29,
+     "dBall": 1.58,
+     "ballSpeed": 3.37,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60083,
+     "x": 72.34,
+     "y": 66.64,
+     "speed": 3.99,
+     "dBall": 1.53,
+     "ballSpeed": 3.32,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60084,
+     "x": 72.37,
+     "y": 66.69,
+     "speed": 1.25,
+     "dBall": 2.17,
+     "ballSpeed": 0,
+     "ballZ": 1.55,
+     "action": "wait"
+    },
+    {
+     "tick": 60085,
+     "x": 72.47,
+     "y": 66.83,
+     "speed": 3.4,
+     "dBall": 2.02,
+     "ballSpeed": 0,
+     "ballZ": 1.55,
+     "action": "wait"
+    },
+    {
+     "tick": 60086,
+     "x": 72.56,
+     "y": 66.96,
+     "speed": 3.1,
+     "dBall": 1.88,
+     "ballSpeed": 0,
+     "ballZ": 1.55,
+     "action": "wait"
+    },
+    {
+     "tick": 60087,
+     "x": 72.64,
+     "y": 67.07,
+     "speed": 2.79,
+     "dBall": 1.75,
+     "ballSpeed": 0,
+     "ballZ": 1.55,
+     "action": "restart_position"
+    },
+    {
+     "tick": 60088,
+     "x": 72.72,
+     "y": 67.17,
+     "speed": 2.48,
+     "dBall": 1.64,
+     "ballSpeed": 0,
+     "ballZ": 1.55,
+     "action": "restart_position"
+    },
+    {
+     "tick": 60089,
+     "x": 72.78,
+     "y": 67.26,
+     "speed": 2.18,
+     "dBall": 1.55,
+     "ballSpeed": 0,
+     "ballZ": 1.55,
+     "action": "restart_position"
+    },
+    {
+     "tick": 60090,
+     "x": 72.83,
+     "y": 67.33,
+     "speed": 1.87,
+     "dBall": 1.47,
+     "ballSpeed": 0,
+     "ballZ": 1.55,
+     "action": "restart_position"
+    }
+   ]
+  },
+  "flight": {
+   "decisions": [
+    {
+     "tick": 60041,
+     "apply": 60043,
+     "kind": "dribble",
+     "targetId": null,
+     "target": {
+      "x": 71.49,
+      "y": 64.77
+     },
+     "eta": null,
+     "dedicated": false,
+     "reason": "observed_space_and_pressure",
+     "ebi": null,
+     "dTarget": 7,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.81,
+     "dBall": 0.93,
+     "tClosest": -0.22,
+     "closestOffset": 0.37,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.49, rel 0.68, eta 0.7000000000000001)",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": true,
+     "ownSpeed": 4.04,
+     "touch": false,
+     "candidates": [
+      "dribble:1.15",
+      "pass→B07:0.87",
+      "cover:0.65",
+      "pass→B05:0.36",
+      "pass→B04:0.15",
+      "pass→B02:0.03",
+      "pass→B10:-0.45"
+     ]
+    },
+    {
+     "tick": 60045,
+     "apply": 60047,
+     "kind": "intercept",
+     "targetId": null,
+     "target": {
+      "x": 66.4,
+      "y": 64.54
+     },
+     "eta": 2,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 1.17,
+     "z": 0.11,
+     "velocityKnown": false,
+     "i17": "velocity_unknown",
+     "v2": "velocity_unknown",
+     "candidates": [
+      "intercept:1.77",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60049,
+     "apply": 60051,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 67.45,
+      "y": 64.64
+     },
+     "eta": 0.1,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": {
+      "kind": "dribble",
+      "targetId": null,
+      "apply": 60051
+     },
+     "dTarget": 1.35,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.76,
+     "dBall": 1.05,
+     "tClosest": -0.28,
+     "closestOffset": 0.15,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.47, rel 0.58, eta 0.8)",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": false,
+     "ownSpeed": 4,
+     "touch": false,
+     "candidates": [
+      "receive:1.77",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60053,
+     "apply": 60055,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 68.53,
+      "y": 64.9
+     },
+     "eta": 0.2,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 1.79,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.89,
+     "dBall": 1.16,
+     "tClosest": -0.3,
+     "closestOffset": 0.1,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.44, rel 0.79, eta 1.2000000000000002)",
+     "generic": "FE t=0.2",
+     "canPlayGeometry": false,
+     "ownSpeed": 2.93,
+     "touch": false,
+     "candidates": [
+      "receive:1.77",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60057,
+     "apply": 60059,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 69.81,
+      "y": 64.4
+     },
+     "eta": 0.3,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 2.54,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 4.34,
+     "dBall": 1.48,
+     "tClosest": -0.34,
+     "closestOffset": 0.23,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "miss>0.49_or_rel>threshold_or_unreachable",
+     "generic": "FE t=0.3",
+     "canPlayGeometry": false,
+     "ownSpeed": 2.91,
+     "touch": false,
+     "candidates": [
+      "receive:1.75",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60061,
+     "apply": 60063,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 70.49,
+      "y": 64.67
+     },
+     "eta": 0.3,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 2.52,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.89,
+     "dBall": 1.57,
+     "tClosest": -0.4,
+     "closestOffset": 0.18,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.43, rel 0.8, eta 1.1500000000000001)",
+     "generic": "FE t=0.3",
+     "canPlayGeometry": false,
+     "ownSpeed": 3.77,
+     "touch": false,
+     "candidates": [
+      "receive:1.75",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60065,
+     "apply": 60067,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 70.85,
+      "y": 64.85
+     },
+     "eta": 0.2,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 2.04,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.66,
+     "dBall": 1.45,
+     "tClosest": -0.39,
+     "closestOffset": 0.19,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.43, rel 0.56, eta 0.9)",
+     "generic": "FE t=0.2",
+     "canPlayGeometry": false,
+     "ownSpeed": 4.54,
+     "touch": false,
+     "candidates": [
+      "receive:1.76",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60069,
+     "apply": 60071,
+     "kind": "press",
+     "targetId": null,
+     "target": {
+      "x": 71,
+      "y": 64.82
+     },
+     "eta": 0.1,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 1.39,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 2.67,
+     "dBall": 1.17,
+     "tClosest": -0.44,
+     "closestOffset": 0.04,
+     "threshold": 10.26,
+     "i17": "slow(<=3)",
+     "v2": "slow(<=3)",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": false,
+     "ownSpeed": 3.89,
+     "touch": false,
+     "candidates": [
+      "press:1.77",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60073,
+     "apply": 60075,
+     "kind": "press",
+     "targetId": null,
+     "target": {
+      "x": 71.64,
+      "y": 64.73
+     },
+     "eta": 0.1,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 1.27,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.03,
+     "dBall": 1.02,
+     "tClosest": -0.34,
+     "closestOffset": 0.02,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.4, rel 0.37, eta 0.65)",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": false,
+     "ownSpeed": 3.82,
+     "touch": false,
+     "candidates": [
+      "press:1.78",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60077,
+     "apply": 60079,
+     "kind": "press",
+     "targetId": null,
+     "target": {
+      "x": 72.43,
+      "y": 64.82
+     },
+     "eta": 0.1,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 1.41,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.69,
+     "dBall": 1.11,
+     "tClosest": -0.3,
+     "closestOffset": 0.17,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.48, rel 0.51, eta 1)",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": false,
+     "ownSpeed": 3.04,
+     "touch": false,
+     "candidates": [
+      "press:1.77",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60081,
+     "apply": 60083,
+     "kind": "dribble",
+     "targetId": null,
+     "target": {
+      "x": 78.58,
+      "y": 64.82
+     },
+     "eta": null,
+     "dedicated": false,
+     "reason": "observed_space_and_pressure",
+     "ebi": null,
+     "dTarget": 7,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 2.12,
+     "dBall": 0.97,
+     "tClosest": -0.46,
+     "closestOffset": 0.05,
+     "threshold": 10.26,
+     "i17": "slow(<=3)",
+     "v2": "slow(<=3)",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": true,
+     "ownSpeed": 3.04,
+     "touch": false,
+     "candidates": [
+      "dribble:0.67",
+      "cover:0.65",
+      "pass→B10:-0.33"
+     ]
+    },
+    {
+     "tick": 60085,
+     "apply": 60087,
+     "kind": "dribble",
+     "targetId": null,
+     "target": {
+      "x": 79.18,
+      "y": 64.83
+     },
+     "eta": null,
+     "dedicated": false,
+     "reason": "observed_space_and_pressure",
+     "ebi": null,
+     "dTarget": 7,
+     "z": 0.11,
+     "velocityKnown": false,
+     "i17": "velocity_unknown",
+     "v2": "velocity_unknown",
+     "candidates": [
+      "dribble:0.68",
+      "cover:0.65",
+      "pass→B10:-0.36"
+     ]
+    },
+    {
+     "tick": 60089,
+     "apply": 60091,
+     "kind": "press",
+     "targetId": null,
+     "target": {
+      "x": 74.39,
+      "y": 65.02
+     },
+     "eta": 0.1,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 1.41,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 4.61,
+     "dBall": 1.03,
+     "tClosest": -0.22,
+     "closestOffset": 0.11,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.45, rel 1.48, eta 1.1500000000000001)",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": false,
+     "ownSpeed": 4.53,
+     "touch": false,
+     "candidates": [
+      "press:1.78",
+      "cover:0.65"
+     ]
+    }
+   ],
+   "events": [
+    {
+     "tick": 60043,
+     "type": "kick",
+     "kind": "dribble",
+     "control": null,
+     "targetId": null,
+     "team": "B"
+    },
+    {
+     "tick": 60083,
+     "type": "kick",
+     "kind": "dribble",
+     "control": null,
+     "targetId": null,
+     "team": "B"
+    },
+    {
+     "tick": 60090,
+     "type": "kick",
+     "kind": "dribble",
+     "control": null,
+     "targetId": null,
+     "team": "B"
+    }
+   ],
+   "truth": [
+    {
+     "tick": 60040,
+     "x": 64.29,
+     "y": 64.78,
+     "speed": 4.3,
+     "dBall": 1.02,
+     "ballSpeed": 4.46,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60041,
+     "x": 64.49,
+     "y": 64.77,
+     "speed": 4.04,
+     "dBall": 1.02,
+     "ballSpeed": 4.4,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60042,
+     "x": 64.68,
+     "y": 64.75,
+     "speed": 3.77,
+     "dBall": 1.03,
+     "ballSpeed": 4.35,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60043,
+     "x": 64.85,
+     "y": 64.72,
+     "speed": 3.49,
+     "dBall": 1.06,
+     "ballSpeed": 4.3,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60044,
+     "x": 65.04,
+     "y": 64.7,
+     "speed": 3.76,
+     "dBall": 1.09,
+     "ballSpeed": 4.45,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60045,
+     "x": 65.24,
+     "y": 64.69,
+     "speed": 4.03,
+     "dBall": 1.11,
+     "ballSpeed": 4.4,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60046,
+     "x": 65.45,
+     "y": 64.68,
+     "speed": 4.31,
+     "dBall": 1.11,
+     "ballSpeed": 4.34,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60047,
+     "x": 65.68,
+     "y": 64.68,
+     "speed": 4.59,
+     "dBall": 1.1,
+     "ballSpeed": 4.29,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60048,
+     "x": 65.9,
+     "y": 64.67,
+     "speed": 4.29,
+     "dBall": 1.09,
+     "ballSpeed": 4.23,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60049,
+     "x": 66.1,
+     "y": 64.67,
+     "speed": 4,
+     "dBall": 1.1,
+     "ballSpeed": 4.18,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60050,
+     "x": 66.28,
+     "y": 64.66,
+     "speed": 3.7,
+     "dBall": 1.13,
+     "ballSpeed": 4.13,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60051,
+     "x": 66.45,
+     "y": 64.64,
+     "speed": 3.4,
+     "dBall": 1.16,
+     "ballSpeed": 4.07,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60052,
+     "x": 66.61,
+     "y": 64.64,
+     "speed": 3.23,
+     "dBall": 1.2,
+     "ballSpeed": 4.02,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60053,
+     "x": 66.76,
+     "y": 64.64,
+     "speed": 2.93,
+     "dBall": 1.26,
+     "ballSpeed": 3.97,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60054,
+     "x": 66.89,
+     "y": 64.64,
+     "speed": 2.62,
+     "dBall": 1.32,
+     "ballSpeed": 3.91,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60055,
+     "x": 67.01,
+     "y": 64.64,
+     "speed": 2.34,
+     "dBall": 1.4,
+     "ballSpeed": 3.86,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60056,
+     "x": 67.14,
+     "y": 64.65,
+     "speed": 2.62,
+     "dBall": 1.46,
+     "ballSpeed": 3.81,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60057,
+     "x": 67.28,
+     "y": 64.66,
+     "speed": 2.91,
+     "dBall": 1.5,
+     "ballSpeed": 3.75,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60058,
+     "x": 67.44,
+     "y": 64.68,
+     "speed": 3.19,
+     "dBall": 1.53,
+     "ballSpeed": 3.7,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60059,
+     "x": 67.61,
+     "y": 64.71,
+     "speed": 3.4,
+     "dBall": 1.55,
+     "ballSpeed": 3.65,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60060,
+     "x": 67.78,
+     "y": 64.74,
+     "speed": 3.59,
+     "dBall": 1.55,
+     "ballSpeed": 3.59,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60061,
+     "x": 67.97,
+     "y": 64.75,
+     "speed": 3.77,
+     "dBall": 1.54,
+     "ballSpeed": 3.54,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60062,
+     "x": 68.17,
+     "y": 64.75,
+     "speed": 3.92,
+     "dBall": 1.52,
+     "ballSpeed": 3.49,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60063,
+     "x": 68.37,
+     "y": 64.73,
+     "speed": 4.01,
+     "dBall": 1.5,
+     "ballSpeed": 3.44,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60064,
+     "x": 68.58,
+     "y": 64.72,
+     "speed": 4.3,
+     "dBall": 1.45,
+     "ballSpeed": 3.39,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60065,
+     "x": 68.81,
+     "y": 64.71,
+     "speed": 4.54,
+     "dBall": 1.39,
+     "ballSpeed": 3.33,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60066,
+     "x": 69.02,
+     "y": 64.71,
+     "speed": 4.24,
+     "dBall": 1.35,
+     "ballSpeed": 3.28,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60067,
+     "x": 69.22,
+     "y": 64.7,
+     "speed": 3.95,
+     "dBall": 1.31,
+     "ballSpeed": 3.23,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60068,
+     "x": 69.42,
+     "y": 64.71,
+     "speed": 4.08,
+     "dBall": 1.27,
+     "ballSpeed": 3.18,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60069,
+     "x": 69.62,
+     "y": 64.73,
+     "speed": 3.89,
+     "dBall": 1.23,
+     "ballSpeed": 3.13,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60070,
+     "x": 69.8,
+     "y": 64.75,
+     "speed": 3.6,
+     "dBall": 1.21,
+     "ballSpeed": 3.08,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60071,
+     "x": 69.99,
+     "y": 64.78,
+     "speed": 3.87,
+     "dBall": 1.17,
+     "ballSpeed": 3.03,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60072,
+     "x": 70.18,
+     "y": 64.82,
+     "speed": 4.06,
+     "dBall": 1.12,
+     "ballSpeed": 2.98,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60073,
+     "x": 70.37,
+     "y": 64.86,
+     "speed": 3.82,
+     "dBall": 1.08,
+     "ballSpeed": 2.93,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60074,
+     "x": 70.55,
+     "y": 64.88,
+     "speed": 3.56,
+     "dBall": 1.05,
+     "ballSpeed": 2.88,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60075,
+     "x": 70.71,
+     "y": 64.9,
+     "speed": 3.28,
+     "dBall": 1.04,
+     "ballSpeed": 2.83,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60076,
+     "x": 70.87,
+     "y": 64.91,
+     "speed": 3.2,
+     "dBall": 1.02,
+     "ballSpeed": 2.78,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60077,
+     "x": 71.02,
+     "y": 64.9,
+     "speed": 3.04,
+     "dBall": 1,
+     "ballSpeed": 2.73,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60078,
+     "x": 71.16,
+     "y": 64.88,
+     "speed": 2.82,
+     "dBall": 0.99,
+     "ballSpeed": 2.68,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60079,
+     "x": 71.29,
+     "y": 64.85,
+     "speed": 2.55,
+     "dBall": 1,
+     "ballSpeed": 2.63,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60080,
+     "x": 71.43,
+     "y": 64.83,
+     "speed": 2.82,
+     "dBall": 0.99,
+     "ballSpeed": 2.58,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60081,
+     "x": 71.58,
+     "y": 64.82,
+     "speed": 3.04,
+     "dBall": 0.97,
+     "ballSpeed": 2.53,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60082,
+     "x": 71.73,
+     "y": 64.83,
+     "speed": 2.97,
+     "dBall": 0.94,
+     "ballSpeed": 2.48,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60083,
+     "x": 71.86,
+     "y": 64.83,
+     "speed": 2.69,
+     "dBall": 0.93,
+     "ballSpeed": 2.43,
+     "ballZ": 0.11,
+     "action": "press"
+    },
+    {
+     "tick": 60084,
+     "x": 72.01,
+     "y": 64.83,
+     "speed": 3,
+     "dBall": 1,
+     "ballSpeed": 4.29,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60085,
+     "x": 72.18,
+     "y": 64.83,
+     "speed": 3.31,
+     "dBall": 1.05,
+     "ballSpeed": 4.23,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60086,
+     "x": 72.36,
+     "y": 64.83,
+     "speed": 3.61,
+     "dBall": 1.08,
+     "ballSpeed": 4.18,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60087,
+     "x": 72.56,
+     "y": 64.82,
+     "speed": 3.92,
+     "dBall": 1.09,
+     "ballSpeed": 4.12,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60088,
+     "x": 72.77,
+     "y": 64.82,
+     "speed": 4.23,
+     "dBall": 1.08,
+     "ballSpeed": 4.07,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60089,
+     "x": 72.99,
+     "y": 64.82,
+     "speed": 4.53,
+     "dBall": 1.06,
+     "ballSpeed": 4.02,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60090,
+     "x": 73.21,
+     "y": 64.84,
+     "speed": 4.44,
+     "dBall": 1.04,
+     "ballSpeed": 3.96,
+     "ballZ": 0.11,
+     "action": "dribble"
+    }
+   ]
+  },
+  "combo": {
+   "decisions": [
+    {
+     "tick": 60041,
+     "apply": 60043,
+     "kind": "dribble",
+     "targetId": null,
+     "target": {
+      "x": 71.49,
+      "y": 64.77
+     },
+     "eta": null,
+     "dedicated": false,
+     "reason": "observed_space_and_pressure",
+     "ebi": null,
+     "dTarget": 7,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.81,
+     "dBall": 0.93,
+     "tClosest": -0.22,
+     "closestOffset": 0.37,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.49, rel 0.68, eta 0.7000000000000001)",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": true,
+     "ownSpeed": 4.04,
+     "touch": false,
+     "candidates": [
+      "dribble:1.15",
+      "pass→B07:0.87",
+      "cover:0.65",
+      "pass→B05:0.36",
+      "pass→B04:0.15",
+      "pass→B02:0.03",
+      "pass→B10:-0.45"
+     ]
+    },
+    {
+     "tick": 60045,
+     "apply": 60047,
+     "kind": "intercept",
+     "targetId": null,
+     "target": {
+      "x": 66.4,
+      "y": 64.54
+     },
+     "eta": 2,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 1.17,
+     "z": 0.11,
+     "velocityKnown": false,
+     "i17": "velocity_unknown",
+     "v2": "velocity_unknown",
+     "candidates": [
+      "intercept:1.77",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60049,
+     "apply": 60051,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 70.48,
+      "y": 64.94
+     },
+     "eta": 0.8,
+     "dedicated": true,
+     "reason": "R07_perceived_contact_cost_no_future_truth",
+     "ebi": {
+      "kind": "dribble",
+      "targetId": null,
+      "apply": 60051
+     },
+     "dTarget": 4.4,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.76,
+     "dBall": 1.05,
+     "tClosest": -0.28,
+     "closestOffset": 0.15,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.47, rel 0.58, eta 0.8)",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": false,
+     "ownSpeed": 4,
+     "touch": false,
+     "candidates": [
+      "receive:1.77",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60053,
+     "apply": 60055,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 71.68,
+      "y": 65.54
+     },
+     "eta": 0.9,
+     "dedicated": true,
+     "reason": "R07_perceived_contact_cost_no_future_truth",
+     "ebi": {
+      "kind": "dribble",
+      "targetId": null,
+      "apply": 60055
+     },
+     "dTarget": 4.93,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.89,
+     "dBall": 1.08,
+     "tClosest": -0.28,
+     "closestOffset": 0.07,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "plan(miss 0.48, rel 0.72, eta 0.9)",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": false,
+     "ownSpeed": 3.99,
+     "touch": false,
+     "candidates": [
+      "receive:1.77",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60057,
+     "apply": 60059,
+     "kind": "intercept",
+     "targetId": null,
+     "target": {
+      "x": 68.75,
+      "y": 64.76
+     },
+     "eta": 2,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 1,
+     "z": 0.11,
+     "velocityKnown": false,
+     "i17": "velocity_unknown",
+     "v2": "velocity_unknown",
+     "candidates": [
+      "intercept:1.78",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60061,
+     "apply": 60063,
+     "kind": "dribble",
+     "targetId": null,
+     "target": {
+      "x": 75.62,
+      "y": 64.84
+     },
+     "eta": null,
+     "dedicated": false,
+     "reason": "observed_space_and_pressure",
+     "ebi": null,
+     "dTarget": 7,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 4.6,
+     "dBall": 0.98,
+     "tClosest": -0.21,
+     "closestOffset": 0.15,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "miss>0.49_or_rel>threshold_or_unreachable",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": true,
+     "ownSpeed": 4.06,
+     "touch": false,
+     "candidates": [
+      "dribble:0.88",
+      "cover:0.65",
+      "pass→B10:-0.42",
+      "pass→B05:-0.85"
+     ]
+    },
+    {
+     "tick": 60065,
+     "apply": 60067,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 70.62,
+      "y": 66.38
+     },
+     "eta": 0.2,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 1.91,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 4.28,
+     "dBall": 1.21,
+     "tClosest": -0.28,
+     "closestOffset": 0.2,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "miss>0.49_or_rel>threshold_or_unreachable",
+     "generic": "FE t=0.2",
+     "canPlayGeometry": false,
+     "ownSpeed": 3.98,
+     "touch": false,
+     "candidates": [
+      "receive:1.77",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60069,
+     "apply": 60071,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 71.89,
+      "y": 66.98
+     },
+     "eta": 0.3,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 2.59,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 4.67,
+     "dBall": 1.54,
+     "tClosest": -0.28,
+     "closestOffset": 0.84,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "miss>0.49_or_rel>threshold_or_unreachable",
+     "generic": "FE t=0.3",
+     "canPlayGeometry": false,
+     "ownSpeed": 4.19,
+     "touch": false,
+     "candidates": [
+      "receive:1.75",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60073,
+     "apply": 60075,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 72,
+      "y": 67.7
+     },
+     "eta": 0.3,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 2.68,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.88,
+     "dBall": 1.81,
+     "tClosest": -0.42,
+     "closestOffset": 0.78,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "miss>0.49_or_rel>threshold_or_unreachable",
+     "generic": "FE t=0.3",
+     "canPlayGeometry": false,
+     "ownSpeed": 3.84,
+     "touch": false,
+     "candidates": [
+      "receive:1.74",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60077,
+     "apply": 60079,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 73.09,
+      "y": 67.7
+     },
+     "eta": 0.3,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 2.53,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 4.38,
+     "dBall": 1.84,
+     "tClosest": -0.31,
+     "closestOffset": 1.24,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "miss>0.49_or_rel>threshold_or_unreachable",
+     "generic": "FE t=0.3",
+     "canPlayGeometry": false,
+     "ownSpeed": 3.85,
+     "touch": false,
+     "candidates": [
+      "receive:1.74",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60081,
+     "apply": 60083,
+     "kind": "receive",
+     "targetId": null,
+     "target": {
+      "x": 73.1,
+      "y": 67.7
+     },
+     "eta": 0.2,
+     "dedicated": false,
+     "reason": "observed_ball_eta_and_teammates",
+     "ebi": null,
+     "dTarget": 1.72,
+     "z": 0.11,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 3.39,
+     "dBall": 1.66,
+     "tClosest": -0.43,
+     "closestOffset": 0.82,
+     "threshold": 10.26,
+     "i17": "closest_passed",
+     "v2": "miss>0.49_or_rel>threshold_or_unreachable",
+     "generic": "FE t=0.2",
+     "canPlayGeometry": false,
+     "ownSpeed": 4.44,
+     "touch": false,
+     "candidates": [
+      "receive:1.75",
+      "cover:0.65"
+     ]
+    },
+    {
+     "tick": 60084,
+     "apply": 60086,
+     "kind": "restart_position",
+     "targetId": null,
+     "target": {
+      "x": 65.57,
+      "y": 58
+     },
+     "eta": null,
+     "dedicated": false,
+     "reason": "public_restart_constraints",
+     "ebi": null,
+     "dTarget": 11.04,
+     "z": 1.55,
+     "velocityKnown": false,
+     "i17": "velocity_unknown",
+     "v2": "velocity_unknown",
+     "candidates": [
+      "restart_position:9"
+     ]
+    },
+    {
+     "tick": 60088,
+     "apply": 60090,
+     "kind": "restart_position",
+     "targetId": null,
+     "target": {
+      "x": 65.57,
+      "y": 58
+     },
+     "eta": null,
+     "dedicated": false,
+     "reason": "public_restart_constraints",
+     "ebi": null,
+     "dTarget": 11.63,
+     "z": 1.55,
+     "velocityKnown": true,
+     "age": 0,
+     "ballSpeed": 0.64,
+     "dBall": 1.62,
+     "tClosest": 2.36,
+     "closestOffset": 0.57,
+     "threshold": 10.26,
+     "i17": "ball_high",
+     "v2": "ball_high",
+     "generic": "FE t=0.1",
+     "canPlayGeometry": false,
+     "ownSpeed": 2.48,
+     "touch": false,
+     "candidates": [
+      "restart_position:9"
+     ]
+    }
+   ],
+   "events": [
+    {
+     "tick": 60043,
+     "type": "kick",
+     "kind": "dribble",
+     "control": null,
+     "targetId": null,
+     "team": "B"
+    },
+    {
+     "tick": 60056,
+     "type": "kick",
+     "kind": "dribble",
+     "control": null,
+     "targetId": null,
+     "team": "B"
+    },
+    {
+     "tick": 60083,
+     "type": "restart_placement",
+     "kind": "throw_in",
+     "control": null,
+     "targetId": null,
+     "team": "A"
+    }
+   ],
+   "truth": [
+    {
+     "tick": 60040,
+     "x": 64.29,
+     "y": 64.78,
+     "speed": 4.3,
+     "dBall": 1.02,
+     "ballSpeed": 4.46,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60041,
+     "x": 64.49,
+     "y": 64.77,
+     "speed": 4.04,
+     "dBall": 1.02,
+     "ballSpeed": 4.4,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60042,
+     "x": 64.68,
+     "y": 64.75,
+     "speed": 3.77,
+     "dBall": 1.03,
+     "ballSpeed": 4.35,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60043,
+     "x": 64.85,
+     "y": 64.72,
+     "speed": 3.49,
+     "dBall": 1.06,
+     "ballSpeed": 4.3,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60044,
+     "x": 65.04,
+     "y": 64.7,
+     "speed": 3.76,
+     "dBall": 1.09,
+     "ballSpeed": 4.45,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60045,
+     "x": 65.24,
+     "y": 64.69,
+     "speed": 4.03,
+     "dBall": 1.11,
+     "ballSpeed": 4.4,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60046,
+     "x": 65.45,
+     "y": 64.68,
+     "speed": 4.31,
+     "dBall": 1.11,
+     "ballSpeed": 4.34,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60047,
+     "x": 65.68,
+     "y": 64.68,
+     "speed": 4.59,
+     "dBall": 1.1,
+     "ballSpeed": 4.29,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60048,
+     "x": 65.9,
+     "y": 64.67,
+     "speed": 4.29,
+     "dBall": 1.09,
+     "ballSpeed": 4.23,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60049,
+     "x": 66.1,
+     "y": 64.67,
+     "speed": 4,
+     "dBall": 1.1,
+     "ballSpeed": 4.18,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60050,
+     "x": 66.28,
+     "y": 64.66,
+     "speed": 3.7,
+     "dBall": 1.13,
+     "ballSpeed": 4.13,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60051,
+     "x": 66.45,
+     "y": 64.64,
+     "speed": 3.4,
+     "dBall": 1.16,
+     "ballSpeed": 4.07,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60052,
+     "x": 66.63,
+     "y": 64.63,
+     "speed": 3.69,
+     "dBall": 1.18,
+     "ballSpeed": 4.02,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60053,
+     "x": 66.83,
+     "y": 64.62,
+     "speed": 3.99,
+     "dBall": 1.18,
+     "ballSpeed": 3.97,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60054,
+     "x": 67.05,
+     "y": 64.62,
+     "speed": 4.28,
+     "dBall": 1.16,
+     "ballSpeed": 3.91,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60055,
+     "x": 67.28,
+     "y": 64.62,
+     "speed": 4.57,
+     "dBall": 1.13,
+     "ballSpeed": 3.86,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60056,
+     "x": 67.52,
+     "y": 64.63,
+     "speed": 4.83,
+     "dBall": 1.08,
+     "ballSpeed": 3.81,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60057,
+     "x": 67.75,
+     "y": 64.66,
+     "speed": 4.75,
+     "dBall": 1.04,
+     "ballSpeed": 4.71,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60058,
+     "x": 67.98,
+     "y": 64.7,
+     "speed": 4.7,
+     "dBall": 1.02,
+     "ballSpeed": 4.66,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60059,
+     "x": 68.21,
+     "y": 64.75,
+     "speed": 4.65,
+     "dBall": 1,
+     "ballSpeed": 4.6,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60060,
+     "x": 68.42,
+     "y": 64.8,
+     "speed": 4.35,
+     "dBall": 1.01,
+     "ballSpeed": 4.55,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60061,
+     "x": 68.62,
+     "y": 64.84,
+     "speed": 4.06,
+     "dBall": 1.04,
+     "ballSpeed": 4.49,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60062,
+     "x": 68.81,
+     "y": 64.88,
+     "speed": 3.76,
+     "dBall": 1.09,
+     "ballSpeed": 4.44,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60063,
+     "x": 68.98,
+     "y": 64.91,
+     "speed": 3.46,
+     "dBall": 1.16,
+     "ballSpeed": 4.38,
+     "ballZ": 0.11,
+     "action": "intercept"
+    },
+    {
+     "tick": 60064,
+     "x": 69.16,
+     "y": 64.93,
+     "speed": 3.72,
+     "dBall": 1.23,
+     "ballSpeed": 4.33,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60065,
+     "x": 69.36,
+     "y": 64.95,
+     "speed": 3.98,
+     "dBall": 1.3,
+     "ballSpeed": 4.27,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60066,
+     "x": 69.57,
+     "y": 64.96,
+     "speed": 4.24,
+     "dBall": 1.37,
+     "ballSpeed": 4.22,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60067,
+     "x": 69.8,
+     "y": 64.96,
+     "speed": 4.51,
+     "dBall": 1.44,
+     "ballSpeed": 4.17,
+     "ballZ": 0.11,
+     "action": "dribble"
+    },
+    {
+     "tick": 60068,
+     "x": 70.01,
+     "y": 64.97,
+     "speed": 4.35,
+     "dBall": 1.51,
+     "ballSpeed": 4.11,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60069,
+     "x": 70.22,
+     "y": 65,
+     "speed": 4.19,
+     "dBall": 1.59,
+     "ballSpeed": 4.06,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60070,
+     "x": 70.42,
+     "y": 65.04,
+     "speed": 4.01,
+     "dBall": 1.65,
+     "ballSpeed": 4.01,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60071,
+     "x": 70.6,
+     "y": 65.09,
+     "speed": 3.83,
+     "dBall": 1.71,
+     "ballSpeed": 3.95,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60072,
+     "x": 70.79,
+     "y": 65.15,
+     "speed": 3.84,
+     "dBall": 1.76,
+     "ballSpeed": 3.9,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60073,
+     "x": 70.96,
+     "y": 65.23,
+     "speed": 3.84,
+     "dBall": 1.8,
+     "ballSpeed": 3.85,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60074,
+     "x": 71.13,
+     "y": 65.32,
+     "speed": 3.83,
+     "dBall": 1.82,
+     "ballSpeed": 3.79,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60075,
+     "x": 71.29,
+     "y": 65.42,
+     "speed": 3.81,
+     "dBall": 1.83,
+     "ballSpeed": 3.74,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60076,
+     "x": 71.44,
+     "y": 65.54,
+     "speed": 3.83,
+     "dBall": 1.83,
+     "ballSpeed": 3.69,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60077,
+     "x": 71.58,
+     "y": 65.67,
+     "speed": 3.85,
+     "dBall": 1.81,
+     "ballSpeed": 3.63,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60078,
+     "x": 71.72,
+     "y": 65.81,
+     "speed": 3.86,
+     "dBall": 1.79,
+     "ballSpeed": 3.58,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60079,
+     "x": 71.84,
+     "y": 65.96,
+     "speed": 3.86,
+     "dBall": 1.75,
+     "ballSpeed": 3.53,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60080,
+     "x": 71.96,
+     "y": 66.13,
+     "speed": 4.15,
+     "dBall": 1.71,
+     "ballSpeed": 3.48,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60081,
+     "x": 72.09,
+     "y": 66.3,
+     "speed": 4.44,
+     "dBall": 1.64,
+     "ballSpeed": 3.43,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60082,
+     "x": 72.22,
+     "y": 66.48,
+     "speed": 4.29,
+     "dBall": 1.58,
+     "ballSpeed": 3.37,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60083,
+     "x": 72.34,
+     "y": 66.64,
+     "speed": 3.99,
+     "dBall": 1.53,
+     "ballSpeed": 3.32,
+     "ballZ": 0.11,
+     "action": "receive"
+    },
+    {
+     "tick": 60084,
+     "x": 72.37,
+     "y": 66.69,
+     "speed": 1.25,
+     "dBall": 2.17,
+     "ballSpeed": 0,
+     "ballZ": 1.55,
+     "action": "wait"
+    },
+    {
+     "tick": 60085,
+     "x": 72.47,
+     "y": 66.83,
+     "speed": 3.4,
+     "dBall": 2.02,
+     "ballSpeed": 0,
+     "ballZ": 1.55,
+     "action": "wait"
+    },
+    {
+     "tick": 60086,
+     "x": 72.56,
+     "y": 66.96,
+     "speed": 3.1,
+     "dBall": 1.88,
+     "ballSpeed": 0,
+     "ballZ": 1.55,
+     "action": "wait"
+    },
+    {
+     "tick": 60087,
+     "x": 72.64,
+     "y": 67.07,
+     "speed": 2.79,
+     "dBall": 1.75,
+     "ballSpeed": 0,
+     "ballZ": 1.55,
+     "action": "restart_position"
+    },
+    {
+     "tick": 60088,
+     "x": 72.72,
+     "y": 67.17,
+     "speed": 2.48,
+     "dBall": 1.64,
+     "ballSpeed": 0,
+     "ballZ": 1.55,
+     "action": "restart_position"
+    },
+    {
+     "tick": 60089,
+     "x": 72.78,
+     "y": 67.26,
+     "speed": 2.18,
+     "dBall": 1.55,
+     "ballSpeed": 0,
+     "ballZ": 1.55,
+     "action": "restart_position"
+    },
+    {
+     "tick": 60090,
+     "x": 72.83,
+     "y": 67.33,
+     "speed": 1.87,
+     "dBall": 1.47,
+     "ballSpeed": 0,
+     "ballZ": 1.55,
+     "action": "restart_position"
+    }
+   ]
+  }
+ },
+ "isolation": {
+  "base_vs_flight": 60144,
+  "v2_vs_combo": null,
+  "base_vs_v2": 60052
+ }
+}

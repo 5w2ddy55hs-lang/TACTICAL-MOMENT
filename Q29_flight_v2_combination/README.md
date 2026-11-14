@@ -32,3 +32,7 @@
 - V2 による球外の例（12355）は、飛行時間を加えても受けられませんでした。
 - 60288 は、同じ状態からなら先読み 0.35秒でも球外でした。
 - 組合せの結果は、単独の作用が順に効いたものとして説明できます。
+
+## 追補（Q29B）
+
+`REPORT_Q29B_V2_FIRST_TOUCH_JA.md`：受球V2が4機会ともドリブラー自身の次タッチに先に作用した理由。判断→動作→パス時刻の追跡と、全DTOでの分類。道具は `tools/v2_first_touch.mjs`、`tools/v2_first_touch_table.py`、`tools/v2_where_differs.mjs`、出力は `eval/v2_first_touch_*`、`eval/v2_where_differs.json`。新しい実行はなく、Q29 の記録の読み取りだけです。
