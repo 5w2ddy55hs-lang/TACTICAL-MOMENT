@@ -1,0 +1,1 @@
+{"arm":"base","input":"60000.json","inputSha256":"e428719154cc8ed19754c62509d1f576584167324ca21c06797a11c132c9fa3c","directRestore":"accepted","fixture":"accepted","node":"v22.23.4","nativeExact":true,"ownSaveRestore":true,"endTick":60400,"rows":17486,"reference":{"frameHashesAll":true,"firstFrameMismatch":null,"rowCount":true,"rowsSHA":true,"endNativeSHA":true}}
