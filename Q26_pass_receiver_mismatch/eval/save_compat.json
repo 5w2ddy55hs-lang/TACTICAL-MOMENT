@@ -1,0 +1,140 @@
+[
+ {
+  "file": "TM_SUPPORT_SUITE/inputs/postpass_state_12164.json",
+  "sha256": "3b0eeedee37a3deb9d3c076f5b5abf94206e732dcc699c7395095314ef581e2c",
+  "schema": "TM_INTEGRATION_I8_STANDARD_SAVE/1",
+  "engine": "TM_INTEGRATION_I8_STANDARD_PASS_R1_CLAUDE_COUNTDOWN",
+  "buildSha256": "f823d4e9d28f60650bd98a800926dea0ce1a69da6a4bd528c77d8aad44a76358",
+  "i17StandardDirect": "ACCEPTED",
+  "suiteBaseOff": "ACCEPTED",
+  "i17ViaI9Guard": "REJECTED:I9_GUARD:ENVELOPE_KEYS",
+  "exportStateIdentical": true,
+  "saveRoundTripIdentical": true
+ },
+ {
+  "file": "TM_SUPPORT_SUITE/inputs/control_state_24263.json",
+  "sha256": "5c6ca3610fa7d0cacc8dedcb8115c5cfa733c6be8c6fde0c633a2e08327e3269",
+  "schema": "TM_INTEGRATION_I8_STANDARD_SAVE/1",
+  "engine": "TM_INTEGRATION_I8_STANDARD_PASS_R1_CLAUDE_COUNTDOWN",
+  "buildSha256": "f823d4e9d28f60650bd98a800926dea0ce1a69da6a4bd528c77d8aad44a76358",
+  "i17StandardDirect": "ACCEPTED",
+  "suiteBaseOff": "ACCEPTED",
+  "i17ViaI9Guard": "REJECTED:I9_GUARD:ENVELOPE_KEYS",
+  "exportStateIdentical": true,
+  "saveRoundTripIdentical": true
+ },
+ {
+  "file": "TM_SUPPORT_SUITE/inputs/otherseed_state_87312949_12235.json",
+  "sha256": "c2a7aeda2ee162ac1be5d6365a3bcd281bb8f1a1a505401c5e934d9e54817ad0",
+  "schema": "TM_INTEGRATION_I8_STANDARD_SAVE/1",
+  "engine": "TM_INTEGRATION_I8_STANDARD_PASS_R1_CLAUDE_COUNTDOWN",
+  "buildSha256": "f823d4e9d28f60650bd98a800926dea0ce1a69da6a4bd528c77d8aad44a76358",
+  "i17StandardDirect": "ACCEPTED",
+  "suiteBaseOff": "ACCEPTED",
+  "i17ViaI9Guard": "REJECTED:I9_GUARD:ENVELOPE_KEYS",
+  "exportStateIdentical": true,
+  "saveRoundTripIdentical": true
+ },
+ {
+  "file": "TM_SUPPORT_SUITE/inputs/otherseed_state_87312949_6039.json",
+  "sha256": "e71fe9bb58f33a93512c972bb613495b8834a56056b6241f16a6f79847334fe4",
+  "schema": "TM_INTEGRATION_I8_STANDARD_SAVE/1",
+  "engine": "TM_INTEGRATION_I8_STANDARD_PASS_R1_CLAUDE_COUNTDOWN",
+  "buildSha256": "f823d4e9d28f60650bd98a800926dea0ce1a69da6a4bd528c77d8aad44a76358",
+  "i17StandardDirect": "ACCEPTED",
+  "suiteBaseOff": "ACCEPTED",
+  "i17ViaI9Guard": "REJECTED:I9_GUARD:ENVELOPE_KEYS",
+  "exportStateIdentical": true,
+  "saveRoundTripIdentical": true
+ },
+ {
+  "file": "TM_SUPPORT_SUITE/inputs/otherseed_state_87312948_6122.json",
+  "sha256": "451ce2f13ba8e86bfd93fda453420219d7a9902a1c8738be2b7853ecdedcdb5b",
+  "schema": "TM_INTEGRATION_I8_STANDARD_SAVE/1",
+  "engine": "TM_INTEGRATION_I8_STANDARD_PASS_R1_CLAUDE_COUNTDOWN",
+  "buildSha256": "f823d4e9d28f60650bd98a800926dea0ce1a69da6a4bd528c77d8aad44a76358",
+  "i17StandardDirect": "ACCEPTED",
+  "suiteBaseOff": "ACCEPTED",
+  "i17ViaI9Guard": "REJECTED:I9_GUARD:ENVELOPE_KEYS",
+  "exportStateIdentical": true,
+  "saveRoundTripIdentical": true
+ },
+ {
+  "file": "TM_SUPPORT_SUITE/inputs/outlet_to_shot.json",
+  "sha256": "d90126fc3dd074280b38660d1c5e30458b59e652394c01902182a7222701a7e5",
+  "schema": "TM_INTEGRATION_I8_STANDARD_SAVE/1",
+  "engine": "TM_INTEGRATION_I8_STANDARD_PASS_R1_CLAUDE_COUNTDOWN",
+  "buildSha256": "f823d4e9d28f60650bd98a800926dea0ce1a69da6a4bd528c77d8aad44a76358",
+  "i17StandardDirect": "ACCEPTED",
+  "suiteBaseOff": "ACCEPTED",
+  "i17ViaI9Guard": "REJECTED:I9_GUARD:ENVELOPE_KEYS",
+  "exportStateIdentical": true,
+  "saveRoundTripIdentical": true
+ },
+ {
+  "file": "TM_SUPPORT_SUITE/inputs/outlet_unreached.json",
+  "sha256": "4a345251ba5ecd07344073113e3e4cf8d948152b14985754010d4bb60cd9f2f7",
+  "schema": "TM_INTEGRATION_I8_STANDARD_SAVE/1",
+  "engine": "TM_INTEGRATION_I8_STANDARD_PASS_R1_CLAUDE_COUNTDOWN",
+  "buildSha256": "f823d4e9d28f60650bd98a800926dea0ce1a69da6a4bd528c77d8aad44a76358",
+  "i17StandardDirect": "ACCEPTED",
+  "suiteBaseOff": "ACCEPTED",
+  "i17ViaI9Guard": "REJECTED:I9_GUARD:ENVELOPE_KEYS",
+  "exportStateIdentical": true,
+  "saveRoundTripIdentical": true
+ },
+ {
+  "file": "../in_cmp/base_start.json",
+  "sha256": "4a345251ba5ecd07344073113e3e4cf8d948152b14985754010d4bb60cd9f2f7",
+  "schema": "TM_INTEGRATION_I8_STANDARD_SAVE/1",
+  "engine": "TM_INTEGRATION_I8_STANDARD_PASS_R1_CLAUDE_COUNTDOWN",
+  "buildSha256": "f823d4e9d28f60650bd98a800926dea0ce1a69da6a4bd528c77d8aad44a76358",
+  "i17StandardDirect": "ACCEPTED",
+  "suiteBaseOff": "ACCEPTED",
+  "i17ViaI9Guard": "REJECTED:I9_GUARD:ENVELOPE_KEYS",
+  "exportStateIdentical": true,
+  "saveRoundTripIdentical": true
+ },
+ {
+  "file": "../in_cmp/baseline_start.json",
+  "sha256": "4a345251ba5ecd07344073113e3e4cf8d948152b14985754010d4bb60cd9f2f7",
+  "schema": "TM_INTEGRATION_I8_STANDARD_SAVE/1",
+  "engine": "TM_INTEGRATION_I8_STANDARD_PASS_R1_CLAUDE_COUNTDOWN",
+  "buildSha256": "f823d4e9d28f60650bd98a800926dea0ce1a69da6a4bd528c77d8aad44a76358",
+  "i17StandardDirect": "ACCEPTED",
+  "suiteBaseOff": "ACCEPTED",
+  "i17ViaI9Guard": "REJECTED:I9_GUARD:ENVELOPE_KEYS",
+  "exportStateIdentical": true,
+  "saveRoundTripIdentical": true
+ },
+ {
+  "file": "../in_cmp/receive_v2_start.json",
+  "sha256": "6851d034b3f845730e23f25374da0b77e3277fdd2747ffaef838e774834cbb34",
+  "schema": "TM_COMBO_BASE_RECEPTION_INTEGRATION_I8_STANDARD_SAVE/1",
+  "engine": "TM_COMBO_BASE_RECEPTION_INTEGRATION_I8_STANDARD_PASS_R1_CLAUDE_COUNTDOWN",
+  "buildSha256": "7328899491c397bf68d86e70e7628ca207b58e4a2a94bb23e547e06cd52cfeec",
+  "i17StandardDirect": "REJECTED:PASS_PRINCIPLES_SAVE_IDENTITY",
+  "suiteBaseOff": "REJECTED:PASS_PRINCIPLES_SAVE_IDENTITY",
+  "i17ViaI9Guard": "REJECTED:I9_GUARD:ENVELOPE_KEYS"
+ },
+ {
+  "file": "../in_cmp/flight_baseline_start.json",
+  "sha256": "d9737d8a85cf3c294c1517d01c9e9f08a56179835cc1552a38051f189c8e65da",
+  "schema": "TM_INTEGRATION_I8_STANDARD_SAVE/1",
+  "engine": "TM_INTEGRATION_I8_STANDARD_PASS_R1_CLAUDE_COUNTDOWN",
+  "buildSha256": "c6174bd696c3da8a0ad1a921d553e906cd4e019b95d1af1aee28de23998f7e13",
+  "i17StandardDirect": "REJECTED:PASS_PRINCIPLES_SAVE_IDENTITY",
+  "suiteBaseOff": "REJECTED:PASS_PRINCIPLES_SAVE_IDENTITY",
+  "i17ViaI9Guard": "REJECTED:I9_GUARD:ENVELOPE_KEYS"
+ },
+ {
+  "file": "../in_cmp/flight_candidate_start.json",
+  "sha256": "749b2ccc67f0ab9370eab8ed82a7999ef11d8e8451a206e5484a3f2a1aede99d",
+  "schema": "TM_INTEGRATION_I8_STANDARD_SAVE/1",
+  "engine": "TM_INTEGRATION_I8_STANDARD_PASS_R1_CLAUDE_COUNTDOWN",
+  "buildSha256": "491f025ba3d76d8d2869943b0853b2757cc0da335b563c6066e071cfd8ac9c9a",
+  "i17StandardDirect": "REJECTED:PASS_PRINCIPLES_SAVE_IDENTITY",
+  "suiteBaseOff": "REJECTED:PASS_PRINCIPLES_SAVE_IDENTITY",
+  "i17ViaI9Guard": "REJECTED:I9_GUARD:ENVELOPE_KEYS"
+ }
+]

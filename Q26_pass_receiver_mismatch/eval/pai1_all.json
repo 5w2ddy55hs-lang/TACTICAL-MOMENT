@@ -1,0 +1,42 @@
+[
+ {
+  "tick": 42168,
+  "player": "A05",
+  "src": "ballActionIntent",
+  "receiver": "A10",
+  "baseMinusLegacy": 0,
+  "candMinusPai1": 0.014,
+  "candMinusBase": 2.51,
+  "pai1Flight": 0.9759168696403504
+ },
+ {
+  "tick": 42176,
+  "player": "A05",
+  "src": "ballActionIntent",
+  "receiver": "A10",
+  "baseMinusLegacy": 0,
+  "candMinusPai1": 0.004,
+  "candMinusBase": 5.52,
+  "pai1Flight": 1.2592554941773415
+ },
+ {
+  "tick": 42180,
+  "player": "A05",
+  "src": "ballActionIntent",
+  "receiver": "A10",
+  "baseMinusLegacy": 0,
+  "candMinusPai1": 0.001,
+  "candMinusBase": 9.37,
+  "pai1Flight": 1.58989583581686
+ },
+ {
+  "tick": 42188,
+  "player": "A05",
+  "src": "ballActionIntent",
+  "receiver": "A10",
+  "baseMinusLegacy": 0,
+  "candMinusPai1": 0.058,
+  "candMinusBase": 9.66,
+  "pai1Flight": 1.671390045583248
+ }
+]

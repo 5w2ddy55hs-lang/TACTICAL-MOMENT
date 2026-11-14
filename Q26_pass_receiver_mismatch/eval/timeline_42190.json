@@ -1,0 +1,3780 @@
+{
+ "base": [
+  {
+   "t": 42188,
+   "dt": -0.1,
+   "ball": [
+    44.0,
+    27.0
+   ],
+   "ballSpeed": 2.3,
+   "A10": {
+    "pos": [
+     52.1,
+     34.2
+    ],
+    "speed": 6.8,
+    "moveDir": -12,
+    "toBall": 10.8,
+    "kind": "support",
+    "target": [
+     56.9,
+     33.2
+    ]
+   },
+   "B07": {
+    "pos": [
+     61.5,
+     45.7
+    ],
+    "speed": 1.5,
+    "moveDir": -22,
+    "toBall": 25.6,
+    "kind": "cover",
+    "target": [
+     61.9,
+     45.5
+    ]
+   },
+   "B10": {
+    "pos": [
+     40.6,
+     26.7
+    ],
+    "speed": 5.3,
+    "moveDir": -25,
+    "toBall": 3.4,
+    "kind": "press",
+    "target": [
+     45.3,
+     26.2
+    ]
+   }
+  },
+  {
+   "t": 42190,
+   "dt": 0.0,
+   "ball": [
+    44.2,
+    26.9
+   ],
+   "ballSpeed": 2.2,
+   "A10": {
+    "pos": [
+     52.8,
+     34.0
+    ],
+    "speed": 6.8,
+    "moveDir": -12,
+    "toBall": 11.2,
+    "kind": "support",
+    "target": [
+     56.9,
+     33.2
+    ]
+   },
+   "B07": {
+    "pos": [
+     61.6,
+     45.7
+    ],
+    "speed": 0.9,
+    "moveDir": -22,
+    "toBall": 25.6,
+    "kind": "cover",
+    "target": [
+     61.9,
+     45.5
+    ]
+   },
+   "B10": {
+    "pos": [
+     41.1,
+     26.5
+    ],
+    "speed": 5.5,
+    "moveDir": -19,
+    "toBall": 3.1,
+    "kind": "press",
+    "target": [
+     45.3,
+     26.2
+    ]
+   }
+  },
+  {
+   "t": 42192,
+   "dt": 0.1,
+   "ball": [
+    45.1,
+    27.6
+   ],
+   "ballSpeed": 11.1,
+   "A10": {
+    "pos": [
+     53.5,
+     33.9
+    ],
+    "speed": 6.7,
+    "moveDir": -12,
+    "toBall": 10.5,
+    "kind": "support",
+    "target": [
+     57.5,
+     33.2
+    ]
+   },
+   "B07": {
+    "pos": [
+     61.8,
+     45.6
+    ],
+    "speed": 1.5,
+    "moveDir": -30,
+    "toBall": 24.6,
+    "kind": "cover",
+    "target": [
+     62.4,
+     45.7
+    ]
+   },
+   "B10": {
+    "pos": [
+     41.7,
+     26.3
+    ],
+    "speed": 5.9,
+    "moveDir": -14,
+    "toBall": 3.6,
+    "kind": "press",
+    "target": [
+     45.2,
+     27.5
+    ]
+   }
+  },
+  {
+   "t": 42194,
+   "dt": 0.2,
+   "ball": [
+    46.0,
+    28.2
+   ],
+   "ballSpeed": 10.9,
+   "A10": {
+    "pos": [
+     54.1,
+     33.8
+    ],
+    "speed": 6.1,
+    "moveDir": -12,
+    "toBall": 9.8,
+    "kind": "support",
+    "target": [
+     57.5,
+     33.2
+    ]
+   },
+   "B07": {
+    "pos": [
+     61.9,
+     45.6
+    ],
+    "speed": 1.0,
+    "moveDir": -30,
+    "toBall": 23.5,
+    "kind": "cover",
+    "target": [
+     62.4,
+     45.7
+    ]
+   },
+   "B10": {
+    "pos": [
+     42.2,
+     26.2
+    ],
+    "speed": 6.1,
+    "moveDir": -8,
+    "toBall": 4.2,
+    "kind": "press",
+    "target": [
+     45.2,
+     27.5
+    ]
+   }
+  },
+  {
+   "t": 42196,
+   "dt": 0.3,
+   "ball": [
+    46.8,
+    28.9
+   ],
+   "ballSpeed": 10.8,
+   "A10": {
+    "pos": [
+     54.7,
+     33.7
+    ],
+    "speed": 6.0,
+    "moveDir": -9,
+    "toBall": 9.2,
+    "kind": "receive",
+    "target": [
+     50.8,
+     32.0
+    ]
+   },
+   "B07": {
+    "pos": [
+     62.0,
+     45.6
+    ],
+    "speed": 1.3,
+    "moveDir": -3,
+    "toBall": 22.5,
+    "kind": "cover",
+    "target": [
+     63.3,
+     46.2
+    ]
+   },
+   "B10": {
+    "pos": [
+     42.8,
+     26.1
+    ],
+    "speed": 5.6,
+    "moveDir": -12,
+    "toBall": 4.9,
+    "kind": "receive",
+    "target": [
+     60.4,
+     40.4
+    ]
+   }
+  },
+  {
+   "t": 42198,
+   "dt": 0.4,
+   "ball": [
+    47.7,
+    29.6
+   ],
+   "ballSpeed": 10.7,
+   "A10": {
+    "pos": [
+     55.2,
+     33.6
+    ],
+    "speed": 5.4,
+    "moveDir": -9,
+    "toBall": 8.5,
+    "kind": "receive",
+    "target": [
+     50.8,
+     32.0
+    ]
+   },
+   "B07": {
+    "pos": [
+     62.1,
+     45.6
+    ],
+    "speed": 1.7,
+    "moveDir": 18,
+    "toBall": 21.6,
+    "kind": "cover",
+    "target": [
+     63.3,
+     46.2
+    ]
+   },
+   "B10": {
+    "pos": [
+     43.3,
+     26.0
+    ],
+    "speed": 5.0,
+    "moveDir": -12,
+    "toBall": 5.6,
+    "kind": "receive",
+    "target": [
+     60.4,
+     40.4
+    ]
+   }
+  },
+  {
+   "t": 42200,
+   "dt": 0.5,
+   "ball": [
+    48.5,
+    30.2
+   ],
+   "ballSpeed": 10.5,
+   "A10": {
+    "pos": [
+     55.7,
+     33.5
+    ],
+    "speed": 4.8,
+    "moveDir": -11,
+    "toBall": 7.9,
+    "kind": "receive",
+    "target": [
+     52.0,
+     33.6
+    ]
+   },
+   "B07": {
+    "pos": [
+     62.3,
+     45.7
+    ],
+    "speed": 2.3,
+    "moveDir": 23,
+    "toBall": 20.7,
+    "kind": "cover",
+    "target": [
+     64.1,
+     46.7
+    ]
+   },
+   "B10": {
+    "pos": [
+     43.8,
+     26.0
+    ],
+    "speed": 4.9,
+    "moveDir": -5,
+    "toBall": 6.3,
+    "kind": "receive",
+    "target": [
+     61.7,
+     40.6
+    ]
+   }
+  },
+  {
+   "t": 42202,
+   "dt": 0.6,
+   "ball": [
+    49.4,
+    30.8
+   ],
+   "ballSpeed": 10.4,
+   "A10": {
+    "pos": [
+     56.1,
+     33.4
+    ],
+    "speed": 4.2,
+    "moveDir": -13,
+    "toBall": 7.3,
+    "kind": "receive",
+    "target": [
+     52.0,
+     33.6
+    ]
+   },
+   "B07": {
+    "pos": [
+     62.6,
+     45.8
+    ],
+    "speed": 3.0,
+    "moveDir": 28,
+    "toBall": 20.0,
+    "kind": "cover",
+    "target": [
+     64.1,
+     46.7
+    ]
+   },
+   "B10": {
+    "pos": [
+     44.3,
+     25.9
+    ],
+    "speed": 4.9,
+    "moveDir": -3,
+    "toBall": 7.1,
+    "kind": "receive",
+    "target": [
+     61.7,
+     40.6
+    ]
+   }
+  },
+  {
+   "t": 42204,
+   "dt": 0.7,
+   "ball": [
+    50.2,
+    31.5
+   ],
+   "ballSpeed": 10.2,
+   "A10": {
+    "pos": [
+     56.5,
+     33.3
+    ],
+    "speed": 3.6,
+    "moveDir": -14,
+    "toBall": 6.6,
+    "kind": "receive",
+    "target": [
+     53.5,
+     33.6
+    ]
+   },
+   "B07": {
+    "pos": [
+     62.9,
+     46.0
+    ],
+    "speed": 3.6,
+    "moveDir": 29,
+    "toBall": 19.3,
+    "kind": "cover",
+    "target": [
+     64.8,
+     47.1
+    ]
+   },
+   "B10": {
+    "pos": [
+     44.8,
+     25.9
+    ],
+    "speed": 4.9,
+    "moveDir": -4,
+    "toBall": 7.8,
+    "kind": "receive",
+    "target": [
+     64.8,
+     41.9
+    ]
+   }
+  },
+  {
+   "t": 42206,
+   "dt": 0.8,
+   "ball": [
+    51.0,
+    32.1
+   ],
+   "ballSpeed": 10.1,
+   "A10": {
+    "pos": [
+     56.8,
+     33.2
+    ],
+    "speed": 2.9,
+    "moveDir": -16,
+    "toBall": 5.9,
+    "kind": "receive",
+    "target": [
+     53.5,
+     33.6
+    ]
+   },
+   "B07": {
+    "pos": [
+     63.2,
+     46.2
+    ],
+    "speed": 3.6,
+    "moveDir": 30,
+    "toBall": 18.7,
+    "kind": "cover",
+    "target": [
+     64.8,
+     47.1
+    ]
+   },
+   "B10": {
+    "pos": [
+     45.3,
+     25.9
+    ],
+    "speed": 4.9,
+    "moveDir": 0,
+    "toBall": 8.4,
+    "kind": "receive",
+    "target": [
+     64.8,
+     41.9
+    ]
+   }
+  },
+  {
+   "t": 42208,
+   "dt": 0.9,
+   "ball": [
+    51.8,
+    32.7
+   ],
+   "ballSpeed": 10.0,
+   "A10": {
+    "pos": [
+     57.0,
+     33.1
+    ],
+    "speed": 2.3,
+    "moveDir": -17,
+    "toBall": 5.3,
+    "kind": "receive",
+    "target": [
+     54.3,
+     34.8
+    ]
+   },
+   "B07": {
+    "pos": [
+     63.6,
+     46.4
+    ],
+    "speed": 4.3,
+    "moveDir": 30,
+    "toBall": 18.1,
+    "kind": "cover",
+    "target": [
+     65.6,
+     47.6
+    ]
+   },
+   "B10": {
+    "pos": [
+     45.7,
+     25.9
+    ],
+    "speed": 5.0,
+    "moveDir": 7,
+    "toBall": 9.1,
+    "kind": "receive",
+    "target": [
+     65.2,
+     42.3
+    ]
+   }
+  },
+  {
+   "t": 42210,
+   "dt": 1.0,
+   "ball": [
+    52.6,
+    33.3
+   ],
+   "ballSpeed": 9.8,
+   "A10": {
+    "pos": [
+     57.2,
+     33.1
+    ],
+    "speed": 1.7,
+    "moveDir": -20,
+    "toBall": 4.7,
+    "kind": "receive",
+    "target": [
+     54.3,
+     34.8
+    ]
+   },
+   "B07": {
+    "pos": [
+     63.9,
+     46.6
+    ],
+    "speed": 3.8,
+    "moveDir": 30,
+    "toBall": 17.5,
+    "kind": "cover",
+    "target": [
+     65.6,
+     47.6
+    ]
+   },
+   "B10": {
+    "pos": [
+     46.2,
+     26.0
+    ],
+    "speed": 5.1,
+    "moveDir": 14,
+    "toBall": 9.6,
+    "kind": "receive",
+    "target": [
+     65.2,
+     42.3
+    ]
+   }
+  },
+  {
+   "t": 42212,
+   "dt": 1.1,
+   "ball": [
+    53.3,
+    33.9
+   ],
+   "ballSpeed": 9.7,
+   "A10": {
+    "pos": [
+     57.3,
+     33.0
+    ],
+    "speed": 1.1,
+    "moveDir": -15,
+    "toBall": 4.1,
+    "kind": "receive",
+    "target": [
+     56.0,
+     35.6
+    ]
+   },
+   "B07": {
+    "pos": [
+     64.3,
+     46.8
+    ],
+    "speed": 4.4,
+    "moveDir": 31,
+    "toBall": 16.9,
+    "kind": "cover",
+    "target": [
+     66.4,
+     48.0
+    ]
+   },
+   "B10": {
+    "pos": [
+     46.7,
+     26.2
+    ],
+    "speed": 5.4,
+    "moveDir": 21,
+    "toBall": 10.1,
+    "kind": "receive",
+    "target": [
+     65.4,
+     43.2
+    ]
+   }
+  },
+  {
+   "t": 42214,
+   "dt": 1.2,
+   "ball": [
+    54.1,
+    34.5
+   ],
+   "ballSpeed": 9.5,
+   "A10": {
+    "pos": [
+     57.4,
+     33.0
+    ],
+    "speed": 0.5,
+    "moveDir": 3,
+    "toBall": 3.6,
+    "kind": "receive",
+    "target": [
+     56.0,
+     35.6
+    ]
+   },
+   "B07": {
+    "pos": [
+     64.6,
+     47.0
+    ],
+    "speed": 3.9,
+    "moveDir": 31,
+    "toBall": 16.4,
+    "kind": "cover",
+    "target": [
+     66.4,
+     48.0
+    ]
+   },
+   "B10": {
+    "pos": [
+     47.2,
+     26.4
+    ],
+    "speed": 5.6,
+    "moveDir": 27,
+    "toBall": 10.6,
+    "kind": "receive",
+    "target": [
+     65.4,
+     43.2
+    ]
+   }
+  },
+  {
+   "t": 42216,
+   "dt": 1.3,
+   "ball": [
+    54.9,
+    35.0
+   ],
+   "ballSpeed": 9.4,
+   "A10": {
+    "pos": [
+     57.4,
+     33.1
+    ],
+    "speed": 0.6,
+    "moveDir": 78,
+    "toBall": 3.2,
+    "kind": "receive",
+    "target": [
+     66.6,
+     46.1
+    ]
+   },
+   "B07": {
+    "pos": [
+     65.0,
+     47.2
+    ],
+    "speed": 4.5,
+    "moveDir": 29,
+    "toBall": 15.8,
+    "kind": "receive",
+    "target": [
+     62.1,
+     40.7
+    ]
+   },
+   "B10": {
+    "pos": [
+     47.8,
+     26.7
+    ],
+    "speed": 5.9,
+    "moveDir": 32,
+    "toBall": 10.9,
+    "kind": "receive",
+    "target": [
+     67.7,
+     45.8
+    ]
+   }
+  },
+  {
+   "t": 42218,
+   "dt": 1.4,
+   "ball": [
+    55.6,
+    35.6
+   ],
+   "ballSpeed": 9.3,
+   "A10": {
+    "pos": [
+     57.4,
+     33.2
+    ],
+    "speed": 1.1,
+    "moveDir": 102,
+    "toBall": 3.0,
+    "kind": "receive",
+    "target": [
+     66.6,
+     46.1
+    ]
+   },
+   "B07": {
+    "pos": [
+     65.4,
+     47.4
+    ],
+    "speed": 3.9,
+    "moveDir": 29,
+    "toBall": 15.3,
+    "kind": "receive",
+    "target": [
+     62.1,
+     40.7
+    ]
+   },
+   "B10": {
+    "pos": [
+     48.2,
+     27.1
+    ],
+    "speed": 6.3,
+    "moveDir": 37,
+    "toBall": 11.2,
+    "kind": "receive",
+    "target": [
+     67.7,
+     45.8
+    ]
+   }
+  },
+  {
+   "t": 42220,
+   "dt": 1.5,
+   "ball": [
+    56.3,
+    36.2
+   ],
+   "ballSpeed": 9.1,
+   "A10": {
+    "pos": [
+     57.4,
+     33.3
+    ],
+    "speed": 1.6,
+    "moveDir": 82,
+    "toBall": 3.0,
+    "kind": "receive",
+    "target": [
+     69.7,
+     44.5
+    ]
+   },
+   "B07": {
+    "pos": [
+     65.7,
+     47.5
+    ],
+    "speed": 3.3,
+    "moveDir": 25,
+    "toBall": 14.7,
+    "kind": "receive",
+    "target": [
+     68.5,
+     44.4
+    ]
+   },
+   "B10": {
+    "pos": [
+     48.7,
+     27.5
+    ],
+    "speed": 6.6,
+    "moveDir": 42,
+    "toBall": 11.5,
+    "kind": "receive",
+    "target": [
+     69.0,
+     45.7
+    ]
+   }
+  },
+  {
+   "t": 42222,
+   "dt": 1.6,
+   "ball": [
+    57.1,
+    36.7
+   ],
+   "ballSpeed": 9.0,
+   "A10": {
+    "pos": [
+     57.5,
+     33.5
+    ],
+    "speed": 2.1,
+    "moveDir": 72,
+    "toBall": 3.2,
+    "kind": "receive",
+    "target": [
+     69.7,
+     44.5
+    ]
+   },
+   "B07": {
+    "pos": [
+     65.9,
+     47.6
+    ],
+    "speed": 2.7,
+    "moveDir": 19,
+    "toBall": 14.1,
+    "kind": "receive",
+    "target": [
+     68.5,
+     44.4
+    ]
+   },
+   "B10": {
+    "pos": [
+     49.2,
+     28.0
+    ],
+    "speed": 6.8,
+    "moveDir": 44,
+    "toBall": 11.7,
+    "kind": "receive",
+    "target": [
+     69.0,
+     45.7
+    ]
+   }
+  },
+  {
+   "t": 42224,
+   "dt": 1.7,
+   "ball": [
+    57.8,
+    37.3
+   ],
+   "ballSpeed": 8.9,
+   "A10": {
+    "pos": [
+     57.6,
+     33.7
+    ],
+    "speed": 2.6,
+    "moveDir": 63,
+    "toBall": 3.5,
+    "kind": "receive",
+    "target": [
+     68.5,
+     47.2
+    ]
+   },
+   "B07": {
+    "pos": [
+     66.2,
+     47.7
+    ],
+    "speed": 2.7,
+    "moveDir": 5,
+    "toBall": 13.4,
+    "kind": "receive",
+    "target": [
+     63.2,
+     41.6
+    ]
+   },
+   "B10": {
+    "pos": [
+     49.7,
+     28.5
+    ],
+    "speed": 6.8,
+    "moveDir": 42,
+    "toBall": 11.9,
+    "kind": "receive",
+    "target": [
+     69.4,
+     46.0
+    ]
+   }
+  },
+  {
+   "t": 42226,
+   "dt": 1.8,
+   "ball": [
+    58.5,
+    37.8
+   ],
+   "ballSpeed": 8.7,
+   "A10": {
+    "pos": [
+     57.7,
+     34.0
+    ],
+    "speed": 3.2,
+    "moveDir": 57,
+    "toBall": 3.9,
+    "kind": "receive",
+    "target": [
+     68.5,
+     47.2
+    ]
+   },
+   "B07": {
+    "pos": [
+     66.5,
+     47.7
+    ],
+    "speed": 2.9,
+    "moveDir": -8,
+    "toBall": 12.7,
+    "kind": "receive",
+    "target": [
+     63.2,
+     41.6
+    ]
+   },
+   "B10": {
+    "pos": [
+     50.2,
+     28.9
+    ],
+    "speed": 6.8,
+    "moveDir": 42,
+    "toBall": 12.1,
+    "kind": "receive",
+    "target": [
+     69.4,
+     46.0
+    ]
+   }
+  },
+  {
+   "t": 42228,
+   "dt": 1.9,
+   "ball": [
+    59.2,
+    38.3
+   ],
+   "ballSpeed": 8.6,
+   "A10": {
+    "pos": [
+     57.9,
+     34.3
+    ],
+    "speed": 3.8,
+    "moveDir": 55,
+    "toBall": 4.2,
+    "kind": "receive",
+    "target": [
+     70.5,
+     46.2
+    ]
+   },
+   "B07": {
+    "pos": [
+     66.7,
+     47.6
+    ],
+    "speed": 2.5,
+    "moveDir": -20,
+    "toBall": 12.0,
+    "kind": "receive",
+    "target": [
+     67.8,
+     44.0
+    ]
+   },
+   "B10": {
+    "pos": [
+     50.7,
+     29.4
+    ],
+    "speed": 6.8,
+    "moveDir": 42,
+    "toBall": 12.3,
+    "kind": "receive",
+    "target": [
+     70.7,
+     46.3
+    ]
+   }
+  },
+  {
+   "t": 42230,
+   "dt": 2.0,
+   "ball": [
+    59.8,
+    38.8
+   ],
+   "ballSpeed": 8.5,
+   "A10": {
+    "pos": [
+     58.2,
+     34.6
+    ],
+    "speed": 4.4,
+    "moveDir": 53,
+    "toBall": 4.5,
+    "kind": "receive",
+    "target": [
+     70.5,
+     46.2
+    ]
+   },
+   "B07": {
+    "pos": [
+     66.9,
+     47.5
+    ],
+    "speed": 2.3,
+    "moveDir": -34,
+    "toBall": 11.2,
+    "kind": "receive",
+    "target": [
+     67.8,
+     44.0
+    ]
+   },
+   "B10": {
+    "pos": [
+     51.3,
+     29.8
+    ],
+    "speed": 6.8,
+    "moveDir": 42,
+    "toBall": 12.5,
+    "kind": "receive",
+    "target": [
+     70.7,
+     46.3
+    ]
+   }
+  },
+  {
+   "t": 42232,
+   "dt": 2.1,
+   "ball": [
+    60.5,
+    39.3
+   ],
+   "ballSpeed": 8.3,
+   "A10": {
+    "pos": [
+     58.5,
+     35.0
+    ],
+    "speed": 5.0,
+    "moveDir": 50,
+    "toBall": 4.8,
+    "kind": "receive",
+    "target": [
+     70.9,
+     46.8
+    ]
+   },
+   "B07": {
+    "pos": [
+     67.1,
+     47.3
+    ],
+    "speed": 2.6,
+    "moveDir": -47,
+    "toBall": 10.4,
+    "kind": "receive",
+    "target": [
+     66.1,
+     44.4
+    ]
+   },
+   "B10": {
+    "pos": [
+     51.8,
+     30.2
+    ],
+    "speed": 6.8,
+    "moveDir": 40,
+    "toBall": 12.6,
+    "kind": "receive",
+    "target": [
+     70.7,
+     47.9
+    ]
+   }
+  },
+  {
+   "t": 42234,
+   "dt": 2.2,
+   "ball": [
+    61.2,
+    39.8
+   ],
+   "ballSpeed": 8.2,
+   "A10": {
+    "pos": [
+     58.9,
+     35.4
+    ],
+    "speed": 5.6,
+    "moveDir": 47,
+    "toBall": 5.0,
+    "kind": "receive",
+    "target": [
+     70.9,
+     46.8
+    ]
+   },
+   "B07": {
+    "pos": [
+     67.3,
+     47.1
+    ],
+    "speed": 3.1,
+    "moveDir": -56,
+    "toBall": 9.5,
+    "kind": "receive",
+    "target": [
+     66.1,
+     44.4
+    ]
+   },
+   "B10": {
+    "pos": [
+     52.3,
+     30.7
+    ],
+    "speed": 6.8,
+    "moveDir": 40,
+    "toBall": 12.8,
+    "kind": "receive",
+    "target": [
+     70.7,
+     47.9
+    ]
+   }
+  },
+  {
+   "t": 42236,
+   "dt": 2.3,
+   "ball": [
+    61.8,
+    40.3
+   ],
+   "ballSpeed": 8.1,
+   "A10": {
+    "pos": [
+     59.3,
+     35.8
+    ],
+    "speed": 6.2,
+    "moveDir": 45,
+    "toBall": 5.1,
+    "kind": "receive",
+    "target": [
+     72.5,
+     49.3
+    ]
+   },
+   "B07": {
+    "pos": [
+     67.4,
+     46.8
+    ],
+    "speed": 3.2,
+    "moveDir": -68,
+    "toBall": 8.5,
+    "kind": "receive",
+    "target": [
+     67.5,
+     44.6
+    ]
+   },
+   "B10": {
+    "pos": [
+     52.8,
+     31.1
+    ],
+    "speed": 6.8,
+    "moveDir": 43,
+    "toBall": 12.9,
+    "kind": "receive",
+    "target": [
+     72.1,
+     47.6
+    ]
+   }
+  },
+  {
+   "t": 42238,
+   "dt": 2.4,
+   "ball": [
+    62.4,
+    40.8
+   ],
+   "ballSpeed": 7.9,
+   "A10": {
+    "pos": [
+     59.8,
+     36.3
+    ],
+    "speed": 6.8,
+    "moveDir": 43,
+    "toBall": 5.3,
+    "kind": "receive",
+    "target": [
+     72.5,
+     49.3
+    ]
+   },
+   "B07": {
+    "pos": [
+     67.5,
+     46.5
+    ],
+    "speed": 3.3,
+    "moveDir": -80,
+    "toBall": 7.6,
+    "kind": "receive",
+    "target": [
+     67.5,
+     44.6
+    ]
+   },
+   "B10": {
+    "pos": [
+     53.3,
+     31.6
+    ],
+    "speed": 6.8,
+    "moveDir": 43,
+    "toBall": 13.0,
+    "kind": "receive",
+    "target": [
+     72.1,
+     47.6
+    ]
+   }
+  },
+  {
+   "t": 42240,
+   "dt": 2.5,
+   "ball": [
+    63.1,
+    41.3
+   ],
+   "ballSpeed": 7.8,
+   "A10": {
+    "pos": [
+     60.2,
+     36.8
+    ],
+    "speed": 6.8,
+    "moveDir": 46,
+    "toBall": 5.3,
+    "kind": "receive",
+    "target": [
+     74.5,
+     49.8
+    ]
+   },
+   "B07": {
+    "pos": [
+     67.5,
+     46.1
+    ],
+    "speed": 3.8,
+    "moveDir": -86,
+    "toBall": 6.5,
+    "kind": "receive",
+    "target": [
+     66.5,
+     44.1
+    ]
+   },
+   "B10": {
+    "pos": [
+     53.8,
+     32.0
+    ],
+    "speed": 6.8,
+    "moveDir": 40,
+    "toBall": 13.1,
+    "kind": "receive",
+    "target": [
+     74.5,
+     49.3
+    ]
+   }
+  },
+  {
+   "t": 42242,
+   "dt": 2.6,
+   "ball": [
+    63.7,
+    41.8
+   ],
+   "ballSpeed": 7.7,
+   "A10": {
+    "pos": [
+     60.7,
+     37.3
+    ],
+    "speed": 6.8,
+    "moveDir": 46,
+    "toBall": 5.4,
+    "kind": "receive",
+    "target": [
+     74.5,
+     49.8
+    ]
+   },
+   "B07": {
+    "pos": [
+     67.5,
+     45.7
+    ],
+    "speed": 3.9,
+    "moveDir": -93,
+    "toBall": 5.5,
+    "kind": "receive",
+    "target": [
+     66.5,
+     44.1
+    ]
+   },
+   "B10": {
+    "pos": [
+     54.3,
+     32.5
+    ],
+    "speed": 6.8,
+    "moveDir": 40,
+    "toBall": 13.2,
+    "kind": "receive",
+    "target": [
+     74.5,
+     49.3
+    ]
+   }
+  },
+  {
+   "t": 42244,
+   "dt": 2.7,
+   "ball": [
+    64.3,
+    42.2
+   ],
+   "ballSpeed": 7.6,
+   "A10": {
+    "pos": [
+     61.2,
+     37.7
+    ],
+    "speed": 6.8,
+    "moveDir": 42,
+    "toBall": 5.5,
+    "kind": "receive",
+    "target": [
+     74.3,
+     50.1
+    ]
+   },
+   "B07": {
+    "pos": [
+     67.4,
+     45.3
+    ],
+    "speed": 3.9,
+    "moveDir": -103,
+    "toBall": 4.4,
+    "kind": "receive",
+    "target": [
+     66.7,
+     43.9
+    ]
+   },
+   "B10": {
+    "pos": [
+     54.8,
+     32.9
+    ],
+    "speed": 6.8,
+    "moveDir": 40,
+    "toBall": 13.3,
+    "kind": "receive",
+    "target": [
+     74.2,
+     51.6
+    ]
+   }
+  },
+  {
+   "t": 42246,
+   "dt": 2.8,
+   "ball": [
+    64.9,
+    42.7
+   ],
+   "ballSpeed": 7.4,
+   "A10": {
+    "pos": [
+     61.7,
+     38.2
+    ],
+    "speed": 6.8,
+    "moveDir": 42,
+    "toBall": 5.5,
+    "kind": "receive",
+    "target": [
+     74.3,
+     50.1
+    ]
+   },
+   "B07": {
+    "pos": [
+     67.3,
+     44.9
+    ],
+    "speed": 3.8,
+    "moveDir": -112,
+    "toBall": 3.3,
+    "kind": "receive",
+    "target": [
+     66.7,
+     43.9
+    ]
+   },
+   "B10": {
+    "pos": [
+     55.3,
+     33.4
+    ],
+    "speed": 6.8,
+    "moveDir": 40,
+    "toBall": 13.3,
+    "kind": "receive",
+    "target": [
+     74.2,
+     51.6
+    ]
+   }
+  },
+  {
+   "t": 42248,
+   "dt": 2.9,
+   "ball": [
+    65.5,
+    43.1
+   ],
+   "ballSpeed": 7.3,
+   "A10": {
+    "pos": [
+     62.2,
+     38.6
+    ],
+    "speed": 6.8,
+    "moveDir": 44,
+    "toBall": 5.6,
+    "kind": "receive",
+    "target": [
+     75.5,
+     49.7
+    ]
+   },
+   "B07": {
+    "pos": [
+     67.1,
+     44.6
+    ],
+    "speed": 3.5,
+    "moveDir": -121,
+    "toBall": 2.2,
+    "kind": "receive",
+    "target": [
+     67.1,
+     44.5
+    ]
+   },
+   "B10": {
+    "pos": [
+     55.8,
+     33.8
+    ],
+    "speed": 6.8,
+    "moveDir": 44,
+    "toBall": 13.4,
+    "kind": "receive",
+    "target": [
+     74.9,
+     49.5
+    ]
+   }
+  },
+  {
+   "t": 42250,
+   "dt": 3.0,
+   "ball": [
+    66.1,
+    43.6
+   ],
+   "ballSpeed": 7.2,
+   "A10": {
+    "pos": [
+     62.7,
+     39.1
+    ],
+    "speed": 6.8,
+    "moveDir": 44,
+    "toBall": 5.6,
+    "kind": "receive",
+    "target": [
+     75.5,
+     49.7
+    ]
+   },
+   "B07": {
+    "pos": [
+     67.0,
+     44.4
+    ],
+    "speed": 2.8,
+    "moveDir": -123,
+    "toBall": 1.2,
+    "kind": "receive",
+    "target": [
+     67.1,
+     44.5
+    ]
+   },
+   "B10": {
+    "pos": [
+     56.3,
+     34.3
+    ],
+    "speed": 6.8,
+    "moveDir": 44,
+    "toBall": 13.4,
+    "kind": "receive",
+    "target": [
+     74.9,
+     49.5
+    ]
+   }
+  },
+  {
+   "t": 42252,
+   "dt": 3.1,
+   "ball": [
+    66.2,
+    43.9
+   ],
+   "ballSpeed": 3.5,
+   "A10": {
+    "pos": [
+     63.2,
+     39.5
+    ],
+    "speed": 6.8,
+    "moveDir": 40,
+    "toBall": 5.3,
+    "kind": "press",
+    "target": [
+     66.1,
+     44.0
+    ]
+   },
+   "B07": {
+    "pos": [
+     66.8,
+     44.2
+    ],
+    "speed": 2.3,
+    "moveDir": -129,
+    "toBall": 0.7,
+    "kind": "dribble",
+    "target": [
+     61.2,
+     48.4
+    ]
+   },
+   "B10": {
+    "pos": [
+     56.8,
+     34.7
+    ],
+    "speed": 6.8,
+    "moveDir": 39,
+    "toBall": 13.1,
+    "kind": "support",
+    "target": [
+     51.2,
+     35.2
+    ]
+   }
+  },
+  {
+   "t": 42254,
+   "dt": 3.2,
+   "ball": [
+    66.0,
+    44.2
+   ],
+   "ballSpeed": 3.4,
+   "A10": {
+    "pos": [
+     63.7,
+     40.0
+    ],
+    "speed": 6.8,
+    "moveDir": 40,
+    "toBall": 4.7,
+    "kind": "press",
+    "target": [
+     66.1,
+     44.0
+    ]
+   },
+   "B07": {
+    "pos": [
+     66.7,
+     44.0
+    ],
+    "speed": 2.1,
+    "moveDir": -145,
+    "toBall": 0.7,
+    "kind": "dribble",
+    "target": [
+     61.2,
+     48.4
+    ]
+   },
+   "B10": {
+    "pos": [
+     57.4,
+     35.2
+    ],
+    "speed": 6.8,
+    "moveDir": 39,
+    "toBall": 12.5,
+    "kind": "support",
+    "target": [
+     51.2,
+     35.2
+    ]
+   }
+  },
+  {
+   "t": 42256,
+   "dt": 3.3,
+   "ball": [
+    65.7,
+    44.4
+   ],
+   "ballSpeed": 3.3,
+   "A10": {
+    "pos": [
+     64.2,
+     40.4
+    ],
+    "speed": 6.7,
+    "moveDir": 45,
+    "toBall": 4.2,
+    "kind": "press",
+    "target": [
+     64.2,
+     45.9
+    ]
+   },
+   "B07": {
+    "pos": [
+     66.5,
+     44.0
+    ],
+    "speed": 2.1,
+    "moveDir": -163,
+    "toBall": 0.9,
+    "kind": "pass",
+    "target": [
+     61.7,
+     61.4
+    ]
+   },
+   "B10": {
+    "pos": [
+     57.9,
+     35.6
+    ],
+    "speed": 6.2,
+    "moveDir": 40,
+    "toBall": 11.8,
+    "kind": "support",
+    "target": [
+     51.0,
+     35.2
+    ]
+   }
+  },
+  {
+   "t": 42258,
+   "dt": 3.4,
+   "ball": [
+    65.5,
+    44.6
+   ],
+   "ballSpeed": 3.2,
+   "A10": {
+    "pos": [
+     64.7,
+     40.9
+    ],
+    "speed": 6.6,
+    "moveDir": 50,
+    "toBall": 3.8,
+    "kind": "press",
+    "target": [
+     64.2,
+     45.9
+    ]
+   },
+   "B07": {
+    "pos": [
+     66.3,
+     44.0
+    ],
+    "speed": 2.3,
+    "moveDir": -180,
+    "toBall": 1.0,
+    "kind": "pass",
+    "target": [
+     61.7,
+     61.4
+    ]
+   },
+   "B10": {
+    "pos": [
+     58.3,
+     35.9
+    ],
+    "speed": 5.6,
+    "moveDir": 42,
+    "toBall": 11.3,
+    "kind": "support",
+    "target": [
+     51.0,
+     35.2
+    ]
+   }
+  },
+  {
+   "t": 42260,
+   "dt": 3.5,
+   "ball": [
+    65.2,
+    45.8
+   ],
+   "ballSpeed": 12.1,
+   "A10": {
+    "pos": [
+     65.0,
+     41.5
+    ],
+    "speed": 6.4,
+    "moveDir": 56,
+    "toBall": 4.4,
+    "kind": "intercept",
+    "target": [
+     65.1,
+     45.9
+    ]
+   },
+   "B07": {
+    "pos": [
+     66.1,
+     44.0
+    ],
+    "speed": 1.6,
+    "moveDir": -180,
+    "toBall": 2.1,
+    "kind": "intercept",
+    "target": [
+     65.3,
+     45.8
+    ]
+   },
+   "B10": {
+    "pos": [
+     58.7,
+     36.3
+    ],
+    "speed": 4.9,
+    "moveDir": 42,
+    "toBall": 11.6,
+    "kind": "support",
+    "target": [
+     50.6,
+     35.4
+    ]
+   }
+  }
+ ],
+ "flight_candidate": [
+  {
+   "t": 42188,
+   "dt": -0.1,
+   "ball": [
+    44.0,
+    27.0
+   ],
+   "ballSpeed": 2.3,
+   "A10": {
+    "pos": [
+     52.1,
+     34.2
+    ],
+    "speed": 6.8,
+    "moveDir": -12,
+    "toBall": 10.8,
+    "kind": "support",
+    "target": [
+     56.9,
+     33.2
+    ]
+   },
+   "B07": {
+    "pos": [
+     61.5,
+     45.7
+    ],
+    "speed": 1.5,
+    "moveDir": -22,
+    "toBall": 25.6,
+    "kind": "cover",
+    "target": [
+     61.9,
+     45.5
+    ]
+   },
+   "B10": {
+    "pos": [
+     40.6,
+     26.7
+    ],
+    "speed": 5.3,
+    "moveDir": -25,
+    "toBall": 3.4,
+    "kind": "press",
+    "target": [
+     45.3,
+     26.2
+    ]
+   }
+  },
+  {
+   "t": 42190,
+   "dt": 0.0,
+   "ball": [
+    44.2,
+    26.9
+   ],
+   "ballSpeed": 2.2,
+   "A10": {
+    "pos": [
+     52.8,
+     34.0
+    ],
+    "speed": 6.8,
+    "moveDir": -12,
+    "toBall": 11.2,
+    "kind": "support",
+    "target": [
+     56.9,
+     33.2
+    ]
+   },
+   "B07": {
+    "pos": [
+     61.6,
+     45.7
+    ],
+    "speed": 0.9,
+    "moveDir": -22,
+    "toBall": 25.6,
+    "kind": "cover",
+    "target": [
+     61.9,
+     45.5
+    ]
+   },
+   "B10": {
+    "pos": [
+     41.1,
+     26.5
+    ],
+    "speed": 5.5,
+    "moveDir": -19,
+    "toBall": 3.1,
+    "kind": "press",
+    "target": [
+     45.3,
+     26.2
+    ]
+   }
+  },
+  {
+   "t": 42192,
+   "dt": 0.1,
+   "ball": [
+    45.5,
+    27.3
+   ],
+   "ballSpeed": 13.7,
+   "A10": {
+    "pos": [
+     53.5,
+     33.9
+    ],
+    "speed": 6.7,
+    "moveDir": -12,
+    "toBall": 10.3,
+    "kind": "support",
+    "target": [
+     57.8,
+     33.2
+    ]
+   },
+   "B07": {
+    "pos": [
+     61.8,
+     45.6
+    ],
+    "speed": 1.5,
+    "moveDir": -30,
+    "toBall": 24.5,
+    "kind": "cover",
+    "target": [
+     62.6,
+     45.6
+    ]
+   },
+   "B10": {
+    "pos": [
+     41.7,
+     26.3
+    ],
+    "speed": 5.9,
+    "moveDir": -14,
+    "toBall": 4.0,
+    "kind": "press",
+    "target": [
+     45.6,
+     27.2
+    ]
+   }
+  },
+  {
+   "t": 42194,
+   "dt": 0.2,
+   "ball": [
+    46.8,
+    27.8
+   ],
+   "ballSpeed": 13.6,
+   "A10": {
+    "pos": [
+     54.1,
+     33.8
+    ],
+    "speed": 6.1,
+    "moveDir": -12,
+    "toBall": 9.4,
+    "kind": "support",
+    "target": [
+     57.8,
+     33.2
+    ]
+   },
+   "B07": {
+    "pos": [
+     61.9,
+     45.6
+    ],
+    "speed": 1.0,
+    "moveDir": -30,
+    "toBall": 23.3,
+    "kind": "cover",
+    "target": [
+     62.6,
+     45.6
+    ]
+   },
+   "B10": {
+    "pos": [
+     42.2,
+     26.2
+    ],
+    "speed": 6.1,
+    "moveDir": -8,
+    "toBall": 4.8,
+    "kind": "press",
+    "target": [
+     45.6,
+     27.2
+    ]
+   }
+  },
+  {
+   "t": 42196,
+   "dt": 0.3,
+   "ball": [
+    48.1,
+    28.2
+   ],
+   "ballSpeed": 13.4,
+   "A10": {
+    "pos": [
+     54.7,
+     33.7
+    ],
+    "speed": 6.3,
+    "moveDir": -9,
+    "toBall": 8.6,
+    "kind": "receive",
+    "target": [
+     60.1,
+     32.7
+    ]
+   },
+   "B07": {
+    "pos": [
+     62.0,
+     45.5
+    ],
+    "speed": 1.5,
+    "moveDir": -9,
+    "toBall": 22.2,
+    "kind": "cover",
+    "target": [
+     63.9,
+     46.0
+    ]
+   },
+   "B10": {
+    "pos": [
+     42.8,
+     26.1
+    ],
+    "speed": 5.7,
+    "moveDir": -13,
+    "toBall": 5.7,
+    "kind": "receive",
+    "target": [
+     68.5,
+     35.7
+    ]
+   }
+  },
+  {
+   "t": 42198,
+   "dt": 0.4,
+   "ball": [
+    49.4,
+    28.6
+   ],
+   "ballSpeed": 13.2,
+   "A10": {
+    "pos": [
+     55.3,
+     33.6
+    ],
+    "speed": 5.7,
+    "moveDir": -9,
+    "toBall": 7.7,
+    "kind": "receive",
+    "target": [
+     60.1,
+     32.7
+    ]
+   },
+   "B07": {
+    "pos": [
+     62.2,
+     45.5
+    ],
+    "speed": 2.0,
+    "moveDir": 4,
+    "toBall": 21.3,
+    "kind": "cover",
+    "target": [
+     63.9,
+     46.0
+    ]
+   },
+   "B10": {
+    "pos": [
+     43.3,
+     26.0
+    ],
+    "speed": 5.2,
+    "moveDir": -17,
+    "toBall": 6.6,
+    "kind": "receive",
+    "target": [
+     68.5,
+     35.7
+    ]
+   }
+  },
+  {
+   "t": 42200,
+   "dt": 0.5,
+   "ball": [
+    50.6,
+    29.0
+   ],
+   "ballSpeed": 13.1,
+   "A10": {
+    "pos": [
+     55.9,
+     33.5
+    ],
+    "speed": 6.3,
+    "moveDir": -10,
+    "toBall": 6.9,
+    "kind": "receive",
+    "target": [
+     60.6,
+     32.9
+    ]
+   },
+   "B07": {
+    "pos": [
+     62.4,
+     45.6
+    ],
+    "speed": 2.6,
+    "moveDir": 8,
+    "toBall": 20.4,
+    "kind": "cover",
+    "target": [
+     65.1,
+     46.2
+    ]
+   },
+   "B10": {
+    "pos": [
+     43.8,
+     25.8
+    ],
+    "speed": 4.9,
+    "moveDir": -23,
+    "toBall": 7.5,
+    "kind": "receive",
+    "target": [
+     70.5,
+     35.6
+    ]
+   }
+  },
+  {
+   "t": 42202,
+   "dt": 0.6,
+   "ball": [
+    51.8,
+    29.4
+   ],
+   "ballSpeed": 12.9,
+   "A10": {
+    "pos": [
+     56.5,
+     33.3
+    ],
+    "speed": 6.8,
+    "moveDir": -11,
+    "toBall": 6.1,
+    "kind": "receive",
+    "target": [
+     60.6,
+     32.9
+    ]
+   },
+   "B07": {
+    "pos": [
+     62.7,
+     45.6
+    ],
+    "speed": 3.3,
+    "moveDir": 12,
+    "toBall": 19.5,
+    "kind": "cover",
+    "target": [
+     65.1,
+     46.2
+    ]
+   },
+   "B10": {
+    "pos": [
+     44.2,
+     25.6
+    ],
+    "speed": 4.9,
+    "moveDir": -19,
+    "toBall": 8.5,
+    "kind": "receive",
+    "target": [
+     70.5,
+     35.6
+    ]
+   }
+  },
+  {
+   "t": 42204,
+   "dt": 0.7,
+   "ball": [
+    53.1,
+    29.8
+   ],
+   "ballSpeed": 12.8,
+   "A10": {
+    "pos": [
+     57.2,
+     33.3
+    ],
+    "speed": 6.6,
+    "moveDir": -6,
+    "toBall": 5.4,
+    "kind": "receive",
+    "target": [
+     61.0,
+     31.4
+    ]
+   },
+   "B07": {
+    "pos": [
+     63.1,
+     45.7
+    ],
+    "speed": 3.9,
+    "moveDir": 13,
+    "toBall": 18.8,
+    "kind": "cover",
+    "target": [
+     66.2,
+     46.5
+    ]
+   },
+   "B10": {
+    "pos": [
+     44.7,
+     25.5
+    ],
+    "speed": 5.0,
+    "moveDir": -12,
+    "toBall": 9.4,
+    "kind": "receive",
+    "target": [
+     73.3,
+     37.0
+    ]
+   }
+  },
+  {
+   "t": 42206,
+   "dt": 0.8,
+   "ball": [
+    54.3,
+    30.2
+   ],
+   "ballSpeed": 12.6,
+   "A10": {
+    "pos": [
+     57.8,
+     33.2
+    ],
+    "speed": 6.0,
+    "moveDir": -6,
+    "toBall": 4.6,
+    "kind": "receive",
+    "target": [
+     61.0,
+     31.4
+    ]
+   },
+   "B07": {
+    "pos": [
+     63.5,
+     45.8
+    ],
+    "speed": 4.5,
+    "moveDir": 14,
+    "toBall": 18.2,
+    "kind": "cover",
+    "target": [
+     66.2,
+     46.5
+    ]
+   },
+   "B10": {
+    "pos": [
+     45.2,
+     25.4
+    ],
+    "speed": 5.1,
+    "moveDir": -5,
+    "toBall": 10.2,
+    "kind": "receive",
+    "target": [
+     73.3,
+     37.0
+    ]
+   }
+  },
+  {
+   "t": 42208,
+   "dt": 0.9,
+   "ball": [
+    55.5,
+    30.6
+   ],
+   "ballSpeed": 12.5,
+   "A10": {
+    "pos": [
+     58.4,
+     33.1
+    ],
+    "speed": 6.0,
+    "moveDir": -12,
+    "toBall": 3.8,
+    "kind": "receive",
+    "target": [
+     62.0,
+     33.0
+    ]
+   },
+   "B07": {
+    "pos": [
+     64.0,
+     46.0
+    ],
+    "speed": 5.2,
+    "moveDir": 14,
+    "toBall": 17.6,
+    "kind": "cover",
+    "target": [
+     67.4,
+     46.8
+    ]
+   },
+   "B10": {
+    "pos": [
+     45.7,
+     25.4
+    ],
+    "speed": 5.3,
+    "moveDir": 2,
+    "toBall": 11.0,
+    "kind": "receive",
+    "target": [
+     75.9,
+     35.7
+    ]
+   }
+  },
+  {
+   "t": 42210,
+   "dt": 1.0,
+   "ball": [
+    56.6,
+    31.0
+   ],
+   "ballSpeed": 12.3,
+   "A10": {
+    "pos": [
+     59.0,
+     32.9
+    ],
+    "speed": 5.8,
+    "moveDir": -18,
+    "toBall": 3.0,
+    "kind": "receive",
+    "target": [
+     62.0,
+     33.0
+    ]
+   },
+   "B07": {
+    "pos": [
+     64.5,
+     46.1
+    ],
+    "speed": 4.9,
+    "moveDir": 14,
+    "toBall": 17.0,
+    "kind": "cover",
+    "target": [
+     67.4,
+     46.8
+    ]
+   },
+   "B10": {
+    "pos": [
+     46.3,
+     25.5
+    ],
+    "speed": 5.6,
+    "moveDir": 8,
+    "toBall": 11.7,
+    "kind": "receive",
+    "target": [
+     75.9,
+     35.7
+    ]
+   }
+  },
+  {
+   "t": 42212,
+   "dt": 1.1,
+   "ball": [
+    57.8,
+    31.4
+   ],
+   "ballSpeed": 12.2,
+   "A10": {
+    "pos": [
+     59.5,
+     32.8
+    ],
+    "speed": 5.7,
+    "moveDir": -12,
+    "toBall": 2.2,
+    "kind": "receive",
+    "target": [
+     61.4,
+     32.2
+    ]
+   },
+   "B07": {
+    "pos": [
+     65.0,
+     46.2
+    ],
+    "speed": 5.5,
+    "moveDir": 15,
+    "toBall": 16.5,
+    "kind": "receive",
+    "target": [
+     77.0,
+     36.9
+    ]
+   },
+   "B10": {
+    "pos": [
+     46.9,
+     25.6
+    ],
+    "speed": 6.0,
+    "moveDir": 12,
+    "toBall": 12.3,
+    "kind": "receive",
+    "target": [
+     76.9,
+     38.4
+    ]
+   }
+  },
+  {
+   "t": 42214,
+   "dt": 1.2,
+   "ball": [
+    59.0,
+    31.7
+   ],
+   "ballSpeed": 12.0,
+   "A10": {
+    "pos": [
+     60.1,
+     32.7
+    ],
+    "speed": 5.4,
+    "moveDir": -6,
+    "toBall": 1.5,
+    "kind": "receive",
+    "target": [
+     61.4,
+     32.2
+    ]
+   },
+   "B07": {
+    "pos": [
+     65.5,
+     46.3
+    ],
+    "speed": 5.1,
+    "moveDir": 15,
+    "toBall": 16.0,
+    "kind": "receive",
+    "target": [
+     77.0,
+     36.9
+    ]
+   },
+   "B10": {
+    "pos": [
+     47.5,
+     25.8
+    ],
+    "speed": 6.4,
+    "moveDir": 17,
+    "toBall": 12.9,
+    "kind": "receive",
+    "target": [
+     76.9,
+     38.4
+    ]
+   }
+  },
+  {
+   "t": 42216,
+   "dt": 1.3,
+   "ball": [
+    60.1,
+    32.1
+   ],
+   "ballSpeed": 11.9,
+   "A10": {
+    "pos": [
+     60.6,
+     32.6
+    ],
+    "speed": 4.9,
+    "moveDir": -10,
+    "toBall": 0.7,
+    "kind": "receive",
+    "target": [
+     61.1,
+     32.7
+    ]
+   },
+   "B07": {
+    "pos": [
+     66.0,
+     46.4
+    ],
+    "speed": 5.0,
+    "moveDir": 7,
+    "toBall": 15.5,
+    "kind": "press",
+    "target": [
+     79.5,
+     39.0
+    ]
+   },
+   "B10": {
+    "pos": [
+     48.1,
+     26.0
+    ],
+    "speed": 6.7,
+    "moveDir": 22,
+    "toBall": 13.4,
+    "kind": "press",
+    "target": [
+     77.8,
+     38.0
+    ]
+   }
+  },
+  {
+   "t": 42218,
+   "dt": 1.4,
+   "ball": [
+    60.7,
+    32.1
+   ],
+   "ballSpeed": 4.3,
+   "A10": {
+    "pos": [
+     61.0,
+     32.5
+    ],
+    "speed": 4.3,
+    "moveDir": -12,
+    "toBall": 0.5,
+    "kind": "receive",
+    "target": [
+     61.1,
+     32.7
+    ]
+   },
+   "B07": {
+    "pos": [
+     66.5,
+     46.4
+    ],
+    "speed": 5.0,
+    "moveDir": 0,
+    "toBall": 15.4,
+    "kind": "press",
+    "target": [
+     79.5,
+     39.0
+    ]
+   },
+   "B10": {
+    "pos": [
+     48.7,
+     26.3
+    ],
+    "speed": 6.8,
+    "moveDir": 23,
+    "toBall": 13.3,
+    "kind": "press",
+    "target": [
+     77.8,
+     38.0
+    ]
+   }
+  },
+  {
+   "t": 42220,
+   "dt": 1.5,
+   "ball": [
+    61.1,
+    32.0
+   ],
+   "ballSpeed": 3.7,
+   "A10": {
+    "pos": [
+     61.4,
+     32.5
+    ],
+    "speed": 3.7,
+    "moveDir": -10,
+    "toBall": 0.5,
+    "kind": "dribble",
+    "target": [
+     68.4,
+     32.5
+    ]
+   },
+   "B07": {
+    "pos": [
+     67.0,
+     46.4
+    ],
+    "speed": 5.2,
+    "moveDir": -7,
+    "toBall": 15.5,
+    "kind": "press",
+    "target": [
+     61.2,
+     32.1
+    ]
+   },
+   "B10": {
+    "pos": [
+     49.4,
+     26.5
+    ],
+    "speed": 6.8,
+    "moveDir": 22,
+    "toBall": 13.0,
+    "kind": "press",
+    "target": [
+     61.2,
+     32.1
+    ]
+   }
+  },
+  {
+   "t": 42222,
+   "dt": 1.6,
+   "ball": [
+    61.4,
+    32.0
+   ],
+   "ballSpeed": 3.1,
+   "A10": {
+    "pos": [
+     61.7,
+     32.4
+    ],
+    "speed": 3.1,
+    "moveDir": -9,
+    "toBall": 0.5,
+    "kind": "dribble",
+    "target": [
+     68.4,
+     32.5
+    ]
+   },
+   "B07": {
+    "pos": [
+     67.5,
+     46.3
+    ],
+    "speed": 5.5,
+    "moveDir": -14,
+    "toBall": 15.5,
+    "kind": "press",
+    "target": [
+     61.2,
+     32.1
+    ]
+   },
+   "B10": {
+    "pos": [
+     50.0,
+     26.8
+    ],
+    "speed": 6.8,
+    "moveDir": 22,
+    "toBall": 12.6,
+    "kind": "press",
+    "target": [
+     61.2,
+     32.1
+    ]
+   }
+  },
+  {
+   "t": 42224,
+   "dt": 1.7,
+   "ball": [
+    61.8,
+    31.9
+   ],
+   "ballSpeed": 3.4,
+   "A10": {
+    "pos": [
+     62.0,
+     32.4
+    ],
+    "speed": 3.7,
+    "moveDir": -4,
+    "toBall": 0.5,
+    "kind": "dribble",
+    "target": [
+     69.0,
+     32.4
+    ]
+   },
+   "B07": {
+    "pos": [
+     68.0,
+     46.1
+    ],
+    "speed": 5.1,
+    "moveDir": -19,
+    "toBall": 15.5,
+    "kind": "cover",
+    "target": [
+     70.5,
+     47.3
+    ]
+   },
+   "B10": {
+    "pos": [
+     50.6,
+     27.1
+    ],
+    "speed": 6.8,
+    "moveDir": 25,
+    "toBall": 12.2,
+    "kind": "press",
+    "target": [
+     61.8,
+     32.0
+    ]
+   }
+  },
+  {
+   "t": 42226,
+   "dt": 1.8,
+   "ball": [
+    62.1,
+    31.9
+   ],
+   "ballSpeed": 3.3,
+   "A10": {
+    "pos": [
+     62.4,
+     32.4
+    ],
+    "speed": 4.3,
+    "moveDir": -1,
+    "toBall": 0.6,
+    "kind": "dribble",
+    "target": [
+     69.0,
+     32.4
+    ]
+   },
+   "B07": {
+    "pos": [
+     68.5,
+     45.9
+    ],
+    "speed": 4.7,
+    "moveDir": -25,
+    "toBall": 15.4,
+    "kind": "cover",
+    "target": [
+     70.5,
+     47.3
+    ]
+   },
+   "B10": {
+    "pos": [
+     51.2,
+     27.4
+    ],
+    "speed": 6.8,
+    "moveDir": 25,
+    "toBall": 11.8,
+    "kind": "press",
+    "target": [
+     61.8,
+     32.0
+    ]
+   }
+  },
+  {
+   "t": 42228,
+   "dt": 1.9,
+   "ball": [
+    62.4,
+    31.9
+   ],
+   "ballSpeed": 3.2,
+   "A10": {
+    "pos": [
+     62.9,
+     32.4
+    ],
+    "speed": 4.8,
+    "moveDir": 0,
+    "toBall": 0.7,
+    "kind": "dribble",
+    "target": [
+     69.9,
+     32.4
+    ]
+   },
+   "B07": {
+    "pos": [
+     68.9,
+     45.8
+    ],
+    "speed": 4.4,
+    "moveDir": -17,
+    "toBall": 15.3,
+    "kind": "cover",
+    "target": [
+     70.8,
+     47.2
+    ]
+   },
+   "B10": {
+    "pos": [
+     51.8,
+     27.6
+    ],
+    "speed": 6.8,
+    "moveDir": 24,
+    "toBall": 11.4,
+    "kind": "press",
+    "target": [
+     66.8,
+     29.4
+    ]
+   }
+  },
+  {
+   "t": 42230,
+   "dt": 2.0,
+   "ball": [
+    62.9,
+    31.9
+   ],
+   "ballSpeed": 5.1,
+   "A10": {
+    "pos": [
+     63.4,
+     32.4
+    ],
+    "speed": 4.8,
+    "moveDir": 0,
+    "toBall": 0.7,
+    "kind": "dribble",
+    "target": [
+     69.9,
+     32.4
+    ]
+   },
+   "B07": {
+    "pos": [
+     69.3,
+     45.7
+    ],
+    "speed": 4.2,
+    "moveDir": -9,
+    "toBall": 15.3,
+    "kind": "cover",
+    "target": [
+     70.8,
+     47.2
+    ]
+   },
+   "B10": {
+    "pos": [
+     52.4,
+     27.9
+    ],
+    "speed": 6.8,
+    "moveDir": 24,
+    "toBall": 11.1,
+    "kind": "press",
+    "target": [
+     66.8,
+     29.4
+    ]
+   }
+  },
+  {
+   "t": 42232,
+   "dt": 2.1,
+   "ball": [
+    63.4,
+    31.9
+   ],
+   "ballSpeed": 5.0,
+   "A10": {
+    "pos": [
+     63.9,
+     32.4
+    ],
+    "speed": 4.8,
+    "moveDir": 0,
+    "toBall": 0.7,
+    "kind": "dribble",
+    "target": [
+     70.9,
+     32.4
+    ]
+   },
+   "B07": {
+    "pos": [
+     69.7,
+     45.7
+    ],
+    "speed": 4.0,
+    "moveDir": 0,
+    "toBall": 15.1,
+    "kind": "press",
+    "target": [
+     63.3,
+     31.9
+    ]
+   },
+   "B10": {
+    "pos": [
+     53.1,
+     28.1
+    ],
+    "speed": 6.7,
+    "moveDir": 18,
+    "toBall": 11.0,
+    "kind": "press",
+    "target": [
+     63.3,
+     31.9
+    ]
+   }
+  },
+  {
+   "t": 42234,
+   "dt": 2.2,
+   "ball": [
+    63.9,
+    32.0
+   ],
+   "ballSpeed": 4.9,
+   "A10": {
+    "pos": [
+     64.4,
+     32.4
+    ],
+    "speed": 4.8,
+    "moveDir": 0,
+    "toBall": 0.6,
+    "kind": "dribble",
+    "target": [
+     70.9,
+     32.4
+    ]
+   },
+   "B07": {
+    "pos": [
+     70.1,
+     45.7
+    ],
+    "speed": 3.8,
+    "moveDir": 9,
+    "toBall": 15.1,
+    "kind": "press",
+    "target": [
+     63.3,
+     31.9
+    ]
+   },
+   "B10": {
+    "pos": [
+     53.7,
+     28.3
+    ],
+    "speed": 6.7,
+    "moveDir": 13,
+    "toBall": 10.8,
+    "kind": "press",
+    "target": [
+     63.3,
+     31.9
+    ]
+   }
+  },
+  {
+   "t": 42236,
+   "dt": 2.3,
+   "ball": [
+    64.3,
+    32.0
+   ],
+   "ballSpeed": 4.8,
+   "A10": {
+    "pos": [
+     64.8,
+     32.4
+    ],
+    "speed": 4.8,
+    "moveDir": 0,
+    "toBall": 0.6,
+    "kind": "dribble",
+    "target": [
+     70.4,
+     36.6
+    ]
+   },
+   "B07": {
+    "pos": [
+     70.4,
+     45.8
+    ],
+    "speed": 3.3,
+    "moveDir": 2,
+    "toBall": 15.0,
+    "kind": "press",
+    "target": [
+     72.6,
+     33.8
+    ]
+   },
+   "B10": {
+    "pos": [
+     54.4,
+     28.5
+    ],
+    "speed": 6.7,
+    "moveDir": 18,
+    "toBall": 10.6,
+    "kind": "press",
+    "target": [
+     72.2,
+     33.0
+    ]
+   }
+  },
+  {
+   "t": 42238,
+   "dt": 2.4,
+   "ball": [
+    64.9,
+    32.0
+   ],
+   "ballSpeed": 5.2,
+   "A10": {
+    "pos": [
+     65.3,
+     32.4
+    ],
+    "speed": 4.8,
+    "moveDir": 0,
+    "toBall": 0.6,
+    "kind": "dribble",
+    "target": [
+     70.4,
+     36.6
+    ]
+   },
+   "B07": {
+    "pos": [
+     70.7,
+     45.7
+    ],
+    "speed": 2.8,
+    "moveDir": -7,
+    "toBall": 14.9,
+    "kind": "press",
+    "target": [
+     72.6,
+     33.8
+    ]
+   },
+   "B10": {
+    "pos": [
+     55.0,
+     28.7
+    ],
+    "speed": 6.8,
+    "moveDir": 21,
+    "toBall": 10.4,
+    "kind": "press",
+    "target": [
+     72.2,
+     33.0
+    ]
+   }
+  },
+  {
+   "t": 42240,
+   "dt": 2.5,
+   "ball": [
+    65.4,
+    32.0
+   ],
+   "ballSpeed": 5.1,
+   "A10": {
+    "pos": [
+     65.8,
+     32.4
+    ],
+    "speed": 4.6,
+    "moveDir": 7,
+    "toBall": 0.6,
+    "kind": "dribble",
+    "target": [
+     71.4,
+     36.6
+    ]
+   },
+   "B07": {
+    "pos": [
+     71.0,
+     45.6
+    ],
+    "speed": 2.8,
+    "moveDir": -20,
+    "toBall": 14.7,
+    "kind": "press",
+    "target": [
+     65.3,
+     32.0
+    ]
+   },
+   "B10": {
+    "pos": [
+     55.7,
+     28.9
+    ],
+    "speed": 6.8,
+    "moveDir": 16,
+    "toBall": 10.2,
+    "kind": "press",
+    "target": [
+     65.4,
+     32.0
+    ]
+   }
+  },
+  {
+   "t": 42242,
+   "dt": 2.6,
+   "ball": [
+    65.9,
+    32.0
+   ],
+   "ballSpeed": 4.9,
+   "A10": {
+    "pos": [
+     66.2,
+     32.5
+    ],
+    "speed": 4.5,
+    "moveDir": 15,
+    "toBall": 0.6,
+    "kind": "dribble",
+    "target": [
+     71.4,
+     36.6
+    ]
+   },
+   "B07": {
+    "pos": [
+     71.2,
+     45.5
+    ],
+    "speed": 2.9,
+    "moveDir": -33,
+    "toBall": 14.5,
+    "kind": "press",
+    "target": [
+     65.3,
+     32.0
+    ]
+   },
+   "B10": {
+    "pos": [
+     56.3,
+     29.1
+    ],
+    "speed": 6.8,
+    "moveDir": 14,
+    "toBall": 10.0,
+    "kind": "press",
+    "target": [
+     65.4,
+     32.0
+    ]
+   }
+  },
+  {
+   "t": 42244,
+   "dt": 2.7,
+   "ball": [
+    66.3,
+    32.2
+   ],
+   "ballSpeed": 5.2,
+   "A10": {
+    "pos": [
+     66.6,
+     32.7
+    ],
+    "speed": 4.5,
+    "moveDir": 23,
+    "toBall": 0.6,
+    "kind": "dribble",
+    "target": [
+     72.2,
+     36.9
+    ]
+   },
+   "B07": {
+    "pos": [
+     71.5,
+     45.3
+    ],
+    "speed": 2.8,
+    "moveDir": -46,
+    "toBall": 14.1,
+    "kind": "press",
+    "target": [
+     66.2,
+     32.2
+    ]
+   },
+   "B10": {
+    "pos": [
+     57.0,
+     29.3
+    ],
+    "speed": 6.8,
+    "moveDir": 18,
+    "toBall": 9.8,
+    "kind": "press",
+    "target": [
+     66.4,
+     32.3
+    ]
+   }
+  },
+  {
+   "t": 42246,
+   "dt": 2.8,
+   "ball": [
+    66.7,
+    32.6
+   ],
+   "ballSpeed": 4.6,
+   "A10": {
+    "pos": [
+     67.0,
+     32.9
+    ],
+    "speed": 4.6,
+    "moveDir": 31,
+    "toBall": 0.5,
+    "kind": "dribble",
+    "target": [
+     72.2,
+     36.9
+    ]
+   },
+   "B07": {
+    "pos": [
+     71.6,
+     45.1
+    ],
+    "speed": 2.9,
+    "moveDir": -59,
+    "toBall": 13.5,
+    "kind": "press",
+    "target": [
+     66.2,
+     32.2
+    ]
+   },
+   "B10": {
+    "pos": [
+     57.6,
+     29.5
+    ],
+    "speed": 6.8,
+    "moveDir": 18,
+    "toBall": 9.6,
+    "kind": "press",
+    "target": [
+     66.4,
+     32.3
+    ]
+   }
+  },
+  {
+   "t": 42248,
+   "dt": 2.9,
+   "ball": [
+    67.1,
+    32.8
+   ],
+   "ballSpeed": 4.5,
+   "A10": {
+    "pos": [
+     67.4,
+     33.2
+    ],
+    "speed": 4.8,
+    "moveDir": 37,
+    "toBall": 0.5,
+    "kind": "dribble",
+    "target": [
+     73.0,
+     37.4
+    ]
+   },
+   "B07": {
+    "pos": [
+     71.7,
+     44.8
+    ],
+    "speed": 3.1,
+    "moveDir": -71,
+    "toBall": 12.9,
+    "kind": "press",
+    "target": [
+     67.1,
+     32.9
+    ]
+   },
+   "B10": {
+    "pos": [
+     58.2,
+     29.7
+    ],
+    "speed": 6.8,
+    "moveDir": 17,
+    "toBall": 9.3,
+    "kind": "press",
+    "target": [
+     67.1,
+     32.8
+    ]
+   }
+  },
+  {
+   "t": 42250,
+   "dt": 3.0,
+   "ball": [
+    67.4,
+    33.0
+   ],
+   "ballSpeed": 4.3,
+   "A10": {
+    "pos": [
+     67.8,
+     33.5
+    ],
+    "speed": 4.8,
+    "moveDir": 37,
+    "toBall": 0.6,
+    "kind": "dribble",
+    "target": [
+     73.0,
+     37.4
+    ]
+   },
+   "B07": {
+    "pos": [
+     71.8,
+     44.5
+    ],
+    "speed": 3.4,
+    "moveDir": -81,
+    "toBall": 12.2,
+    "kind": "press",
+    "target": [
+     67.1,
+     32.9
+    ]
+   },
+   "B10": {
+    "pos": [
+     58.9,
+     29.9
+    ],
+    "speed": 6.8,
+    "moveDir": 17,
+    "toBall": 9.1,
+    "kind": "press",
+    "target": [
+     67.1,
+     32.8
+    ]
+   }
+  },
+  {
+   "t": 42252,
+   "dt": 3.1,
+   "ball": [
+    67.8,
+    33.4
+   ],
+   "ballSpeed": 5.2,
+   "A10": {
+    "pos": [
+     68.2,
+     33.8
+    ],
+    "speed": 4.8,
+    "moveDir": 37,
+    "toBall": 0.5,
+    "kind": "dribble",
+    "target": [
+     73.8,
+     38.0
+    ]
+   },
+   "B07": {
+    "pos": [
+     71.8,
+     44.1
+    ],
+    "speed": 3.8,
+    "moveDir": -89,
+    "toBall": 11.4,
+    "kind": "press",
+    "target": [
+     67.9,
+     33.5
+    ]
+   },
+   "B10": {
+    "pos": [
+     59.5,
+     30.1
+    ],
+    "speed": 6.8,
+    "moveDir": 19,
+    "toBall": 8.9,
+    "kind": "press",
+    "target": [
+     67.9,
+     33.3
+    ]
+   }
+  },
+  {
+   "t": 42254,
+   "dt": 3.2,
+   "ball": [
+    68.2,
+    33.7
+   ],
+   "ballSpeed": 4.8,
+   "A10": {
+    "pos": [
+     68.6,
+     34.1
+    ],
+    "speed": 4.8,
+    "moveDir": 37,
+    "toBall": 0.5,
+    "kind": "dribble",
+    "target": [
+     73.8,
+     38.0
+    ]
+   },
+   "B07": {
+    "pos": [
+     71.8,
+     43.7
+    ],
+    "speed": 4.3,
+    "moveDir": -96,
+    "toBall": 10.6,
+    "kind": "press",
+    "target": [
+     67.9,
+     33.5
+    ]
+   },
+   "B10": {
+    "pos": [
+     60.2,
+     30.4
+    ],
+    "speed": 6.8,
+    "moveDir": 19,
+    "toBall": 8.7,
+    "kind": "press",
+    "target": [
+     67.9,
+     33.3
+    ]
+   }
+  },
+  {
+   "t": 42256,
+   "dt": 3.3,
+   "ball": [
+    68.6,
+    34.0
+   ],
+   "ballSpeed": 4.7,
+   "A10": {
+    "pos": [
+     69.0,
+     34.3
+    ],
+    "speed": 4.8,
+    "moveDir": 37,
+    "toBall": 0.5,
+    "kind": "dribble",
+    "target": [
+     74.6,
+     38.5
+    ]
+   },
+   "B07": {
+    "pos": [
+     71.7,
+     43.2
+    ],
+    "speed": 4.8,
+    "moveDir": -100,
+    "toBall": 9.8,
+    "kind": "press",
+    "target": [
+     68.6,
+     34.0
+    ]
+   },
+   "B10": {
+    "pos": [
+     60.8,
+     30.6
+    ],
+    "speed": 6.8,
+    "moveDir": 21,
+    "toBall": 8.5,
+    "kind": "press",
+    "target": [
+     68.6,
+     33.9
+    ]
+   }
+  },
+  {
+   "t": 42258,
+   "dt": 3.4,
+   "ball": [
+    69.0,
+    34.3
+   ],
+   "ballSpeed": 4.8,
+   "A10": {
+    "pos": [
+     69.3,
+     34.6
+    ],
+    "speed": 4.8,
+    "moveDir": 37,
+    "toBall": 0.5,
+    "kind": "dribble",
+    "target": [
+     74.6,
+     38.5
+    ]
+   },
+   "B07": {
+    "pos": [
+     71.6,
+     42.7
+    ],
+    "speed": 5.4,
+    "moveDir": -104,
+    "toBall": 8.8,
+    "kind": "press",
+    "target": [
+     68.6,
+     34.0
+    ]
+   },
+   "B10": {
+    "pos": [
+     61.4,
+     30.8
+    ],
+    "speed": 6.8,
+    "moveDir": 21,
+    "toBall": 8.3,
+    "kind": "press",
+    "target": [
+     68.6,
+     33.9
+    ]
+   }
+  },
+  {
+   "t": 42260,
+   "dt": 3.5,
+   "ball": [
+    69.4,
+    34.6
+   ],
+   "ballSpeed": 4.7,
+   "A10": {
+    "pos": [
+     69.7,
+     34.9
+    ],
+    "speed": 4.8,
+    "moveDir": 37,
+    "toBall": 0.5,
+    "kind": "dribble",
+    "target": [
+     75.3,
+     39.1
+    ]
+   },
+   "B07": {
+    "pos": [
+     71.4,
+     42.2
+    ],
+    "speed": 6.0,
+    "moveDir": -106,
+    "toBall": 7.9,
+    "kind": "press",
+    "target": [
+     69.4,
+     34.5
+    ]
+   },
+   "B10": {
+    "pos": [
+     62.1,
+     31.1
+    ],
+    "speed": 6.8,
+    "moveDir": 23,
+    "toBall": 8.1,
+    "kind": "press",
+    "target": [
+     69.3,
+     34.5
+    ]
+   }
+  }
+ ]
+}

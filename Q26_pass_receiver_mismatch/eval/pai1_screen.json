@@ -1,0 +1,531 @@
+[
+ {
+  "window": "S:recovery_failure",
+  "kickTick": 12171,
+  "passer": "B08",
+  "receiver": "B10",
+  "outcomeBaseline": "opponent_control",
+  "receiverSeenSpeed": 3.52,
+  "baseline": {
+   "aim": {
+    "x": 54.29,
+    "y": 25.51
+   },
+   "launchSpeedNominal": 9.34
+  },
+  "pai1": {
+   "status": "solved",
+   "reason": "first_numerically_found_moving_flight_solution",
+   "aim": {
+    "x": 52.01,
+    "y": 26.74
+   },
+   "shiftFromBaseline": 2.59,
+   "flightSeconds": 0.98,
+   "launchSpeed": 9.92,
+   "arrivalHorizontalSpeed": 8.62,
+   "distToTouchline": 26.74,
+   "distToByline": 52.01
+  },
+  "receiverPrivatePlan": {
+   "kind": "support",
+   "target": {
+    "x": 44.9,
+    "y": 32.11
+   },
+   "pai1AimBeyondPlanAlongRun": -8.81,
+   "pai1AimToPlanTarget": 8.91,
+   "baselineAimToPlanTarget": 11.48,
+   "receiverToPlanTargetAtDecision": 12.61,
+   "secondsToReachPlanAtSeenSpeed": 3.58
+  },
+  "auditTruthAtNominalArrival": {
+   "tick": 12191,
+   "frameIsExact": true,
+   "nearestOpponentToPai1Aim": {
+    "id": "A06",
+    "d": 8.85
+   },
+   "receiverToPai1Aim_baselineRun": 2.27,
+   "nearestOpponentToBaselineAim": 6.99
+  }
+ },
+ {
+  "window": "S:mutual_recovery",
+  "kickTick": 24354,
+  "passer": "A08",
+  "receiver": "A06",
+  "outcomeBaseline": "window_end",
+  "receiverSeenSpeed": 0.98,
+  "baseline": {
+   "aim": {
+    "x": 42.18,
+    "y": 13.75
+   },
+   "launchSpeedNominal": 11.31
+  },
+  "pai1": {
+   "status": "solved",
+   "reason": "first_numerically_found_moving_flight_solution",
+   "aim": {
+    "x": 42.18,
+    "y": 14.78
+   },
+   "shiftFromBaseline": 1.03,
+   "flightSeconds": 1.3,
+   "launchSpeed": 11.33,
+   "arrivalHorizontalSpeed": 9.52,
+   "distToTouchline": 14.78,
+   "distToByline": 42.18
+  },
+  "receiverPrivatePlan": {
+   "kind": "intercept",
+   "target": {
+    "x": 52.96,
+    "y": 16.72
+   },
+   "pai1AimBeyondPlanAlongRun": -1.94,
+   "pai1AimToPlanTarget": 10.96,
+   "baselineAimToPlanTarget": 11.18,
+   "receiverToPlanTargetAtDecision": 11.36,
+   "secondsToReachPlanAtSeenSpeed": 11.58
+  },
+  "auditTruthAtNominalArrival": {
+   "tick": 24359,
+   "frameIsExact": false,
+   "nearestOpponentToPai1Aim": {
+    "id": "B08",
+    "d": 10.77
+   },
+   "receiverToPai1Aim_baselineRun": 2.29,
+   "nearestOpponentToBaselineAim": 10.63
+  }
+ },
+ {
+  "window": "S:breakthrough_outlet",
+  "kickTick": 12242,
+  "passer": "A06",
+  "receiver": "A10",
+  "outcomeBaseline": "teammate_control",
+  "receiverSeenSpeed": 4.91,
+  "baseline": {
+   "aim": {
+    "x": 33.83,
+    "y": 26.51
+   },
+   "launchSpeedNominal": 8
+  },
+  "pai1": {
+   "status": "solved",
+   "reason": "first_numerically_found_moving_flight_solution",
+   "aim": {
+    "x": 33.54,
+    "y": 26.35
+   },
+   "shiftFromBaseline": 0.33,
+   "flightSeconds": 0.32,
+   "launchSpeed": 8,
+   "arrivalHorizontalSpeed": 7.63,
+   "distToTouchline": 26.35,
+   "distToByline": 33.54
+  },
+  "receiverPrivatePlan": {
+   "kind": "support",
+   "target": {
+    "x": 50.69,
+    "y": 32.79
+   },
+   "pai1AimBeyondPlanAlongRun": 18.11,
+   "pai1AimToPlanTarget": 18.32,
+   "baselineAimToPlanTarget": 17.99,
+   "receiverToPlanTargetAtDecision": 16.34,
+   "secondsToReachPlanAtSeenSpeed": 3.33
+  },
+  "auditTruthAtNominalArrival": {
+   "tick": 12245,
+   "frameIsExact": true,
+   "nearestOpponentToPai1Aim": {
+    "id": "B10",
+    "d": 4.04
+   },
+   "receiverToPai1Aim_baselineRun": 0.84,
+   "nearestOpponentToBaselineAim": 4.18
+  }
+ },
+ {
+  "window": "S:breakthrough_outlet",
+  "kickTick": 12264,
+  "passer": "A05",
+  "receiver": "A07",
+  "outcomeBaseline": "target_control",
+  "receiverSeenSpeed": 0,
+  "baseline": {
+   "aim": {
+    "x": 30.94,
+    "y": 44.87
+   },
+   "launchSpeedNominal": 13.11
+  },
+  "pai1": {
+   "status": "fallback",
+   "reason": "nonfresh_observation"
+  }
+ },
+ {
+  "window": "S:breakthrough_outlet",
+  "kickTick": 12367,
+  "passer": "A07",
+  "receiver": "A09",
+  "outcomeBaseline": "target_control",
+  "receiverSeenSpeed": 6.76,
+  "baseline": {
+   "aim": {
+    "x": 48.4,
+    "y": 61.29
+   },
+   "launchSpeedNominal": 9.89
+  },
+  "pai1": {
+   "status": "solved",
+   "reason": "first_numerically_found_moving_flight_solution",
+   "aim": {
+    "x": 56.89,
+    "y": 61.28
+   },
+   "shiftFromBaseline": 8.49,
+   "flightSeconds": 1.51,
+   "launchSpeed": 12.49,
+   "arrivalHorizontalSpeed": 10.3,
+   "distToTouchline": 6.72,
+   "distToByline": 48.11
+  },
+  "receiverPrivatePlan": {
+   "kind": "support",
+   "target": {
+    "x": 49.47,
+    "y": 60.99
+   },
+   "pai1AimBeyondPlanAlongRun": 7.42,
+   "pai1AimToPlanTarget": 7.43,
+   "baselineAimToPlanTarget": 1.11,
+   "receiverToPlanTargetAtDecision": 3.49,
+   "secondsToReachPlanAtSeenSpeed": 0.52
+  },
+  "auditTruthAtNominalArrival": {
+   "tick": 12397,
+   "frameIsExact": true,
+   "nearestOpponentToPai1Aim": {
+    "id": "B07",
+    "d": 6.19
+   },
+   "receiverToPai1Aim_baselineRun": 4.36,
+   "nearestOpponentToBaselineAim": 2.12
+  }
+ },
+ {
+  "window": "S:contact_failure",
+  "kickTick": 6073,
+  "passer": "A07",
+  "receiver": "A10",
+  "outcomeBaseline": "target_no_control",
+  "receiverSeenSpeed": 6.4,
+  "baseline": {
+   "aim": {
+    "x": 56.64,
+    "y": 39.13
+   },
+   "launchSpeedNominal": 9.03
+  },
+  "pai1": {
+   "status": "solved",
+   "reason": "first_numerically_found_moving_flight_solution",
+   "aim": {
+    "x": 55.92,
+    "y": 40.9
+   },
+   "shiftFromBaseline": 1.91,
+   "flightSeconds": 0.55,
+   "launchSpeed": 8.42,
+   "arrivalHorizontalSpeed": 7.75,
+   "distToTouchline": 27.1,
+   "distToByline": 49.08
+  },
+  "receiverPrivatePlan": {
+   "kind": "intercept",
+   "target": {
+    "x": 54.07,
+    "y": 45.08
+   },
+   "pai1AimBeyondPlanAlongRun": -4.57,
+   "pai1AimToPlanTarget": 4.57,
+   "baselineAimToPlanTarget": 6.48,
+   "receiverToPlanTargetAtDecision": 8.74,
+   "secondsToReachPlanAtSeenSpeed": 1.36
+  },
+  "auditTruthAtNominalArrival": {
+   "tick": 6081,
+   "frameIsExact": true,
+   "nearestOpponentToPai1Aim": {
+    "id": "B10",
+    "d": 2.83
+   },
+   "receiverToPai1Aim_baselineRun": 0.11,
+   "nearestOpponentToBaselineAim": 4.73
+  }
+ },
+ {
+  "window": "S:contact_failure",
+  "kickTick": 6158,
+  "passer": "B05",
+  "receiver": "B08",
+  "outcomeBaseline": "window_end",
+  "receiverSeenSpeed": 1.84,
+  "baseline": {
+   "aim": {
+    "x": 62.92,
+    "y": 7.25
+   },
+   "launchSpeedNominal": 13.22
+  },
+  "pai1": {
+   "status": "solved",
+   "reason": "first_numerically_found_moving_flight_solution",
+   "aim": {
+    "x": 65.08,
+    "y": 5.82
+   },
+   "shiftFromBaseline": 2.59,
+   "flightSeconds": 1.66,
+   "launchSpeed": 13.51,
+   "arrivalHorizontalSpeed": 11.02,
+   "distToTouchline": 5.82,
+   "distToByline": 39.92
+  },
+  "receiverPrivatePlan": {
+   "kind": "support",
+   "target": {
+    "x": 57.67,
+    "y": 8.88
+   },
+   "pai1AimBeyondPlanAlongRun": 7.87,
+   "pai1AimToPlanTarget": 8.02,
+   "baselineAimToPlanTarget": 5.5,
+   "receiverToPlanTargetAtDecision": 4.86,
+   "secondsToReachPlanAtSeenSpeed": 2.65
+  },
+  "auditTruthAtNominalArrival": {
+   "tick": 6159,
+   "frameIsExact": false,
+   "nearestOpponentToPai1Aim": {
+    "id": "A08",
+    "d": 7.57
+   },
+   "receiverToPai1Aim_baselineRun": 3.21,
+   "nearestOpponentToBaselineAim": 5.26
+  }
+ },
+ {
+  "window": "S:far_receiver",
+  "kickTick": 6176,
+  "passer": "B05",
+  "receiver": "B09",
+  "outcomeBaseline": "window_end",
+  "receiverSeenSpeed": 2.7,
+  "baseline": {
+   "aim": {
+    "x": 64.15,
+    "y": 59.52
+   },
+   "launchSpeedNominal": 15.47
+  },
+  "pai1": {
+   "status": "solved",
+   "reason": "first_numerically_found_moving_flight_solution",
+   "aim": {
+    "x": 64.69,
+    "y": 64.3
+   },
+   "shiftFromBaseline": 4.81,
+   "flightSeconds": 2.03,
+   "launchSpeed": 16.84,
+   "arrivalHorizontalSpeed": 13.45,
+   "distToTouchline": 3.7,
+   "distToByline": 40.31
+  },
+  "receiverPrivatePlan": {
+   "kind": "support",
+   "target": {
+    "x": 61.15,
+    "y": 58.27
+   },
+   "pai1AimBeyondPlanAlongRun": 6.38,
+   "pai1AimToPlanTarget": 6.99,
+   "baselineAimToPlanTarget": 3.25,
+   "receiverToPlanTargetAtDecision": 2.86,
+   "secondsToReachPlanAtSeenSpeed": 1.06
+  },
+  "auditTruthAtNominalArrival": {
+   "tick": 6179,
+   "frameIsExact": false,
+   "nearestOpponentToPai1Aim": {
+    "id": "A07",
+    "d": 26.02
+   },
+   "receiverToPai1Aim_baselineRun": 5.54,
+   "nearestOpponentToBaselineAim": 21.82
+  }
+ },
+ {
+  "window": "S:outlet_to_shot",
+  "kickTick": 78414,
+  "passer": "A07",
+  "receiver": "A10",
+  "outcomeBaseline": "target_control",
+  "receiverSeenSpeed": 6.7,
+  "baseline": {
+   "aim": {
+    "x": 23.6,
+    "y": 38.15
+   },
+   "launchSpeedNominal": 14.99
+  },
+  "pai1": {
+   "status": "solved",
+   "reason": "first_numerically_found_moving_flight_solution",
+   "aim": {
+    "x": 13.32,
+    "y": 32.4
+   },
+   "shiftFromBaseline": 11.78,
+   "flightSeconds": 2.01,
+   "launchSpeed": 16.57,
+   "arrivalHorizontalSpeed": 13.26,
+   "distToTouchline": 32.4,
+   "distToByline": 13.32
+  },
+  "receiverPrivatePlan": {
+   "kind": "support",
+   "target": {
+    "x": 21.53,
+    "y": 37.37
+   },
+   "pai1AimBeyondPlanAlongRun": 9.6,
+   "pai1AimToPlanTarget": 9.6,
+   "baselineAimToPlanTarget": 2.21,
+   "receiverToPlanTargetAtDecision": 4.54,
+   "secondsToReachPlanAtSeenSpeed": 0.68
+  },
+  "auditTruthAtNominalArrival": {
+   "tick": 78452,
+   "frameIsExact": true,
+   "nearestOpponentToPai1Aim": {
+    "id": "B05",
+    "d": 8.74
+   },
+   "receiverToPai1Aim_baselineRun": 9.93,
+   "nearestOpponentToBaselineAim": 7.07
+  }
+ },
+ {
+  "window": "S:outlet_unreached",
+  "kickTick": 42190,
+  "passer": "A05",
+  "receiver": "A10",
+  "outcomeBaseline": "opponent_control",
+  "receiverSeenSpeed": 6.76,
+  "baseline": {
+   "aim": {
+    "x": 54.52,
+    "y": 33.77
+   },
+   "launchSpeedNominal": 11.01
+  },
+  "pai1": {
+   "status": "solved",
+   "reason": "first_numerically_found_moving_flight_solution",
+   "aim": {
+    "x": 63.96,
+    "y": 32
+   },
+   "shiftFromBaseline": 9.61,
+   "flightSeconds": 1.67,
+   "launchSpeed": 13.6,
+   "arrivalHorizontalSpeed": 11.07,
+   "distToTouchline": 32,
+   "distToByline": 41.04
+  },
+  "receiverPrivatePlan": {
+   "kind": "support",
+   "target": {
+    "x": 56.95,
+    "y": 33.16
+   },
+   "pai1AimBeyondPlanAlongRun": 7.11,
+   "pai1AimToPlanTarget": 7.11,
+   "baselineAimToPlanTarget": 2.51,
+   "receiverToPlanTargetAtDecision": 4.91,
+   "secondsToReachPlanAtSeenSpeed": 0.73
+  },
+  "auditTruthAtNominalArrival": {
+   "tick": 42223,
+   "frameIsExact": true,
+   "nearestOpponentToPai1Aim": {
+    "id": "B06",
+    "d": 12.32
+   },
+   "receiverToPai1Aim_baselineRun": 6.65,
+   "nearestOpponentToBaselineAim": 7.49
+  }
+ },
+ {
+  "window": "S:outlet_unreached",
+  "kickTick": 42258,
+  "passer": "B07",
+  "receiver": "B09",
+  "outcomeBaseline": "opponent_control",
+  "receiverSeenSpeed": 3.44,
+  "baseline": {
+   "aim": {
+    "x": 61.68,
+    "y": 61.42
+   },
+   "launchSpeedNominal": 12.59
+  },
+  "pai1": {
+   "status": "solved",
+   "reason": "first_numerically_found_moving_flight_solution",
+   "aim": {
+    "x": 65.8,
+    "y": 63.6
+   },
+   "shiftFromBaseline": 4.66,
+   "flightSeconds": 1.6,
+   "launchSpeed": 13.13,
+   "arrivalHorizontalSpeed": 10.74,
+   "distToTouchline": 4.4,
+   "distToByline": 39.2
+  },
+  "receiverPrivatePlan": {
+   "kind": "support",
+   "target": {
+    "x": 55.95,
+    "y": 59.37
+   },
+   "pai1AimBeyondPlanAlongRun": 10.69,
+   "pai1AimToPlanTarget": 10.72,
+   "baselineAimToPlanTarget": 6.09,
+   "receiverToPlanTargetAtDecision": 5.01,
+   "secondsToReachPlanAtSeenSpeed": 1.46
+  },
+  "auditTruthAtNominalArrival": {
+   "tick": 42290,
+   "frameIsExact": true,
+   "nearestOpponentToPai1Aim": {
+    "id": "A09",
+    "d": 8.16
+   },
+   "receiverToPai1Aim_baselineRun": 6.76,
+   "nearestOpponentToBaselineAim": 5.95
+  }
+ }
+]
