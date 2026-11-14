@@ -1,0 +1,28 @@
+--- a/integration_i8_ck_research/core/ball.mjs
++++ b/core/ball.mjs
+@@ -1,5 +1,6 @@
+ import {observeCKKick} from './ck_observation_bridge.mjs';
+ import {cornerDuel} from './ck_duel.mjs';
++import {P25_ENABLED,resolveCornerGroup} from './ck_mixed_resolution.mjs';
+ import {CORNER_KICKS,cornerHeadReach,cornerAttempt} from './ck_action_contract.mjs';
+ import {recordSelfKickIntent} from './self_kick_intent.mjs';
+ import {selfKickTransportBallView,selfKickTransportExitRequest,recordSelfKickTransportKick} from './self_kick_transport.mjs';
+@@ -55,7 +56,7 @@
+  }
+  const b=s.ball;const candidates=activePlayers(s).filter(p=>(((['pass','shoot','dribble','restart_kick'].includes(views.get(p.id).kind)||views.get(p.id).kind==='corner_cross'&&s.phase==='restart'&&s.restart?.kind==='corner')&&b.z<=.45)||(['corner_header','corner_clear'].includes(views.get(p.id).kind)&&s.phase==='play'&&s.restartRestriction?.kind==='corner'&&b.z>=.3&&b.z<=cornerHeadReach(p))||(views.get(p.id).kind==='gk_punch'&&isGoalkeeper(s,p)&&s.phase==='play'&&s.restartRestriction?.kind==='corner'&&b.z>=.3&&b.z<=2.46&&Math.abs(b.x-(p.dir===1?0:105))<=16.5&&Math.abs(b.y-34)<=20.16))&&singleWindowReleaseOpen(p,s.tick)&&p.cooldown<=s.tick&&dist(p,b)<=1.1&&(s.phase==='play'||!['dropped_ball','throw_in'].includes(s.restart?.kind)&&s.restart?.taker===p.id&&restartLegal(s)));
+  if(!candidates.length){if(extraCandidates.length)adjudicateTouches(s,[],sink,{extraCandidates});return;}
+- const aerialChallenge=candidates.length>1&&candidates.every(p=>['corner_header','corner_clear','gk_punch'].includes(views.get(p.id).kind))&&new Set(candidates.map(p=>p.team)).size>1;if(candidates.length>1&&candidates.some(p=>CORNER_KICKS.includes(views.get(p.id).kind))&&!aerialChallenge)throw Error('I5_CK_MIXED_GROUP_NOT_CONNECTED');
++ const aerialChallenge=candidates.length>1&&candidates.every(p=>['corner_header','corner_clear','gk_punch'].includes(views.get(p.id).kind))&&new Set(candidates.map(p=>p.team)).size>1;const p25Group=candidates.length>1&&candidates.some(p=>CORNER_KICKS.includes(views.get(p.id).kind))&&!aerialChallenge;if(p25Group&&!P25_ENABLED)throw Error('I5_CK_MIXED_GROUP_NOT_CONNECTED');
+  // Legality precedes execution uncertainty: a refused kick consumes no kick RNG.
+  if(s.phase==='play'&&adjudicateTouches(s,candidates.map(p=>p.id),sink,{extraCandidates,challengeIds:aerialChallenge?candidates.map(p=>p.id):[]}))return;
+  const incoming={x:b.vx,y:b.vy,z:b.vz},kickFacts=candidates.map(p=>({id:p.id,classification:kickOffsideClass(s,p,incoming)}));
+@@ -72,7 +73,8 @@
+   const attempt={p,view:a,kind:a.kind,vx:(u.x*ca-u.y*sa)*p.dir*speed,vy:(u.x*sa+u.y*ca)*speed,vz:loft?loft.verticalSpeed*powerNoise:a.kind==='shoot'?1.2+(100-skill)*0.017:0.1,angularError,powerNoise};
+   if(conversion)sink?.({channel:'nac1_native_attempt',tick:s.tick,player:p.id,observerOnly:true,conversion:structuredClone(conversion),sampledAngularError:angularError,sampledPowerNoise:powerNoise,attemptVelocity:{vx:attempt.vx,vy:attempt.vy,vz:attempt.vz},rngCallsAfter:p.rng.calls});
+   return attempt;});
+- const duel=cornerDuel(s,attempts),used=duel?[duel.winner]:attempts;
++ const duel=p25Group?resolveCornerGroup(s,attempts):cornerDuel(s,attempts),used=duel?[duel.winner]:attempts;
++ if(p25Group)sink?.({channel:'p25_group_resolution',observerOnly:true,tick:s.tick,rule:duel?duel.rule:'mixed_simultaneous',winner:duel?duel.winner.p.id:null,ball:{x:b.x,y:b.y,z:b.z,vx:b.vx,vy:b.vy,vz:b.vz},candidates:attempts.map(a=>({id:a.p.id,team:a.p.team,kind:a.kind,dist:dist(a.p,b),headReach:cornerHeadReach(a.p),x:a.p.x,y:a.p.y}))});
+  if(duel)emit(s,'aerial_duel',{players:duel.order.map(a=>a.p.id),teams:duel.order.map(a=>a.p.team),kinds:duel.order.map(a=>a.kind),weights:duel.weights,draw:duel.draw,drawSource:'stateless_seed_tick_ids',winner:duel.winner.p.id},sink);
+  b.vx=used.reduce((sum,a)=>sum+a.vx,0)/used.length;b.vy=used.reduce((sum,a)=>sum+a.vy,0)/used.length;b.vz=used.reduce((sum,a)=>sum+a.vz,0)/used.length;
+  const one=used.length===1?used[0]:null;b.lastTouch=one?.p.id??null;b.lastTeam=one?.p.team??b.lastTeam;b.ignoreId=null;b.ignoreUntil=-1;b.lastKick=one?{player:one.p.id,team:one.p.team,kind:one.kind,tick:s.tick,targetId:one.view.targetId??null,...(one.view.ballActionId?{ballActionId:one.view.ballActionId}:{})}:null;

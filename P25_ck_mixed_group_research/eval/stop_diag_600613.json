@@ -1,0 +1,2235 @@
+{
+ "save": "ck_off_600613/save_102000.json",
+ "saveSha256": "d4ddc97563aeb59b3ec6d7ba2e930f8bb79d61d9e0e17967f4577da42f366586",
+ "restoredTick": 102000,
+ "error": "I5_CK_MIXED_GROUP_NOT_CONNECTED",
+ "stopTick": 105210,
+ "node": "v22.23.4",
+ "diag": {
+  "channel": "p25_mixed_group_diag",
+  "observerOnly": true,
+  "tick": 105210,
+  "phase": "play",
+  "restartRestriction": {
+   "taker": "A09",
+   "kind": "corner"
+  },
+  "ball": {
+   "x": 3.676882070819914,
+   "y": 37.397219726522785,
+   "z": 1.9602046471096144,
+   "vx": 1.7404131675816508,
+   "vy": -17.325390122826686,
+   "vz": -7.020963850236586,
+   "lastTouch": "A09",
+   "lastTeam": "A",
+   "lastKick": {
+    "player": "A09",
+    "team": "A",
+    "kind": "corner_cross",
+    "tick": 105177,
+    "targetId": "A10"
+   }
+  },
+  "candidates": [
+   {
+    "id": "B05",
+    "team": "B",
+    "role": "DM",
+    "goalkeeper": false,
+    "x": 3.4866615903664697,
+    "y": 37.18583983633644,
+    "vx": 0.8133740007998819,
+    "vy": 1.1877561211050174,
+    "dist": 0.2843682281112461,
+    "cooldown": 103962,
+    "headReach": 2.2640000000000002,
+    "view": {
+     "kind": "corner_clear",
+     "reason": "observed_corner_flight_clear_ball",
+     "target": {
+      "x": 3.631988867336441,
+      "y": 36.35175252931218
+     },
+     "aim": {
+      "x": 35,
+      "y": 60
+     },
+     "targetId": null,
+     "observedTick": 105207,
+     "applyTick": 105209
+    },
+    "action": {
+     "kind": "corner_clear",
+     "reason": "observed_corner_flight_clear_ball",
+     "observedTick": 105207,
+     "applyTick": 105209
+    },
+    "viewIsAction": true
+   },
+   {
+    "id": "B08",
+    "team": "B",
+    "role": "WG",
+    "goalkeeper": false,
+    "x": 3.7065551398708196,
+    "y": 37.96697537437069,
+    "vx": -0.47979391576552927,
+    "vy": 1.7890488948658778,
+    "dist": 0.5705278163959112,
+    "cooldown": 103027,
+    "headReach": 2.248,
+    "view": {
+     "kind": "corner_clear",
+     "reason": "observed_corner_flight_clear_ball",
+     "target": {
+      "x": 3.9603252219012077,
+      "y": 37.04921334194144
+     },
+     "aim": {
+      "x": 35,
+      "y": 60
+     },
+     "targetId": null,
+     "observedTick": 105205,
+     "applyTick": 105207
+    },
+    "action": {
+     "kind": "corner_clear",
+     "reason": "observed_corner_flight_clear_ball",
+     "observedTick": 105205,
+     "applyTick": 105207
+    },
+    "viewIsAction": true
+   }
+  ]
+ },
+ "cornerTakenTick": 105177,
+ "ballEventsSinceCorner": [
+  {
+   "t": 105177,
+   "type": "kick",
+   "kind": "corner_cross",
+   "player": "A09",
+   "team": "A"
+  },
+  {
+   "t": 105177,
+   "type": "restart_taken",
+   "kind": "corner",
+   "player": "A09",
+   "team": "A"
+  }
+ ],
+ "candidateDecisions": [
+  {
+   "t": 105130,
+   "ch": "ck_policy",
+   "p": "B08",
+   "kind": "restart_position",
+   "reason": "corner_defend:near_post_zone",
+   "target": [
+    1.5,
+    37
+   ],
+   "aim": null,
+   "applyTick": 105132,
+   "observedTick": 105130,
+   "ballSeen": {
+    "x": 0.63,
+    "y": 67.23,
+    "z": 0.11,
+    "seenTick": 105130,
+    "vz": null
+   }
+  },
+  {
+   "t": 105130,
+   "ch": "decision",
+   "p": "B08",
+   "kind": "restart_position",
+   "reason": "corner_defend:near_post_zone",
+   "target": [
+    1.5,
+    37
+   ],
+   "aim": null,
+   "applyTick": 105132,
+   "observedTick": 105130,
+   "ballSeen": {
+    "x": 0.63,
+    "y": 67.23,
+    "z": 0.11,
+    "seenTick": 105130,
+    "vz": null
+   }
+  },
+  {
+   "t": 105131,
+   "ch": "ck_policy",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:mark:A10",
+   "target": [
+    3.29,
+    37.93
+   ],
+   "aim": null,
+   "applyTick": 105133,
+   "observedTick": 105131,
+   "ballSeen": {
+    "x": 0.72,
+    "y": 67.33,
+    "z": 0.11,
+    "seenTick": 105131,
+    "vz": null
+   }
+  },
+  {
+   "t": 105131,
+   "ch": "decision",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:mark:A10",
+   "target": [
+    3.29,
+    37.93
+   ],
+   "aim": null,
+   "applyTick": 105133,
+   "observedTick": 105131,
+   "ballSeen": {
+    "x": 0.72,
+    "y": 67.33,
+    "z": 0.11,
+    "seenTick": 105131,
+    "vz": null
+   }
+  },
+  {
+   "t": 105135,
+   "ch": "ck_policy",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:mark:A10",
+   "target": [
+    3.07,
+    37.39
+   ],
+   "aim": null,
+   "applyTick": 105137,
+   "observedTick": 105135,
+   "ballSeen": {
+    "x": 0.73,
+    "y": 67.44,
+    "z": 0.11,
+    "seenTick": 105135,
+    "vz": null
+   }
+  },
+  {
+   "t": 105135,
+   "ch": "decision",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:mark:A10",
+   "target": [
+    3.07,
+    37.39
+   ],
+   "aim": null,
+   "applyTick": 105137,
+   "observedTick": 105135,
+   "ballSeen": {
+    "x": 0.73,
+    "y": 67.44,
+    "z": 0.11,
+    "seenTick": 105135,
+    "vz": null
+   }
+  },
+  {
+   "t": 105135,
+   "ch": "ck_policy",
+   "p": "B08",
+   "kind": "restart_position",
+   "reason": "corner_defend:near_post_zone",
+   "target": [
+    1.5,
+    37
+   ],
+   "aim": null,
+   "applyTick": 105137,
+   "observedTick": 105135,
+   "ballSeen": {
+    "x": 0.79,
+    "y": 67.35,
+    "z": 0.11,
+    "seenTick": 105135,
+    "vz": null
+   }
+  },
+  {
+   "t": 105135,
+   "ch": "decision",
+   "p": "B08",
+   "kind": "restart_position",
+   "reason": "corner_defend:near_post_zone",
+   "target": [
+    1.5,
+    37
+   ],
+   "aim": null,
+   "applyTick": 105137,
+   "observedTick": 105135,
+   "ballSeen": {
+    "x": 0.79,
+    "y": 67.35,
+    "z": 0.11,
+    "seenTick": 105135,
+    "vz": null
+   }
+  },
+  {
+   "t": 105139,
+   "ch": "ck_policy",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:mark:A10",
+   "target": [
+    3.11,
+    36.72
+   ],
+   "aim": null,
+   "applyTick": 105141,
+   "observedTick": 105139,
+   "ballSeen": {
+    "x": 0.65,
+    "y": 67.33,
+    "z": 0.11,
+    "seenTick": 105139,
+    "vz": null
+   }
+  },
+  {
+   "t": 105139,
+   "ch": "decision",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:mark:A10",
+   "target": [
+    3.11,
+    36.72
+   ],
+   "aim": null,
+   "applyTick": 105141,
+   "observedTick": 105139,
+   "ballSeen": {
+    "x": 0.65,
+    "y": 67.33,
+    "z": 0.11,
+    "seenTick": 105139,
+    "vz": null
+   }
+  },
+  {
+   "t": 105140,
+   "ch": "ck_policy",
+   "p": "B08",
+   "kind": "restart_position",
+   "reason": "corner_defend:near_post_zone",
+   "target": [
+    1.5,
+    37
+   ],
+   "aim": null,
+   "applyTick": 105142,
+   "observedTick": 105140,
+   "ballSeen": {
+    "x": 0.73,
+    "y": 67.27,
+    "z": 0.11,
+    "seenTick": 105140,
+    "vz": null
+   }
+  },
+  {
+   "t": 105140,
+   "ch": "decision",
+   "p": "B08",
+   "kind": "restart_position",
+   "reason": "corner_defend:near_post_zone",
+   "target": [
+    1.5,
+    37
+   ],
+   "aim": null,
+   "applyTick": 105142,
+   "observedTick": 105140,
+   "ballSeen": {
+    "x": 0.73,
+    "y": 67.27,
+    "z": 0.11,
+    "seenTick": 105140,
+    "vz": null
+   }
+  },
+  {
+   "t": 105143,
+   "ch": "ck_policy",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:mark:A10",
+   "target": [
+    3.18,
+    36.1
+   ],
+   "aim": null,
+   "applyTick": 105145,
+   "observedTick": 105143,
+   "ballSeen": {
+    "x": 0.76,
+    "y": 67.32,
+    "z": 0.11,
+    "seenTick": 105143,
+    "vz": null
+   }
+  },
+  {
+   "t": 105143,
+   "ch": "decision",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:mark:A10",
+   "target": [
+    3.18,
+    36.1
+   ],
+   "aim": null,
+   "applyTick": 105145,
+   "observedTick": 105143,
+   "ballSeen": {
+    "x": 0.76,
+    "y": 67.32,
+    "z": 0.11,
+    "seenTick": 105143,
+    "vz": null
+   }
+  },
+  {
+   "t": 105145,
+   "ch": "ck_policy",
+   "p": "B08",
+   "kind": "restart_position",
+   "reason": "corner_defend:near_post_zone",
+   "target": [
+    1.5,
+    37
+   ],
+   "aim": null,
+   "applyTick": 105147,
+   "observedTick": 105145,
+   "ballSeen": {
+    "x": 0.58,
+    "y": 67.23,
+    "z": 0.11,
+    "seenTick": 105145,
+    "vz": null
+   }
+  },
+  {
+   "t": 105145,
+   "ch": "decision",
+   "p": "B08",
+   "kind": "restart_position",
+   "reason": "corner_defend:near_post_zone",
+   "target": [
+    1.5,
+    37
+   ],
+   "aim": null,
+   "applyTick": 105147,
+   "observedTick": 105145,
+   "ballSeen": {
+    "x": 0.58,
+    "y": 67.23,
+    "z": 0.11,
+    "seenTick": 105145,
+    "vz": null
+   }
+  },
+  {
+   "t": 105147,
+   "ch": "ck_policy",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:six_yard_line",
+   "target": [
+    5.5,
+    34
+   ],
+   "aim": null,
+   "applyTick": 105149,
+   "observedTick": 105147,
+   "ballSeen": {
+    "x": 0.55,
+    "y": 67.24,
+    "z": 0.11,
+    "seenTick": 105147,
+    "vz": null
+   }
+  },
+  {
+   "t": 105147,
+   "ch": "decision",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:six_yard_line",
+   "target": [
+    5.5,
+    34
+   ],
+   "aim": null,
+   "applyTick": 105149,
+   "observedTick": 105147,
+   "ballSeen": {
+    "x": 0.55,
+    "y": 67.24,
+    "z": 0.11,
+    "seenTick": 105147,
+    "vz": null
+   }
+  },
+  {
+   "t": 105150,
+   "ch": "ck_policy",
+   "p": "B08",
+   "kind": "restart_position",
+   "reason": "corner_defend:near_post_zone",
+   "target": [
+    1.5,
+    37
+   ],
+   "aim": null,
+   "applyTick": 105152,
+   "observedTick": 105150,
+   "ballSeen": {
+    "x": 0.55,
+    "y": 67.24,
+    "z": 0.11,
+    "seenTick": 105150,
+    "vz": null
+   }
+  },
+  {
+   "t": 105150,
+   "ch": "decision",
+   "p": "B08",
+   "kind": "restart_position",
+   "reason": "corner_defend:near_post_zone",
+   "target": [
+    1.5,
+    37
+   ],
+   "aim": null,
+   "applyTick": 105152,
+   "observedTick": 105150,
+   "ballSeen": {
+    "x": 0.55,
+    "y": 67.24,
+    "z": 0.11,
+    "seenTick": 105150,
+    "vz": null
+   }
+  },
+  {
+   "t": 105151,
+   "ch": "ck_policy",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:six_yard_line",
+   "target": [
+    5.5,
+    34
+   ],
+   "aim": null,
+   "applyTick": 105153,
+   "observedTick": 105151,
+   "ballSeen": {
+    "x": 0.57,
+    "y": 67.45,
+    "z": 0.11,
+    "seenTick": 105151,
+    "vz": null
+   }
+  },
+  {
+   "t": 105151,
+   "ch": "decision",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:six_yard_line",
+   "target": [
+    5.5,
+    34
+   ],
+   "aim": null,
+   "applyTick": 105153,
+   "observedTick": 105151,
+   "ballSeen": {
+    "x": 0.57,
+    "y": 67.45,
+    "z": 0.11,
+    "seenTick": 105151,
+    "vz": null
+   }
+  },
+  {
+   "t": 105155,
+   "ch": "ck_policy",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:six_yard_line",
+   "target": [
+    5.5,
+    34
+   ],
+   "aim": null,
+   "applyTick": 105157,
+   "observedTick": 105155,
+   "ballSeen": {
+    "x": 0.68,
+    "y": 67.41,
+    "z": 0.11,
+    "seenTick": 105155,
+    "vz": null
+   }
+  },
+  {
+   "t": 105155,
+   "ch": "decision",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:six_yard_line",
+   "target": [
+    5.5,
+    34
+   ],
+   "aim": null,
+   "applyTick": 105157,
+   "observedTick": 105155,
+   "ballSeen": {
+    "x": 0.68,
+    "y": 67.41,
+    "z": 0.11,
+    "seenTick": 105155,
+    "vz": null
+   }
+  },
+  {
+   "t": 105155,
+   "ch": "ck_policy",
+   "p": "B08",
+   "kind": "restart_position",
+   "reason": "corner_defend:near_post_zone",
+   "target": [
+    1.5,
+    37
+   ],
+   "aim": null,
+   "applyTick": 105157,
+   "observedTick": 105155,
+   "ballSeen": {
+    "x": 0.58,
+    "y": 67.34,
+    "z": 0.11,
+    "seenTick": 105155,
+    "vz": null
+   }
+  },
+  {
+   "t": 105155,
+   "ch": "decision",
+   "p": "B08",
+   "kind": "restart_position",
+   "reason": "corner_defend:near_post_zone",
+   "target": [
+    1.5,
+    37
+   ],
+   "aim": null,
+   "applyTick": 105157,
+   "observedTick": 105155,
+   "ballSeen": {
+    "x": 0.58,
+    "y": 67.34,
+    "z": 0.11,
+    "seenTick": 105155,
+    "vz": null
+   }
+  },
+  {
+   "t": 105159,
+   "ch": "ck_policy",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:six_yard_line",
+   "target": [
+    5.5,
+    34
+   ],
+   "aim": null,
+   "applyTick": 105161,
+   "observedTick": 105159,
+   "ballSeen": {
+    "x": 0.77,
+    "y": 67.35,
+    "z": 0.11,
+    "seenTick": 105159,
+    "vz": null
+   }
+  },
+  {
+   "t": 105159,
+   "ch": "decision",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:six_yard_line",
+   "target": [
+    5.5,
+    34
+   ],
+   "aim": null,
+   "applyTick": 105161,
+   "observedTick": 105159,
+   "ballSeen": {
+    "x": 0.77,
+    "y": 67.35,
+    "z": 0.11,
+    "seenTick": 105159,
+    "vz": null
+   }
+  },
+  {
+   "t": 105160,
+   "ch": "ck_policy",
+   "p": "B08",
+   "kind": "restart_position",
+   "reason": "corner_defend:near_post_zone",
+   "target": [
+    1.5,
+    37
+   ],
+   "aim": null,
+   "applyTick": 105162,
+   "observedTick": 105160,
+   "ballSeen": {
+    "x": 0.61,
+    "y": 67.26,
+    "z": 0.11,
+    "seenTick": 105160,
+    "vz": null
+   }
+  },
+  {
+   "t": 105160,
+   "ch": "decision",
+   "p": "B08",
+   "kind": "restart_position",
+   "reason": "corner_defend:near_post_zone",
+   "target": [
+    1.5,
+    37
+   ],
+   "aim": null,
+   "applyTick": 105162,
+   "observedTick": 105160,
+   "ballSeen": {
+    "x": 0.61,
+    "y": 67.26,
+    "z": 0.11,
+    "seenTick": 105160,
+    "vz": null
+   }
+  },
+  {
+   "t": 105163,
+   "ch": "ck_policy",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:six_yard_line",
+   "target": [
+    5.5,
+    34
+   ],
+   "aim": null,
+   "applyTick": 105165,
+   "observedTick": 105163,
+   "ballSeen": {
+    "x": 0.58,
+    "y": 67.2,
+    "z": 0.11,
+    "seenTick": 105163,
+    "vz": null
+   }
+  },
+  {
+   "t": 105163,
+   "ch": "decision",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:six_yard_line",
+   "target": [
+    5.5,
+    34
+   ],
+   "aim": null,
+   "applyTick": 105165,
+   "observedTick": 105163,
+   "ballSeen": {
+    "x": 0.58,
+    "y": 67.2,
+    "z": 0.11,
+    "seenTick": 105163,
+    "vz": null
+   }
+  },
+  {
+   "t": 105165,
+   "ch": "ck_policy",
+   "p": "B08",
+   "kind": "restart_position",
+   "reason": "corner_defend:near_post_zone",
+   "target": [
+    1.5,
+    37
+   ],
+   "aim": null,
+   "applyTick": 105167,
+   "observedTick": 105165,
+   "ballSeen": {
+    "x": 0.69,
+    "y": 67.2,
+    "z": 0.11,
+    "seenTick": 105165,
+    "vz": null
+   }
+  },
+  {
+   "t": 105165,
+   "ch": "decision",
+   "p": "B08",
+   "kind": "restart_position",
+   "reason": "corner_defend:near_post_zone",
+   "target": [
+    1.5,
+    37
+   ],
+   "aim": null,
+   "applyTick": 105167,
+   "observedTick": 105165,
+   "ballSeen": {
+    "x": 0.69,
+    "y": 67.2,
+    "z": 0.11,
+    "seenTick": 105165,
+    "vz": null
+   }
+  },
+  {
+   "t": 105167,
+   "ch": "ck_policy",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:six_yard_line",
+   "target": [
+    5.5,
+    34
+   ],
+   "aim": null,
+   "applyTick": 105169,
+   "observedTick": 105167,
+   "ballSeen": {
+    "x": 0.73,
+    "y": 67.26,
+    "z": 0.11,
+    "seenTick": 105167,
+    "vz": null
+   }
+  },
+  {
+   "t": 105167,
+   "ch": "decision",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:six_yard_line",
+   "target": [
+    5.5,
+    34
+   ],
+   "aim": null,
+   "applyTick": 105169,
+   "observedTick": 105167,
+   "ballSeen": {
+    "x": 0.73,
+    "y": 67.26,
+    "z": 0.11,
+    "seenTick": 105167,
+    "vz": null
+   }
+  },
+  {
+   "t": 105170,
+   "ch": "ck_policy",
+   "p": "B08",
+   "kind": "restart_position",
+   "reason": "corner_defend:near_post_zone",
+   "target": [
+    1.5,
+    37
+   ],
+   "aim": null,
+   "applyTick": 105172,
+   "observedTick": 105170,
+   "ballSeen": {
+    "x": 0.78,
+    "y": 67.32,
+    "z": 0.11,
+    "seenTick": 105170,
+    "vz": null
+   }
+  },
+  {
+   "t": 105170,
+   "ch": "decision",
+   "p": "B08",
+   "kind": "restart_position",
+   "reason": "corner_defend:near_post_zone",
+   "target": [
+    1.5,
+    37
+   ],
+   "aim": null,
+   "applyTick": 105172,
+   "observedTick": 105170,
+   "ballSeen": {
+    "x": 0.78,
+    "y": 67.32,
+    "z": 0.11,
+    "seenTick": 105170,
+    "vz": null
+   }
+  },
+  {
+   "t": 105171,
+   "ch": "ck_policy",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:six_yard_line",
+   "target": [
+    5.5,
+    34
+   ],
+   "aim": null,
+   "applyTick": 105173,
+   "observedTick": 105171,
+   "ballSeen": {
+    "x": 0.62,
+    "y": 67.29,
+    "z": 0.11,
+    "seenTick": 105171,
+    "vz": null
+   }
+  },
+  {
+   "t": 105171,
+   "ch": "decision",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:six_yard_line",
+   "target": [
+    5.5,
+    34
+   ],
+   "aim": null,
+   "applyTick": 105173,
+   "observedTick": 105171,
+   "ballSeen": {
+    "x": 0.62,
+    "y": 67.29,
+    "z": 0.11,
+    "seenTick": 105171,
+    "vz": null
+   }
+  },
+  {
+   "t": 105175,
+   "ch": "ck_policy",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:six_yard_line",
+   "target": [
+    5.5,
+    34
+   ],
+   "aim": null,
+   "applyTick": 105177,
+   "observedTick": 105175,
+   "ballSeen": {
+    "x": 0.77,
+    "y": 67.37,
+    "z": 0.11,
+    "seenTick": 105175,
+    "vz": null
+   }
+  },
+  {
+   "t": 105175,
+   "ch": "decision",
+   "p": "B05",
+   "kind": "restart_position",
+   "reason": "corner_defend:six_yard_line",
+   "target": [
+    5.5,
+    34
+   ],
+   "aim": null,
+   "applyTick": 105177,
+   "observedTick": 105175,
+   "ballSeen": {
+    "x": 0.77,
+    "y": 67.37,
+    "z": 0.11,
+    "seenTick": 105175,
+    "vz": null
+   }
+  },
+  {
+   "t": 105175,
+   "ch": "ck_policy",
+   "p": "B08",
+   "kind": "restart_position",
+   "reason": "corner_defend:near_post_zone",
+   "target": [
+    1.5,
+    37
+   ],
+   "aim": null,
+   "applyTick": 105177,
+   "observedTick": 105175,
+   "ballSeen": {
+    "x": 0.67,
+    "y": 67.38,
+    "z": 0.11,
+    "seenTick": 105175,
+    "vz": null
+   }
+  },
+  {
+   "t": 105175,
+   "ch": "decision",
+   "p": "B08",
+   "kind": "restart_position",
+   "reason": "corner_defend:near_post_zone",
+   "target": [
+    1.5,
+    37
+   ],
+   "aim": null,
+   "applyTick": 105177,
+   "observedTick": 105175,
+   "ballSeen": {
+    "x": 0.67,
+    "y": 67.38,
+    "z": 0.11,
+    "seenTick": 105175,
+    "vz": null
+   }
+  },
+  {
+   "t": 105179,
+   "ch": "decision",
+   "p": "B05",
+   "kind": "cover",
+   "reason": "private_shape_and_possession_hypothesis",
+   "target": [
+    7.17,
+    45
+   ],
+   "aim": null,
+   "applyTick": 105181,
+   "observedTick": 105179,
+   "ballSeen": {
+    "x": 0.77,
+    "y": 65.43,
+    "z": 0.98,
+    "seenTick": 105179,
+    "vz": null
+   }
+  },
+  {
+   "t": 105180,
+   "ch": "decision",
+   "p": "B08",
+   "kind": "cover",
+   "reason": "private_shape_and_possession_hypothesis",
+   "target": [
+    25.25,
+    20.68
+   ],
+   "aim": null,
+   "applyTick": 105182,
+   "observedTick": 105180,
+   "ballSeen": {
+    "x": 0.93,
+    "y": 64.53,
+    "z": 1.38,
+    "seenTick": 105180,
+    "vz": null
+   }
+  },
+  {
+   "t": 105183,
+   "ch": "decision",
+   "p": "B05",
+   "kind": "cover",
+   "reason": "private_shape_and_possession_hypothesis",
+   "target": [
+    7.45,
+    43.71
+   ],
+   "aim": null,
+   "applyTick": 105185,
+   "observedTick": 105183,
+   "ballSeen": {
+    "x": 1.36,
+    "y": 61.75,
+    "z": 2.43,
+    "seenTick": 105183,
+    "vz": null
+   }
+  },
+  {
+   "t": 105185,
+   "ch": "ck_policy",
+   "p": "B08",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    4.65,
+    36.98
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105187,
+   "observedTick": 105185,
+   "ballSeen": {
+    "x": 1.57,
+    "y": 59.8,
+    "z": 3.01,
+    "seenTick": 105185,
+    "vz": 5.290586149763398
+   }
+  },
+  {
+   "t": 105185,
+   "ch": "decision",
+   "p": "B08",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    4.65,
+    36.98
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105187,
+   "observedTick": 105185,
+   "ballSeen": {
+    "x": 1.57,
+    "y": 59.8,
+    "z": 3.01,
+    "seenTick": 105185,
+    "vz": null
+   }
+  },
+  {
+   "t": 105187,
+   "ch": "ck_policy",
+   "p": "B05",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    2.52,
+    37.48
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105189,
+   "observedTick": 105187,
+   "ballSeen": {
+    "x": 1.53,
+    "y": 58.06,
+    "z": 3.49,
+    "seenTick": 105187,
+    "vz": 4.309586149763401
+   }
+  },
+  {
+   "t": 105187,
+   "ch": "decision",
+   "p": "B05",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    2.52,
+    37.48
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105189,
+   "observedTick": 105187,
+   "ballSeen": {
+    "x": 1.53,
+    "y": 58.06,
+    "z": 3.49,
+    "seenTick": 105187,
+    "vz": null
+   }
+  },
+  {
+   "t": 105190,
+   "ch": "ck_policy",
+   "p": "B08",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    3.26,
+    37.94
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105192,
+   "observedTick": 105190,
+   "ballSeen": {
+    "x": 1.91,
+    "y": 55.33,
+    "z": 4.03,
+    "seenTick": 105190,
+    "vz": 2.838086149763406
+   }
+  },
+  {
+   "t": 105190,
+   "ch": "decision",
+   "p": "B08",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    3.26,
+    37.94
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105192,
+   "observedTick": 105190,
+   "ballSeen": {
+    "x": 1.91,
+    "y": 55.33,
+    "z": 4.03,
+    "seenTick": 105190,
+    "vz": null
+   }
+  },
+  {
+   "t": 105191,
+   "ch": "ck_policy",
+   "p": "B05",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    3.49,
+    36.91
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105193,
+   "observedTick": 105191,
+   "ballSeen": {
+    "x": 1.88,
+    "y": 54.3,
+    "z": 4.16,
+    "seenTick": 105191,
+    "vz": 2.347586149763406
+   }
+  },
+  {
+   "t": 105191,
+   "ch": "decision",
+   "p": "B05",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    3.49,
+    36.91
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105193,
+   "observedTick": 105191,
+   "ballSeen": {
+    "x": 1.88,
+    "y": 54.3,
+    "z": 4.16,
+    "seenTick": 105191,
+    "vz": null
+   }
+  },
+  {
+   "t": 105195,
+   "ch": "ck_policy",
+   "p": "B05",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    3.83,
+    37.11
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105197,
+   "observedTick": 105195,
+   "ballSeen": {
+    "x": 2.3,
+    "y": 50.62,
+    "z": 4.43,
+    "seenTick": 105195,
+    "vz": 0.38558614976340677
+   }
+  },
+  {
+   "t": 105195,
+   "ch": "decision",
+   "p": "B05",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    3.83,
+    37.11
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105197,
+   "observedTick": 105195,
+   "ballSeen": {
+    "x": 2.3,
+    "y": 50.62,
+    "z": 4.43,
+    "seenTick": 105195,
+    "vz": null
+   }
+  },
+  {
+   "t": 105195,
+   "ch": "ck_policy",
+   "p": "B08",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    3.86,
+    36.88
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105197,
+   "observedTick": 105195,
+   "ballSeen": {
+    "x": 2.41,
+    "y": 50.64,
+    "z": 4.43,
+    "seenTick": 105195,
+    "vz": 0.3855861497634052
+   }
+  },
+  {
+   "t": 105195,
+   "ch": "decision",
+   "p": "B08",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    3.86,
+    36.88
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105197,
+   "observedTick": 105195,
+   "ballSeen": {
+    "x": 2.41,
+    "y": 50.64,
+    "z": 4.43,
+    "seenTick": 105195,
+    "vz": null
+   }
+  },
+  {
+   "t": 105199,
+   "ch": "ck_policy",
+   "p": "B05",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    3.86,
+    37.65
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105201,
+   "observedTick": 105199,
+   "ballSeen": {
+    "x": 2.72,
+    "y": 47.12,
+    "z": 4.31,
+    "seenTick": 105199,
+    "vz": -1.5764138502365992
+   }
+  },
+  {
+   "t": 105199,
+   "ch": "decision",
+   "p": "B05",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    3.86,
+    37.65
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105201,
+   "observedTick": 105199,
+   "ballSeen": {
+    "x": 2.72,
+    "y": 47.12,
+    "z": 4.31,
+    "seenTick": 105199,
+    "vz": null
+   }
+  },
+  {
+   "t": 105200,
+   "ch": "ck_policy",
+   "p": "B08",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    3.49,
+    37.81
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105202,
+   "observedTick": 105200,
+   "ballSeen": {
+    "x": 2.77,
+    "y": 46.33,
+    "z": 4.22,
+    "seenTick": 105200,
+    "vz": -2.066913850236599
+   }
+  },
+  {
+   "t": 105200,
+   "ch": "decision",
+   "p": "B08",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    3.49,
+    37.81
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105202,
+   "observedTick": 105200,
+   "ballSeen": {
+    "x": 2.77,
+    "y": 46.33,
+    "z": 4.22,
+    "seenTick": 105200,
+    "vz": null
+   }
+  },
+  {
+   "t": 105203,
+   "ch": "ck_policy",
+   "p": "B05",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    3.7,
+    37.25
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105205,
+   "observedTick": 105203,
+   "ballSeen": {
+    "x": 3.08,
+    "y": 43.51,
+    "z": 3.8,
+    "seenTick": 105203,
+    "vz": -3.5384138502365987
+   }
+  },
+  {
+   "t": 105203,
+   "ch": "decision",
+   "p": "B05",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    3.7,
+    37.25
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105205,
+   "observedTick": 105203,
+   "ballSeen": {
+    "x": 3.08,
+    "y": 43.51,
+    "z": 3.8,
+    "seenTick": 105203,
+    "vz": null
+   }
+  },
+  {
+   "t": 105205,
+   "ch": "ck_policy",
+   "p": "B08",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    3.96,
+    37.05
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105207,
+   "observedTick": 105205,
+   "ballSeen": {
+    "x": 3.37,
+    "y": 41.67,
+    "z": 3.4,
+    "seenTick": 105205,
+    "vz": -4.519413850236598
+   }
+  },
+  {
+   "t": 105205,
+   "ch": "decision",
+   "p": "B08",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    3.96,
+    37.05
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105207,
+   "observedTick": 105205,
+   "ballSeen": {
+    "x": 3.37,
+    "y": 41.67,
+    "z": 3.4,
+    "seenTick": 105205,
+    "vz": null
+   }
+  },
+  {
+   "t": 105207,
+   "ch": "ck_policy",
+   "p": "B05",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    3.63,
+    36.35
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105209,
+   "observedTick": 105207,
+   "ballSeen": {
+    "x": 3.36,
+    "y": 39.92,
+    "z": 2.9,
+    "seenTick": 105207,
+    "vz": -5.500413850236595
+   }
+  },
+  {
+   "t": 105207,
+   "ch": "decision",
+   "p": "B05",
+   "kind": "corner_clear",
+   "reason": "observed_corner_flight_clear_ball",
+   "target": [
+    3.63,
+    36.35
+   ],
+   "aim": [
+    35,
+    60
+   ],
+   "applyTick": 105209,
+   "observedTick": 105207,
+   "ballSeen": {
+    "x": 3.36,
+    "y": 39.92,
+    "z": 2.9,
+    "seenTick": 105207,
+    "vz": null
+   }
+  },
+  {
+   "t": 105210,
+   "ch": "decision",
+   "p": "B08",
+   "kind": "receive",
+   "reason": "observed_ball_eta_and_teammates",
+   "target": [
+    6.24,
+    8.33
+   ],
+   "aim": null,
+   "applyTick": 105212,
+   "observedTick": 105210,
+   "ballSeen": {
+    "x": 3.75,
+    "y": 37.26,
+    "z": 1.96,
+    "seenTick": 105210,
+    "vz": null
+   }
+  }
+ ],
+ "playersWithin3m": [
+  {
+   "id": "B05",
+   "d": 0.28,
+   "x": 3.49,
+   "y": 37.19,
+   "candidate": true
+  },
+  {
+   "id": "B08",
+   "d": 0.57,
+   "x": 3.71,
+   "y": 37.97,
+   "candidate": true
+  },
+  {
+   "id": "B00",
+   "d": 1.02,
+   "x": 2.68,
+   "y": 37.19,
+   "candidate": false
+  },
+  {
+   "id": "B07",
+   "d": 1.39,
+   "x": 3.74,
+   "y": 38.79,
+   "candidate": false
+  },
+  {
+   "id": "A10",
+   "d": 1.61,
+   "x": 5.2,
+   "y": 37.92,
+   "candidate": false
+  },
+  {
+   "id": "B04",
+   "d": 1.92,
+   "x": 5.37,
+   "y": 36.49,
+   "candidate": false
+  }
+ ],
+ "nearDecisionsLast": {
+  "B05": [
+   {
+    "t": 105207,
+    "ch": "ck_policy",
+    "p": "B05",
+    "kind": "corner_clear",
+    "reason": "observed_corner_flight_clear_ball",
+    "target": [
+     3.63,
+     36.35
+    ],
+    "aim": [
+     35,
+     60
+    ],
+    "applyTick": 105209,
+    "observedTick": 105207,
+    "ballSeen": {
+     "x": 3.36,
+     "y": 39.92,
+     "z": 2.9,
+     "seenTick": 105207,
+     "vz": -5.500413850236595
+    }
+   },
+   {
+    "t": 105207,
+    "ch": "decision",
+    "p": "B05",
+    "kind": "corner_clear",
+    "reason": "observed_corner_flight_clear_ball",
+    "target": [
+     3.63,
+     36.35
+    ],
+    "aim": [
+     35,
+     60
+    ],
+    "applyTick": 105209,
+    "observedTick": 105207,
+    "ballSeen": {
+     "x": 3.36,
+     "y": 39.92,
+     "z": 2.9,
+     "seenTick": 105207,
+     "vz": null
+    }
+   }
+  ],
+  "B08": [
+   {
+    "t": 105205,
+    "ch": "decision",
+    "p": "B08",
+    "kind": "corner_clear",
+    "reason": "observed_corner_flight_clear_ball",
+    "target": [
+     3.96,
+     37.05
+    ],
+    "aim": [
+     35,
+     60
+    ],
+    "applyTick": 105207,
+    "observedTick": 105205,
+    "ballSeen": {
+     "x": 3.37,
+     "y": 41.67,
+     "z": 3.4,
+     "seenTick": 105205,
+     "vz": null
+    }
+   },
+   {
+    "t": 105210,
+    "ch": "decision",
+    "p": "B08",
+    "kind": "receive",
+    "reason": "observed_ball_eta_and_teammates",
+    "target": [
+     6.24,
+     8.33
+    ],
+    "aim": null,
+    "applyTick": 105212,
+    "observedTick": 105210,
+    "ballSeen": {
+     "x": 3.75,
+     "y": 37.26,
+     "z": 1.96,
+     "seenTick": 105210,
+     "vz": null
+    }
+   }
+  ],
+  "B00": [
+   {
+    "t": 105210,
+    "ch": "ck_policy",
+    "p": "B00",
+    "kind": "gk_punch",
+    "reason": "observed_corner_cross_committed",
+    "target": [
+     3.88,
+     36.61
+    ],
+    "aim": [
+     25,
+     54
+    ],
+    "applyTick": 105212,
+    "observedTick": 105210,
+    "ballSeen": {
+     "x": 3.77,
+     "y": 37.47,
+     "z": 1.96,
+     "seenTick": 105210,
+     "vz": -6.971913850236593
+    }
+   },
+   {
+    "t": 105210,
+    "ch": "decision",
+    "p": "B00",
+    "kind": "gk_punch",
+    "reason": "observed_corner_cross_committed",
+    "target": [
+     3.88,
+     36.61
+    ],
+    "aim": [
+     25,
+     54
+    ],
+    "applyTick": 105212,
+    "observedTick": 105210,
+    "ballSeen": {
+     "x": 3.77,
+     "y": 37.47,
+     "z": 1.96,
+     "seenTick": 105210,
+     "vz": null
+    }
+   }
+  ],
+  "B07": [
+   {
+    "t": 105203,
+    "ch": "decision",
+    "p": "B07",
+    "kind": "corner_clear",
+    "reason": "observed_corner_flight_clear_ball",
+    "target": [
+     3.72,
+     37.36
+    ],
+    "aim": [
+     35,
+     60
+    ],
+    "applyTick": 105205,
+    "observedTick": 105203,
+    "ballSeen": {
+     "x": 3.05,
+     "y": 43.48,
+     "z": 3.8,
+     "seenTick": 105203,
+     "vz": null
+    }
+   },
+   {
+    "t": 105207,
+    "ch": "decision",
+    "p": "B07",
+    "kind": "receive",
+    "reason": "observed_ball_eta_and_teammates",
+    "target": [
+     3.59,
+     38.6
+    ],
+    "aim": null,
+    "applyTick": 105209,
+    "observedTick": 105207,
+    "ballSeen": {
+     "x": 3.43,
+     "y": 40.02,
+     "z": 2.9,
+     "seenTick": 105207,
+     "vz": null
+    }
+   }
+  ],
+  "A10": [
+   {
+    "t": 105203,
+    "ch": "decision",
+    "p": "A10",
+    "kind": "receive",
+    "reason": "observed_ball_eta_and_teammates",
+    "target": [
+     3.57,
+     38.99
+    ],
+    "aim": null,
+    "applyTick": 105205,
+    "observedTick": 105203,
+    "ballSeen": {
+     "x": 3.15,
+     "y": 43.5,
+     "z": 3.8,
+     "seenTick": 105203,
+     "vz": null
+    }
+   },
+   {
+    "t": 105207,
+    "ch": "decision",
+    "p": "A10",
+    "kind": "press",
+    "reason": "observed_ball_eta_and_teammates",
+    "target": [
+     4.64,
+     10.4
+    ],
+    "aim": null,
+    "applyTick": 105209,
+    "observedTick": 105207,
+    "ballSeen": {
+     "x": 3.31,
+     "y": 39.91,
+     "z": 2.9,
+     "seenTick": 105207,
+     "vz": null
+    }
+   }
+  ],
+  "B04": [
+   {
+    "t": 105205,
+    "ch": "decision",
+    "p": "B04",
+    "kind": "corner_clear",
+    "reason": "observed_corner_flight_clear_ball",
+    "target": [
+     3.91,
+     35.53
+    ],
+    "aim": [
+     35,
+     60
+    ],
+    "applyTick": 105207,
+    "observedTick": 105205,
+    "ballSeen": {
+     "x": 3.18,
+     "y": 41.8,
+     "z": 3.4,
+     "seenTick": 105205,
+     "vz": null
+    }
+   },
+   {
+    "t": 105210,
+    "ch": "decision",
+    "p": "B04",
+    "kind": "receive",
+    "reason": "observed_ball_eta_and_teammates",
+    "target": [
+     7.4,
+     8.53
+    ],
+    "aim": null,
+    "applyTick": 105212,
+    "observedTick": 105210,
+    "ballSeen": {
+     "x": 3.74,
+     "y": 37.4,
+     "z": 1.96,
+     "seenTick": 105210,
+     "vz": null
+    }
+   }
+  ]
+ },
+ "ballTrackLast40": [
+  [
+   105171,
+   0.67,
+   67.33,
+   0.11
+  ],
+  [
+   105172,
+   0.67,
+   67.33,
+   0.11
+  ],
+  [
+   105173,
+   0.67,
+   67.33,
+   0.11
+  ],
+  [
+   105174,
+   0.67,
+   67.33,
+   0.11
+  ],
+  [
+   105175,
+   0.67,
+   67.33,
+   0.11
+  ],
+  [
+   105176,
+   0.67,
+   67.33,
+   0.11
+  ],
+  [
+   105177,
+   0.67,
+   67.33,
+   0.11
+  ],
+  [
+   105178,
+   0.77,
+   66.38,
+   0.56
+  ],
+  [
+   105179,
+   0.86,
+   65.44,
+   0.98
+  ],
+  [
+   105180,
+   0.95,
+   64.5,
+   1.38
+  ],
+  [
+   105181,
+   1.05,
+   63.56,
+   1.76
+  ],
+  [
+   105182,
+   1.14,
+   62.62,
+   2.11
+  ],
+  [
+   105183,
+   1.24,
+   61.68,
+   2.43
+  ],
+  [
+   105184,
+   1.33,
+   60.75,
+   2.73
+  ],
+  [
+   105185,
+   1.42,
+   59.82,
+   3.01
+  ],
+  [
+   105186,
+   1.52,
+   58.9,
+   3.26
+  ],
+  [
+   105187,
+   1.61,
+   57.97,
+   3.49
+  ],
+  [
+   105188,
+   1.7,
+   57.05,
+   3.69
+  ],
+  [
+   105189,
+   1.8,
+   56.13,
+   3.87
+  ],
+  [
+   105190,
+   1.89,
+   55.21,
+   4.03
+  ],
+  [
+   105191,
+   1.98,
+   54.3,
+   4.16
+  ],
+  [
+   105192,
+   2.07,
+   53.39,
+   4.26
+  ],
+  [
+   105193,
+   2.16,
+   52.48,
+   4.34
+  ],
+  [
+   105194,
+   2.25,
+   51.57,
+   4.4
+  ],
+  [
+   105195,
+   2.34,
+   50.67,
+   4.43
+  ],
+  [
+   105196,
+   2.43,
+   49.76,
+   4.44
+  ],
+  [
+   105197,
+   2.52,
+   48.87,
+   4.42
+  ],
+  [
+   105198,
+   2.61,
+   47.97,
+   4.38
+  ],
+  [
+   105199,
+   2.7,
+   47.07,
+   4.31
+  ],
+  [
+   105200,
+   2.79,
+   46.18,
+   4.22
+  ],
+  [
+   105201,
+   2.88,
+   45.29,
+   4.1
+  ],
+  [
+   105202,
+   2.97,
+   44.41,
+   3.96
+  ],
+  [
+   105203,
+   3.06,
+   43.52,
+   3.8
+  ],
+  [
+   105204,
+   3.15,
+   42.64,
+   3.61
+  ],
+  [
+   105205,
+   3.24,
+   41.76,
+   3.4
+  ],
+  [
+   105206,
+   3.33,
+   40.88,
+   3.16
+  ],
+  [
+   105207,
+   3.41,
+   40.01,
+   2.9
+  ],
+  [
+   105208,
+   3.5,
+   39.14,
+   2.61
+  ],
+  [
+   105209,
+   3.59,
+   38.26,
+   2.3
+  ],
+  [
+   105210,
+   3.68,
+   37.4,
+   1.96
+  ]
+ ]
+}

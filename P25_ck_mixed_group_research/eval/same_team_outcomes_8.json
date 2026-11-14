@@ -1,0 +1,262 @@
+[
+ {
+  "run": "p25_771",
+  "t": 57055,
+  "side": "def",
+  "players": [
+   "B07",
+   "B08"
+  ],
+  "kinds": [
+   "corner_clear",
+   "corner_clear"
+  ],
+  "winner": "B08",
+  "weights": [
+   74,
+   62
+  ],
+  "ballZ": 2.17,
+  "outcome": "next_touch_teammate"
+ },
+ {
+  "run": "p25_771",
+  "t": 60397,
+  "side": "def",
+  "players": [
+   "A03",
+   "A06"
+  ],
+  "kinds": [
+   "corner_clear",
+   "corner_clear"
+  ],
+  "winner": "A03",
+  "weights": [
+   74,
+   70
+  ],
+  "ballZ": 2.1,
+  "outcome": "out:throw_in:opp"
+ },
+ {
+  "run": "p25_771",
+  "t": 93675,
+  "side": "att",
+  "players": [
+   "B01",
+   "B02"
+  ],
+  "kinds": [
+   "corner_header",
+   "corner_header"
+  ],
+  "winner": "B02",
+  "weights": [
+   66,
+   70
+  ],
+  "ballZ": 2.06,
+  "outcome": "out:goal_kick:opp"
+ },
+ {
+  "run": "p25_771",
+  "t": 107529,
+  "side": "def",
+  "players": [
+   "A03",
+   "A04"
+  ],
+  "kinds": [
+   "corner_clear",
+   "corner_clear"
+  ],
+  "winner": "A03",
+  "weights": [
+   74,
+   62
+  ],
+  "ballZ": 2.03,
+  "outcome": "next_touch_opponent"
+ },
+ {
+  "run": "p25_1847",
+  "t": 36328,
+  "side": "att",
+  "players": [
+   "A02",
+   "A10"
+  ],
+  "kinds": [
+   "corner_header",
+   "corner_header"
+  ],
+  "winner": "A02",
+  "weights": [
+   70,
+   70
+  ],
+  "ballZ": 2.12,
+  "outcome": "goal"
+ },
+ {
+  "run": "p25_8081",
+  "t": 63655,
+  "side": "def",
+  "players": [
+   "B06",
+   "B07"
+  ],
+  "kinds": [
+   "corner_clear",
+   "corner_clear"
+  ],
+  "winner": "B07",
+  "weights": [
+   70,
+   74
+  ],
+  "ballZ": 1.96,
+  "outcome": "out:throw_in:opp"
+ },
+ {
+  "run": "p25_8081",
+  "t": 97327,
+  "side": "att",
+  "players": [
+   "B02",
+   "B08"
+  ],
+  "kinds": [
+   "corner_header",
+   "corner_header"
+  ],
+  "winner": "B08",
+  "weights": [
+   70,
+   62
+  ],
+  "ballZ": 1.95,
+  "outcome": "next_touch_opponent"
+ },
+ {
+  "run": "p25_600613",
+  "t": 105210,
+  "side": "def",
+  "players": [
+   "B05",
+   "B08"
+  ],
+  "kinds": [
+   "corner_clear",
+   "corner_clear"
+  ],
+  "winner": "B05",
+  "weights": [
+   66,
+   62
+  ],
+  "ballZ": 1.96,
+  "outcome": "next_touch_teammate"
+ },
+ {
+  "run": "p25_4049_koB",
+  "t": 58131,
+  "side": "def",
+  "players": [
+   "A04",
+   "A06"
+  ],
+  "kinds": [
+   "corner_clear",
+   "corner_clear"
+  ],
+  "winner": "A06",
+  "weights": [
+   62,
+   70
+  ],
+  "ballZ": 2.14,
+  "outcome": "next_touch_teammate"
+ },
+ {
+  "run": "p25_4049_koB",
+  "t": 78611,
+  "side": "att",
+  "players": [
+   "A02",
+   "A08"
+  ],
+  "kinds": [
+   "corner_header",
+   "corner_header"
+  ],
+  "winner": "A08",
+  "weights": [
+   70,
+   62
+  ],
+  "ballZ": 1.92,
+  "outcome": "next_touch_opponent"
+ },
+ {
+  "run": "p25_2718",
+  "t": 94553,
+  "side": "att",
+  "players": [
+   "A08",
+   "A10"
+  ],
+  "kinds": [
+   "corner_header",
+   "corner_header"
+  ],
+  "winner": "A08",
+  "weights": [
+   62,
+   70
+  ],
+  "ballZ": 2.0,
+  "outcome": "next_touch_opponent"
+ },
+ {
+  "run": "p25_16180",
+  "t": 34113,
+  "side": "att",
+  "players": [
+   "A01",
+   "A06"
+  ],
+  "kinds": [
+   "corner_header",
+   "corner_header"
+  ],
+  "winner": "A06",
+  "weights": [
+   66,
+   70
+  ],
+  "ballZ": 2.2,
+  "outcome": "next_touch_teammate"
+ },
+ {
+  "run": "p25_16180",
+  "t": 86954,
+  "side": "def",
+  "players": [
+   "A02",
+   "A03"
+  ],
+  "kinds": [
+   "corner_clear",
+   "corner_clear"
+  ],
+  "winner": "A02",
+  "weights": [
+   70,
+   74
+  ],
+  "ballZ": 2.07,
+  "outcome": "out:throw_in:opp"
+ }
+]

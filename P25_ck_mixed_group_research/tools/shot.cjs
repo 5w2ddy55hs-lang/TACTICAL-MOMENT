@@ -1,0 +1,2 @@
+const {chromium}=require('playwright');(async()=>{const b=await chromium.launch();const p=await b.newPage({viewport:{width:1500,height:950},deviceScaleFactor:1});const errs=[];p.on('pageerror',e=>errs.push(String(e)));
+await p.goto('file://'+process.argv[2]);await p.evaluate(()=>{const s=document.getElementById('scrub');s.value=84;s.oninput();});await p.screenshot({path:process.argv[3]});console.log('errors',errs.length,errs.slice(0,2));await b.close();})();

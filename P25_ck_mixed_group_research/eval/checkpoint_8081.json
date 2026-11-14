@@ -1,0 +1,133 @@
+{
+ "seed": 8081,
+ "originalStopTick": 63655,
+ "originalFinalTick": 63655,
+ "checkpoints": [
+  {
+   "tick": 6000,
+   "nativeIdentical": true,
+   "checksumIdentical": true,
+   "modeIdentical": true,
+   "labelsDiffer": [
+    "schema",
+    "engine",
+    "buildSha256"
+   ],
+   "nativeSha256": "a85e6d8d05649f01f16536377abc2ec0b6e46c3672d097a9d3d5a45cc66c0979"
+  },
+  {
+   "tick": 12000,
+   "nativeIdentical": true,
+   "checksumIdentical": true,
+   "modeIdentical": true,
+   "labelsDiffer": [
+    "schema",
+    "engine",
+    "buildSha256"
+   ],
+   "nativeSha256": "11e6736e91db7715ae93248339cf4bae465b5bd1e7df782b2ec297e56dd22f82"
+  },
+  {
+   "tick": 18000,
+   "nativeIdentical": true,
+   "checksumIdentical": true,
+   "modeIdentical": true,
+   "labelsDiffer": [
+    "schema",
+    "engine",
+    "buildSha256"
+   ],
+   "nativeSha256": "6e3e03876c1b93888ee19fd01e5efbd068f828e022717b87d4ea6cb21d206a39"
+  },
+  {
+   "tick": 24000,
+   "nativeIdentical": true,
+   "checksumIdentical": true,
+   "modeIdentical": true,
+   "labelsDiffer": [
+    "schema",
+    "engine",
+    "buildSha256"
+   ],
+   "nativeSha256": "8fb0d44123c560476dda83fbd361e4f78ebae62ffa572bb33cc7e5d55bcd0df5"
+  },
+  {
+   "tick": 30000,
+   "nativeIdentical": true,
+   "checksumIdentical": true,
+   "modeIdentical": true,
+   "labelsDiffer": [
+    "schema",
+    "engine",
+    "buildSha256"
+   ],
+   "nativeSha256": "39cabe22e6ce5418646c8e3c8a56519bdaf437eacfaa9c3f73091cf287ccba87"
+  },
+  {
+   "tick": 36000,
+   "nativeIdentical": true,
+   "checksumIdentical": true,
+   "modeIdentical": true,
+   "labelsDiffer": [
+    "schema",
+    "engine",
+    "buildSha256"
+   ],
+   "nativeSha256": "d885d573e49d2c084b3c48ad3ee3dab271117265d8c6d5364eb69edfc2909363"
+  },
+  {
+   "tick": 42000,
+   "nativeIdentical": true,
+   "checksumIdentical": true,
+   "modeIdentical": true,
+   "labelsDiffer": [
+    "schema",
+    "engine",
+    "buildSha256"
+   ],
+   "nativeSha256": "773e6dfcdc0174f4ba012834661d34882612d44486c89b3dd873aaefc164be0c"
+  },
+  {
+   "tick": 48000,
+   "nativeIdentical": true,
+   "checksumIdentical": true,
+   "modeIdentical": true,
+   "labelsDiffer": [
+    "schema",
+    "engine",
+    "buildSha256"
+   ],
+   "nativeSha256": "f8178aa9f172a3f34ed886136bf0f55bfe097dfc47d2d1a6e8921ec11d39b4ed"
+  },
+  {
+   "tick": 54000,
+   "nativeIdentical": true,
+   "checksumIdentical": true,
+   "modeIdentical": true,
+   "labelsDiffer": [
+    "schema",
+    "engine",
+    "buildSha256"
+   ],
+   "nativeSha256": "d0b2a701abfab7a9d139523857cdf5556e2a808d53d74427cfabe5c939b26028"
+  },
+  {
+   "tick": 60000,
+   "nativeIdentical": true,
+   "checksumIdentical": true,
+   "modeIdentical": true,
+   "labelsDiffer": [
+    "schema",
+    "engine",
+    "buildSha256"
+   ],
+   "nativeSha256": "2c79cbd499e3677da79838cfaeebbd33f22a387775b9c8538b582af5504bf56c"
+  }
+ ],
+ "allCheckpointsIdentical": true,
+ "eventLinesBeforeStop": {
+  "original": 16809,
+  "p25": 16809,
+  "identical": true
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "save": "ck_off_1847/save_36000.json",
+ "stopTick": 36328,
+ "restoredTick": 36000,
+ "node": "v22.23.4",
+ "lockstepToStop": {
+  "ticksWithIdenticalStateHash": 328,
+  "firstHashDifference": null,
+  "rngAndEventDigestChecks": 43,
+  "firstRngOrEventDifference": null,
+  "atStopTick": {
+   "stateHashEqual": true,
+   "rngEqual": true,
+   "eventDigestEqual": true,
+   "stateHash": "745651834f0fca54"
+  }
+ },
+ "atStop": {
+  "original": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25Off": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25": "continued",
+  "p25EventsOfThatTick": [
+   {
+    "seq": 5756,
+    "type": "aerial_duel",
+    "kind": null,
+    "player": "A02",
+    "players": [
+     "A02",
+     "A10"
+    ],
+    "teams": [
+     "A",
+     "A"
+    ],
+    "simultaneous": null,
+    "reason": null
+   },
+   {
+    "seq": 5757,
+    "type": "kick",
+    "kind": "corner_header",
+    "player": "A02",
+    "players": null,
+    "teams": null,
+    "simultaneous": 2,
+    "reason": null
+   },
+   {
+    "seq": 5758,
+    "type": "important_scene",
+    "kind": null,
+    "player": "A02",
+    "players": null,
+    "teams": null,
+    "simultaneous": null,
+    "reason": "shot_released"
+   },
+   {
+    "seq": 5759,
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "players": null,
+    "teams": null,
+    "simultaneous": null,
+    "reason": null
+   }
+  ],
+  "p25RngCallDeltaByPlayer": {
+   "A02": 3,
+   "A10": 3
+  },
+  "ballAfter": {
+   "lastTouch": "A02",
+   "lastTeam": "A",
+   "lastKick": {
+    "player": "A02",
+    "team": "A",
+    "kind": "corner_header",
+    "tick": 36328,
+    "targetId": null
+   }
+  }
+ },
+ "saveRestore": {
+  "fromStopTick_600": {
+   "stateHashEqualEveryTick": true,
+   "eventDigestEqual": true,
+   "rngEqual": true
+  },
+  "fromStopPlus1_600": {
+   "stateHashEqualEveryTick": true,
+   "eventDigestEqual": true,
+   "rngEqual": true
+  },
+  "saveRoundTripIdentical": true
+ },
+ "identity": {
+  "originalRestoresP25Save": "REJECTED:PASS_PRINCIPLES_SAVE_IDENTITY",
+  "p25RestoresOriginalInnerSave": "REJECTED:PASS_PRINCIPLES_SAVE_IDENTITY",
+  "offRestoresP25Save": "REJECTED:PASS_PRINCIPLES_SAVE_IDENTITY",
+  "p25Schema": "TM_RESEARCH_P25_CK_MIXED_RESOLUTION_SAVE/1",
+  "p25Engine": "TM_RESEARCH_P25_CK_MIXED_RESOLUTION_ON_I8_CK_RESEARCH",
+  "offSchema": "TM_RESEARCH_P25_CK_MIXED_RESOLUTION_OFF_SAVE/1"
+ },
+ "activeConfig": {
+  "halfTicks": 54000,
+  "perceptionError": true,
+  "kickoffTeam": "A",
+  "refereeReviewAdvantage": false,
+  "zonalDefence": false,
+  "zonalDefenceSide": "both",
+  "fiveLaneBoundaries": [
+   0,
+   13.6,
+   27.2,
+   40.8,
+   54.4,
+   68
+  ]
+ }
+}

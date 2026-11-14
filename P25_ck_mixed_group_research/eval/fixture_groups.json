@@ -1,0 +1,1222 @@
+[
+ {
+  "case": "opposing_header_vs_clear",
+  "seed": 1,
+  "original": "ok",
+  "p25": "ok",
+  "off": "ok",
+  "p25EqualsOriginalWhereOriginalRuns": true,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": null,
+  "events": [
+   {
+    "type": "aerial_duel",
+    "kind": null,
+    "player": "A01",
+    "simultaneous": null,
+    "teams": [
+     "A",
+     "B"
+    ]
+   },
+   {
+    "type": "kick",
+    "kind": "corner_header",
+    "player": "A01",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "important_scene",
+    "kind": null,
+    "player": "A01",
+    "simultaneous": null,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -7.6019303077282,
+   "vy": -2.2880841965646037,
+   "vz": 0.7370553785562515,
+   "lastTouch": "A01",
+   "lastTeam": "A",
+   "lastKick": "A01"
+  },
+  "rngCalls": {
+   "A01": 3,
+   "B01": 3
+  }
+ },
+ {
+  "case": "opposing_header_vs_clear",
+  "seed": 17,
+  "original": "ok",
+  "p25": "ok",
+  "off": "ok",
+  "p25EqualsOriginalWhereOriginalRuns": true,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": null,
+  "events": [
+   {
+    "type": "aerial_duel",
+    "kind": null,
+    "player": "A01",
+    "simultaneous": null,
+    "teams": [
+     "A",
+     "B"
+    ]
+   },
+   {
+    "type": "kick",
+    "kind": "corner_header",
+    "player": "A01",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "important_scene",
+    "kind": null,
+    "player": "A01",
+    "simultaneous": null,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -6.4405980789759765,
+   "vy": -3.605460622785142,
+   "vz": 0.6981823173165322,
+   "lastTouch": "A01",
+   "lastTeam": "A",
+   "lastKick": "A01"
+  },
+  "rngCalls": {
+   "A01": 3,
+   "B01": 3
+  }
+ },
+ {
+  "case": "opposing_header_vs_gk_punch",
+  "seed": 1,
+  "original": "ok",
+  "p25": "ok",
+  "off": "ok",
+  "p25EqualsOriginalWhereOriginalRuns": true,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": null,
+  "events": [
+   {
+    "type": "aerial_duel",
+    "kind": null,
+    "player": "B00",
+    "simultaneous": null,
+    "teams": [
+     "A",
+     "B"
+    ]
+   },
+   {
+    "type": "kick",
+    "kind": "gk_punch",
+    "player": "B00",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -9.26994547936498,
+   "vy": -3.1672299739628134,
+   "vz": 2.7612373732030395,
+   "lastTouch": "B00",
+   "lastTeam": "B",
+   "lastKick": "B00"
+  },
+  "rngCalls": {
+   "A01": 3,
+   "B00": 3
+  }
+ },
+ {
+  "case": "opposing_header_vs_gk_punch",
+  "seed": 17,
+  "original": "ok",
+  "p25": "ok",
+  "off": "ok",
+  "p25EqualsOriginalWhereOriginalRuns": true,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": null,
+  "events": [
+   {
+    "type": "aerial_duel",
+    "kind": null,
+    "player": "A01",
+    "simultaneous": null,
+    "teams": [
+     "A",
+     "B"
+    ]
+   },
+   {
+    "type": "kick",
+    "kind": "corner_header",
+    "player": "A01",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "important_scene",
+    "kind": null,
+    "player": "A01",
+    "simultaneous": null,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -6.4405980789759765,
+   "vy": -3.605460622785142,
+   "vz": 0.6981823173165322,
+   "lastTouch": "A01",
+   "lastTeam": "A",
+   "lastKick": "A01"
+  },
+  "rngCalls": {
+   "A01": 3,
+   "B00": 3
+  }
+ },
+ {
+  "case": "same_team_two_headers",
+  "seed": 1,
+  "original": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25": "ok",
+  "off": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25EqualsOriginalWhereOriginalRuns": null,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": {
+   "rule": "same_team_aerial",
+   "winner": "A02"
+  },
+  "events": [
+   {
+    "type": "aerial_duel",
+    "kind": null,
+    "player": "A02",
+    "simultaneous": null,
+    "teams": [
+     "A",
+     "A"
+    ]
+   },
+   {
+    "type": "kick",
+    "kind": "corner_header",
+    "player": "A02",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "important_scene",
+    "kind": null,
+    "player": "A02",
+    "simultaneous": null,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -11.111017893707395,
+   "vy": -0.21052932767640795,
+   "vz": -0.3508425671607256,
+   "lastTouch": "A02",
+   "lastTeam": "A",
+   "lastKick": "A02"
+  },
+  "rngCalls": {
+   "A01": 3,
+   "A02": 3
+  }
+ },
+ {
+  "case": "same_team_two_headers",
+  "seed": 17,
+  "original": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25": "ok",
+  "off": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25EqualsOriginalWhereOriginalRuns": null,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": {
+   "rule": "same_team_aerial",
+   "winner": "A01"
+  },
+  "events": [
+   {
+    "type": "aerial_duel",
+    "kind": null,
+    "player": "A01",
+    "simultaneous": null,
+    "teams": [
+     "A",
+     "A"
+    ]
+   },
+   {
+    "type": "kick",
+    "kind": "corner_header",
+    "player": "A01",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "important_scene",
+    "kind": null,
+    "player": "A01",
+    "simultaneous": null,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -8.927632399876964,
+   "vy": -2.328818418972837,
+   "vz": 0.36545487821102146,
+   "lastTouch": "A01",
+   "lastTeam": "A",
+   "lastKick": "A01"
+  },
+  "rngCalls": {
+   "A01": 3,
+   "A02": 3
+  }
+ },
+ {
+  "case": "same_team_two_clears",
+  "seed": 1,
+  "original": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25": "ok",
+  "off": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25EqualsOriginalWhereOriginalRuns": null,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": {
+   "rule": "same_team_aerial",
+   "winner": "B02"
+  },
+  "events": [
+   {
+    "type": "aerial_duel",
+    "kind": null,
+    "player": "B02",
+    "simultaneous": null,
+    "teams": [
+     "B",
+     "B"
+    ]
+   },
+   {
+    "type": "kick",
+    "kind": "corner_clear",
+    "player": "B02",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -12.354063730529532,
+   "vy": -1.5410220085345498,
+   "vz": 2.7142046451568604,
+   "lastTouch": "B02",
+   "lastTeam": "B",
+   "lastKick": "B02"
+  },
+  "rngCalls": {
+   "B01": 3,
+   "B02": 3
+  }
+ },
+ {
+  "case": "same_team_two_clears",
+  "seed": 17,
+  "original": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25": "ok",
+  "off": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25EqualsOriginalWhereOriginalRuns": null,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": {
+   "rule": "same_team_aerial",
+   "winner": "B01"
+  },
+  "events": [
+   {
+    "type": "aerial_duel",
+    "kind": null,
+    "player": "B01",
+    "simultaneous": null,
+    "teams": [
+     "B",
+     "B"
+    ]
+   },
+   {
+    "type": "kick",
+    "kind": "corner_clear",
+    "player": "B01",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -9.220383203807316,
+   "vy": 0.2656178170318273,
+   "vz": 3.5559900987893345,
+   "lastTouch": "B01",
+   "lastTeam": "B",
+   "lastKick": "B01"
+  },
+  "rngCalls": {
+   "B01": 3,
+   "B02": 3
+  }
+ },
+ {
+  "case": "same_team_clear_and_own_gk_punch",
+  "seed": 1,
+  "original": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25": "ok",
+  "off": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25EqualsOriginalWhereOriginalRuns": null,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": {
+   "rule": "same_team_aerial",
+   "winner": "B00"
+  },
+  "events": [
+   {
+    "type": "aerial_duel",
+    "kind": null,
+    "player": "B00",
+    "simultaneous": null,
+    "teams": [
+     "B",
+     "B"
+    ]
+   },
+   {
+    "type": "kick",
+    "kind": "gk_punch",
+    "player": "B00",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -12.079566514624661,
+   "vy": -2.0066457952160186,
+   "vz": 2.7612373732030395,
+   "lastTouch": "B00",
+   "lastTeam": "B",
+   "lastKick": "B00"
+  },
+  "rngCalls": {
+   "B01": 3,
+   "B00": 3
+  }
+ },
+ {
+  "case": "same_team_clear_and_own_gk_punch",
+  "seed": 17,
+  "original": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25": "ok",
+  "off": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25EqualsOriginalWhereOriginalRuns": null,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": {
+   "rule": "same_team_aerial",
+   "winner": "B00"
+  },
+  "events": [
+   {
+    "type": "aerial_duel",
+    "kind": null,
+    "player": "B00",
+    "simultaneous": null,
+    "teams": [
+     "B",
+     "B"
+    ]
+   },
+   {
+    "type": "kick",
+    "kind": "gk_punch",
+    "player": "B00",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -11.24621881260652,
+   "vy": 0.8437127269325139,
+   "vz": 2.7661602783948185,
+   "lastTouch": "B00",
+   "lastTeam": "B",
+   "lastKick": "B00"
+  },
+  "rngCalls": {
+   "B01": 3,
+   "B00": 3
+  }
+ },
+ {
+  "case": "three_aerial_two_teams",
+  "seed": 1,
+  "original": "ok",
+  "p25": "ok",
+  "off": "ok",
+  "p25EqualsOriginalWhereOriginalRuns": true,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": null,
+  "events": [
+   {
+    "type": "aerial_duel",
+    "kind": null,
+    "player": "B01",
+    "simultaneous": null,
+    "teams": [
+     "A",
+     "A",
+     "B"
+    ]
+   },
+   {
+    "type": "kick",
+    "kind": "corner_clear",
+    "player": "B01",
+    "simultaneous": 3,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -8.067781344947933,
+   "vy": -2.639059899859743,
+   "vz": 2.9551054887473587,
+   "lastTouch": "B01",
+   "lastTeam": "B",
+   "lastKick": "B01"
+  },
+  "rngCalls": {
+   "A01": 3,
+   "A02": 3,
+   "B01": 3
+  }
+ },
+ {
+  "case": "three_aerial_two_teams",
+  "seed": 17,
+  "original": "ok",
+  "p25": "ok",
+  "off": "ok",
+  "p25EqualsOriginalWhereOriginalRuns": true,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": null,
+  "events": [
+   {
+    "type": "aerial_duel",
+    "kind": null,
+    "player": "A01",
+    "simultaneous": null,
+    "teams": [
+     "A",
+     "A",
+     "B"
+    ]
+   },
+   {
+    "type": "kick",
+    "kind": "corner_header",
+    "player": "A01",
+    "simultaneous": 3,
+    "teams": null
+   },
+   {
+    "type": "important_scene",
+    "kind": null,
+    "player": "A01",
+    "simultaneous": null,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -6.4405980789759765,
+   "vy": -3.605460622785142,
+   "vz": 0.6981823173165322,
+   "lastTouch": "A01",
+   "lastTeam": "A",
+   "lastKick": "A01"
+  },
+  "rngCalls": {
+   "A01": 3,
+   "A02": 3,
+   "B01": 3
+  }
+ },
+ {
+  "case": "mixed_header_vs_opponent_foot_pass",
+  "seed": 1,
+  "original": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25": "ok",
+  "off": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25EqualsOriginalWhereOriginalRuns": null,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": {
+   "rule": "mixed_simultaneous",
+   "winner": null
+  },
+  "events": [
+   {
+    "type": "kick",
+    "kind": "corner_header",
+    "player": "A01",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "important_scene",
+    "kind": null,
+    "player": "A01",
+    "simultaneous": null,
+    "teams": null
+   },
+   {
+    "type": "kick",
+    "kind": "pass",
+    "player": "B01",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -10.31278353032495,
+   "vy": -0.8878705326158907,
+   "vz": 0.4185276892781257,
+   "lastTouch": null,
+   "lastTeam": null,
+   "lastKick": null
+  },
+  "rngCalls": {
+   "A01": 3,
+   "B01": 2
+  }
+ },
+ {
+  "case": "mixed_header_vs_opponent_foot_pass",
+  "seed": 17,
+  "original": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25": "ok",
+  "off": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25EqualsOriginalWhereOriginalRuns": null,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": {
+   "rule": "mixed_simultaneous",
+   "winner": null
+  },
+  "events": [
+   {
+    "type": "kick",
+    "kind": "corner_header",
+    "player": "A01",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "important_scene",
+    "kind": null,
+    "player": "A01",
+    "simultaneous": null,
+    "teams": null
+   },
+   {
+    "type": "kick",
+    "kind": "pass",
+    "player": "B01",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -9.525813940526868,
+   "vy": -1.8479025268151983,
+   "vz": 0.3990911586582661,
+   "lastTouch": null,
+   "lastTeam": null,
+   "lastKick": null
+  },
+  "rngCalls": {
+   "A01": 3,
+   "B01": 2
+  }
+ },
+ {
+  "case": "mixed_clear_and_teammate_foot_pass",
+  "seed": 1,
+  "original": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25": "ok",
+  "off": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25EqualsOriginalWhereOriginalRuns": null,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": {
+   "rule": "mixed_simultaneous",
+   "winner": null
+  },
+  "events": [
+   {
+    "type": "kick",
+    "kind": "corner_clear",
+    "player": "B01",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "kick",
+    "kind": "pass",
+    "player": "B02",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -11.998798250852444,
+   "vy": -0.6278064249164451,
+   "vz": 1.5275527443736794,
+   "lastTouch": null,
+   "lastTeam": null,
+   "lastKick": null
+  },
+  "rngCalls": {
+   "B01": 3,
+   "B02": 2
+  }
+ },
+ {
+  "case": "mixed_clear_and_teammate_foot_pass",
+  "seed": 17,
+  "original": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25": "ok",
+  "off": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25EqualsOriginalWhereOriginalRuns": null,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": {
+   "rule": "mixed_simultaneous",
+   "winner": null
+  },
+  "events": [
+   {
+    "type": "kick",
+    "kind": "corner_clear",
+    "player": "B01",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "kick",
+    "kind": "pass",
+    "player": "B02",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -11.16605359368062,
+   "vy": 0.17867404164326237,
+   "vz": 1.8279950493946673,
+   "lastTouch": null,
+   "lastTeam": null,
+   "lastKick": null
+  },
+  "rngCalls": {
+   "B01": 3,
+   "B02": 2
+  }
+ },
+ {
+  "case": "mixed_header_vs_opponent_foot_shoot",
+  "seed": 1,
+  "original": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25": "ok",
+  "off": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25EqualsOriginalWhereOriginalRuns": null,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": {
+   "rule": "mixed_simultaneous",
+   "winner": null
+  },
+  "events": [
+   {
+    "type": "kick",
+    "kind": "shoot",
+    "player": "A01",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "important_scene",
+    "kind": null,
+    "player": "A01",
+    "simultaneous": null,
+    "teams": null
+   },
+   {
+    "type": "kick",
+    "kind": "corner_clear",
+    "player": "B01",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -18.626179969693737,
+   "vy": -1.850367368990891,
+   "vz": 2.3665527443736796,
+   "lastTouch": null,
+   "lastTeam": null,
+   "lastKick": null
+  },
+  "rngCalls": {
+   "B01": 3,
+   "A01": 2
+  }
+ },
+ {
+  "case": "mixed_header_vs_opponent_foot_shoot",
+  "seed": 17,
+  "original": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25": "ok",
+  "off": "THROW:I5_CK_MIXED_GROUP_NOT_CONNECTED",
+  "p25EqualsOriginalWhereOriginalRuns": null,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": {
+   "rule": "mixed_simultaneous",
+   "winner": null
+  },
+  "events": [
+   {
+    "type": "kick",
+    "kind": "shoot",
+    "player": "A01",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "important_scene",
+    "kind": null,
+    "player": "A01",
+    "simultaneous": null,
+    "teams": null
+   },
+   {
+    "type": "kick",
+    "kind": "corner_clear",
+    "player": "B01",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -18.001477036772535,
+   "vy": -0.6976043287191689,
+   "vz": 2.666995049394667,
+   "lastTouch": null,
+   "lastTeam": null,
+   "lastKick": null
+  },
+  "rngCalls": {
+   "B01": 3,
+   "A01": 2
+  }
+ },
+ {
+  "case": "single_header_control",
+  "seed": 1,
+  "original": "ok",
+  "p25": "ok",
+  "off": "ok",
+  "p25EqualsOriginalWhereOriginalRuns": true,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": null,
+  "events": [
+   {
+    "type": "kick",
+    "kind": "corner_header",
+    "player": "A01",
+    "simultaneous": 1,
+    "teams": null
+   },
+   {
+    "type": "important_scene",
+    "kind": null,
+    "player": "A01",
+    "simultaneous": null,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -9.817671385179025,
+   "vy": -1.445469203998366,
+   "vz": 0.3913702523708344,
+   "lastTouch": "A01",
+   "lastTeam": "A",
+   "lastKick": "A01"
+  },
+  "rngCalls": {
+   "A01": 3
+  }
+ },
+ {
+  "case": "single_header_control",
+  "seed": 17,
+  "original": "ok",
+  "p25": "ok",
+  "off": "ok",
+  "p25EqualsOriginalWhereOriginalRuns": true,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": null,
+  "events": [
+   {
+    "type": "kick",
+    "kind": "corner_header",
+    "player": "A01",
+    "simultaneous": 1,
+    "teams": null
+   },
+   {
+    "type": "important_scene",
+    "kind": null,
+    "player": "A01",
+    "simultaneous": null,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -8.927632399876964,
+   "vy": -2.328818418972837,
+   "vz": 0.36545487821102146,
+   "lastTouch": "A01",
+   "lastTeam": "A",
+   "lastKick": "A01"
+  },
+  "rngCalls": {
+   "A01": 3
+  }
+ },
+ {
+  "case": "foot_only_two_teams_control",
+  "seed": 1,
+  "original": "ok",
+  "p25": "ok",
+  "off": "ok",
+  "p25EqualsOriginalWhereOriginalRuns": true,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": null,
+  "events": [
+   {
+    "type": "kick",
+    "kind": "pass",
+    "player": "A01",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "kick",
+    "kind": "pass",
+    "player": "B01",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -13.030504988743452,
+   "vy": 0.019035177643250856,
+   "vz": 0.1,
+   "lastTouch": null,
+   "lastTeam": null,
+   "lastKick": null
+  },
+  "rngCalls": {
+   "A01": 2,
+   "B01": 2
+  }
+ },
+ {
+  "case": "foot_only_two_teams_control",
+  "seed": 17,
+  "original": "ok",
+  "p25": "ok",
+  "off": "ok",
+  "p25EqualsOriginalWhereOriginalRuns": true,
+  "offEqualsOriginal": true,
+  "orderIndependent": true,
+  "saveRestored": true,
+  "resolution": null,
+  "events": [
+   {
+    "type": "kick",
+    "kind": "pass",
+    "player": "A01",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "kick",
+    "kind": "pass",
+    "player": "B01",
+    "simultaneous": 2,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   },
+   {
+    "type": "offside_phase",
+    "kind": "foot_kick",
+    "player": null,
+    "simultaneous": null,
+    "teams": null
+   }
+  ],
+  "ball": {
+   "vx": -12.701631610244828,
+   "vy": -0.4516932836179398,
+   "vz": 0.1,
+   "lastTouch": null,
+   "lastTeam": null,
+   "lastKick": null
+  },
+  "rngCalls": {
+   "A01": 2,
+   "B01": 2
+  }
+ }
+]
