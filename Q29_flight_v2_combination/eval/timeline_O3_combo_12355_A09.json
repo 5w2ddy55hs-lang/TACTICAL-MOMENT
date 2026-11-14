@@ -1,0 +1,450 @@
+[
+ {
+  "dt": -0.1,
+  "ball": [
+   38.1,
+   57.6
+  ],
+  "ballSpeed": 3.4,
+  "recv": [
+   42.0,
+   61.7
+  ],
+  "speed": 6.5,
+  "moveDir": -8,
+  "kind": "support",
+  "reason": "private_shape_and_possession_hypothesis",
+  "target": [
+   48.4,
+   60.9
+  ],
+  "toBall": 5.6,
+  "toOwnTarget": 6.4,
+  "opp": [
+   [
+    "B09",
+    4.6
+   ],
+   [
+    "B10",
+    6.2
+   ]
+  ]
+ },
+ {
+  "dt": 0.1,
+  "ball": [
+   39.6,
+   57.8
+  ],
+  "ballSpeed": 11.2,
+  "recv": [
+   43.3,
+   61.5
+  ],
+  "speed": 6.8,
+  "moveDir": -6,
+  "kind": "support",
+  "reason": "private_shape_and_possession_hypothesis",
+  "target": [
+   49.3,
+   61.0
+  ],
+  "toBall": 5.3,
+  "toOwnTarget": 6.0,
+  "opp": [
+   [
+    "B09",
+    4.6
+   ],
+   [
+    "B10",
+    5.9
+   ]
+  ]
+ },
+ {
+  "dt": 0.3,
+  "ball": [
+   41.8,
+   58.1
+  ],
+  "ballSpeed": 10.9,
+  "recv": [
+   44.7,
+   61.4
+  ],
+  "speed": 6.8,
+  "moveDir": -5,
+  "kind": "receive",
+  "reason": "observed_ball_eta_and_teammates",
+  "target": [
+   45.2,
+   58.7
+  ],
+  "toBall": 4.3,
+  "toOwnTarget": 2.7,
+  "opp": [
+   [
+    "B09",
+    5.6
+   ],
+   [
+    "B10",
+    6.4
+   ]
+  ]
+ },
+ {
+  "dt": 0.5,
+  "ball": [
+   43.9,
+   58.5
+  ],
+  "ballSpeed": 10.6,
+  "recv": [
+   46.0,
+   61.2
+  ],
+  "speed": 6.3,
+  "moveDir": -8,
+  "kind": "receive",
+  "reason": "observed_ball_eta_and_teammates",
+  "target": [
+   46.4,
+   59.0
+  ],
+  "toBall": 3.5,
+  "toOwnTarget": 2.3,
+  "opp": [
+   [
+    "B09",
+    6.9
+   ],
+   [
+    "B10",
+    7.1
+   ]
+  ]
+ },
+ {
+  "dt": 0.7,
+  "ball": [
+   46.0,
+   58.8
+  ],
+  "ballSpeed": 10.3,
+  "recv": [
+   47.1,
+   61.0
+  ],
+  "speed": 5.4,
+  "moveDir": -16,
+  "kind": "receive",
+  "reason": "observed_ball_eta_and_teammates",
+  "target": [
+   47.5,
+   59.0
+  ],
+  "toBall": 2.5,
+  "toOwnTarget": 2.0,
+  "opp": [
+   [
+    "B10",
+    7.8
+   ],
+   [
+    "B09",
+    8.2
+   ]
+  ]
+ },
+ {
+  "dt": 0.9,
+  "ball": [
+   48.0,
+   59.1
+  ],
+  "ballSpeed": 10.0,
+  "recv": [
+   48.0,
+   60.6
+  ],
+  "speed": 4.5,
+  "moveDir": -26,
+  "kind": "receive",
+  "reason": "observed_ball_eta_and_teammates",
+  "target": [
+   49.5,
+   59.3
+  ],
+  "toBall": 1.5,
+  "toOwnTarget": 2.0,
+  "opp": [
+   [
+    "B10",
+    8.4
+   ],
+   [
+    "B09",
+    9.5
+   ]
+  ]
+ },
+ {
+  "dt": 1.1,
+  "ball": [
+   50.0,
+   59.4
+  ],
+  "ballSpeed": 9.8,
+  "recv": [
+   48.7,
+   60.2
+  ],
+  "speed": 4.0,
+  "moveDir": -40,
+  "kind": "receive",
+  "reason": "observed_ball_eta_and_teammates",
+  "target": [
+   67.8,
+   61.1
+  ],
+  "toBall": 1.5,
+  "toOwnTarget": 19.1,
+  "opp": [
+   [
+    "B10",
+    8.9
+   ],
+   [
+    "B09",
+    10.5
+   ]
+  ]
+ },
+ {
+  "dt": 1.3,
+  "ball": [
+   51.9,
+   59.7
+  ],
+  "ballSpeed": 9.5,
+  "recv": [
+   49.2,
+   59.7
+  ],
+  "speed": 3.7,
+  "moveDir": -36,
+  "kind": "receive",
+  "reason": "observed_ball_eta_and_teammates",
+  "target": [
+   66.5,
+   63.0
+  ],
+  "toBall": 2.6,
+  "toOwnTarget": 17.6,
+  "opp": [
+   [
+    "B10",
+    9.5
+   ],
+   [
+    "B07",
+    10.6
+   ]
+  ]
+ },
+ {
+  "dt": 1.5,
+  "ball": [
+   53.7,
+   60.0
+  ],
+  "ballSpeed": 9.2,
+  "recv": [
+   49.9,
+   59.3
+  ],
+  "speed": 4.1,
+  "moveDir": -20,
+  "kind": "receive",
+  "reason": "observed_ball_eta_and_teammates",
+  "target": [
+   69.7,
+   62.3
+  ],
+  "toBall": 3.8,
+  "toOwnTarget": 20.0,
+  "opp": [
+   [
+    "B07",
+    8.8
+   ],
+   [
+    "B10",
+    9.9
+   ]
+  ]
+ },
+ {
+  "dt": 1.7,
+  "ball": [
+   55.5,
+   60.2
+  ],
+  "ballSpeed": 9.0,
+  "recv": [
+   50.8,
+   59.2
+  ],
+  "speed": 4.8,
+  "moveDir": -6,
+  "kind": "receive",
+  "reason": "observed_ball_eta_and_teammates",
+  "target": [
+   68.7,
+   62.2
+  ],
+  "toBall": 4.8,
+  "toOwnTarget": 18.1,
+  "opp": [
+   [
+    "B07",
+    7.0
+   ],
+   [
+    "B10",
+    10.4
+   ]
+  ]
+ },
+ {
+  "dt": 1.9,
+  "ball": [
+   57.3,
+   60.5
+  ],
+  "ballSpeed": 8.7,
+  "recv": [
+   51.9,
+   59.2
+  ],
+  "speed": 5.7,
+  "moveDir": 3,
+  "kind": "receive",
+  "reason": "observed_ball_eta_and_teammates",
+  "target": [
+   71.7,
+   62.4
+  ],
+  "toBall": 5.5,
+  "toOwnTarget": 20.1,
+  "opp": [
+   [
+    "B07",
+    5.1
+   ],
+   [
+    "B10",
+    11.1
+   ]
+  ]
+ },
+ {
+  "dt": 2.1,
+  "ball": [
+   58.9,
+   60.8
+  ],
+  "ballSpeed": 8.4,
+  "recv": [
+   53.2,
+   59.3
+  ],
+  "speed": 6.7,
+  "moveDir": 9,
+  "kind": "receive",
+  "reason": "observed_ball_eta_and_teammates",
+  "target": [
+   73.0,
+   62.1
+  ],
+  "toBall": 6.0,
+  "toOwnTarget": 20.0,
+  "opp": [
+   [
+    "B07",
+    3.0
+   ],
+   [
+    "B10",
+    12.0
+   ]
+  ]
+ },
+ {
+  "dt": 2.3,
+  "ball": [
+   60.6,
+   61.0
+  ],
+  "ballSpeed": 8.2,
+  "recv": [
+   54.5,
+   59.5
+  ],
+  "speed": 6.8,
+  "moveDir": 8,
+  "kind": "press",
+  "reason": "observed_ball_eta_and_teammates",
+  "target": [
+   75.3,
+   63.1
+  ],
+  "toBall": 6.3,
+  "toOwnTarget": 21.1,
+  "opp": [
+   [
+    "B07",
+    1.0
+   ],
+   [
+    "B10",
+    12.9
+   ]
+  ]
+ },
+ {
+  "dt": 2.5,
+  "ball": [
+   60.8,
+   61.5
+  ],
+  "ballSpeed": 3.2,
+  "recv": [
+   55.8,
+   59.7
+  ],
+  "speed": 6.8,
+  "moveDir": 10,
+  "kind": "press",
+  "reason": "observed_ball_eta_and_teammates",
+  "target": [
+   60.9,
+   61.4
+  ],
+  "toBall": 5.3,
+  "toOwnTarget": 5.3,
+  "opp": [
+   [
+    "B07",
+    0.5
+   ],
+   [
+    "B09",
+    12.6
+   ]
+  ]
+ }
+]

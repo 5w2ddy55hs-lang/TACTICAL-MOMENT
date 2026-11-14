@@ -1,0 +1,18 @@
+## O5 start 60269 (source flight)
+ passer_under_baseReceiver [base,flight] frame 60289 decision 60269:A10 kind/target {"key":"60285:A10","base":{"kind":"pass","target":{"x":50.98,"y":56.15},"targetId":"A09","reason":"remembered_outlet_lane"},"flight":{"kind":"pass","target":{"x":39.22,"y":58.26},"targetId":"A09","reason":"remembered_outlet_lane"}}
+ passer_under_V2Receiver [v2,combo] frame 60289 decision 60269:A10 kind/target {"key":"60285:A10","v2":{"kind":"pass","target":{"x":50.98,"y":56.15},"targetId":"A09","reason":"remembered_outlet_lane"},"combo":{"kind":"pass","target":{"x":39.22,"y":58.26},"targetId":"A09","reason":"remembered_outlet_lane"}}
+ receiver_under_basePasser [base,v2] frame null decision - kind/target -
+ receiver_under_flightPasser [flight,combo] frame null decision - kind/target -
+ both_vs_base [base,combo] frame 60289 decision 60269:A10 kind/target {"key":"60285:A10","base":{"kind":"pass","target":{"x":50.98,"y":56.15},"targetId":"A09","reason":"remembered_outlet_lane"},"combo":{"kind":"pass","target":{"x":39.22,"y":58.26},"targetId":"A09","reason":"remembered_outlet_lane"}}
+ [base] restarts/goals [{"tick":60345,"type":"restart_placement","kind":"throw_in","team":"B"}]
+   kick 60288 A10->A09 pass 17.2m/s lead 0.35s len 30.3 recvDist 30.4 | closest {"d":4.57,"tick":60335} minSpd {"v":0.67,"tick":60317} | first {"tick":60345,"type":"restart_placement","player":null,"team":"B","control":null,"kind":"throw_in","restart":"throw_in"} | next null
+     recv 60289:support 60293:cover 60297:cover 60301:cover 60305:cover 60309:receive:FE0.9 60313:receive:FE0.9 60317:receive:FE0.8 60321:receive:FE1.8 60325:receive:FE1.7 60329:receive:FE1.8 60333:receive:FE1.5 60337:receive:FE1.3 60341:receive:FE1.0
+ [flight] restarts/goals [{"tick":60342,"type":"restart_placement","kind":"throw_in","team":"B"}]
+   kick 60288 A10->A09 pass 18.4m/s lead 2.22s len 33.6 recvDist 30.4 | closest {"d":4.49,"tick":60331} minSpd {"v":1.87,"tick":60313} | first {"tick":60342,"type":"restart_placement","player":null,"team":"B","control":null,"kind":"throw_in","restart":"throw_in"} | next null
+     recv 60289:cover 60293:cover 60297:cover 60301:cover 60305:cover 60309:receive:FE0.9 60313:receive:FE1.0 60317:receive:EX 60321:receive:EX 60325:receive:EX 60329:receive:FE1.7 60333:receive:FE1.9 60337:receive:FE1.4 60341:receive:FE1.6
+ [v2] restarts/goals [{"tick":60345,"type":"restart_placement","kind":"throw_in","team":"B"}]
+   kick 60288 A10->A09 pass 17.2m/s lead 0.35s len 30.3 recvDist 30.4 | closest {"d":4.57,"tick":60335} minSpd {"v":0.67,"tick":60317} | first {"tick":60345,"type":"restart_placement","player":null,"team":"B","control":null,"kind":"throw_in","restart":"throw_in"} | next null
+     recv 60289:support 60293:cover 60297:cover 60301:cover 60305:cover 60309:receive:FE0.9 60313:receive:FE0.9 60317:receive:FE0.8 60321:receive:FE1.8 60325:receive:FE1.7 60329:receive:FE1.8 60333:receive:FE1.5 60337:receive:FE1.3 60341:receive:FE1.0
+ [combo] restarts/goals [{"tick":60342,"type":"restart_placement","kind":"throw_in","team":"B"}]
+   kick 60288 A10->A09 pass 18.4m/s lead 2.22s len 33.6 recvDist 30.4 | closest {"d":4.49,"tick":60331} minSpd {"v":1.87,"tick":60313} | first {"tick":60342,"type":"restart_placement","player":null,"team":"B","control":null,"kind":"throw_in","restart":"throw_in"} | next null
+     recv 60289:cover 60293:cover 60297:cover 60301:cover 60305:cover 60309:receive:FE0.9 60313:receive:FE1.0 60317:receive:EX 60321:receive:EX 60325:receive:EX 60329:receive:FE1.7 60333:receive:FE1.9 60337:receive:FE1.4 60341:receive:FE1.6

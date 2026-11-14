@@ -1,0 +1,112 @@
+{
+ "tally": {
+  "dtos": 16754,
+  "v2Differs": 81,
+  "flightDiffers": 192,
+  "bothDiffer": 0,
+  "comboEqFlightWhenV2Same": 16673,
+  "comboEqV2WhenFlightSame": 16562,
+  "violations": 0,
+  "byRecording": {
+   "12235_base.json.gz": {
+    "dtos": 1374,
+    "v2Differs": 7,
+    "flightDiffers": 27,
+    "bothDiffer": 0,
+    "violations": 0
+   },
+   "12235_v2.json.gz": {
+    "dtos": 1374,
+    "v2Differs": 3,
+    "flightDiffers": 14,
+    "bothDiffer": 0,
+    "violations": 0
+   },
+   "42130_base.json.gz": {
+    "dtos": 1412,
+    "v2Differs": 7,
+    "flightDiffers": 4,
+    "bothDiffer": 0,
+    "violations": 0
+   },
+   "42130_flight.json.gz": {
+    "dtos": 1396,
+    "v2Differs": 5,
+    "flightDiffers": 21,
+    "bothDiffer": 0,
+    "violations": 0
+   },
+   "42130_v2.json.gz": {
+    "dtos": 1412,
+    "v2Differs": 2,
+    "flightDiffers": 4,
+    "bothDiffer": 0,
+    "violations": 0
+   },
+   "60000_base.json.gz": {
+    "dtos": 2080,
+    "v2Differs": 17,
+    "flightDiffers": 28,
+    "bothDiffer": 0,
+    "violations": 0
+   },
+   "60000_flight.json.gz": {
+    "dtos": 2102,
+    "v2Differs": 15,
+    "flightDiffers": 20,
+    "bothDiffer": 0,
+    "violations": 0
+   },
+   "breakthrough_outlet.json.gz": {
+    "dtos": 854,
+    "v2Differs": 6,
+    "flightDiffers": 14,
+    "bothDiffer": 0,
+    "violations": 0
+   },
+   "contact_failure.json.gz": {
+    "dtos": 624,
+    "v2Differs": 0,
+    "flightDiffers": 6,
+    "bothDiffer": 0,
+    "violations": 0
+   },
+   "far_receiver.json.gz": {
+    "dtos": 306,
+    "v2Differs": 1,
+    "flightDiffers": 4,
+    "bothDiffer": 0,
+    "violations": 0
+   },
+   "mutual_recovery.json.gz": {
+    "dtos": 514,
+    "v2Differs": 7,
+    "flightDiffers": 8,
+    "bothDiffer": 0,
+    "violations": 0
+   },
+   "outlet_to_shot.json.gz": {
+    "dtos": 1182,
+    "v2Differs": 0,
+    "flightDiffers": 33,
+    "bothDiffer": 0,
+    "violations": 0
+   },
+   "outlet_unreached.json.gz": {
+    "dtos": 1412,
+    "v2Differs": 7,
+    "flightDiffers": 4,
+    "bothDiffer": 0,
+    "violations": 0
+   },
+   "recovery_failure.json.gz": {
+    "dtos": 712,
+    "v2Differs": 4,
+    "flightDiffers": 5,
+    "bothDiffer": 0,
+    "violations": 0
+   }
+  }
+ },
+ "examples": []
+}

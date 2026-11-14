@@ -1,0 +1,26 @@
+O1 start 42130 source base same start native in all arms: True d2b35c7e4a53b4cc
+  base   fixture=accepted nativeExact=True ownSaveRestore=True restore20=True directRestoreOfInput=accepted save=TM_INTEGRATION_I8_STANDARD_SAVE/1 rows=11756 endNative=e50b3ac3de24
+  flight fixture=accepted nativeExact=True ownSaveRestore=True restore20=True directRestoreOfInput=PASS_PRINCIPLES_SAVE_IDENTITY save=TM_INTEGRATION_I8_STANDARD_SAVE/1 rows=11698 endNative=c148210b10ef
+  v2     fixture=accepted nativeExact=True ownSaveRestore=True restore20=True directRestoreOfInput=PASS_PRINCIPLES_SAVE_IDENTITY save=TM_COMBO_BASE_RECEPTION_INTEGRATION_I8_STANDARD_SAVE/1 rows=11655 endNative=bc5df52ff37a
+  combo  fixture=accepted nativeExact=True ownSaveRestore=True restore20=True directRestoreOfInput=PASS_PRINCIPLES_SAVE_IDENTITY save=TM_RESEARCH_Q29_FLIGHT_V2_COMBO_SAVE/1 rows=11708 endNative=9edfd5e765c6
+O2 start 42187 source base same start native in all arms: True c1c91c6b1717409d
+  base   fixture=accepted nativeExact=True ownSaveRestore=True restore20=True directRestoreOfInput=accepted save=TM_INTEGRATION_I8_STANDARD_SAVE/1 rows=9291 endNative=e50b3ac3de24
+  flight fixture=accepted nativeExact=True ownSaveRestore=True restore20=True directRestoreOfInput=PASS_PRINCIPLES_SAVE_IDENTITY save=TM_INTEGRATION_I8_STANDARD_SAVE/1 rows=9233 endNative=c148210b10ef
+  v2     fixture=accepted nativeExact=True ownSaveRestore=True restore20=True directRestoreOfInput=PASS_PRINCIPLES_SAVE_IDENTITY save=TM_COMBO_BASE_RECEPTION_INTEGRATION_I8_STANDARD_SAVE/1 rows=9229 endNative=99fae92cf4b4
+  combo  fixture=accepted nativeExact=True ownSaveRestore=True restore20=True directRestoreOfInput=PASS_PRINCIPLES_SAVE_IDENTITY save=TM_RESEARCH_Q29_FLIGHT_V2_COMBO_SAVE/1 rows=9233 endNative=c148210b10ef
+O3 start 12340 source base same start native in all arms: True 4ff9a1150748caab
+  base   fixture=accepted nativeExact=True ownSaveRestore=True restore20=True directRestoreOfInput=accepted save=TM_INTEGRATION_I8_STANDARD_SAVE/1 rows=6954 endNative=993f30043a7a
+  flight fixture=accepted nativeExact=True ownSaveRestore=True restore20=True directRestoreOfInput=PASS_PRINCIPLES_SAVE_IDENTITY save=TM_INTEGRATION_I8_STANDARD_SAVE/1 rows=6901 endNative=233fbe748683
+  v2     fixture=accepted nativeExact=True ownSaveRestore=True restore20=True directRestoreOfInput=PASS_PRINCIPLES_SAVE_IDENTITY save=TM_COMBO_BASE_RECEPTION_INTEGRATION_I8_STANDARD_SAVE/1 rows=6832 endNative=b8faab85f50f
+  combo  fixture=accepted nativeExact=True ownSaveRestore=True restore20=True directRestoreOfInput=PASS_PRINCIPLES_SAVE_IDENTITY save=TM_RESEARCH_Q29_FLIGHT_V2_COMBO_SAVE/1 rows=6977 endNative=ccaef774a632
+O4 start 60000 source base same start native in all arms: True 12c6d68e09001b74
+  base   fixture=accepted nativeExact=True ownSaveRestore=True restore20=True directRestoreOfInput=accepted save=TM_INTEGRATION_I8_STANDARD_SAVE/1 rows=17486 endNative=5079e46f6260
+  flight fixture=accepted nativeExact=True ownSaveRestore=True restore20=True directRestoreOfInput=PASS_PRINCIPLES_SAVE_IDENTITY save=TM_INTEGRATION_I8_STANDARD_SAVE/1 rows=17458 endNative=cf3213a5f4b7
+  v2     fixture=accepted nativeExact=True ownSaveRestore=True restore20=True directRestoreOfInput=PASS_PRINCIPLES_SAVE_IDENTITY save=TM_COMBO_BASE_RECEPTION_INTEGRATION_I8_STANDARD_SAVE/1 rows=17211 endNative=a6e92941a98f
+  combo  fixture=accepted nativeExact=True ownSaveRestore=True restore20=True directRestoreOfInput=PASS_PRINCIPLES_SAVE_IDENTITY save=TM_RESEARCH_Q29_FLIGHT_V2_COMBO_SAVE/1 rows=17211 endNative=a6e92941a98f
+O5 start 60269 source flight same start native in all arms: True c763d82944c97b64
+  base   fixture=accepted nativeExact=True ownSaveRestore=True restore20=True directRestoreOfInput=accepted save=TM_INTEGRATION_I8_STANDARD_SAVE/1 rows=5742 endNative=7a61a7300e51
+  flight fixture=accepted nativeExact=True ownSaveRestore=True restore20=True directRestoreOfInput=PASS_PRINCIPLES_SAVE_IDENTITY save=TM_INTEGRATION_I8_STANDARD_SAVE/1 rows=5782 endNative=cf3213a5f4b7
+  v2     fixture=accepted nativeExact=True ownSaveRestore=True restore20=True directRestoreOfInput=PASS_PRINCIPLES_SAVE_IDENTITY save=TM_COMBO_BASE_RECEPTION_INTEGRATION_I8_STANDARD_SAVE/1 rows=5742 endNative=7a61a7300e51
+  combo  fixture=accepted nativeExact=True ownSaveRestore=True restore20=True directRestoreOfInput=PASS_PRINCIPLES_SAVE_IDENTITY save=TM_RESEARCH_Q29_FLIGHT_V2_COMBO_SAVE/1 rows=5782 endNative=cf3213a5f4b7
+all checks true: True 20
