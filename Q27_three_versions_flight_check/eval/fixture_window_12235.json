@@ -1,0 +1,569 @@
+{
+ "input": "otherseed_state_87312949_12235.json",
+ "rows": [
+  {
+   "tick": 12235,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12236,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12237,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12238,
+   "fixture": "OPC1_RECONSTRUCTION"
+  },
+  {
+   "tick": 12239,
+   "fixture": "OPC1_RECONSTRUCTION"
+  },
+  {
+   "tick": 12240,
+   "fixture": "OPC1_RECONSTRUCTION"
+  },
+  {
+   "tick": 12241,
+   "fixture": "OPC1_RECONSTRUCTION"
+  },
+  {
+   "tick": 12242,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12243,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12244,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12245,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12246,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12247,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12248,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12249,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12250,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12251,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12252,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12253,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12254,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12255,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12256,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12257,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12258,
+   "fixture": "OPC1_RECONSTRUCTION"
+  },
+  {
+   "tick": 12259,
+   "fixture": "OPC1_RECONSTRUCTION"
+  },
+  {
+   "tick": 12260,
+   "fixture": "OPC1_RECONSTRUCTION"
+  },
+  {
+   "tick": 12261,
+   "fixture": "OPC1_RECONSTRUCTION"
+  },
+  {
+   "tick": 12262,
+   "fixture": "SOC23_REQUEST_RECONSTRUCTION"
+  },
+  {
+   "tick": 12263,
+   "fixture": "SOC23_REQUEST_RECONSTRUCTION"
+  },
+  {
+   "tick": 12264,
+   "fixture": "SOC23_REQUEST_RECONSTRUCTION"
+  },
+  {
+   "tick": 12265,
+   "fixture": "SOC23_REQUEST_RECONSTRUCTION"
+  },
+  {
+   "tick": 12266,
+   "fixture": "OPC1_RECONSTRUCTION"
+  },
+  {
+   "tick": 12267,
+   "fixture": "OPC1_RECONSTRUCTION"
+  },
+  {
+   "tick": 12268,
+   "fixture": "OPC1_RECONSTRUCTION"
+  },
+  {
+   "tick": 12269,
+   "fixture": "OPC1_RECONSTRUCTION"
+  },
+  {
+   "tick": 12270,
+   "fixture": "OPC1_RECONSTRUCTION"
+  },
+  {
+   "tick": 12271,
+   "fixture": "OPC1_RECONSTRUCTION"
+  },
+  {
+   "tick": 12272,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12273,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12274,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12275,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12276,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12277,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12278,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12279,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12280,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12281,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12282,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12283,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12284,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12285,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12286,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12287,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12288,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12289,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12290,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12291,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12292,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12293,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12294,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12295,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12296,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12297,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12298,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12299,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12300,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12301,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12302,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12303,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12304,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12305,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12306,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12307,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12308,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12309,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12310,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12311,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12312,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12313,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12314,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12315,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12316,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12317,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12318,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12319,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12320,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12321,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12322,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12323,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12324,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12325,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12326,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12327,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12328,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12329,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12330,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12331,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12332,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12333,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12334,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12335,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12336,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12337,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12338,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12339,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 12340,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12341,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12342,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12343,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12344,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12345,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12346,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12347,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12348,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12349,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12350,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12351,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12352,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12353,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12354,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12355,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12356,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12357,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12358,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12359,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12360,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12361,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12362,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12363,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12364,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12365,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12366,
+   "fixture": "EBI1_IMMUTABLE_EVIDENCE_MISMATCH"
+  },
+  {
+   "tick": 12367,
+   "fixture": "EBI1_IMMUTABLE_EVIDENCE_MISMATCH"
+  },
+  {
+   "tick": 12368,
+   "fixture": "EBI1_IMMUTABLE_EVIDENCE_MISMATCH"
+  },
+  {
+   "tick": 12369,
+   "fixture": "EBI1_IMMUTABLE_EVIDENCE_MISMATCH"
+  },
+  {
+   "tick": 12370,
+   "fixture": "EBI1_IMMUTABLE_EVIDENCE_MISMATCH"
+  },
+  {
+   "tick": 12371,
+   "fixture": "EBI1_IMMUTABLE_EVIDENCE_MISMATCH"
+  },
+  {
+   "tick": 12372,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12373,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12374,
+   "fixture": "accepted"
+  },
+  {
+   "tick": 12375,
+   "fixture": "accepted"
+  }
+ ]
+}

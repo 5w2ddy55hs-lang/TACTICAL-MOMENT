@@ -1,0 +1,1 @@
+{"arm":"base","input":"otherseed_state_87312949_6039.json","inputSha256":"e71fe9bb58f33a93512c972bb613495b8834a56056b6241f16a6f79847334fe4","directRestore":"accepted","fixture":"accepted","node":"v22.23.4","nativeExact":true,"ownSaveRestore":true,"endTick":6280,"rows":10359}

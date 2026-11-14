@@ -1,0 +1,3400 @@
+[
+ {
+  "window": "R:contact_failureX_base",
+  "kickTick": 6073,
+  "passer": "A07",
+  "receiver": "A10",
+  "team": "A",
+  "decision": {
+   "tick": 6068,
+   "how": "ordinary_pass_decision",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    56.64,
+    39.13
+   ],
+   "aimDistFromBall": 6.34
+  },
+  "passerView": {
+   "receiverPos": [
+    57.48,
+    37.05
+   ],
+   "receiverVel": [
+    -2.4,
+    5.94
+   ],
+   "speed": 6.4,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 0.35
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    57.43,
+    37.01
+   ],
+   "receiverVel": [
+    -2.99,
+    6.33
+   ],
+   "posErr": 0.06,
+   "velErr": 0.71
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 6068,
+   "kind": "intercept",
+   "target": [
+    54.07,
+    45.08
+   ],
+   "distToOwnTarget": 8.74
+  },
+  "kick": {
+   "origin": [
+    55.46,
+    45.16
+   ],
+   "speed": 9.13,
+   "passerTruthPos": [
+    54.58,
+    45.1
+   ]
+  },
+  "firstNext": {
+   "tick": 6081,
+   "dt": 0.4,
+   "type": "contact",
+   "player": "A10",
+   "team": "A",
+   "kind": null,
+   "control": false
+  },
+  "outcome": "target_no_control",
+  "receiverClosest": {
+   "tick": 6081,
+   "dt": 0.4,
+   "dist": 0.65,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 6081,
+   "dt": 0.4,
+   "ballToAim": 2.6,
+   "receiverToAim": 1.98,
+   "receiverAheadOfAimAlongSeenRun": 1.98,
+   "receiverLateral": -0.08,
+   "constVelPredErr": 0.1,
+   "constVelErrAlongRun": 0.06
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    3,
+    "intercept"
+   ],
+   [
+    7,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.35,
+   "kind": "receive"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    56.73,
+    38.61
+   ],
+   "receiverVel": [
+    -2.66,
+    6.47
+   ],
+   "receiverSpeed": 7.0,
+   "heading": -23.17178882789591
+  },
+  "opponentClosest": {
+   "player": "B10",
+   "tick": 6078,
+   "dt": 0.25,
+   "dist": 1.87,
+   "receiverDistThen": 2.86
+  }
+ },
+ {
+  "window": "R:contact_failureX_base",
+  "kickTick": 6158,
+  "passer": "B05",
+  "receiver": "B08",
+  "team": "B",
+  "decision": {
+   "tick": 6156,
+   "how": "ordinary_pass_decision",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    62.92,
+    7.25
+   ],
+   "aimDistFromBall": 19.44
+  },
+  "passerView": {
+   "receiverPos": [
+    62.39,
+    7.61
+   ],
+   "receiverVel": [
+    1.53,
+    -1.01
+   ],
+   "speed": 1.84,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 0.35
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    62.34,
+    7.55
+   ],
+   "receiverVel": [
+    0.39,
+    -1.03
+   ],
+   "posErr": 0.07,
+   "velErr": 1.15
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 6156,
+   "kind": "support",
+   "target": [
+    57.67,
+    8.88
+   ],
+   "distToOwnTarget": 4.86
+  },
+  "kick": {
+   "origin": [
+    68.38,
+    25.59
+   ],
+   "speed": 13.28,
+   "passerTruthPos": [
+    68.68,
+    26.19
+   ]
+  },
+  "firstNext": {
+   "tick": 6203,
+   "dt": 2.25,
+   "type": "restart_placement",
+   "player": "A08",
+   "team": "A",
+   "kind": "throw_in",
+   "control": null
+  },
+  "outcome": "out",
+  "receiverClosest": {
+   "tick": 6189,
+   "dt": 1.55,
+   "dist": 3.01,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 6190,
+   "dt": 1.6,
+   "ballToAim": 1.25,
+   "receiverToAim": 1.89,
+   "receiverAheadOfAimAlongSeenRun": -1.86,
+   "receiverLateral": 0.37,
+   "constVelPredErr": 4.35,
+   "constVelErrAlongRun": -4.34
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    3,
+    "support"
+   ],
+   [
+    8,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.4,
+   "kind": "receive"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    62.33,
+    7.47
+   ],
+   "receiverVel": [
+    -0.16,
+    -0.8
+   ],
+   "receiverSpeed": 0.81,
+   "heading": -14.29395387397918
+  },
+  "opponentClosest": {
+   "player": "A10",
+   "tick": 6159,
+   "dt": 0.05,
+   "dist": 2.37,
+   "receiverDistThen": 18.48
+  }
+ },
+ {
+  "window": "R:contact_failureX_flight",
+  "kickTick": 6073,
+  "passer": "A07",
+  "receiver": "A10",
+  "team": "A",
+  "decision": {
+   "tick": 6068,
+   "how": "ordinary_pass_decision",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    56.64,
+    39.13
+   ],
+   "aimDistFromBall": 6.34
+  },
+  "passerView": {
+   "receiverPos": [
+    57.48,
+    37.05
+   ],
+   "receiverVel": [
+    -2.4,
+    5.94
+   ],
+   "speed": 6.4,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 0.35
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    57.43,
+    37.01
+   ],
+   "receiverVel": [
+    -2.99,
+    6.33
+   ],
+   "posErr": 0.06,
+   "velErr": 0.71
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 6068,
+   "kind": "intercept",
+   "target": [
+    54.07,
+    45.08
+   ],
+   "distToOwnTarget": 8.74
+  },
+  "kick": {
+   "origin": [
+    55.46,
+    45.16
+   ],
+   "speed": 9.13,
+   "passerTruthPos": [
+    54.58,
+    45.1
+   ]
+  },
+  "firstNext": {
+   "tick": 6081,
+   "dt": 0.4,
+   "type": "contact",
+   "player": "A10",
+   "team": "A",
+   "kind": null,
+   "control": false
+  },
+  "outcome": "target_no_control",
+  "receiverClosest": {
+   "tick": 6081,
+   "dt": 0.4,
+   "dist": 0.65,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 6081,
+   "dt": 0.4,
+   "ballToAim": 2.6,
+   "receiverToAim": 1.98,
+   "receiverAheadOfAimAlongSeenRun": 1.98,
+   "receiverLateral": -0.08,
+   "constVelPredErr": 0.1,
+   "constVelErrAlongRun": 0.06
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    3,
+    "intercept"
+   ],
+   [
+    7,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.35,
+   "kind": "receive"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    56.73,
+    38.61
+   ],
+   "receiverVel": [
+    -2.66,
+    6.47
+   ],
+   "receiverSpeed": 7.0,
+   "heading": -23.17178882789591
+  },
+  "opponentClosest": {
+   "player": "B10",
+   "tick": 6078,
+   "dt": 0.25,
+   "dist": 1.87,
+   "receiverDistThen": 2.86
+  }
+ },
+ {
+  "window": "R:contact_failureX_flight",
+  "kickTick": 6158,
+  "passer": "B05",
+  "receiver": "B08",
+  "team": "B",
+  "decision": {
+   "tick": 6156,
+   "how": "ordinary_pass_decision",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    65.09,
+    5.82
+   ],
+   "aimDistFromBall": 20.34
+  },
+  "passerView": {
+   "receiverPos": [
+    62.39,
+    7.61
+   ],
+   "receiverVel": [
+    1.53,
+    -1.01
+   ],
+   "speed": 1.84,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 1.76
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    62.34,
+    7.55
+   ],
+   "receiverVel": [
+    0.39,
+    -1.03
+   ],
+   "posErr": 0.07,
+   "velErr": 1.15
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 6156,
+   "kind": "support",
+   "target": [
+    57.67,
+    8.88
+   ],
+   "distToOwnTarget": 4.86
+  },
+  "kick": {
+   "origin": [
+    68.38,
+    25.59
+   ],
+   "speed": 13.57,
+   "passerTruthPos": [
+    68.68,
+    26.19
+   ]
+  },
+  "firstNext": {
+   "tick": 6201,
+   "dt": 2.15,
+   "type": "restart_placement",
+   "player": "A08",
+   "team": "A",
+   "kind": "throw_in",
+   "control": null
+  },
+  "outcome": "out",
+  "receiverClosest": {
+   "tick": 6190,
+   "dt": 1.6,
+   "dist": 5.14,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 6190,
+   "dt": 1.6,
+   "ballToAim": 1.3,
+   "receiverToAim": 3.95,
+   "receiverAheadOfAimAlongSeenRun": -3.89,
+   "receiverLateral": -0.71,
+   "constVelPredErr": 3.84,
+   "constVelErrAlongRun": -3.78
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    3,
+    "support"
+   ],
+   [
+    8,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.4,
+   "kind": "receive"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    62.33,
+    7.47
+   ],
+   "receiverVel": [
+    -0.16,
+    -0.8
+   ],
+   "receiverSpeed": 0.81,
+   "heading": -14.29395387397918
+  },
+  "opponentClosest": {
+   "player": "A10",
+   "tick": 6159,
+   "dt": 0.05,
+   "dist": 2.41,
+   "receiverDistThen": 18.48
+  }
+ },
+ {
+  "window": "R:far_receiverX_base",
+  "kickTick": 6176,
+  "passer": "B05",
+  "receiver": "B09",
+  "team": "B",
+  "decision": {
+   "tick": 6174,
+   "how": "ordinary_pass_decision",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    64.15,
+    59.52
+   ],
+   "aimDistFromBall": 26.46
+  },
+  "passerView": {
+   "receiverPos": [
+    64.05,
+    58.58
+   ],
+   "receiverVel": [
+    0.3,
+    2.68
+   ],
+   "speed": 2.7,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 0.35
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    64.01,
+    58.47
+   ],
+   "receiverVel": [
+    -0.86,
+    2.1
+   ],
+   "posErr": 0.12,
+   "velErr": 1.3
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 6174,
+   "kind": "support",
+   "target": [
+    61.15,
+    58.27
+   ],
+   "distToOwnTarget": 2.86
+  },
+  "kick": {
+   "origin": [
+    74.13,
+    35.5
+   ],
+   "speed": 15.34,
+   "passerTruthPos": [
+    74.94,
+    34.96
+   ]
+  },
+  "firstNext": {
+   "tick": 6227,
+   "dt": 2.55,
+   "type": "contact",
+   "player": "B09",
+   "team": "B",
+   "kind": null,
+   "control": true
+  },
+  "outcome": "target_control",
+  "receiverClosest": {
+   "tick": 6227,
+   "dt": 2.55,
+   "dist": 0.72,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 6214,
+   "dt": 1.9,
+   "ballToAim": 1.22,
+   "receiverToAim": 5.58,
+   "receiverAheadOfAimAlongSeenRun": 3.84,
+   "receiverLateral": 4.05,
+   "constVelPredErr": 4.09,
+   "constVelErrAlongRun": -0.61
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    2,
+    "support"
+   ],
+   [
+    6,
+    "cover"
+   ],
+   [
+    18,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.3,
+   "kind": "cover"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    63.88,
+    58.65
+   ],
+   "receiverVel": [
+    -1.39,
+    1.78
+   ],
+   "receiverSpeed": 2.26,
+   "heading": 2.233534649541242
+  },
+  "opponentClosest": {
+   "player": "A09",
+   "tick": 6177,
+   "dt": 0.05,
+   "dist": 4.65,
+   "receiverDistThen": 24.66
+  }
+ },
+ {
+  "window": "R:far_receiverX_flight",
+  "kickTick": 6176,
+  "passer": "B05",
+  "receiver": "B06",
+  "team": "B",
+  "decision": {
+   "tick": 6174,
+   "how": "ordinary_pass_decision",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    76.88,
+    21.92
+   ],
+   "aimDistFromBall": 13.45
+  },
+  "passerView": {
+   "receiverPos": [
+    71.63,
+    25.81
+   ],
+   "receiverVel": [
+    3.75,
+    -2.78
+   ],
+   "speed": 4.67,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 1.4
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    71.57,
+    25.89
+   ],
+   "receiverVel": [
+    3.85,
+    -2.37
+   ],
+   "posErr": 0.1,
+   "velErr": 0.43
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 6174,
+   "kind": "support",
+   "target": [
+    72.07,
+    20.09
+   ],
+   "distToOwnTarget": 5.83
+  },
+  "kick": {
+   "origin": [
+    74.13,
+    35.5
+   ],
+   "speed": 11.44,
+   "passerTruthPos": [
+    74.94,
+    34.96
+   ]
+  },
+  "firstNext": {
+   "tick": 6204,
+   "dt": 1.4,
+   "type": "kick",
+   "player": "B06",
+   "team": "B",
+   "kind": "dribble",
+   "control": null
+  },
+  "outcome": "target_control",
+  "receiverClosest": {
+   "tick": 6204,
+   "dt": 1.4,
+   "dist": 0.71,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 6202,
+   "dt": 1.3,
+   "ballToAim": 0.65,
+   "receiverToAim": 0.96,
+   "receiverAheadOfAimAlongSeenRun": 0.36,
+   "receiverLateral": -0.89,
+   "constVelPredErr": 0.96,
+   "constVelErrAlongRun": 0.36
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    2,
+    "support"
+   ],
+   [
+    6,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.3,
+   "kind": "receive"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    71.93,
+    25.62
+   ],
+   "receiverVel": [
+    3.5,
+    -2.9
+   ],
+   "receiverSpeed": 4.54,
+   "heading": -25.824059021638647
+  },
+  "opponentClosest": {
+   "player": "A09",
+   "tick": 6181,
+   "dt": 0.25,
+   "dist": 2.88,
+   "receiverDistThen": 8.33
+  }
+ },
+ {
+  "window": "R:far_receiverX_flight",
+  "kickTick": 6239,
+  "passer": "B06",
+  "receiver": "B10",
+  "team": "B",
+  "decision": {
+   "tick": 6234,
+   "how": "ordinary_pass_decision",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    58.46,
+    30.28
+   ],
+   "aimDistFromBall": 21.95
+  },
+  "passerView": {
+   "receiverPos": [
+    58.58,
+    32.36
+   ],
+   "receiverVel": [
+    -0.07,
+    -1.14
+   ],
+   "speed": 1.14,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 1.83
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    58.53,
+    32.3
+   ],
+   "receiverVel": [
+    -0.96,
+    -0.78
+   ],
+   "posErr": 0.08,
+   "velErr": 0.96
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 6234,
+   "kind": "support",
+   "target": [
+    57.74,
+    32.18
+   ],
+   "distToOwnTarget": 0.8
+  },
+  "kick": {
+   "origin": [
+    76.03,
+    18.0
+   ],
+   "speed": 14.13,
+   "passerTruthPos": [
+    75.77,
+    17.51
+   ]
+  },
+  "firstNext": {
+   "tick": 6283,
+   "dt": 2.2,
+   "type": "contact",
+   "player": "B10",
+   "team": "B",
+   "kind": null,
+   "control": true
+  },
+  "outcome": "target_control",
+  "receiverClosest": {
+   "tick": 6283,
+   "dt": 2.2,
+   "dist": 0.49,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 6272,
+   "dt": 1.65,
+   "ballToAim": 0.89,
+   "receiverToAim": 3.97,
+   "receiverAheadOfAimAlongSeenRun": -1.07,
+   "receiverLateral": -3.82,
+   "constVelPredErr": 3.99,
+   "constVelErrAlongRun": -1.15
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    3,
+    "cover"
+   ],
+   [
+    11,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.35,
+   "kind": "cover"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    58.1,
+    32.21
+   ],
+   "receiverVel": [
+    -2.12,
+    -0.18
+   ],
+   "receiverSpeed": 2.13,
+   "heading": 3.2250290994333124
+  },
+  "opponentClosest": {
+   "player": "A05",
+   "tick": 6243,
+   "dt": 0.2,
+   "dist": 2.95,
+   "receiverDistThen": 20.4
+  }
+ },
+ {
+  "window": "R:mutual_recoveryX_base",
+  "kickTick": 24354,
+  "passer": "A08",
+  "receiver": "A06",
+  "team": "A",
+  "decision": {
+   "tick": 24350,
+   "how": "ordinary_pass_decision",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    42.18,
+    13.75
+   ],
+   "aimDistFromBall": 13.48
+  },
+  "passerView": {
+   "receiverPos": [
+    42.18,
+    13.41
+   ],
+   "receiverVel": [
+    -0.0,
+    0.98
+   ],
+   "speed": 0.98,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 0.35
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    42.13,
+    13.28
+   ],
+   "receiverVel": [
+    3.17,
+    1.14
+   ],
+   "posErr": 0.13,
+   "velErr": 3.17
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 24347,
+   "kind": "intercept",
+   "target": [
+    52.96,
+    16.72
+   ],
+   "distToOwnTarget": 11.36
+  },
+  "kick": {
+   "origin": [
+    56.27,
+    13.3
+   ],
+   "speed": 11.28,
+   "passerTruthPos": [
+    55.18,
+    13.3
+   ]
+  },
+  "firstNext": {
+   "tick": 24361,
+   "dt": 0.35,
+   "type": "kick",
+   "player": "A10",
+   "team": "A",
+   "kind": "dribble",
+   "control": null
+  },
+  "outcome": "teammate_control",
+  "receiverClosest": {
+   "tick": 24361,
+   "dt": 0.35,
+   "dist": 12.16,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 24355,
+   "dt": 0.05,
+   "ballToAim": 13.54,
+   "receiverToAim": 0.98,
+   "receiverAheadOfAimAlongSeenRun": -0.15,
+   "receiverLateral": -0.97,
+   "constVelPredErr": 0.97,
+   "constVelErrAlongRun": -0.06
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    1,
+    "intercept"
+   ]
+  ],
+  "receiverFirstSawMovingBall": null,
+  "truthAtKick": {
+   "receiverPos": [
+    42.92,
+    13.54
+   ],
+   "receiverVel": [
+    4.38,
+    1.27
+   ],
+   "receiverSpeed": 4.56,
+   "heading": 25.41433527365887
+  },
+  "opponentClosest": {
+   "player": "B06",
+   "tick": 24357,
+   "dt": 0.15,
+   "dist": 1.56,
+   "receiverDistThen": 12.45
+  }
+ },
+ {
+  "window": "R:mutual_recoveryX_flight",
+  "kickTick": 24354,
+  "passer": "A08",
+  "receiver": "A06",
+  "team": "A",
+  "decision": {
+   "tick": 24350,
+   "how": "ordinary_pass_decision",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    42.18,
+    14.78
+   ],
+   "aimDistFromBall": 13.52
+  },
+  "passerView": {
+   "receiverPos": [
+    42.18,
+    13.41
+   ],
+   "receiverVel": [
+    -0.0,
+    0.98
+   ],
+   "speed": 0.98,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 1.4
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    42.13,
+    13.28
+   ],
+   "receiverVel": [
+    3.17,
+    1.14
+   ],
+   "posErr": 0.13,
+   "velErr": 3.17
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 24347,
+   "kind": "intercept",
+   "target": [
+    52.96,
+    16.72
+   ],
+   "distToOwnTarget": 11.36
+  },
+  "kick": {
+   "origin": [
+    56.27,
+    13.3
+   ],
+   "speed": 11.31,
+   "passerTruthPos": [
+    55.18,
+    13.3
+   ]
+  },
+  "firstNext": {
+   "tick": 24405,
+   "dt": 2.55,
+   "type": "kick",
+   "player": "B10",
+   "team": "B",
+   "kind": "pass",
+   "control": null
+  },
+  "outcome": "opponent_control",
+  "receiverClosest": {
+   "tick": 24405,
+   "dt": 2.55,
+   "dist": 4.9,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 24355,
+   "dt": 0.05,
+   "ballToAim": 13.61,
+   "receiverToAim": 1.53,
+   "receiverAheadOfAimAlongSeenRun": -1.18,
+   "receiverLateral": -0.97,
+   "constVelPredErr": 0.97,
+   "constVelErrAlongRun": -0.06
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    1,
+    "intercept"
+   ],
+   [
+    9,
+    "receive"
+   ],
+   [
+    33,
+    "intercept"
+   ],
+   [
+    37,
+    "receive"
+   ],
+   [
+    41,
+    "press"
+   ],
+   [
+    45,
+    "intercept"
+   ],
+   [
+    49,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.45,
+   "kind": "receive"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    42.92,
+    13.54
+   ],
+   "receiverVel": [
+    4.38,
+    1.27
+   ],
+   "receiverSpeed": 4.56,
+   "heading": 25.41433527365887
+  },
+  "opponentClosest": {
+   "player": "B10",
+   "tick": 24405,
+   "dt": 2.55,
+   "dist": 0.85,
+   "receiverDistThen": 4.9
+  },
+  "opponentDecisionBeforeTouch": "pass"
+ },
+ {
+  "window": "R:mutual_recoveryX_flight",
+  "kickTick": 24405,
+  "passer": "B10",
+  "receiver": "B09",
+  "team": "B",
+  "decision": {
+   "tick": 24403,
+   "how": "ordinary_pass_decision",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    59.12,
+    52.74
+   ],
+   "aimDistFromBall": 33.17
+  },
+  "passerView": {
+   "receiverPos": [
+    59.01,
+    52.5
+   ],
+   "receiverVel": [
+    0.32,
+    0.7
+   ],
+   "speed": 0.77,
+   "ageTicks": 8,
+   "impliedLeadSeconds": 0.35
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    59.31,
+    52.86
+   ],
+   "receiverVel": [
+    0.4,
+    1.07
+   ],
+   "posErr": 0.47,
+   "velErr": 0.37
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 24403,
+   "kind": "cover",
+   "target": [
+    60.02,
+    52.99
+   ],
+   "distToOwnTarget": 0.73
+  },
+  "kick": {
+   "origin": [
+    63.2,
+    19.9
+   ],
+   "speed": 17.9,
+   "passerTruthPos": [
+    62.38,
+    20.13
+   ]
+  },
+  "firstNext": {
+   "tick": 24462,
+   "dt": 2.85,
+   "type": "kick",
+   "player": "B09",
+   "team": "B",
+   "kind": "pass",
+   "control": null
+  },
+  "outcome": "target_control",
+  "receiverClosest": {
+   "tick": 24462,
+   "dt": 2.85,
+   "dist": 1.04,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 24446,
+   "dt": 2.05,
+   "ballToAim": 1.9,
+   "receiverToAim": 7.75,
+   "receiverAheadOfAimAlongSeenRun": 6.07,
+   "receiverLateral": 4.82,
+   "constVelPredErr": 6.5,
+   "constVelErrAlongRun": 4.37
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    2,
+    "support"
+   ],
+   [
+    6,
+    "cover"
+   ],
+   [
+    26,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.3,
+   "kind": "cover"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    59.39,
+    52.94
+   ],
+   "receiverVel": [
+    0.89,
+    0.71
+   ],
+   "receiverSpeed": 1.14,
+   "heading": 88.63868609246201
+  },
+  "opponentClosest": {
+   "player": "A10",
+   "tick": 24406,
+   "dt": 0.05,
+   "dist": 2.56,
+   "receiverDistThen": 32.39
+  }
+ },
+ {
+  "window": "R:mutual_recoveryX_flight",
+  "kickTick": 24462,
+  "passer": "B09",
+  "receiver": "B07",
+  "team": "B",
+  "decision": {
+   "tick": 24459,
+   "how": "early_ball_intent(receive)",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    60.95,
+    58.34
+   ],
+   "aimDistFromBall": 6.05
+  },
+  "passerView": {
+   "receiverPos": [
+    64.29,
+    53.73
+   ],
+   "receiverVel": [
+    -4.07,
+    5.62
+   ],
+   "speed": 6.94,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 0.82
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    64.17,
+    53.78
+   ],
+   "receiverVel": [
+    -4.76,
+    5.22
+   ],
+   "posErr": 0.12,
+   "velErr": 0.8
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 24459,
+   "kind": "receive",
+   "target": [
+    52.29,
+    67.7
+   ],
+   "distToOwnTarget": 18.31
+  },
+  "kick": {
+   "origin": [
+    55.28,
+    63.22
+   ],
+   "speed": 9.57,
+   "passerTruthPos": [
+    55.47,
+    64.24
+   ]
+  },
+  "firstNext": {
+   "tick": 24477,
+   "dt": 0.75,
+   "type": "kick",
+   "player": "B07",
+   "team": "B",
+   "kind": "dribble",
+   "control": null
+  },
+  "outcome": "target_control",
+  "receiverClosest": {
+   "tick": 24477,
+   "dt": 0.75,
+   "dist": 0.92,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 24477,
+   "dt": 0.75,
+   "ballToAim": 0.69,
+   "receiverToAim": 0.63,
+   "receiverAheadOfAimAlongSeenRun": -0.26,
+   "receiverLateral": 0.57,
+   "constVelPredErr": 1.0,
+   "constVelErrAlongRun": -0.82
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    1,
+    "support"
+   ],
+   [
+    5,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.25,
+   "kind": "receive"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    63.47,
+    54.57
+   ],
+   "receiverVel": [
+    -4.58,
+    5.37
+   ],
+   "receiverSpeed": 7.06,
+   "heading": 52.541824630369966
+  },
+  "opponentClosest": {
+   "player": "A09",
+   "tick": 24463,
+   "dt": 0.05,
+   "dist": 3.68,
+   "receiverDistThen": 11.09
+  }
+ },
+ {
+  "window": "R:outlet_unreached_base",
+  "kickTick": 42190,
+  "passer": "A05",
+  "receiver": "A10",
+  "team": "A",
+  "decision": {
+   "tick": 42188,
+   "how": "early_ball_intent(intercept)",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    54.52,
+    33.77
+   ],
+   "aimDistFromBall": 12.54
+  },
+  "passerView": {
+   "receiverPos": [
+    52.2,
+    34.2
+   ],
+   "receiverVel": [
+    6.64,
+    -1.24
+   ],
+   "speed": 6.76,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 0.35
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    52.13,
+    34.16
+   ],
+   "receiverVel": [
+    6.62,
+    -1.41
+   ],
+   "posErr": 0.08,
+   "velErr": 0.17
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 42188,
+   "kind": "support",
+   "target": [
+    56.95,
+    33.16
+   ],
+   "distToOwnTarget": 4.91
+  },
+  "kick": {
+   "origin": [
+    44.2,
+    26.9
+   ],
+   "speed": 11.22,
+   "passerTruthPos": [
+    43.33,
+    27.46
+   ]
+  },
+  "firstNext": {
+   "tick": 42251,
+   "dt": 3.05,
+   "type": "kick",
+   "player": "B07",
+   "team": "B",
+   "kind": "dribble",
+   "control": null
+  },
+  "outcome": "opponent_control",
+  "receiverClosest": {
+   "tick": 42219,
+   "dt": 1.45,
+   "dist": 3.0,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 42214,
+   "dt": 1.2,
+   "ballToAim": 0.81,
+   "receiverToAim": 2.96,
+   "receiverAheadOfAimAlongSeenRun": 2.96,
+   "receiverLateral": -0.18,
+   "constVelPredErr": 3.47,
+   "constVelErrAlongRun": -3.46
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    2,
+    "support"
+   ],
+   [
+    6,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.3,
+   "kind": "receive"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    52.8,
+    34.02
+   ],
+   "receiverVel": [
+    6.62,
+    -1.41
+   ],
+   "receiverSpeed": 6.77,
+   "heading": 56.33918487400077
+  },
+  "opponentClosest": {
+   "player": "B07",
+   "tick": 42251,
+   "dt": 3.05,
+   "dist": 0.76,
+   "receiverDistThen": 5.59
+  },
+  "opponentDecisionBeforeTouch": "receive"
+ },
+ {
+  "window": "R:outlet_unreached_base",
+  "kickTick": 42258,
+  "passer": "B07",
+  "receiver": "B09",
+  "team": "B",
+  "decision": {
+   "tick": 42256,
+   "how": "ordinary_pass_decision",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    61.68,
+    61.42
+   ],
+   "aimDistFromBall": 17.46
+  },
+  "passerView": {
+   "receiverPos": [
+    60.62,
+    60.86
+   ],
+   "receiverVel": [
+    3.04,
+    1.61
+   ],
+   "speed": 3.44,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 0.35
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    60.71,
+    60.9
+   ],
+   "receiverVel": [
+    2.23,
+    1.31
+   ],
+   "posErr": 0.1,
+   "velErr": 0.86
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 42256,
+   "kind": "support",
+   "target": [
+    55.95,
+    59.37
+   ],
+   "distToOwnTarget": 5.01
+  },
+  "kick": {
+   "origin": [
+    65.5,
+    44.65
+   ],
+   "speed": 12.27,
+   "passerTruthPos": [
+    66.26,
+    43.95
+   ]
+  },
+  "firstNext": {
+   "tick": 42299,
+   "dt": 2.05,
+   "type": "kick",
+   "player": "A09",
+   "team": "A",
+   "kind": "dribble",
+   "control": null
+  },
+  "outcome": "opponent_control",
+  "receiverClosest": {
+   "tick": 42299,
+   "dt": 2.05,
+   "dist": 1.84,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 42289,
+   "dt": 1.55,
+   "ballToAim": 0.85,
+   "receiverToAim": 5.15,
+   "receiverAheadOfAimAlongSeenRun": 0.46,
+   "receiverLateral": 5.13,
+   "constVelPredErr": 6.52,
+   "constVelErrAlongRun": -4.01
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    2,
+    "cover"
+   ],
+   [
+    6,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.3,
+   "kind": "receive"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    60.9,
+    61.01
+   ],
+   "receiverVel": [
+    1.67,
+    1.07
+   ],
+   "receiverSpeed": 1.98,
+   "heading": 138.80124332011775
+  },
+  "opponentClosest": {
+   "player": "A09",
+   "tick": 42299,
+   "dt": 2.05,
+   "dist": 1.09,
+   "receiverDistThen": 1.84
+  },
+  "opponentDecisionBeforeTouch": "receive"
+ },
+ {
+  "window": "R:outlet_unreached_flight",
+  "kickTick": 42190,
+  "passer": "A05",
+  "receiver": "A10",
+  "team": "A",
+  "decision": {
+   "tick": 42188,
+   "how": "early_ball_intent(intercept)",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    64.02,
+    31.99
+   ],
+   "aimDistFromBall": 20.67
+  },
+  "passerView": {
+   "receiverPos": [
+    52.2,
+    34.2
+   ],
+   "receiverVel": [
+    6.64,
+    -1.24
+   ],
+   "speed": 6.76,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 1.78
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    52.13,
+    34.16
+   ],
+   "receiverVel": [
+    6.62,
+    -1.41
+   ],
+   "posErr": 0.08,
+   "velErr": 0.17
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 42188,
+   "kind": "support",
+   "target": [
+    56.95,
+    33.16
+   ],
+   "distToOwnTarget": 4.91
+  },
+  "kick": {
+   "origin": [
+    44.2,
+    26.9
+   ],
+   "speed": 13.86,
+   "passerTruthPos": [
+    43.33,
+    27.46
+   ]
+  },
+  "firstNext": {
+   "tick": 42216,
+   "dt": 1.3,
+   "type": "contact",
+   "player": "A10",
+   "team": "A",
+   "kind": null,
+   "control": true
+  },
+  "outcome": "target_control",
+  "receiverClosest": {
+   "tick": 42216,
+   "dt": 1.3,
+   "dist": 0.7,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 42216,
+   "dt": 1.3,
+   "ballToAim": 3.93,
+   "receiverToAim": 3.53,
+   "receiverAheadOfAimAlongSeenRun": -3.53,
+   "receiverLateral": -0.01,
+   "constVelPredErr": 0.96,
+   "constVelErrAlongRun": -0.96
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    2,
+    "support"
+   ],
+   [
+    6,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.3,
+   "kind": "receive"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    52.8,
+    34.02
+   ],
+   "receiverVel": [
+    6.62,
+    -1.41
+   ],
+   "receiverSpeed": 6.77,
+   "heading": 56.33918487400077
+  },
+  "opponentClosest": {
+   "player": "B10",
+   "tick": 42191,
+   "dt": 0.05,
+   "dist": 3.56,
+   "receiverDistThen": 10.73
+  }
+ },
+ {
+  "window": "R:b12365_base",
+  "kickTick": 12367,
+  "passer": "A07",
+  "receiver": "A09",
+  "team": "A",
+  "decision": {
+   "tick": 12365,
+   "how": "early_ball_intent(intercept)",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    48.4,
+    61.29
+   ],
+   "aimDistFromBall": 9.01
+  },
+  "passerView": {
+   "receiverPos": [
+    46.03,
+    61.29
+   ],
+   "receiverVel": [
+    6.76,
+    -0.01
+   ],
+   "speed": 6.76,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 0.35
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    45.99,
+    61.25
+   ],
+   "receiverVel": [
+    5.91,
+    -0.5
+   ],
+   "posErr": 0.06,
+   "velErr": 0.98
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 12365,
+   "kind": "support",
+   "target": [
+    49.47,
+    60.99
+   ],
+   "distToOwnTarget": 3.49
+  },
+  "kick": {
+   "origin": [
+    40.26,
+    57.87
+   ],
+   "speed": 9.58,
+   "passerTruthPos": [
+    39.3,
+    57.67
+   ]
+  },
+  "firstNext": {
+   "tick": 12395,
+   "dt": 1.4,
+   "type": "kick",
+   "player": "A09",
+   "team": "A",
+   "kind": "dribble",
+   "control": null
+  },
+  "outcome": "target_control",
+  "receiverClosest": {
+   "tick": 12395,
+   "dt": 1.4,
+   "dist": 0.65,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 12387,
+   "dt": 1.0,
+   "ballToAim": 0.35,
+   "receiverToAim": 2.15,
+   "receiverAheadOfAimAlongSeenRun": 2.13,
+   "receiverLateral": 0.24,
+   "constVelPredErr": 2.95,
+   "constVelErrAlongRun": -2.94
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    2,
+    "support"
+   ],
+   [
+    6,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.3,
+   "kind": "receive"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    46.56,
+    61.2
+   ],
+   "receiverVel": [
+    5.61,
+    -0.48
+   ],
+   "receiverSpeed": 5.63,
+   "heading": -50.350113146654685
+  },
+  "opponentClosest": {
+   "player": "B10",
+   "tick": 12368,
+   "dt": 0.05,
+   "dist": 3.12,
+   "receiverDistThen": 6.9
+  }
+ },
+ {
+  "window": "R:b12365_base",
+  "kickTick": 12416,
+  "passer": "A09",
+  "receiver": "A10",
+  "team": "A",
+  "decision": {
+   "tick": 12413,
+   "how": "ordinary_pass_decision",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    62.82,
+    37.64
+   ],
+   "aimDistFromBall": 25.54
+  },
+  "passerView": {
+   "receiverPos": [
+    60.42,
+    38.07
+   ],
+   "receiverVel": [
+    6.86,
+    -1.21
+   ],
+   "speed": 6.96,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 0.35
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    60.44,
+    37.94
+   ],
+   "receiverVel": [
+    6.12,
+    -1.16
+   ],
+   "posErr": 0.12,
+   "velErr": 0.74
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 12413,
+   "kind": "support",
+   "target": [
+    64.18,
+    37.4
+   ],
+   "distToOwnTarget": 3.78
+  },
+  "kick": {
+   "origin": [
+    56.76,
+    62.2
+   ],
+   "speed": 14.66,
+   "passerTruthPos": [
+    57.2,
+    62.45
+   ]
+  },
+  "firstNext": {
+   "tick": 12457,
+   "dt": 2.05,
+   "type": "contact",
+   "player": "A10",
+   "team": "A",
+   "kind": null,
+   "control": true
+  },
+  "outcome": "target_control",
+  "receiverClosest": {
+   "tick": 12457,
+   "dt": 2.05,
+   "dist": 0.8,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 12454,
+   "dt": 1.9,
+   "ballToAim": 1.73,
+   "receiverToAim": 2.47,
+   "receiverAheadOfAimAlongSeenRun": 2.37,
+   "receiverLateral": -0.7,
+   "constVelPredErr": 9.5,
+   "constVelErrAlongRun": -9.47
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    1,
+    "cover"
+   ],
+   [
+    17,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.25,
+   "kind": "cover"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    61.3,
+    37.79
+   ],
+   "receiverVel": [
+    5.8,
+    -0.92
+   ],
+   "receiverSpeed": 5.88,
+   "heading": -0.15780760898427681
+  },
+  "opponentClosest": {
+   "player": "B07",
+   "tick": 12418,
+   "dt": 0.1,
+   "dist": 1.34,
+   "receiverDistThen": 23.55
+  }
+ },
+ {
+  "window": "R:b12365_flight",
+  "kickTick": 12367,
+  "passer": "A07",
+  "receiver": "A09",
+  "team": "A",
+  "decision": {
+   "tick": 12365,
+   "how": "early_ball_intent(intercept)",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    56.92,
+    61.28
+   ],
+   "aimDistFromBall": 17.19
+  },
+  "passerView": {
+   "receiverPos": [
+    46.03,
+    61.29
+   ],
+   "receiverVel": [
+    6.76,
+    -0.01
+   ],
+   "speed": 6.76,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 1.61
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    45.99,
+    61.25
+   ],
+   "receiverVel": [
+    5.91,
+    -0.5
+   ],
+   "posErr": 0.06,
+   "velErr": 0.98
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 12365,
+   "kind": "support",
+   "target": [
+    49.47,
+    60.99
+   ],
+   "distToOwnTarget": 3.49
+  },
+  "kick": {
+   "origin": [
+    40.26,
+    57.87
+   ],
+   "speed": 12.13,
+   "passerTruthPos": [
+    39.3,
+    57.67
+   ]
+  },
+  "firstNext": {
+   "tick": 12387,
+   "dt": 1.0,
+   "type": "kick",
+   "player": "A09",
+   "team": "A",
+   "kind": "dribble",
+   "control": null
+  },
+  "outcome": "target_control",
+  "receiverClosest": {
+   "tick": 12386,
+   "dt": 0.95,
+   "dist": 0.84,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 12387,
+   "dt": 1.0,
+   "ballToAim": 5.62,
+   "receiverToAim": 6.35,
+   "receiverAheadOfAimAlongSeenRun": -6.26,
+   "receiverLateral": -1.04,
+   "constVelPredErr": 3.0,
+   "constVelErrAlongRun": -2.82
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    2,
+    "support"
+   ],
+   [
+    6,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.3,
+   "kind": "receive"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    46.56,
+    61.2
+   ],
+   "receiverVel": [
+    5.61,
+    -0.48
+   ],
+   "receiverSpeed": 5.63,
+   "heading": -50.350113146654685
+  },
+  "opponentClosest": {
+   "player": "B10",
+   "tick": 12368,
+   "dt": 0.05,
+   "dist": 3.18,
+   "receiverDistThen": 6.8
+  }
+ },
+ {
+  "window": "R:60000_base",
+  "kickTick": 60141,
+  "passer": "A09",
+  "receiver": "A10",
+  "team": "A",
+  "decision": {
+   "tick": 60137,
+   "how": "ordinary_pass_decision",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    63.49,
+    44.62
+   ],
+   "aimDistFromBall": 27.15
+  },
+  "passerView": {
+   "receiverPos": [
+    63.49,
+    44.62
+   ],
+   "receiverVel": [
+    0,
+    0
+   ],
+   "speed": 0.0,
+   "ageTicks": 4,
+   "impliedLeadSeconds": null
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    63.82,
+    44.74
+   ],
+   "receiverVel": [
+    1.34,
+    0.05
+   ],
+   "posErr": 0.35,
+   "velErr": 1.34
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 60137,
+   "kind": "cover",
+   "target": [
+    64.2,
+    44.65
+   ],
+   "distToOwnTarget": 0.39
+  },
+  "kick": {
+   "origin": [
+    82.21,
+    64.41
+   ],
+   "speed": 16.29,
+   "passerTruthPos": [
+    81.8,
+    64.0
+   ]
+  },
+  "firstNext": {
+   "tick": 60143,
+   "dt": 0.1,
+   "type": "kick",
+   "player": "A07",
+   "team": "A",
+   "kind": "pass",
+   "control": null
+  },
+  "outcome": "teammate_control",
+  "receiverClosest": {
+   "tick": 60142,
+   "dt": 0.05,
+   "dist": 27.0,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 60142,
+   "dt": 0.05,
+   "ballToAim": 27.47,
+   "receiverToAim": 0.6
+  },
+  "receiverDecisionsAfterKick": [],
+  "receiverFirstSawMovingBall": null,
+  "truthAtKick": {
+   "receiverPos": [
+    64.03,
+    44.72
+   ],
+   "receiverVel": [
+    1.28,
+    -0.37
+   ],
+   "receiverSpeed": 1.33,
+   "heading": -37.98092949162121
+  },
+  "opponentClosest": {
+   "player": "B09",
+   "tick": 60143,
+   "dt": 0.1,
+   "dist": 1.6,
+   "receiverDistThen": 27.33
+  }
+ },
+ {
+  "window": "R:60000_base",
+  "kickTick": 60143,
+  "passer": "A07",
+  "receiver": "A06",
+  "team": "A",
+  "decision": {
+   "tick": 60141,
+   "how": "ordinary_pass_decision",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    80.77,
+    30.93
+   ],
+   "aimDistFromBall": 33.44
+  },
+  "passerView": {
+   "receiverPos": [
+    80.18,
+    30.75
+   ],
+   "receiverVel": [
+    1.68,
+    0.52
+   ],
+   "speed": 1.76,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 0.35
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    80.07,
+    30.74
+   ],
+   "receiverVel": [
+    1.21,
+    -0.38
+   ],
+   "posErr": 0.11,
+   "velErr": 1.01
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 60141,
+   "kind": "cover",
+   "target": [
+    80.21,
+    30.66
+   ],
+   "distToOwnTarget": 0.15
+  },
+  "kick": {
+   "origin": [
+    82.64,
+    64.79
+   ],
+   "speed": 17.85,
+   "passerTruthPos": [
+    81.66,
+    64.92
+   ]
+  },
+  "firstNext": {
+   "tick": 60207,
+   "dt": 3.2,
+   "type": "kick",
+   "player": "A06",
+   "team": "A",
+   "kind": "dribble",
+   "control": null
+  },
+  "outcome": "target_control",
+  "receiverClosest": {
+   "tick": 60207,
+   "dt": 3.2,
+   "dist": 0.94,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 60185,
+   "dt": 2.1,
+   "ballToAim": 1.41,
+   "receiverToAim": 9.06,
+   "receiverAheadOfAimAlongSeenRun": -4.43,
+   "receiverLateral": -7.9,
+   "constVelPredErr": 11.02,
+   "constVelErrAlongRun": -7.68
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    2,
+    "support"
+   ],
+   [
+    6,
+    "cover"
+   ],
+   [
+    26,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.3,
+   "kind": "cover"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    80.15,
+    30.69
+   ],
+   "receiverVel": [
+    0.65,
+    -0.48
+   ],
+   "receiverSpeed": 0.8,
+   "heading": 43.35030452516733
+  },
+  "opponentClosest": {
+   "player": "B09",
+   "tick": 60144,
+   "dt": 0.05,
+   "dist": 2.37,
+   "receiverDistThen": 33.31
+  }
+ },
+ {
+  "window": "R:60000_base",
+  "kickTick": 60235,
+  "passer": "A06",
+  "receiver": "A10",
+  "team": "A",
+  "decision": {
+   "tick": 60233,
+   "how": "early_ball_intent(intercept)",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    57.36,
+    30.3
+   ],
+   "aimDistFromBall": 23.42
+  },
+  "passerView": {
+   "receiverPos": [
+    58.76,
+    29.66
+   ],
+   "receiverVel": [
+    -4.0,
+    1.8
+   ],
+   "speed": 4.39,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 0.35
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    58.77,
+    29.67
+   ],
+   "receiverVel": [
+    -4.53,
+    2.63
+   ],
+   "posErr": 0.01,
+   "velErr": 0.98
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 60233,
+   "kind": "support",
+   "target": [
+    56.09,
+    31.64
+   ],
+   "distToOwnTarget": 3.33
+  },
+  "kick": {
+   "origin": [
+    74.18,
+    14.18
+   ],
+   "speed": 14.73,
+   "passerTruthPos": [
+    75.2,
+    14.51
+   ]
+  },
+  "firstNext": {
+   "tick": 60285,
+   "dt": 2.5,
+   "type": "contact",
+   "player": "A10",
+   "team": "A",
+   "kind": null,
+   "control": true
+  },
+  "outcome": "target_control",
+  "receiverClosest": {
+   "tick": 60285,
+   "dt": 2.5,
+   "dist": 0.75,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 60270,
+   "dt": 1.75,
+   "ballToAim": 1.25,
+   "receiverToAim": 6.03,
+   "receiverAheadOfAimAlongSeenRun": 5.58,
+   "receiverLateral": -2.28,
+   "constVelPredErr": 2.49,
+   "constVelErrAlongRun": -1.0
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    2,
+    "support"
+   ],
+   [
+    6,
+    "cover"
+   ],
+   [
+    14,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.3,
+   "kind": "cover"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    58.33,
+    29.98
+   ],
+   "receiverVel": [
+    -4.43,
+    3.24
+   ],
+   "receiverSpeed": 5.49,
+   "heading": -41.47307594724224
+  },
+  "opponentClosest": {
+   "player": "B10",
+   "tick": 60240,
+   "dt": 0.25,
+   "dist": 2.09,
+   "receiverDistThen": 20.01
+  }
+ },
+ {
+  "window": "R:60000_base",
+  "kickTick": 60333,
+  "passer": "A10",
+  "receiver": "A09",
+  "team": "A",
+  "decision": {
+   "tick": 60329,
+   "how": "ordinary_pass_decision",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    43.09,
+    58.92
+   ],
+   "aimDistFromBall": 19.71
+  },
+  "passerView": {
+   "receiverPos": [
+    44.86,
+    58.76
+   ],
+   "receiverVel": [
+    -5.08,
+    0.45
+   ],
+   "speed": 5.1,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 0.35
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    44.92,
+    58.71
+   ],
+   "receiverVel": [
+    -4.01,
+    0.12
+   ],
+   "posErr": 0.08,
+   "velErr": 1.12
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 60329,
+   "kind": "cover",
+   "target": [
+    50.68,
+    59.84
+   ],
+   "distToOwnTarget": 5.87
+  },
+  "kick": {
+   "origin": [
+    42.6,
+    39.66
+   ],
+   "speed": 12.78,
+   "passerTruthPos": [
+    42.31,
+    40.26
+   ]
+  },
+  "firstNext": {
+   "tick": 60375,
+   "dt": 2.1,
+   "type": "kick",
+   "player": "A09",
+   "team": "A",
+   "kind": "dribble",
+   "control": null
+  },
+  "outcome": "target_control",
+  "receiverClosest": {
+   "tick": 60375,
+   "dt": 2.1,
+   "dist": 0.83,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 60366,
+   "dt": 1.65,
+   "ballToAim": 0.68,
+   "receiverToAim": 3.47,
+   "receiverAheadOfAimAlongSeenRun": 0.64,
+   "receiverLateral": -3.41,
+   "constVelPredErr": 7.8,
+   "constVelErrAlongRun": -7.01
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    4,
+    "support"
+   ],
+   [
+    8,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.4,
+   "kind": "receive"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    44.27,
+    58.74
+   ],
+   "receiverVel": [
+    -2.79,
+    0.24
+   ],
+   "receiverSpeed": 2.8,
+   "heading": 28.18835740092898
+  },
+  "opponentClosest": {
+   "player": "B05",
+   "tick": 60334,
+   "dt": 0.05,
+   "dist": 2.81,
+   "receiverDistThen": 18.52
+  }
+ },
+ {
+  "window": "R:60000_flight",
+  "kickTick": 60141,
+  "passer": "A09",
+  "receiver": "A10",
+  "team": "A",
+  "decision": {
+   "tick": 60137,
+   "how": "ordinary_pass_decision",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    63.49,
+    44.62
+   ],
+   "aimDistFromBall": 27.15
+  },
+  "passerView": {
+   "receiverPos": [
+    63.49,
+    44.62
+   ],
+   "receiverVel": [
+    0,
+    0
+   ],
+   "speed": 0.0,
+   "ageTicks": 4,
+   "impliedLeadSeconds": null
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    63.82,
+    44.74
+   ],
+   "receiverVel": [
+    1.34,
+    0.05
+   ],
+   "posErr": 0.35,
+   "velErr": 1.34
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 60137,
+   "kind": "cover",
+   "target": [
+    64.2,
+    44.65
+   ],
+   "distToOwnTarget": 0.39
+  },
+  "kick": {
+   "origin": [
+    82.21,
+    64.41
+   ],
+   "speed": 16.29,
+   "passerTruthPos": [
+    81.8,
+    64.0
+   ]
+  },
+  "firstNext": {
+   "tick": 60143,
+   "dt": 0.1,
+   "type": "kick",
+   "player": "A07",
+   "team": "A",
+   "kind": "pass",
+   "control": null
+  },
+  "outcome": "teammate_control",
+  "receiverClosest": {
+   "tick": 60142,
+   "dt": 0.05,
+   "dist": 27.0,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 60142,
+   "dt": 0.05,
+   "ballToAim": 27.47,
+   "receiverToAim": 0.6
+  },
+  "receiverDecisionsAfterKick": [],
+  "receiverFirstSawMovingBall": null,
+  "truthAtKick": {
+   "receiverPos": [
+    64.03,
+    44.72
+   ],
+   "receiverVel": [
+    1.28,
+    -0.37
+   ],
+   "receiverSpeed": 1.33,
+   "heading": -37.98092949162121
+  },
+  "opponentClosest": {
+   "player": "B09",
+   "tick": 60143,
+   "dt": 0.1,
+   "dist": 1.6,
+   "receiverDistThen": 27.33
+  }
+ },
+ {
+  "window": "R:60000_flight",
+  "kickTick": 60143,
+  "passer": "A07",
+  "receiver": "A06",
+  "team": "A",
+  "decision": {
+   "tick": 60141,
+   "how": "ordinary_pass_decision",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    83.85,
+    31.89
+   ],
+   "aimDistFromBall": 32.49
+  },
+  "passerView": {
+   "receiverPos": [
+    80.18,
+    30.75
+   ],
+   "receiverVel": [
+    1.68,
+    0.52
+   ],
+   "speed": 1.76,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 2.19
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    80.07,
+    30.74
+   ],
+   "receiverVel": [
+    1.21,
+    -0.38
+   ],
+   "posErr": 0.11,
+   "velErr": 1.01
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 60141,
+   "kind": "cover",
+   "target": [
+    80.21,
+    30.66
+   ],
+   "distToOwnTarget": 0.15
+  },
+  "kick": {
+   "origin": [
+    82.64,
+    64.79
+   ],
+   "speed": 17.53,
+   "passerTruthPos": [
+    81.66,
+    64.92
+   ]
+  },
+  "firstNext": {
+   "tick": 60211,
+   "dt": 3.4,
+   "type": "kick",
+   "player": "A06",
+   "team": "A",
+   "kind": "pass",
+   "control": null
+  },
+  "outcome": "target_control",
+  "receiverClosest": {
+   "tick": 60211,
+   "dt": 3.4,
+   "dist": 0.68,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 60185,
+   "dt": 2.1,
+   "ballToAim": 1.36,
+   "receiverToAim": 10.1,
+   "receiverAheadOfAimAlongSeenRun": -5.4,
+   "receiverLateral": -8.53,
+   "constVelPredErr": 10.11,
+   "constVelErrAlongRun": -5.42
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    2,
+    "support"
+   ],
+   [
+    6,
+    "cover"
+   ],
+   [
+    26,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.3,
+   "kind": "cover"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    80.15,
+    30.69
+   ],
+   "receiverVel": [
+    0.65,
+    -0.48
+   ],
+   "receiverSpeed": 0.8,
+   "heading": 43.35030452516733
+  },
+  "opponentClosest": {
+   "player": "B09",
+   "tick": 60144,
+   "dt": 0.05,
+   "dist": 2.3,
+   "receiverDistThen": 33.33
+  }
+ },
+ {
+  "window": "R:60000_flight",
+  "kickTick": 60211,
+  "passer": "A06",
+  "receiver": "A10",
+  "team": "A",
+  "decision": {
+   "tick": 60209,
+   "how": "early_ball_intent(receive)",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    64.74,
+    21.55
+   ],
+   "aimDistFromBall": 18.56
+  },
+  "passerView": {
+   "receiverPos": [
+    64.34,
+    30.54
+   ],
+   "receiverVel": [
+    0.24,
+    -5.35
+   ],
+   "speed": 5.36,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 1.68
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    64.37,
+    30.6
+   ],
+   "receiverVel": [
+    0.06,
+    -5.0
+   ],
+   "posErr": 0.07,
+   "velErr": 0.39
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 60209,
+   "kind": "support",
+   "target": [
+    61.01,
+    31.87
+   ],
+   "distToOwnTarget": 3.59
+  },
+  "kick": {
+   "origin": [
+    82.43,
+    14.93
+   ],
+   "speed": 12.85,
+   "passerTruthPos": [
+    82.43,
+    14.25
+   ]
+  },
+  "firstNext": {
+   "tick": 60267,
+   "dt": 2.8,
+   "type": "kick",
+   "player": "A10",
+   "team": "A",
+   "kind": "dribble",
+   "control": null
+  },
+  "outcome": "target_control",
+  "receiverClosest": {
+   "tick": 60267,
+   "dt": 2.8,
+   "dist": 0.73,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 60243,
+   "dt": 1.6,
+   "ballToAim": 0.26,
+   "receiverToAim": 7.53,
+   "receiverAheadOfAimAlongSeenRun": -4.88,
+   "receiverLateral": -5.74,
+   "constVelPredErr": 7.6,
+   "constVelErrAlongRun": -4.99
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    2,
+    "support"
+   ],
+   [
+    6,
+    "cover"
+   ],
+   [
+    14,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.3,
+   "kind": "cover"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    64.37,
+    30.15
+   ],
+   "receiverVel": [
+    0.05,
+    -4.39
+   ],
+   "receiverSpeed": 4.39,
+   "heading": -39.25812434120767
+  },
+  "opponentClosest": {
+   "player": "B10",
+   "tick": 60227,
+   "dt": 0.8,
+   "dist": 6.03,
+   "receiverDistThen": 14.07
+  }
+ },
+ {
+  "window": "R:60000_flight",
+  "kickTick": 60288,
+  "passer": "A10",
+  "receiver": "A09",
+  "team": "A",
+  "decision": {
+   "tick": 60285,
+   "how": "ordinary_pass_decision",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    39.22,
+    58.26
+   ],
+   "aimDistFromBall": 33.95
+  },
+  "passerView": {
+   "receiverPos": [
+    53.19,
+    55.76
+   ],
+   "receiverVel": [
+    -6.29,
+    1.13
+   ],
+   "speed": 6.39,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 2.22
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    53.22,
+    55.81
+   ],
+   "receiverVel": [
+    -6.38,
+    1.33
+   ],
+   "posErr": 0.07,
+   "velErr": 0.23
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 60285,
+   "kind": "support",
+   "target": [
+    46.32,
+    57.14
+   ],
+   "distToOwnTarget": 7.03
+  },
+  "kick": {
+   "origin": [
+    48.98,
+    25.83
+   ],
+   "speed": 18.35,
+   "passerTruthPos": [
+    48.46,
+    25.94
+   ]
+  },
+  "firstNext": {
+   "tick": 60342,
+   "dt": 2.7,
+   "type": "restart_placement",
+   "player": "B09",
+   "team": "B",
+   "kind": "throw_in",
+   "control": null
+  },
+  "outcome": "out",
+  "receiverClosest": {
+   "tick": 60331,
+   "dt": 2.15,
+   "dist": 4.49,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 60329,
+   "dt": 2.05,
+   "ballToAim": 1.71,
+   "receiverToAim": 6.32,
+   "receiverAheadOfAimAlongSeenRun": -5.96,
+   "receiverLateral": -2.13,
+   "constVelPredErr": 6.2,
+   "constVelErrAlongRun": -5.83
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    1,
+    "cover"
+   ],
+   [
+    21,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.25,
+   "kind": "cover"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    52.26,
+    56.01
+   ],
+   "receiverVel": [
+    -6.41,
+    1.22
+   ],
+   "receiverSpeed": 6.52,
+   "heading": 28.085979267798134
+  },
+  "opponentClosest": {
+   "player": "B06",
+   "tick": 60289,
+   "dt": 0.05,
+   "dist": 1.85,
+   "receiverDistThen": 29.52
+  }
+ },
+ {
+  "window": "R:42130_base",
+  "kickTick": 42190,
+  "passer": "A05",
+  "receiver": "A10",
+  "team": "A",
+  "decision": {
+   "tick": 42188,
+   "how": "early_ball_intent(intercept)",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    54.52,
+    33.77
+   ],
+   "aimDistFromBall": 12.54
+  },
+  "passerView": {
+   "receiverPos": [
+    52.2,
+    34.2
+   ],
+   "receiverVel": [
+    6.64,
+    -1.24
+   ],
+   "speed": 6.76,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 0.35
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    52.13,
+    34.16
+   ],
+   "receiverVel": [
+    6.62,
+    -1.41
+   ],
+   "posErr": 0.08,
+   "velErr": 0.17
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 42188,
+   "kind": "support",
+   "target": [
+    56.95,
+    33.16
+   ],
+   "distToOwnTarget": 4.91
+  },
+  "kick": {
+   "origin": [
+    44.2,
+    26.9
+   ],
+   "speed": 11.22,
+   "passerTruthPos": [
+    43.33,
+    27.46
+   ]
+  },
+  "firstNext": {
+   "tick": 42251,
+   "dt": 3.05,
+   "type": "kick",
+   "player": "B07",
+   "team": "B",
+   "kind": "dribble",
+   "control": null
+  },
+  "outcome": "opponent_control",
+  "receiverClosest": {
+   "tick": 42219,
+   "dt": 1.45,
+   "dist": 3.0,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 42214,
+   "dt": 1.2,
+   "ballToAim": 0.81,
+   "receiverToAim": 2.96,
+   "receiverAheadOfAimAlongSeenRun": 2.96,
+   "receiverLateral": -0.18,
+   "constVelPredErr": 3.47,
+   "constVelErrAlongRun": -3.46
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    2,
+    "support"
+   ],
+   [
+    6,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.3,
+   "kind": "receive"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    52.8,
+    34.02
+   ],
+   "receiverVel": [
+    6.62,
+    -1.41
+   ],
+   "receiverSpeed": 6.77,
+   "heading": 56.33918487400077
+  },
+  "opponentClosest": {
+   "player": "B07",
+   "tick": 42251,
+   "dt": 3.05,
+   "dist": 0.76,
+   "receiverDistThen": 5.59
+  },
+  "opponentDecisionBeforeTouch": "receive"
+ },
+ {
+  "window": "R:42130_base",
+  "kickTick": 42258,
+  "passer": "B07",
+  "receiver": "B09",
+  "team": "B",
+  "decision": {
+   "tick": 42256,
+   "how": "ordinary_pass_decision",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    61.68,
+    61.42
+   ],
+   "aimDistFromBall": 17.46
+  },
+  "passerView": {
+   "receiverPos": [
+    60.62,
+    60.86
+   ],
+   "receiverVel": [
+    3.04,
+    1.61
+   ],
+   "speed": 3.44,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 0.35
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    60.71,
+    60.9
+   ],
+   "receiverVel": [
+    2.23,
+    1.31
+   ],
+   "posErr": 0.1,
+   "velErr": 0.86
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 42256,
+   "kind": "support",
+   "target": [
+    55.95,
+    59.37
+   ],
+   "distToOwnTarget": 5.01
+  },
+  "kick": {
+   "origin": [
+    65.5,
+    44.65
+   ],
+   "speed": 12.27,
+   "passerTruthPos": [
+    66.26,
+    43.95
+   ]
+  },
+  "firstNext": {
+   "tick": 42299,
+   "dt": 2.05,
+   "type": "kick",
+   "player": "A09",
+   "team": "A",
+   "kind": "dribble",
+   "control": null
+  },
+  "outcome": "opponent_control",
+  "receiverClosest": {
+   "tick": 42299,
+   "dt": 2.05,
+   "dist": 1.84,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 42289,
+   "dt": 1.55,
+   "ballToAim": 0.85,
+   "receiverToAim": 5.15,
+   "receiverAheadOfAimAlongSeenRun": 0.46,
+   "receiverLateral": 5.13,
+   "constVelPredErr": 6.52,
+   "constVelErrAlongRun": -4.01
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    2,
+    "cover"
+   ],
+   [
+    6,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.3,
+   "kind": "receive"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    60.9,
+    61.01
+   ],
+   "receiverVel": [
+    1.67,
+    1.07
+   ],
+   "receiverSpeed": 1.98,
+   "heading": 138.80124332011775
+  },
+  "opponentClosest": {
+   "player": "A09",
+   "tick": 42299,
+   "dt": 2.05,
+   "dist": 1.09,
+   "receiverDistThen": 1.84
+  },
+  "opponentDecisionBeforeTouch": "receive"
+ },
+ {
+  "window": "R:42130_flight",
+  "kickTick": 42190,
+  "passer": "A05",
+  "receiver": "A10",
+  "team": "A",
+  "decision": {
+   "tick": 42188,
+   "how": "early_ball_intent(intercept)",
+   "reason": "remembered_outlet_lane",
+   "aim": [
+    64.02,
+    31.99
+   ],
+   "aimDistFromBall": 20.67
+  },
+  "passerView": {
+   "receiverPos": [
+    52.2,
+    34.2
+   ],
+   "receiverVel": [
+    6.64,
+    -1.24
+   ],
+   "speed": 6.76,
+   "ageTicks": 0,
+   "impliedLeadSeconds": 1.78
+  },
+  "truthAtDecision": {
+   "receiverPos": [
+    52.13,
+    34.16
+   ],
+   "receiverVel": [
+    6.62,
+    -1.41
+   ],
+   "posErr": 0.08,
+   "velErr": 0.17
+  },
+  "receiverOwnPlanAtDecision": {
+   "tick": 42188,
+   "kind": "support",
+   "target": [
+    56.95,
+    33.16
+   ],
+   "distToOwnTarget": 4.91
+  },
+  "kick": {
+   "origin": [
+    44.2,
+    26.9
+   ],
+   "speed": 13.86,
+   "passerTruthPos": [
+    43.33,
+    27.46
+   ]
+  },
+  "firstNext": {
+   "tick": 42216,
+   "dt": 1.3,
+   "type": "contact",
+   "player": "A10",
+   "team": "A",
+   "kind": null,
+   "control": true
+  },
+  "outcome": "target_control",
+  "receiverClosest": {
+   "tick": 42216,
+   "dt": 1.3,
+   "dist": 0.7,
+   "ballZ": 0.11
+  },
+  "ballNearAim": {
+   "tick": 42216,
+   "dt": 1.3,
+   "ballToAim": 3.93,
+   "receiverToAim": 3.53,
+   "receiverAheadOfAimAlongSeenRun": -3.53,
+   "receiverLateral": -0.01,
+   "constVelPredErr": 0.96,
+   "constVelErrAlongRun": -0.96
+  },
+  "receiverDecisionsAfterKick": [
+   [
+    2,
+    "support"
+   ],
+   [
+    6,
+    "receive"
+   ]
+  ],
+  "receiverFirstSawMovingBall": {
+   "decisionDt": 0.3,
+   "kind": "receive"
+  },
+  "truthAtKick": {
+   "receiverPos": [
+    52.8,
+    34.02
+   ],
+   "receiverVel": [
+    6.62,
+    -1.41
+   ],
+   "receiverSpeed": 6.77,
+   "heading": 56.33918487400077
+  },
+  "opponentClosest": {
+   "player": "B10",
+   "tick": 42191,
+   "dt": 0.05,
+   "dist": 3.56,
+   "receiverDistThen": 10.73
+  }
+ }
+]

@@ -1,0 +1,509 @@
+{
+ "input": "outlet_to_shot.json",
+ "rows": [
+  {
+   "tick": 78290,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78291,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78292,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78293,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78294,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78295,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78296,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78297,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78298,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78299,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78300,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78301,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78302,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78303,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78304,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78305,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78306,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78307,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78308,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78309,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78310,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78311,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78312,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78313,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78314,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78315,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78316,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78317,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78318,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78319,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78320,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78321,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78322,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78323,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78324,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78325,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78326,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78327,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78328,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78329,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78330,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78331,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78332,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78333,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78334,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78335,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78336,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78337,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78338,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78339,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78340,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78341,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78342,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78343,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78344,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78345,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78346,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78347,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78348,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78349,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78350,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78351,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78352,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78353,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78354,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78355,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78356,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78357,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78358,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78359,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78360,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78361,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78362,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78363,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78364,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78365,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78366,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78367,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78368,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78369,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78370,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78371,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78372,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78373,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78374,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78375,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78376,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78377,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78378,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78379,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78380,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78381,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78382,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78383,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78384,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78385,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78386,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78387,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78388,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78389,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78390,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78391,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78392,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78393,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78394,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78395,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78396,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78397,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78398,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78399,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78400,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78401,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78402,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78403,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78404,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78405,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78406,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78407,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78408,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78409,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78410,
+   "fixture": "OPC1_MOTOR_WITNESS"
+  },
+  {
+   "tick": 78411,
+   "fixture": "OPC1_RECONSTRUCTION"
+  },
+  {
+   "tick": 78412,
+   "fixture": "OPC1_RECONSTRUCTION"
+  },
+  {
+   "tick": 78413,
+   "fixture": "OPC1_RECONSTRUCTION"
+  },
+  {
+   "tick": 78414,
+   "fixture": "OPC1_RECONSTRUCTION"
+  },
+  {
+   "tick": 78415,
+   "fixture": "OPC1_RECONSTRUCTION"
+  }
+ ]
+}
