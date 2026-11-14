@@ -1,0 +1,68 @@
+
+## seed 20261120 kick 6430 B10->B08 speed 16.4 vz 0.1 firstEX 6475 (+45t) nEX 1 winEnd 6520
+  seq 6425:support 6430:cover 6435:cover 6440:cover 6445:cover 6450:R:FE0.9(d15.6,al15.0,lat4.3) 6455:R:FE0.8(d12.4,al11.3,lat5.2) 6460:R:FE0.6(d9.4,al8.3,lat4.4) 6465:R:FE0.5(d6.1,al4.7,lat3.9) 6470:R:FE2.0(d3.4,al1.3,lat3.2) 6475:R:EX(d3.0,al-2.0,lat2.2) 6480:press 6485:press 6490:press 6495:press 6500:press 6505:press 6510:press 6515:press
+  next [(6479, 'kick', 'A08', 'A', 'dribble', None), (6486, 'kick', 'A08', 'A', 'dribble', None)]
+
+## seed 20261120 kick 12171 B08->B10 speed 9.2 vz 0.1 firstEX 12212 (+41t) nEX 1 winEnd 12520
+  seq 12168:support 12172:support 12176:R:FE0.5(d6.3,al6.2,lat0.7) 12180:R:FE0.4(d5.4,al5.3,lat1.1) 12184:R:FE0.4(d4.8,al4.3,lat2.2) 12188:R:FE0.4(d4.2,al3.2,lat2.7) 12192:R:FE0.5(d3.8,al1.7,lat3.4) 12196:R:FE0.5(d3.7,al0.8,lat3.6) 12200:R:FE1.0(d3.6,al-0.4,lat3.6) 12204:R:FE1.7(d3.7,al-1.6,lat3.3) 12208:R:FE1.4(d3.8,al-2.4,lat3.0) 12212:R:EX(d3.8,al-2.5,lat2.9) 12216:R:FE1.5(d3.7,al-2.9,lat2.2) 12220:R:FE1.7(d3.6,al-3.1,lat1.9) 12224:R:FE0.8(d3.1,al-2.3,lat2.0) 12228:R:FE1.3(d2.9,al-2.5,lat1.3) 12232:R:FE0.9(d2.6,al-2.5,lat1.0) 12236:R:FE0.5(d2.2,al-1.9,lat1.1) 12240:R:FE0.4(d1.8,al-1.7,lat0.6) 12244:support 12248:support 12252:support
+  next [(12287, 'contact', 'A07', 'A', None, True), (12287, 'contact', 'A07', 'A', None, True), (12287, 'contact', 'A07', 'A', None, True), (12287, 'contact', 'A07', 'A', None, True)]
+
+## seed 20261120 kick 12361 A10->A09 speed 9.0 vz 0.1 firstEX 12388 (+27t) nEX 5 winEnd 12520
+  seq 12356:support 12360:support 12364:press 12368:R:FE0.3(d4.5,al4.2,lat1.7) 12372:press 12376:R:FE0.6(d3.5,al0.9,lat3.4) 12380:R:FE2.0(d4.1,al-0.8,lat4.0) 12384:R:FE1.4(d4.7,al-1.3,lat4.5) 12388:R:EX(d5.5,al-3.2,lat4.5) 12392:R:FE1.9(d6.1,al-3.5,lat4.9) 12396:R:EX(d6.5,al-4.9,lat4.3) 12400:R:FE1.8(d6.7,al-4.8,lat4.6) 12404:R:FE1.5(d6.5,al-4.9,lat4.4) 12408:R:FE1.4(d6.2,al-5.5,lat2.8) 12412:R:FE1.3(d6.0,al-5.3,lat2.7) 12416:restart_position 12420:restart_position 12424:restart_position 12428:restart_position 12432:restart_position 12436:restart_position 12440:restart_position
+  next []
+
+## seed 87312948 kick 6108 B06->B07 speed 8.2 vz 0.1 firstEX 6126 (+18t) nEX 6 winEnd 6400
+  seq 6102:support 6106:support 6110:support 6114:press 6118:intercept 6122:support 6126:R:EX(d3.1,al-3.0,lat0.6) 6130:R:EX(d4.5,al-4.5,lat0.7) 6134:R:EX(d5.8,al-5.7,lat0.8) 6138:R:EX(d6.8,al-6.7,lat0.6) 6142:R:EX(d7.4,al-7.3,lat0.7) 6146:R:EX(d8.0,al-8.0,lat0.5) 6150:support 6154:support 6158:support 6162:support 6166:support 6170:support 6174:support 6178:intercept 6182:R:EX(d2.3,al-2.0,lat1.0) 6186:R:EX(d4.1,al-4.1,lat0.4)
+  next [(6115, 'contact', 'A06', 'A', None, False), (6151, 'contact', 'B05', 'B', None, True), (6156, 'kick', 'B05', 'B', 'dribble', None), (6163, 'kick', 'B05', 'B', 'dribble', None)]
+
+## seed 87312948 kick 12337 B04->B09 speed 8.6 vz 0.1 firstEX 12349 (+12t) nEX 1 winEnd 12400
+  seq 12333:support 12337:support 12341:support 12345:pass 12349:R:EX(d1.9,al-1.9,lat0.2) 12353:R:FE1.6(d3.1,al-3.1,lat0.3) 12357:R:FE2.0(d4.0,al-4.0,lat0.1) 12361:support 12365:support 12369:support 12373:support 12377:support 12381:support 12385:support 12389:support 12393:support 12397:support
+  next [(12344, 'contact', 'B09', 'B', None, False), (12368, 'kick', 'B07', 'B', 'dribble', None), (12379, 'kick', 'B07', 'B', 'dribble', None), (12387, 'kick', 'B07', 'B', 'dribble', None)]
+
+## seed 87312948 kick 18014 A08->A09 speed 10.7 vz 0.1 firstEX 18038 (+24t) nEX 14 winEnd 18400
+  seq 18010:support 18014:support 18018:intercept 18022:press 18026:R:DP0.3(d4.0,al4.0,lat0.3) 18030:R:DP0.1(d1.1,al1.1,lat0.2) 18034:intercept 18038:R:EX(d3.1,al-3.1,lat0.3) 18042:R:EX(d4.3,al-4.3,lat0.4) 18046:R:EX(d5.4,al-5.3,lat0.7) 18050:R:EX(d5.9,al-5.9,lat0.1) 18054:R:EX(d6.4,al-6.3,lat1.1) 18058:R:EX(d6.4,al-6.4,lat0.5) 18062:R:EX(d6.8,al-6.8,lat0.1) 18066:R:EX(d6.7,al-6.7,lat0.7) 18070:R:EX(d6.8,al-6.8,lat0.5) 18074:R:EX(d6.6,al-6.4,lat1.4) 18078:R:EX(d6.5,al-6.5,lat0.6) 18082:R:EX(d6.5,al-6.5,lat0.0) 18086:R:EX(d6.3,al-6.3,lat0.5) 18090:R:EX(d6.4,al-6.3,lat0.6) 18094:support
+  next [(18031, 'contact', 'A09', 'A', None, False), (18140, 'kick', 'A07', 'A', 'pass', None), (18170, 'kick', 'A04', 'A', 'pass', None)]
+
+## seed 87312948 kick 18170 A04->A09 speed 16.7 vz 0.1 firstEX 18202 (+32t) nEX 11 winEnd 18400
+  seq 18166:cover 18170:support 18174:cover 18178:cover 18182:cover 18186:R:FE0.7(d12.7,al12.6,lat1.3) 18190:R:FE0.5(d9.1,al9.0,lat1.7) 18194:R:FE0.3(d5.5,al5.2,lat1.6) 18198:R:FE0.2(d2.3,al1.8,lat1.3) 18202:R:EX(d1.9,al-1.7,lat0.9) 18206:R:EX(d4.9,al-4.9,lat0.5) 18210:R:EX(d7.5,al-7.5,lat0.2) 18214:R:EX(d10.1,al-10.1,lat0.1) 18218:R:EX(d12.2,al-12.2,lat0.1) 18222:R:EX(d14.2,al-14.1,lat1.1) 18226:R:EX(d15.7,al-15.7,lat0.9) 18230:R:EX(d17.0,al-17.0,lat0.0) 18234:R:EX(d18.0,al-17.9,lat1.0) 18238:R:EX(d19.0,al-18.9,lat2.1) 18242:R:EX(d19.8,al-19.8,lat0.4) 18246:cover 18250:cover
+  next [(18299, 'kick', 'B04', 'B', 'pass', None)]
+
+## seed 87312948 kick 18299 B04->B07 speed 16.9 vz 0.1 firstEX 18330 (+31t) nEX 8 winEnd 18400
+  seq 18294:cover 18298:support 18302:cover 18306:cover 18310:cover 18314:R:FE0.8(d15.9,al15.7,lat2.2) 18318:R:FE0.6(d11.4,al11.3,lat1.8) 18322:R:FE0.4(d7.1,al6.9,lat1.6) 18326:R:FE0.2(d3.1,al2.7,lat1.5) 18330:R:EX(d1.4,al-1.0,lat0.9) 18334:R:EX(d4.5,al-4.5,lat0.4) 18338:R:EX(d7.6,al-7.6,lat0.1) 18342:R:EX(d10.6,al-10.6,lat0.3) 18346:R:EX(d13.1,al-13.1,lat0.4) 18350:R:EX(d15.4,al-15.3,lat1.4) 18354:R:EX(d17.3,al-17.3,lat1.2) 18358:R:EX(d19.0,al-19.0,lat0.4) 18362:cover 18366:cover 18370:cover 18374:cover 18378:cover
+  next [(18390, 'kick', 'A04', 'A', 'pass', None)]
+
+## seed 87312948 kick 24041 B09->B10 speed 11.5 vz 0.1 firstEX 24074 (+33t) nEX 3 winEnd 24400
+  seq 24038:cover 24042:support 24046:R:DP0.7(d12.3,al12.2,lat0.6) 24050:R:DP0.6(d9.3,al9.3,lat0.2) 24054:R:DP0.4(d6.1,al6.1,lat0.3) 24058:R:FE0.2(d3.5,al3.4,lat0.9) 24062:R:DP0.1(d1.0,al1.0,lat0.4) 24066:press 24070:press 24074:R:EX(d1.9,al-1.5,lat1.2) 24078:R:EX(d3.8,al-3.7,lat0.7) 24082:R:EX(d5.3,al-5.2,lat0.8) 24086:intercept 24090:R:DP0.3(d3.7,al3.6,lat0.8) 24094:intercept 24098:support 24102:support 24106:R:EX(d5.6,al-5.6,lat0.7) 24110:R:EX(d6.9,al-6.8,lat1.2) 24114:R:EX(d8.1,al-8.1,lat0.6) 24118:R:EX(d8.9,al-8.7,lat2.0) 24122:R:EX(d9.8,al-9.6,lat2.0)
+  next [(24063, 'contact', 'B10', 'B', None, False), (24067, 'contact', 'A07', 'A', None, False), (24084, 'kick', 'B09', 'B', 'pass', None), (24084, 'contact', 'B09', 'B', None, True)]
+
+## seed 87312948 kick 24091 B09->B07 speed 8.4 vz 0.1 firstEX 24106 (+15t) nEX 12 winEnd 24400
+  seq 24086:intercept 24090:R:FE0.7(d4.6,al-0.8,lat4.5) 24094:intercept 24098:R:FE0.1(d1.5,al1.0,lat1.1) 24102:R:FE0.8(d1.5,al-1.0,lat1.2) 24106:R:EX(d3.1,al-2.9,lat1.1) 24110:R:EX(d4.8,al-4.7,lat0.9) 24114:R:EX(d6.0,al-6.0,lat0.9) 24118:R:EX(d7.1,al-6.9,lat1.3) 24122:R:EX(d7.7,al-7.7,lat0.3) 24126:R:EX(d8.2,al-8.0,lat1.7) 24130:R:EX(d8.1,al-8.1,lat0.0) 24134:R:EX(d8.0,al-7.9,lat1.5) 24138:R:EX(d7.7,al-7.7,lat0.6) 24142:R:EX(d7.3,al-7.3,lat0.6) 24146:R:EX(d6.9,al-6.9,lat0.2) 24150:R:EX(d6.5,al-6.5,lat0.6) 24154:R:FE1.5(d6.0,al-6.0,lat0.3) 24158:R:FE1.6(d5.5,al-5.5,lat0.2) 24162:R:FE1.2(d4.9,al-4.8,lat1.1) 24166:R:FE1.1(d4.4,al-4.4,lat0.0) 24170:R:FE0.8(d3.9,al-3.8,lat0.2)
+  next [(24192, 'kick', 'A10', 'A', 'dribble', None), (24199, 'kick', 'A10', 'A', 'pass', None)]
+
+## seed 87312948 kick 24199 A10->A09 speed 9.1 vz 0.1 firstEX 24313 (+114t) nEX 18 winEnd 24400
+  seq 24194:support 24198:support 24202:intercept 24206:R:FE0.3(d3.6,al3.5,lat0.9) 24210:press 24214:R:FE1.3(d2.4,al-0.1,lat2.4) 24218:R:FE1.5(d3.3,al-2.1,lat2.6) 24222:R:FE1.6(d4.5,al-3.4,lat2.9) 24226:R:FE1.7(d5.5,al-4.8,lat2.8) 24230:R:FE1.8(d6.4,al-5.9,lat2.3) 24234:R:FE1.5(d6.9,al-6.2,lat3.0) 24238:R:FE1.4(d7.0,al-6.8,lat1.8) 24241:restart_position 24245:restart_position 24249:restart_position 24253:restart_position 24257:restart_position 24261:restart_position 24265:restart_position 24269:restart_position 24273:restart_position 24277:restart_position
+  next []
+
+## seed 87312948 kick 30040 A07->A09 speed 7.9 vz 0.1 firstEX 30058 (+18t) nEX 7 winEnd 30400
+  seq 30034:support 30038:support 30042:support 30046:R:FE0.1(d1.5,al1.4,lat0.4) 30050:R:FE0.2(d1.6,al0.2,lat1.6) 30054:R:FE1.2(d2.8,al-0.9,lat2.6) 30058:R:EX(d4.2,al-2.7,lat3.2) 30062:R:EX(d5.4,al-3.5,lat4.1) 30066:R:FE1.8(d6.0,al-3.3,lat5.0) 30070:R:EX(d6.7,al-5.3,lat4.1) 30074:R:EX(d7.0,al-4.9,lat5.1) 30078:R:EX(d7.1,al-5.0,lat5.0) 30082:R:EX(d7.0,al-5.5,lat4.3) 30086:R:EX(d6.6,al-5.2,lat4.1) 30090:R:FE1.3(d5.9,al-4.0,lat4.3) 30094:support 30098:support 30102:R:DP0.2(d2.4,al2.2,lat0.9) 30106:dribble 30110:pass 30114:dribble 30118:intercept
+  next [(30094, 'contact', 'A10', 'A', None, True), (30096, 'kick', 'A10', 'A', 'dribble', None), (30096, 'contact', 'A10', 'A', None, True), (30096, 'contact', 'A10', 'A', None, True)]
+
+## seed 87312948 kick 30319 A08->A10 speed 11.5 vz 0.1 firstEX 30346 (+27t) nEX 6 winEnd 30400
+  seq 30314:cover 30318:cover 30322:support 30326:R:FE0.8(d12.1,al12.0,lat1.3) 30330:R:FE0.7(d10.4,al10.3,lat1.0) 30334:R:FE0.6(d8.6,al7.9,lat3.3) 30338:R:FE0.6(d7.3,al5.9,lat4.4) 30342:R:FE0.8(d6.2,al3.6,lat5.1) 30346:R:EX(d5.6,al1.9,lat5.2) 30350:R:EX(d5.2,al0.4,lat5.2) 30354:R:EX(d5.5,al-1.5,lat5.3) 30358:R:EX(d6.0,al-3.1,lat5.1) 30362:R:EX(d6.3,al-3.5,lat5.2) 30366:R:EX(d6.6,al-4.6,lat4.8) 30370:intercept 30374:press 30378:R:EX(d4.4,al-1.7,lat4.0) 30382:R:EX(d5.7,al-4.8,lat3.0) 30386:R:EX(d7.8,al-7.4,lat2.4) 30390:press 30394:press 30398:press
+  next [(30368, 'contact', 'B10', 'B', None, True), (30369, 'contact', 'B10', 'B', None, True), (30370, 'contact', 'B10', 'B', None, True), (30371, 'contact', 'B10', 'B', None, True)]
+
+## seed 87312949 kick 6073 A07->A10 speed 9.1 vz 0.1 firstEX 6092 (+19t) nEX 13 winEnd 6400
+  seq 6068:intercept 6072:support 6076:intercept 6080:R:DP0.1(d1.4,al1.3,lat0.3) 6084:intercept 6088:intercept 6092:R:EX(d1.9,al-1.5,lat1.1) 6096:R:EX(d3.2,al-3.1,lat0.6) 6100:R:EX(d4.3,al-4.3,lat0.2) 6104:R:EX(d5.4,al-5.4,lat0.1) 6108:R:EX(d5.9,al-5.9,lat0.2) 6112:R:EX(d6.3,al-6.3,lat0.5) 6116:R:EX(d6.3,al-6.3,lat0.2) 6120:R:EX(d6.4,al-6.3,lat1.0) 6124:R:EX(d6.2,al-6.2,lat0.0) 6128:R:EX(d5.9,al-5.9,lat0.7) 6132:R:EX(d5.8,al-5.8,lat0.2) 6136:R:EX(d5.6,al-5.6,lat0.4) 6140:R:EX(d5.4,al-5.4,lat0.5) 6144:R:FE1.9(d5.1,al-5.1,lat0.4) 6148:R:FE1.3(d4.6,al-4.6,lat0.3) 6152:press
+  next [(6081, 'contact', 'A10', 'A', None, False), (6086, 'contact', 'A07', 'A', None, False), (6152, 'contact', 'B06', 'B', None, True), (6154, 'kick', 'B06', 'B', 'dribble', None)]
+
+## seed 87312949 kick 6158 B05->B08 speed 13.3 vz 0.1 firstEX 6249 (+91t) nEX 3 winEnd 6400
+  seq 6156:support 6161:support 6166:R:FE0.8(d14.2,al14.0,lat2.1) 6171:R:FE0.7(d11.3,al11.0,lat2.7) 6176:R:FE0.6(d8.3,al7.3,lat4.1) 6181:R:FE0.5(d5.5,al4.3,lat3.5) 6186:R:FE1.2(d3.3,al1.4,lat3.0) 6191:R:FE1.2(d3.3,al-2.0,lat2.7) 6196:R:FE1.2(d4.7,al-4.1,lat2.4) 6201:R:FE1.1(d6.5,al-6.3,lat1.8) 6204:restart_position 6209:restart_position 6214:restart_position 6219:restart_position 6224:restart_position 6229:restart_position 6234:restart_position 6239:restart_position 6244:restart_position 6249:R:EX(d11.9,al-0.5,lat11.9) 6254:R:EX(d13.4,al-3.5,lat13.0) 6259:R:EX(d15.1,al-6.4,lat13.7)
+  next [(6318, 'kick', 'B05', 'B', 'pass', None)]
+
+## seed 87312949 kick 18337 B06->B10 speed 12.8 vz 0.1 firstEX 18364 (+27t) nEX 9 winEnd 18400
+  seq 18332:support 18336:support 18340:cover 18344:R:FE0.8(d13.0,al12.8,lat2.2) 18348:R:FE0.6(d10.5,al10.4,lat1.4) 18352:R:FE0.5(d8.2,al7.9,lat2.3) 18356:R:FE0.4(d5.9,al5.1,lat3.1) 18360:R:FE0.3(d3.6,al2.6,lat2.6) 18364:R:EX(d2.2,al0.1,lat2.2) 18368:R:EX(d2.8,al-2.2,lat1.8) 18372:R:EX(d4.5,al-4.4,lat1.2) 18376:R:EX(d6.1,al-5.9,lat1.7) 18380:R:EX(d7.7,al-7.7,lat0.2) 18384:R:EX(d8.6,al-8.5,lat0.8) 18388:R:EX(d9.4,al-9.4,lat0.1) 18392:R:EX(d10.1,al-10.1,lat0.4) 18396:R:EX(d10.5,al-10.5,lat0.4)
+  next []
+
+## seed 87312949 kick 30162 A04->A09 speed 15.1 vz 0.1 firstEX 30196 (+34t) nEX 29 winEnd 30400
+  seq 30156:support 30160:support 30164:support 30168:cover 30172:cover 30176:R:FE0.7(d13.4,al13.2,lat2.3) 30180:R:FE0.6(d10.6,al10.4,lat2.0) 30184:R:FE0.5(d7.9,al7.7,lat1.6) 30188:R:FE0.3(d5.1,al4.4,lat2.6) 30192:R:FE0.2(d2.7,al1.7,lat2.1) 30196:R:EX(d2.1,al-1.2,lat1.7) 30200:R:EX(d4.1,al-3.9,lat1.1) 30204:R:EX(d6.1,al-6.0,lat1.0) 30208:R:EX(d8.2,al-8.1,lat0.3) 30212:R:EX(d9.8,al-9.8,lat0.3) 30216:R:EX(d11.3,al-11.3,lat0.5) 30220:R:EX(d12.6,al-12.6,lat0.6) 30224:R:EX(d13.3,al-13.3,lat0.6) 30228:R:EX(d14.2,al-14.2,lat0.6) 30232:R:EX(d14.8,al-14.8,lat0.4) 30236:R:EX(d15.2,al-15.2,lat0.6) 30240:R:EX(d16.0,al-16.0,lat0.1)
+  next [(30315, 'contact', 'B04', 'B', None, True), (30315, 'contact', 'B04', 'B', None, True), (30317, 'kick', 'B04', 'B', 'pass', None)]

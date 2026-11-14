@@ -1,0 +1,21 @@
+42188 apply 42190 support FE1.5 eta - tgt 56.9,33.2 tgtAheadOfObsBall 7.40 dTgt 4.9 bodyResid - tgtDir -12 turn  trueRunAfterApply -12 spd 6.5 trueBallDist 10.80
+42192 apply 42194 support VU eta - tgt 57.5,33.2 tgtAheadOfObsBall  dTgt 4.1 bodyResid - tgtDir -9 turn 2 trueRunAfterApply -9 spd 5.9 trueBallDist 10.48
+42196 apply 42198 receive FE0.5 eta 0.50 tgt 50.8,32.0 tgtAheadOfObsBall 4.96 dTgt 4.2 bodyResid 6.37 tgtDir -157 turn -148 trueRunAfterApply -11 spd 4.7 trueBallDist 9.18
+42200 apply 42202 receive FE0.6 eta 0.60 tgt 52.0,33.6 tgtAheadOfObsBall 4.90 dTgt 3.7 bodyResid 5.67 tgtDir 178 turn -24 trueRunAfterApply -15 spd 3.4 trueBallDist 7.91
+42204 apply 42206 receive FE0.5 eta 0.50 tgt 53.5,33.6 tgtAheadOfObsBall 4.07 dTgt 3.1 bodyResid 4.26 tgtDir 174 turn -5 trueRunAfterApply -18 spd 2.2 trueBallDist 6.59
+42208 apply 42210 receive FE0.4 eta 0.40 tgt 54.3,34.8 tgtAheadOfObsBall 3.39 dTgt 3.2 bodyResid 3.75 tgtDir 149 turn -25 trueRunAfterApply -13 spd 0.9 trueBallDist 5.28
+42212 apply 42214 receive FE0.4 eta 0.40 tgt 56.0,35.6 tgtAheadOfObsBall 3.24 dTgt 2.8 bodyResid 2.79 tgtDir 117 turn -31 trueRunAfterApply 87 spd 0.7 trueBallDist 4.08
+42216 apply 42218 receive EX eta 2.00 tgt 66.6,46.1 tgtAheadOfObsBall 16.14 dTgt 15.9 bodyResid 5.94 tgtDir 55 turn -62 trueRunAfterApply 79 spd 1.7 trueBallDist 3.21
+42220 apply 42222 receive EX eta 2.00 tgt 69.7,44.5 tgtAheadOfObsBall 15.70 dTgt 16.6 bodyResid 5.98 tgtDir 42 turn -13 trueRunAfterApply 61 spd 2.8 trueBallDist 3.03
+42224 apply 42226 receive EX eta 2.00 tgt 68.5,47.2 tgtAheadOfObsBall 14.65 dTgt 17.4 bodyResid 5.56 tgtDir 51 turn 8 trueRunAfterApply 54 spd 3.9 trueBallDist 3.51
+42228 apply 42230 receive EX eta 2.00 tgt 70.5,46.2 tgtAheadOfObsBall 13.84 dTgt 17.3 bodyResid 4.72 tgtDir 43 turn -8 trueRunAfterApply 49 spd 5.1 trueBallDist 4.19
+42232 apply 42234 receive EX eta 2.00 tgt 70.9,46.8 tgtAheadOfObsBall 12.96 dTgt 17.1 bodyResid 3.97 tgtDir 43 turn 0 trueRunAfterApply 45 spd 6.3 trueBallDist 4.76
+42236 apply 42238 receive EX eta 2.00 tgt 72.5,49.3 tgtAheadOfObsBall 14.05 dTgt 18.9 bodyResid 5.40 tgtDir 45 turn 2 trueRunAfterApply 46 spd 6.8 trueBallDist 5.15
+42240 apply 42242 receive EX eta 2.00 tgt 74.5,49.8 tgtAheadOfObsBall 14.19 dTgt 19.3 bodyResid 5.75 tgtDir 42 turn -3 trueRunAfterApply 42 spd 6.8 trueBallDist 5.33
+42244 apply 42246 receive EX eta 2.00 tgt 74.3,50.1 tgtAheadOfObsBall 12.66 dTgt 18.0 bodyResid 4.45 tgtDir 43 turn 1 trueRunAfterApply 44 spd 6.8 trueBallDist 5.46
+42248 apply 42250 receive EX eta 2.00 tgt 75.5,49.7 tgtAheadOfObsBall 11.97 dTgt 17.3 bodyResid 3.77 tgtDir 40 turn -4 trueRunAfterApply 40 spd 6.8 trueBallDist 5.55
+42252 apply 42254 press VU eta 2.00 tgt 66.1,44.0 tgtAheadOfObsBall  dTgt 5.4 bodyResid 0.03 tgtDir 57 turn 17 trueRunAfterApply 46 spd 6.7 trueBallDist 5.30
+42256 apply 42258 press FE0.7 eta 0.70 tgt 64.2,45.9 tgtAheadOfObsBall 1.99 dTgt 5.4 bodyResid 2.82 tgtDir 90 turn 33 trueRunAfterApply 57 spd 6.4 trueBallDist 4.24
+42260 apply 42262 intercept VU eta 2.00 tgt 65.1,45.9 tgtAheadOfObsBall  dTgt 4.4 bodyResid 0.66 tgtDir 90 turn -0 trueRunAfterApply 67 spd 5.8 trueBallDist 4.36
+events 42190:kick:A05:pass 42251:kick:B07:dribble 42258:kick:B07:pass
+true closest { d: 2.9960181269550312, t: 42219 }

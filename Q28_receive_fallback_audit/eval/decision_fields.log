@@ -1,0 +1,7 @@
+3270 ('applyTick', 'candidates', 'eta', 'kind', 'observedTick', 'reason', 'score', 'target')
+325 ('applyTick', 'candidates', 'eta', 'kind', 'observedTick', 'reason', 'reception', 'score', 'target')
+30 ('applyTick', 'ballActionIntent', 'candidates', 'earlyPreparation', 'eta', 'kind', 'observedTick', 'reason', 'reception', 'score', 'target')
+13 ('applyTick', 'ballActionIntent', 'candidates', 'earlyPreparation', 'eta', 'kind', 'observedTick', 'reason', 'score', 'target')
+9 ('applyTick', 'candidates', 'eta', 'kind', 'observedTick', 'reason', 'score', 'selfTouchCondition', 'target')
+[]
+intervals [(1, 56), (2, 70), (3, 56), (4, 23112), (5, 6888)]

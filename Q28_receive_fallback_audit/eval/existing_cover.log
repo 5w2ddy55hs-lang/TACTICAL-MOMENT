@@ -1,0 +1,24 @@
+{
+ "generic_exhausted": {
+  "n": 2458,
+  "v2plan": 0,
+  "zonalReasons": {
+   "observed_ball_eta_and_teammates": 2458
+  }
+ },
+ "generic_feasible": {
+  "n": 834,
+  "v2plan": 120,
+  "zonalReasons": {
+   "observed_ball_eta_and_teammates": 834
+  }
+ },
+ "dedicated_plan": {
+  "n": 355,
+  "v2plan": 355,
+  "zonalReasons": {
+   "R07_perceived_contact_cost_no_future_truth": 355
+  }
+ }
+}
+errors 0 undefined

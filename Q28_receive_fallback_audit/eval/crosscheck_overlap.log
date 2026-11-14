@@ -1,0 +1,7 @@
+recovery_failure overlap 12164-12300 decision keys equal True 712 kinds equal 712 receive DTO+decision identical 165 / 165 events equal True 19
+mutual_recovery no overlap
+breakthrough_outlet overlap 12235-12400 decision keys equal True 854 kinds equal 854 receive DTO+decision identical 80 / 80 events equal True 81
+contact_failure overlap 6039-6160 decision keys equal True 624 kinds equal 624 receive DTO+decision identical 135 / 135 events equal True 23
+far_receiver overlap 6122-6180 decision keys equal True 306 kinds equal 306 receive DTO+decision identical 49 / 49 events equal True 9
+outlet_to_shot no overlap
+outlet_unreached no overlap

@@ -1,0 +1,46 @@
+{
+  "decisions": 30490,
+  "receive": 3647,
+  "counts": {
+    "generic_feasible": 834,
+    "generic_exhausted": 2458,
+    "dedicated_plan": 355
+  },
+  "episodes": 464,
+  "selected": [
+    {
+      "seed": 20261120,
+      "player": "B03",
+      "start": 6001,
+      "end": 6001
+    },
+    {
+      "seed": 87312948,
+      "player": "A09",
+      "start": 6026,
+      "end": 6026
+    }
+  ]
+}
+{
+  "PASS": true,
+  "windows": 14,
+  "uniqueTicks": 5840,
+  "uniqueDecisions": 30490,
+  "receive": 3647,
+  "counts": {
+    "generic_feasible": 834,
+    "generic_exhausted": 2458,
+    "dedicated_plan": 355
+  },
+  "episodes": 464,
+  "sourceFiles": 208,
+  "externalReadDenied": true,
+  "checkedExact": [
+    "decisions",
+    "receive",
+    "counts",
+    "episodes",
+    "results"
+  ]
+}

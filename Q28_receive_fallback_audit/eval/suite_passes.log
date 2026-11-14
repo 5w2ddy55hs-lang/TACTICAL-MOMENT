@@ -1,0 +1,36 @@
+
+### recovery_failure seed 20261120 12164-12300
+kick 12171 B08->B10 (pass) speed 9.2 vz 0.1 | first next (12287, 'contact', 'A07', True) | true closest (1.46, 12246)
+    12168:support 12172:support 12176:FE0.5(al6.2,lat0.7,min3.7@12199) 12180:FE0.4(al5.3,lat1.1,min3.5@12220) 12184:FE0.4(al4.3,lat2.2,min3.2@12224) 12188:FE0.4(al3.2,lat2.7,min2.9@12228) 12192:FE0.5(al1.7,lat3.4,min2.5@12232) 12196:FE0.5(al0.8,lat3.6,min2.1@12236) 12200:FE1.0(al-0.4,lat3.6,min1.7@12240) 12204:FE1.7(al-1.6,lat3.3,min1.5@12244) 12208:FE1.4(al-2.4,lat3.0,min1.5@12246) 12212:EX(al-2.5,lat2.9,min1.5@12246) 12216:FE1.5(al-2.9,lat2.2,min1.5@12246) 12220:FE1.7(al-3.1,lat1.9,min1.5@12246) 12224:FE0.8(al-2.3,lat2.0,min1.5@12246) 12228:FE1.3(al-2.5,lat1.3,min1.5@12246) 12232:FE0.9(al-2.5,lat1.0,min1.5@12246) 12236:FE0.5(al-1.9,lat1.1,min1.5@12246) 12240:FE0.4(al-1.7,lat0.6,min1.5@12246) 12244:support 12248:support 12252:support 12256:support 12260:FE0.5(al-2.5,lat0.4,min1.8@12291) 12264:FE0.8(al-3.1,lat0.9,min1.8@12291) 12268:FE0.7(al-3.3,lat1.5,min1.8@12291)
+
+### mutual_recovery seed 20261120 24263-24360
+kick 24354 A08->A06 (pass) speed 11.3 vz 0.1 | first next (24355, 'contact', 'A08', False) | true closest (12.56, 24355)
+    24351:VU/int(al0.0,lat0.0,min12.3@24359) 24355:VU/int(al0.0,lat0.0,min12.3@24359) 24359:VU/int(al0.0,lat0.0,min12.3@24359)
+
+### breakthrough_outlet seed 87312949 12235-12400
+kick 12242 A06->A10 (pass) speed 8.3 vz 0.1 | first next (12243, 'kick', 'A05', None) | true closest (2.8, 12243)
+    12241:support 12245:support 12249:support 12253:support
+kick 12264 A05->A07 (pass) speed 13.3 vz 0.1 | first next (12314, 'contact', 'A07', True) | true closest (0.61, 12314)
+    12261:support 12265:support 12269:cover 12273:DP0.8(al14.3,lat0.8,min0.9@12313) 12277:DP0.7(al12.4,lat0.5,min0.5@12315) 12281:DP0.6(al10.6,lat1.9,min0.5@12315) 12285:DP0.6(al9.2,lat1.6,min0.5@12315) 12289:DP0.5(al8.0,lat1.4,min0.5@12315) 12293:DP0.4(al6.7,lat1.4,min0.5@12315) 12297:DP0.4(al5.7,lat0.3,min0.5@12315) 12301:DP0.3(al4.2,lat0.1,min0.5@12315) 12305:DP0.2(al3.0,lat0.1,min0.5@12315) 12309:DP0.1(al1.8,lat0.1,min0.5@12315) 12313:DP0.1(al0.9,lat0.1,min0.5@12315) 12317:dribble 12321:dribble
+kick 12367 A07->A09 (pass) speed 9.6 vz 0.1 | first next (12395, 'kick', 'A09', None) | true closest (0.65, 12395)
+    12365:support 12369:support 12373:DP0.4(al5.7,lat0.6,min0.5@12399) 12377:DP0.3(al4.8,lat0.2,min0.5@12399) 12381:DP0.2(al3.5,lat0.3,min0.5@12399) 12385:DP0.2(al2.4,lat0.3,min0.5@12399) 12389:DP0.1(al1.6,lat0.1,min0.5@12399) 12393:DP0.1(al1.0,lat0.1,min0.5@12399) 12397:dribble
+
+### contact_failure seed 87312949 6039-6160
+kick 6073 A07->A10 (pass) speed 9.1 vz 0.1 | first next (6081, 'contact', 'A10', False) | true closest (0.65, 6081)
+    6072:support 6076:VU/int(al0.0,lat0.0,min0.7@6081) 6080:DP0.1(al1.3,lat0.3,min0.7@6081) 6084:VU/int(al0.0,lat0.0,min1.4@6090) 6088:VU/int(al0.0,lat0.0,min1.4@6090)
+kick 6158 B05->B08 (pass) speed 13.3 vz 0.1 | first next None | true closest (18.48, 6159)
+    6156:support
+
+### far_receiver seed 87312948 6122-6180
+kick 6176 B05->B09 (pass) speed 15.3 vz 0.1 | first next None | true closest (23.35, 6179)
+    6174:support 6178:support
+
+### outlet_to_shot seed 87312949 78290-78515
+kick 78414 A07->A10 (pass) speed 14.7 vz 0.1 | first next (78459, 'contact', 'A10', True) | true closest (0.73, 78459)
+    78410:support 78414:cover 78418:cover 78422:cover 78426:cover 78430:DP0.8(al14.0,lat0.6,min0.5@78460) 78434:DP0.7(al11.5,lat1.7,min0.5@78460) 78438:DP0.5(al9.1,lat0.9,min0.5@78460) 78442:DP0.5(al7.2,lat1.1,min0.5@78460) 78446:DP0.3(al5.6,lat0.5,min0.5@78460) 78450:DP0.2(al3.9,lat0.6,min0.5@78460) 78454:DP0.1(al2.4,lat0.1,min0.5@78460) 78458:DP0.1(al1.1,lat0.1,min0.5@78460) 78462:shoot 78466:VU/int(al0.0,lat0.0,min3.1@78466)
+
+### outlet_unreached seed 87312948 42130-42400
+kick 42190 A05->A10 (pass) speed 11.2 vz 0.1 | first next (42251, 'kick', 'B07', None) | true closest (3.0, 42219)
+    42188:support 42192:support 42196:FE0.5(al9.0,lat1.1,min3.0@42219) 42200:FE0.6(al7.6,lat2.5,min3.0@42219) 42204:FE0.5(al6.4,lat1.9,min3.0@42219) 42208:FE0.4(al4.5,lat3.0,min3.0@42219) 42212:FE0.4(al2.9,lat2.8,min3.0@42219) 42216:EX(al0.5,lat3.3,min3.0@42219) 42220:EX(al-0.6,lat2.9,min3.0@42220) 42224:EX(al-2.5,lat2.6,min3.5@42224) 42228:EX(al-3.2,lat2.6,min3.8@42258) 42232:EX(al-4.0,lat2.3,min3.8@42258) 42236:EX(al-4.7,lat1.9,min3.8@42258) 42240:EX(al-5.0,lat2.0,min3.8@42258) 42244:EX(al-5.3,lat1.7,min3.8@42258) 42248:EX(al-5.2,lat1.9,min3.8@42258) 42252:VU/pre(al0.0,lat0.0,min3.8@42258) 42256:FE0.7/pre(al-1.8,lat3.9,min3.8@42258) 42260:VU/int(al0.0,lat0.0,min4.4@42260)
+kick 42258 B07->B09 (pass) speed 12.3 vz 0.1 | first next (42299, 'kick', 'A09', None) | true closest (1.84, 42299)
+    42256:support 42260:cover 42264:DP0.8(al13.5,lat0.1,min1.8@42299) 42268:DP0.7(al11.5,lat1.4,min1.8@42299) 42272:DP0.6(al9.9,lat0.1,min1.8@42299) 42276:DP0.5(al8.5,lat0.5,min1.8@42299) 42280:DP0.5(al7.5,lat0.4,min1.8@42299) 42284:DP0.4(al6.3,lat0.2,min1.8@42299) 42288:DP0.4(al5.4,lat0.2,min1.8@42299) 42292:DP0.3(al4.0,lat0.8,min1.8@42299) 42296:DP0.2(al2.7,lat0.3,min1.8@42299) 42300:VU/pre(al0.0,lat0.0,min2.0@42300) 42304:FE0.2/pre(al0.1,lat2.0,min2.0@42306) 42308:VU/pre(al0.0,lat0.0,min2.2@42308)

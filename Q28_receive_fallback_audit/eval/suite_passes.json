@@ -1,0 +1,333 @@
+[
+ {
+  "case": "recovery_failure",
+  "kick": 12171,
+  "passer": "B08",
+  "receiver": "B10",
+  "speed": 9.183593655173514,
+  "vz": 0.1,
+  "first": {
+   "tick": 12287,
+   "type": "contact",
+   "player": "A07",
+   "control": true
+  },
+  "trueClosest": [
+   1.4585652504965194,
+   12246
+  ],
+  "seq": [
+   "12168:support",
+   "12172:support",
+   "12176:FE0.5(al6.2,lat0.7,min3.7@12199)",
+   "12180:FE0.4(al5.3,lat1.1,min3.5@12220)",
+   "12184:FE0.4(al4.3,lat2.2,min3.2@12224)",
+   "12188:FE0.4(al3.2,lat2.7,min2.9@12228)",
+   "12192:FE0.5(al1.7,lat3.4,min2.5@12232)",
+   "12196:FE0.5(al0.8,lat3.6,min2.1@12236)",
+   "12200:FE1.0(al-0.4,lat3.6,min1.7@12240)",
+   "12204:FE1.7(al-1.6,lat3.3,min1.5@12244)",
+   "12208:FE1.4(al-2.4,lat3.0,min1.5@12246)",
+   "12212:EX(al-2.5,lat2.9,min1.5@12246)",
+   "12216:FE1.5(al-2.9,lat2.2,min1.5@12246)",
+   "12220:FE1.7(al-3.1,lat1.9,min1.5@12246)",
+   "12224:FE0.8(al-2.3,lat2.0,min1.5@12246)",
+   "12228:FE1.3(al-2.5,lat1.3,min1.5@12246)",
+   "12232:FE0.9(al-2.5,lat1.0,min1.5@12246)",
+   "12236:FE0.5(al-1.9,lat1.1,min1.5@12246)",
+   "12240:FE0.4(al-1.7,lat0.6,min1.5@12246)",
+   "12244:support",
+   "12248:support",
+   "12252:support",
+   "12256:support",
+   "12260:FE0.5(al-2.5,lat0.4,min1.8@12291)",
+   "12264:FE0.8(al-3.1,lat0.9,min1.8@12291)",
+   "12268:FE0.7(al-3.3,lat1.5,min1.8@12291)",
+   "12272:FE0.7(al-3.6,lat0.9,min1.8@12291)",
+   "12276:FE0.6/int(al-3.3,lat1.4,min1.8@12291)",
+   "12280:support",
+   "12284:FE0.5/int(al-2.5,lat0.7,min1.8@12291)",
+   "12288:VU/int(al0.0,lat0.0,min1.8@12291)",
+   "12292:FE0.3(al-1.3,lat1.3,min1.9@12292)",
+   "12296:FE0.6(al-2.7,lat0.2,min2.6@12296)"
+  ]
+ },
+ {
+  "case": "mutual_recovery",
+  "kick": 24354,
+  "passer": "A08",
+  "receiver": "A06",
+  "speed": 11.283294920646071,
+  "vz": 0.1,
+  "first": {
+   "tick": 24355,
+   "type": "contact",
+   "player": "A08",
+   "control": false
+  },
+  "trueClosest": [
+   12.563311376636962,
+   24355
+  ],
+  "seq": [
+   "24351:VU/int(al0.0,lat0.0,min12.3@24359)",
+   "24355:VU/int(al0.0,lat0.0,min12.3@24359)",
+   "24359:VU/int(al0.0,lat0.0,min12.3@24359)"
+  ]
+ },
+ {
+  "case": "breakthrough_outlet",
+  "kick": 12242,
+  "passer": "A06",
+  "receiver": "A10",
+  "speed": 8.266356409970673,
+  "vz": 0.1,
+  "first": {
+   "tick": 12243,
+   "type": "kick",
+   "player": "A05",
+   "control": null
+  },
+  "trueClosest": [
+   2.7988814591989977,
+   12243
+  ],
+  "seq": [
+   "12241:support",
+   "12245:support",
+   "12249:support",
+   "12253:support"
+  ]
+ },
+ {
+  "case": "breakthrough_outlet",
+  "kick": 12264,
+  "passer": "A05",
+  "receiver": "A07",
+  "speed": 13.34648552451578,
+  "vz": 0.1,
+  "first": {
+   "tick": 12314,
+   "type": "contact",
+   "player": "A07",
+   "control": true
+  },
+  "trueClosest": [
+   0.6074111134598542,
+   12314
+  ],
+  "seq": [
+   "12261:support",
+   "12265:support",
+   "12269:cover",
+   "12273:DP0.8(al14.3,lat0.8,min0.9@12313)",
+   "12277:DP0.7(al12.4,lat0.5,min0.5@12315)",
+   "12281:DP0.6(al10.6,lat1.9,min0.5@12315)",
+   "12285:DP0.6(al9.2,lat1.6,min0.5@12315)",
+   "12289:DP0.5(al8.0,lat1.4,min0.5@12315)",
+   "12293:DP0.4(al6.7,lat1.4,min0.5@12315)",
+   "12297:DP0.4(al5.7,lat0.3,min0.5@12315)",
+   "12301:DP0.3(al4.2,lat0.1,min0.5@12315)",
+   "12305:DP0.2(al3.0,lat0.1,min0.5@12315)",
+   "12309:DP0.1(al1.8,lat0.1,min0.5@12315)",
+   "12313:DP0.1(al0.9,lat0.1,min0.5@12315)",
+   "12317:dribble",
+   "12321:dribble"
+  ]
+ },
+ {
+  "case": "breakthrough_outlet",
+  "kick": 12367,
+  "passer": "A07",
+  "receiver": "A09",
+  "speed": 9.580989494072718,
+  "vz": 0.1,
+  "first": {
+   "tick": 12395,
+   "type": "kick",
+   "player": "A09",
+   "control": null
+  },
+  "trueClosest": [
+   0.6498827726761187,
+   12395
+  ],
+  "seq": [
+   "12365:support",
+   "12369:support",
+   "12373:DP0.4(al5.7,lat0.6,min0.5@12399)",
+   "12377:DP0.3(al4.8,lat0.2,min0.5@12399)",
+   "12381:DP0.2(al3.5,lat0.3,min0.5@12399)",
+   "12385:DP0.2(al2.4,lat0.3,min0.5@12399)",
+   "12389:DP0.1(al1.6,lat0.1,min0.5@12399)",
+   "12393:DP0.1(al1.0,lat0.1,min0.5@12399)",
+   "12397:dribble"
+  ]
+ },
+ {
+  "case": "contact_failure",
+  "kick": 6073,
+  "passer": "A07",
+  "receiver": "A10",
+  "speed": 9.126207938216185,
+  "vz": 0.1,
+  "first": {
+   "tick": 6081,
+   "type": "contact",
+   "player": "A10",
+   "control": false
+  },
+  "trueClosest": [
+   0.6513188986994786,
+   6081
+  ],
+  "seq": [
+   "6072:support",
+   "6076:VU/int(al0.0,lat0.0,min0.7@6081)",
+   "6080:DP0.1(al1.3,lat0.3,min0.7@6081)",
+   "6084:VU/int(al0.0,lat0.0,min1.4@6090)",
+   "6088:VU/int(al0.0,lat0.0,min1.4@6090)"
+  ]
+ },
+ {
+  "case": "contact_failure",
+  "kick": 6158,
+  "passer": "B05",
+  "receiver": "B08",
+  "speed": 13.277508128386293,
+  "vz": 0.1,
+  "first": null,
+  "trueClosest": [
+   18.484625628096797,
+   6159
+  ],
+  "seq": [
+   "6156:support"
+  ]
+ },
+ {
+  "case": "far_receiver",
+  "kick": 6176,
+  "passer": "B05",
+  "receiver": "B09",
+  "speed": 15.338118706847897,
+  "vz": 0.1,
+  "first": null,
+  "trueClosest": [
+   23.348908891853615,
+   6179
+  ],
+  "seq": [
+   "6174:support",
+   "6178:support"
+  ]
+ },
+ {
+  "case": "outlet_to_shot",
+  "kick": 78414,
+  "passer": "A07",
+  "receiver": "A10",
+  "speed": 14.715355771381947,
+  "vz": 0.1,
+  "first": {
+   "tick": 78459,
+   "type": "contact",
+   "player": "A10",
+   "control": true
+  },
+  "trueClosest": [
+   0.7270350148646646,
+   78459
+  ],
+  "seq": [
+   "78410:support",
+   "78414:cover",
+   "78418:cover",
+   "78422:cover",
+   "78426:cover",
+   "78430:DP0.8(al14.0,lat0.6,min0.5@78460)",
+   "78434:DP0.7(al11.5,lat1.7,min0.5@78460)",
+   "78438:DP0.5(al9.1,lat0.9,min0.5@78460)",
+   "78442:DP0.5(al7.2,lat1.1,min0.5@78460)",
+   "78446:DP0.3(al5.6,lat0.5,min0.5@78460)",
+   "78450:DP0.2(al3.9,lat0.6,min0.5@78460)",
+   "78454:DP0.1(al2.4,lat0.1,min0.5@78460)",
+   "78458:DP0.1(al1.1,lat0.1,min0.5@78460)",
+   "78462:shoot",
+   "78466:VU/int(al0.0,lat0.0,min3.1@78466)"
+  ]
+ },
+ {
+  "case": "outlet_unreached",
+  "kick": 42190,
+  "passer": "A05",
+  "receiver": "A10",
+  "speed": 11.215800098473837,
+  "vz": 0.1,
+  "first": {
+   "tick": 42251,
+   "type": "kick",
+   "player": "B07",
+   "control": null
+  },
+  "trueClosest": [
+   2.9960181269550312,
+   42219
+  ],
+  "seq": [
+   "42188:support",
+   "42192:support",
+   "42196:FE0.5(al9.0,lat1.1,min3.0@42219)",
+   "42200:FE0.6(al7.6,lat2.5,min3.0@42219)",
+   "42204:FE0.5(al6.4,lat1.9,min3.0@42219)",
+   "42208:FE0.4(al4.5,lat3.0,min3.0@42219)",
+   "42212:FE0.4(al2.9,lat2.8,min3.0@42219)",
+   "42216:EX(al0.5,lat3.3,min3.0@42219)",
+   "42220:EX(al-0.6,lat2.9,min3.0@42220)",
+   "42224:EX(al-2.5,lat2.6,min3.5@42224)",
+   "42228:EX(al-3.2,lat2.6,min3.8@42258)",
+   "42232:EX(al-4.0,lat2.3,min3.8@42258)",
+   "42236:EX(al-4.7,lat1.9,min3.8@42258)",
+   "42240:EX(al-5.0,lat2.0,min3.8@42258)",
+   "42244:EX(al-5.3,lat1.7,min3.8@42258)",
+   "42248:EX(al-5.2,lat1.9,min3.8@42258)",
+   "42252:VU/pre(al0.0,lat0.0,min3.8@42258)",
+   "42256:FE0.7/pre(al-1.8,lat3.9,min3.8@42258)",
+   "42260:VU/int(al0.0,lat0.0,min4.4@42260)"
+  ]
+ },
+ {
+  "case": "outlet_unreached",
+  "kick": 42258,
+  "passer": "B07",
+  "receiver": "B09",
+  "speed": 12.26708653959754,
+  "vz": 0.1,
+  "first": {
+   "tick": 42299,
+   "type": "kick",
+   "player": "A09",
+   "control": null
+  },
+  "trueClosest": [
+   1.8422133306765387,
+   42299
+  ],
+  "seq": [
+   "42256:support",
+   "42260:cover",
+   "42264:DP0.8(al13.5,lat0.1,min1.8@42299)",
+   "42268:DP0.7(al11.5,lat1.4,min1.8@42299)",
+   "42272:DP0.6(al9.9,lat0.1,min1.8@42299)",
+   "42276:DP0.5(al8.5,lat0.5,min1.8@42299)",
+   "42280:DP0.5(al7.5,lat0.4,min1.8@42299)",
+   "42284:DP0.4(al6.3,lat0.2,min1.8@42299)",
+   "42288:DP0.4(al5.4,lat0.2,min1.8@42299)",
+   "42292:DP0.3(al4.0,lat0.8,min1.8@42299)",
+   "42296:DP0.2(al2.7,lat0.3,min1.8@42299)",
+   "42300:VU/pre(al0.0,lat0.0,min2.0@42300)",
+   "42304:FE0.2/pre(al0.1,lat2.0,min2.0@42306)",
+   "42308:VU/pre(al0.0,lat0.0,min2.2@42308)"
+  ]
+ }
+]

@@ -1,0 +1,6 @@
+exhausted eta values Counter({'2.0000000000000004': 2458})
+feasible t=2.0 count 30
+clamped exhausted -> first event within 60t Counter({'restart_placement': 257, 'contact': 155, 'kick': 131, 'goal': 12, 'none': 10})
+unclamped exhausted -> first event within 60t Counter({'contact': 705, 'none': 609, 'kick': 539, 'restart_placement': 40})
+team-ticks by number of players currently on exhausted receive [(0, 6852), (1, 1786), (2, 1600), (3, 916), (4, 370), (5, 128), (6, 28)]
+team-ticks by number of players currently on any receive [(0, 5566), (1, 1713), (2, 1634), (3, 1554), (4, 903), (5, 215), (6, 95)]

@@ -1,0 +1,14 @@
+42196 generic plan_ok_or_miss tClosest 0.74 closestOffset 1.12 reachAtTc 5.52 maxSpeed 6.77 ownSpeed 6.04
+42200 generic plan_ok_or_miss tClosest 0.76 closestOffset 2.53 reachAtTc 5.63 maxSpeed 6.77 ownSpeed 4.81
+42204 generic plan_ok_or_miss tClosest 0.65 closestOffset 1.94 reachAtTc 4.87 maxSpeed 6.77 ownSpeed 3.58
+42208 generic plan_ok_or_miss tClosest 0.43 closestOffset 2.99 reachAtTc 3.42 maxSpeed 6.77 ownSpeed 2.31
+42212 generic closest_point_out_of_reach tClosest 0.30 closestOffset 2.81 reachAtTc 2.50 maxSpeed 6.77 ownSpeed 1.06
+42216 generic closest_point_out_of_reach tClosest 0.06 closestOffset 3.29 reachAtTc 0.86 maxSpeed 6.77 ownSpeed 0.57
+42220 generic closest_passed tClosest -0.07 closestOffset 2.93 reachAtTc 0.04 maxSpeed 6.77 ownSpeed 1.57
+42224 generic closest_passed tClosest -0.28 closestOffset 2.57 reachAtTc -1.43 maxSpeed 6.77 ownSpeed 2.62
+42228 generic closest_passed tClosest -0.38 closestOffset 2.64 reachAtTc -2.10 maxSpeed 6.77 ownSpeed 3.79
+42232 generic closest_passed tClosest -0.50 closestOffset 2.32 reachAtTc -2.92 maxSpeed 6.77 ownSpeed 4.99
+42236 generic closest_passed tClosest -0.55 closestOffset 1.90 reachAtTc -3.24 maxSpeed 6.77 ownSpeed 6.16
+42240 generic closest_passed tClosest -0.58 closestOffset 1.98 reachAtTc -3.42 maxSpeed 6.77 ownSpeed 6.77
+42244 generic closest_passed tClosest -0.68 closestOffset 1.68 reachAtTc -4.12 maxSpeed 6.77 ownSpeed 6.77
+42248 generic closest_passed tClosest -0.72 closestOffset 1.88 reachAtTc -4.36 maxSpeed 6.77 ownSpeed 6.77
