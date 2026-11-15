@@ -52,3 +52,7 @@
 ## 追補（Q29F）
 
 `REPORT_Q29F_UNWITNESSED_TOUCH_CONSTRUCTION_JA.md`：記憶欄を書き換えず、既存保存からの実際の視界・接触・認識更新で「古い自己目撃が残る」局面を構成できるかの確認。約 201,000 判断で近距離の例は 0 件（理由は視界の契約）。候補・係数の追加なし。道具は `tools/record_scan.mjs`、`tools/find_unwitnessed.mjs`、出力は `eval_f/`。
+
+## 追補（Q29G）
+
+`REPORT_Q29G_CORRECTIONS_AND_HANDOVER_JA.md`：Q29F の訂正（2 つの連続局面、球の速度記憶 24 tick と鮮度条件、目撃条件、走査の限界）と、利益対照・正常対照・別担当への引継ぎの整理。追跡はここで区切り。
