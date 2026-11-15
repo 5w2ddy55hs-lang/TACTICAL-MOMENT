@@ -1,0 +1,76 @@
+[
+ {
+  "arm": "O1_v2",
+  "player": "A05",
+  "team": "A",
+  "episode": [
+   42160,
+   42164
+  ],
+  "decisions": 2,
+  "posAtFirst": {
+   "x": 38.97,
+   "y": 30.35
+  },
+  "touch": {
+   "tick": 42170,
+   "type": "kick",
+   "kind": "pass",
+   "targetId": "A10",
+   "vel": {
+    "x": 6.68,
+    "y": 7.18
+   },
+   "pos": {
+    "x": 41.32,
+    "y": 28.85
+   }
+  },
+  "ticksToTouch": 10,
+  "outgoingDecision": {
+   "tick": 42168,
+   "kind": "pass",
+   "ebi": null,
+   "candidates": [
+    "pass→A10:1.19",
+    "pass→A08:1.09",
+    "pass→A09:1.09",
+    "dribble:0.89",
+    "cover:0.65",
+    "pass→A03:0.45"
+   ]
+  },
+  "nearestAtTouch": [
+   {
+    "id": "B10",
+    "team": "B",
+    "d": 3.91
+   },
+   {
+    "id": "B05",
+    "team": "B",
+    "d": 4.87
+   },
+   {
+    "id": "A06",
+    "team": "A",
+    "d": 8.16
+   },
+   {
+    "id": "A10",
+    "team": "A",
+    "d": 8.55
+   }
+  ],
+  "nextEvent": {
+   "tick": 42241,
+   "type": "contact",
+   "player": "B07",
+   "team": "B",
+   "kind": null,
+   "control": true
+  },
+  "outcome": "opponent:contact:ctl=true",
+  "windowEnd": 42399
+ }
+]

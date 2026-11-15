@@ -1,0 +1,18 @@
+## base
+  60081 intercept gen tgt(74.1,64.7) eta 0.7 | dBall 4.53 v 2.5 tc -0.83 | lastTouch ['B09'] @60043 | self v 6.5
+  60085 intercept (ball unknown v)
+  60089 receive gen tgt(76.6,65.2) eta 0.7 | dBall 3.10 v 4.3 tc -0.55 | lastTouch ['B09'] @60083 | self v 5.7
+  60093 intercept (ball unknown v)
+  60097 receive gen tgt(77.5,65.0) eta 0.5 | dBall 2.34 v 4.1 tc -0.52 | lastTouch ['B09'] @60090 | self v 4.6
+  60101 receive gen tgt(77.7,65.1) eta 0.4 | dBall 2.15 v 3.6 tc -0.56 | lastTouch ['B09'] @60090 | self v 4.5
+  events: [(60083, 'kick', 'B09', 'dribble', None), (60090, 'kick', 'B09', 'dribble', None), (60127, 'kick', 'A09', 'dribble', None), (60127, 'kick', 'B09', 'dribble', None), (60134, 'kick', 'A09', 'dribble', None), (60134, 'kick', 'B09', 'dribble', None), (60141, 'kick', 'A09', 'pass', 'A10'), (60143, 'kick', 'A07', 'pass', 'A06'), (60207, 'kick', 'A06', 'dribble', None), (60219, 'kick', 'A06', 'dribble', None), (60235, 'kick', 'A06', 'pass', 'A10'), (60291, 'kick', 'A10', 'dribble', None), (60298, 'kick', 'A10', 'dribble', None), (60305, 'kick', 'A10', 'dribble', None)]
+  control runs (first tick, player): [(60129, 'A09'), (60285, 'A10')]
+## v2x
+  60081 intercept gen tgt(74.1,64.7) eta 0.7 | dBall 4.53 v 2.5 tc -0.83 | lastTouch ['B09'] @60043 | self v 6.5
+  60085 intercept (ball unknown v)
+  60089 receive DP tgt(80.9,65.6) eta 1.5 | dBall 3.10 v 4.3 tc -0.55 | lastTouch ['B09'] @60083 | self v 5.7
+  60093 intercept (ball unknown v)
+  60097 receive DP tgt(81.7,65.4) eta 1.35 | dBall 2.36 v 4.1 tc -0.53 | lastTouch ['B09'] @60090 | self v 4.6
+  60101 receive DP tgt(80.8,65.5) eta 1.1 | dBall 2.18 v 3.6 tc -0.57 | lastTouch ['B09'] @60090 | self v 4.4
+  events: [(60083, 'kick', 'B09', 'dribble', None), (60090, 'kick', 'B09', 'dribble', None), (60123, 'kick', 'A09', 'dribble', None), (60127, 'kick', 'B09', 'dribble', None), (60130, 'kick', 'A09', 'pass', 'A10'), (60161, 'kick', 'A04', 'pass', 'A10'), (60367, 'kick', 'B01', 'pass', 'B08')]
+  control runs (first tick, player): [(60124, 'A09'), (60362, 'B01')]

@@ -1,0 +1,77 @@
+[
+ {
+  "arm": "O3_v2",
+  "player": "A07",
+  "team": "A",
+  "episode": [
+   12341,
+   12349
+  ],
+  "decisions": 3,
+  "posAtFirst": {
+   "x": 34.8,
+   "y": 57.45
+  },
+  "touch": {
+   "tick": 12355,
+   "type": "kick",
+   "kind": "pass",
+   "targetId": "A09",
+   "vel": {
+    "x": 7.91,
+    "y": 4.83
+   },
+   "pos": {
+    "x": 37.95,
+    "y": 57.37
+   }
+  },
+  "ticksToTouch": 14,
+  "outgoingDecision": {
+   "tick": 12353,
+   "kind": "pass",
+   "ebi": null,
+   "candidates": [
+    "pass→A09:1.18",
+    "pass→A10:1.13",
+    "dribble:1.04",
+    "cover:0.65",
+    "pass→A06:-0.64",
+    "pass→A05:-0.64",
+    "pass→A01:-1.05"
+   ]
+  },
+  "nearestAtTouch": [
+   {
+    "id": "B09",
+    "team": "B",
+    "d": 4.4
+   },
+   {
+    "id": "A09",
+    "team": "A",
+    "d": 5.74
+   },
+   {
+    "id": "B10",
+    "team": "B",
+    "d": 5.75
+   },
+   {
+    "id": "A10",
+    "team": "A",
+    "d": 19.54
+   }
+  ],
+  "nextEvent": {
+   "tick": 12408,
+   "type": "restart_placement",
+   "player": null,
+   "team": "B",
+   "kind": "throw_in",
+   "control": null
+  },
+  "outcome": "out:throw_in:B",
+  "windowEnd": 12499
+ }
+]

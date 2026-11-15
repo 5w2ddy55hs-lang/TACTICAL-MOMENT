@@ -1,0 +1,5 @@
+{"dribbleKicks":83,"clampedTarget":4,"clampedAndOut":3,"outBeforeAnyTouch":3,"outWithUnclampedTarget":0,"nearEdgeLT4m":26,"nearEdgeLT4mClamped":4}
+ O1_base.json.gz 42330 A09 tgt(67.7,67.8) clamped=true edge=3.12 next=42362 restart_placement  throw_in out=true
+ O4_base.json.gz 60134 B09 tgt(87.45,67.8) clamped=true edge=2.71 next=60136 contact A09  out=false
+ O4_v2.json.gz 60056 B09 tgt(72.43,67.8) clamped=true edge=3.37 next=60083 restart_placement  throw_in out=true
+ outlet_unreached.json.gz 42330 A09 tgt(67.7,67.8) clamped=true edge=3.12 next=42362 restart_placement  throw_in out=true

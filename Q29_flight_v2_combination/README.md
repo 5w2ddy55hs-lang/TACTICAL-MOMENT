@@ -36,3 +36,7 @@
 ## 追補（Q29B）
 
 `REPORT_Q29B_V2_FIRST_TOUCH_JA.md`：受球V2が4機会ともドリブラー自身の次タッチに先に作用した理由。判断→動作→パス時刻の追跡と、全DTOでの分類。道具は `tools/v2_first_touch.mjs`、`tools/v2_first_touch_table.py`、`tools/v2_where_differs.mjs`、出力は `eval/v2_first_touch_*`、`eval/v2_where_differs.json`。新しい実行はなく、Q29 の記録の読み取りだけです。
+
+## 追補（Q29C）
+
+`REPORT_Q29C_OWN_TOUCH_FOLLOWUP_JA.md`、`PREREGISTERED_Q29C.md`：本人のドリブル後に V2 が作用した6区間を次のプレーまで追跡し、球外2件を「自然なミス／繰り返す構造」で区別。隔離候補 v2x（`v2x_source/`、`tools/build_v2x.sh`：V2 に1行追加、独自の名札）を同じ5開始状態で基準・V2 と比較。O1・O2・O3・O5 では v2x ＝ 基準、O4 では他人の球への作用だけが残った。正式採否は変えていません。

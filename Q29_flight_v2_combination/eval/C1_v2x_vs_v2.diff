@@ -1,0 +1,16 @@
+diff -r /tmp/claude-0/-home-user-TACTICAL-MOMENT/a6870839-969d-594b-91f5-442027cb70e1/scratchpad/q29/set/research/l21_natural/recovered/l21_receive_compare/branches/base_on/pass_build_identity.mjs /tmp/claude-0/-home-user-TACTICAL-MOMENT/a6870839-969d-594b-91f5-442027cb70e1/scratchpad/q29/set/research/l21_natural/recovered/l21_receive_compare/branches/q29c_v2x/pass_build_identity.mjs
+1,4c1,5
+< export const PASS_BUILD_SHA256='7328899491c397bf68d86e70e7628ca207b58e4a2a94bb23e547e06cd52cfeec';
+< export const PASS_SAVE_SCHEMA='TM_COMBO_BASE_RECEPTION_INTEGRATION_I8_STANDARD_SAVE/1';
+< export const PASS_ENGINE='TM_COMBO_BASE_RECEPTION_INTEGRATION_I8_STANDARD_PASS_R1_CLAUDE_COUNTDOWN';
+< export const PASS_RESULT_SCHEMA='TM_COMBO_BASE_RECEPTION_INTEGRATION_I8_STANDARD_RESULT/1';
+---
+> // Q29C RESEARCH ONLY (not adopted): receive V2 without the extension for the player's own pushed ball. Own identity.
+> export const PASS_BUILD_SHA256='f3110ee43e0861202423b805fe4f0e0e3a9cb60392d510b4b47b0823294dedf5';
+> export const PASS_SAVE_SCHEMA='TM_RESEARCH_Q29C_V2X_SAVE/1';
+> export const PASS_ENGINE='TM_RESEARCH_Q29C_V2X_PASS_R1';
+> export const PASS_RESULT_SCHEMA='TM_RESEARCH_Q29C_V2X_RESULT/1';
+diff -r /tmp/claude-0/-home-user-TACTICAL-MOMENT/a6870839-969d-594b-91f5-442027cb70e1/scratchpad/q29/set/research/l21_natural/recovered/l21_receive_compare/branches/base_on/reception.mjs /tmp/claude-0/-home-user-TACTICAL-MOMENT/a6870839-969d-594b-91f5-442027cb70e1/scratchpad/q29/set/research/l21_natural/recovered/l21_receive_compare/branches/q29c_v2x/reception.mjs
+17a18,19
+>  // Q29C RESEARCH ONLY: own pushed ball (latest witnessed touch is self) keeps the I17 generic pursuit; no V2 extension.
+>  if(tClosest<=0&&p.observedTouch&&p.observedTouch.players.length>0&&p.observedTouch.players.every(q=>q.id===p.id))return null;

@@ -1,0 +1,13 @@
+## O5 start 60269 (source flight)
+ base_vs_v2 [base,v2] frame null decision - kind/target -
+ base_vs_v2x [base,v2x] frame null decision - kind/target -
+ v2_vs_v2x [v2,v2x] frame null decision - kind/target -
+ [base] restarts/goals [{"tick":60345,"type":"restart_placement","kind":"throw_in","team":"B"}]
+   kick 60288 A10->A09 pass 17.2m/s lead 0.35s len 30.3 recvDist 30.4 | closest {"d":4.57,"tick":60335} minSpd {"v":0.67,"tick":60317} | first {"tick":60345,"type":"restart_placement","player":null,"team":"B","control":null,"kind":"throw_in","restart":"throw_in"} | next null
+     recv 60289:support 60293:cover 60297:cover 60301:cover 60305:cover 60309:receive:FE0.9 60313:receive:FE0.9 60317:receive:FE0.8 60321:receive:FE1.8 60325:receive:FE1.7 60329:receive:FE1.8 60333:receive:FE1.5 60337:receive:FE1.3 60341:receive:FE1.0
+ [v2] restarts/goals [{"tick":60345,"type":"restart_placement","kind":"throw_in","team":"B"}]
+   kick 60288 A10->A09 pass 17.2m/s lead 0.35s len 30.3 recvDist 30.4 | closest {"d":4.57,"tick":60335} minSpd {"v":0.67,"tick":60317} | first {"tick":60345,"type":"restart_placement","player":null,"team":"B","control":null,"kind":"throw_in","restart":"throw_in"} | next null
+     recv 60289:support 60293:cover 60297:cover 60301:cover 60305:cover 60309:receive:FE0.9 60313:receive:FE0.9 60317:receive:FE0.8 60321:receive:FE1.8 60325:receive:FE1.7 60329:receive:FE1.8 60333:receive:FE1.5 60337:receive:FE1.3 60341:receive:FE1.0
+ [v2x] restarts/goals [{"tick":60345,"type":"restart_placement","kind":"throw_in","team":"B"}]
+   kick 60288 A10->A09 pass 17.2m/s lead 0.35s len 30.3 recvDist 30.4 | closest {"d":4.57,"tick":60335} minSpd {"v":0.67,"tick":60317} | first {"tick":60345,"type":"restart_placement","player":null,"team":"B","control":null,"kind":"throw_in","restart":"throw_in"} | next null
+     recv 60289:support 60293:cover 60297:cover 60301:cover 60305:cover 60309:receive:FE0.9 60313:receive:FE0.9 60317:receive:FE0.8 60321:receive:FE1.8 60325:receive:FE1.7 60329:receive:FE1.8 60333:receive:FE1.5 60337:receive:FE1.3 60341:receive:FE1.0

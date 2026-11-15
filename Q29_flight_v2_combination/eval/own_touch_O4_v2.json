@@ -1,0 +1,75 @@
+[
+ {
+  "arm": "O4_v2",
+  "player": "B09",
+  "team": "B",
+  "episode": [
+   60049,
+   60053
+  ],
+  "decisions": 2,
+  "posAtFirst": {
+   "x": 66.1,
+   "y": 64.67
+  },
+  "touch": {
+   "tick": 60056,
+   "type": "kick",
+   "kind": "dribble",
+   "targetId": null,
+   "vel": {
+    "x": 3.71,
+    "y": 2.96
+   },
+   "pos": {
+    "x": 67.52,
+    "y": 64.63
+   }
+  },
+  "ticksToTouch": 7,
+  "outgoingDecision": {
+   "tick": 60053,
+   "kind": "receive",
+   "ebi": {
+    "kind": "dribble",
+    "targetId": null
+   },
+   "candidates": [
+    "receive:1.77",
+    "cover:0.65"
+   ]
+  },
+  "nearestAtTouch": [
+   {
+    "id": "A07",
+    "team": "A",
+    "d": 4.23
+   },
+   {
+    "id": "A09",
+    "team": "A",
+    "d": 10.1
+   },
+   {
+    "id": "B07",
+    "team": "B",
+    "d": 13.23
+   },
+   {
+    "id": "B10",
+    "team": "B",
+    "d": 17.92
+   }
+  ],
+  "nextEvent": {
+   "tick": 60083,
+   "type": "restart_placement",
+   "player": null,
+   "team": "A",
+   "kind": "throw_in",
+   "control": null
+  },
+  "outcome": "out:throw_in:A",
+  "windowEnd": 60399
+ }
+]

@@ -1,0 +1,190 @@
+[
+ {
+  "arm": "O2_v2",
+  "player": "A09",
+  "team": "A",
+  "episode": [
+   42316,
+   42316
+  ],
+  "decisions": 1,
+  "posAtFirst": {
+   "x": 60.56,
+   "y": 65.93
+  },
+  "touch": {
+   "tick": 42323,
+   "type": "kick",
+   "kind": "dribble",
+   "targetId": null,
+   "vel": {
+    "x": 4.08,
+    "y": 0.94
+   },
+   "pos": {
+    "x": 61.47,
+    "y": 65.29
+   }
+  },
+  "ticksToTouch": 7,
+  "outgoingDecision": {
+   "tick": 42320,
+   "kind": "intercept",
+   "ebi": {
+    "kind": "dribble",
+    "targetId": null
+   },
+   "candidates": [
+    "intercept:1.77",
+    "cover:0.65"
+   ]
+  },
+  "nearestAtTouch": [
+   {
+    "id": "B09",
+    "team": "B",
+    "d": 2.76
+   },
+   {
+    "id": "B07",
+    "team": "B",
+    "d": 3.68
+   },
+   {
+    "id": "A10",
+    "team": "A",
+    "d": 7.73
+   },
+   {
+    "id": "A05",
+    "team": "A",
+    "d": 10.25
+   }
+  ],
+  "nextEvent": {
+   "tick": 42338,
+   "type": "kick",
+   "player": "A09",
+   "team": "A",
+   "kind": "dribble",
+   "control": null
+  },
+  "outcome": "no_event_in_window",
+  "windowEnd": 42399
+ },
+ {
+  "arm": "O2_v2",
+  "player": "A09",
+  "team": "A",
+  "episode": [
+   42328,
+   42352
+  ],
+  "decisions": 6,
+  "posAtFirst": {
+   "x": 62.31,
+   "y": 64.97
+  },
+  "touch": {
+   "tick": 42338,
+   "type": "kick",
+   "kind": "dribble",
+   "targetId": null,
+   "vel": {
+    "x": 5.22,
+    "y": -0.29
+   },
+   "pos": {
+    "x": 64.21,
+    "y": 65
+   }
+  },
+  "ticksToTouch": 10,
+  "outgoingDecision": {
+   "tick": 42336,
+   "kind": "receive",
+   "ebi": {
+    "kind": "dribble",
+    "targetId": null
+   },
+   "candidates": [
+    "receive:1.77",
+    "cover:0.65"
+   ]
+  },
+  "nearestAtTouch": [
+   {
+    "id": "B07",
+    "team": "B",
+    "d": 2.11
+   },
+   {
+    "id": "B09",
+    "team": "B",
+    "d": 3.75
+   },
+   {
+    "id": "A10",
+    "team": "A",
+    "d": 9.68
+   },
+   {
+    "id": "A05",
+    "team": "A",
+    "d": 13.83
+   }
+  ],
+  "nextEvent": {
+   "tick": 42358,
+   "type": "kick",
+   "player": "A09",
+   "team": "A",
+   "kind": "dribble",
+   "control": null
+  },
+  "outcome": "no_event_in_window",
+  "windowEnd": 42399
+ },
+ {
+  "arm": "O2_v2",
+  "player": "A09",
+  "team": "A",
+  "episode": [
+   42380,
+   42388
+  ],
+  "decisions": 2,
+  "posAtFirst": {
+   "x": 74.8,
+   "y": 65.2
+  },
+  "touch": null,
+  "ticksToTouch": null,
+  "outgoingDecision": null,
+  "nearestAtTouch": [
+   {
+    "id": "B09",
+    "team": "B",
+    "d": 2.92
+   },
+   {
+    "id": "B07",
+    "team": "B",
+    "d": 3.89
+   },
+   {
+    "id": "B04",
+    "team": "B",
+    "d": 17.13
+   },
+   {
+    "id": "A10",
+    "team": "A",
+    "d": 20.55
+   }
+  ],
+  "nextEvent": null,
+  "outcome": "no_event_in_window",
+  "windowEnd": 42399
+ }
+]

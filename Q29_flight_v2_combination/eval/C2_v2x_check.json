@@ -1,0 +1,178 @@
+{
+ "tally": {
+  "dtos": 15104,
+  "ownAndPassed": 526,
+  "v2xEqI17_whenOwnAndPassed": 526,
+  "v2xEqV2_otherwise": 14578,
+  "other": 14578,
+  "v2DiffI17": 81,
+  "v2xDiffI17": 27,
+  "v2xDiffI17_ownLast": 0,
+  "violations": 0
+ },
+ "violations": [],
+ "remainingV2xDifferences": [
+  {
+   "rec": "60000_base.json.gz",
+   "tick": 60089,
+   "player": "A09",
+   "ownLast": false
+  },
+  {
+   "rec": "60000_base.json.gz",
+   "tick": 60097,
+   "player": "A09",
+   "ownLast": false
+  },
+  {
+   "rec": "60000_base.json.gz",
+   "tick": 60101,
+   "player": "A09",
+   "ownLast": false
+  },
+  {
+   "rec": "60000_base.json.gz",
+   "tick": 60105,
+   "player": "A09",
+   "ownLast": false
+  },
+  {
+   "rec": "60000_base.json.gz",
+   "tick": 60109,
+   "player": "A07",
+   "ownLast": false
+  },
+  {
+   "rec": "60000_base.json.gz",
+   "tick": 60109,
+   "player": "A09",
+   "ownLast": false
+  },
+  {
+   "rec": "60000_base.json.gz",
+   "tick": 60113,
+   "player": "A09",
+   "ownLast": false
+  },
+  {
+   "rec": "60000_base.json.gz",
+   "tick": 60117,
+   "player": "A07",
+   "ownLast": false
+  },
+  {
+   "rec": "60000_base.json.gz",
+   "tick": 60117,
+   "player": "A09",
+   "ownLast": false
+  },
+  {
+   "rec": "60000_base.json.gz",
+   "tick": 60121,
+   "player": "A09",
+   "ownLast": false
+  },
+  {
+   "rec": "60000_base.json.gz",
+   "tick": 60125,
+   "player": "A07",
+   "ownLast": false
+  },
+  {
+   "rec": "60000_flight.json.gz",
+   "tick": 60089,
+   "player": "A09",
+   "ownLast": false
+  },
+  {
+   "rec": "60000_flight.json.gz",
+   "tick": 60097,
+   "player": "A09",
+   "ownLast": false
+  },
+  {
+   "rec": "60000_flight.json.gz",
+   "tick": 60101,
+   "player": "A09",
+   "ownLast": false
+  },
+  {
+   "rec": "60000_flight.json.gz",
+   "tick": 60105,
+   "player": "A09",
+   "ownLast": false
+  },
+  {
+   "rec": "60000_flight.json.gz",
+   "tick": 60109,
+   "player": "A07",
+   "ownLast": false
+  },
+  {
+   "rec": "60000_flight.json.gz",
+   "tick": 60109,
+   "player": "A09",
+   "ownLast": false
+  },
+  {
+   "rec": "60000_flight.json.gz",
+   "tick": 60113,
+   "player": "A09",
+   "ownLast": false
+  },
+  {
+   "rec": "60000_flight.json.gz",
+   "tick": 60117,
+   "player": "A07",
+   "ownLast": false
+  },
+  {
+   "rec": "60000_flight.json.gz",
+   "tick": 60117,
+   "player": "A09",
+   "ownLast": false
+  },
+  {
+   "rec": "60000_flight.json.gz",
+   "tick": 60121,
+   "player": "A09",
+   "ownLast": false
+  },
+  {
+   "rec": "60000_flight.json.gz",
+   "tick": 60125,
+   "player": "A07",
+   "ownLast": false
+  },
+  {
+   "rec": "mutual_recovery.json.gz",
+   "tick": 24339,
+   "player": "B10",
+   "ownLast": false
+  },
+  {
+   "rec": "recovery_failure.json.gz",
+   "tick": 12236,
+   "player": "B10",
+   "ownLast": false
+  },
+  {
+   "rec": "recovery_failure.json.gz",
+   "tick": 12240,
+   "player": "B10",
+   "ownLast": false
+  },
+  {
+   "rec": "recovery_failure.json.gz",
+   "tick": 12276,
+   "player": "B05",
+   "ownLast": false
+  },
+  {
+   "rec": "recovery_failure.json.gz",
+   "tick": 12276,
+   "player": "B07",
+   "ownLast": false
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+[
+ {
+  "arm": "O2_v2",
+  "player": "B07",
+  "team": "B",
+  "own": false,
+  "lastWitnessedTouch": "A09",
+  "episode": [
+   42396,
+   42396
+  ],
+  "decisions": 1,
+  "touch": null,
+  "ticksToTouch": null,
+  "outgoingDecision": null,
+  "nearestAtTouch": [
+   {
+    "id": "A09",
+    "team": "A",
+    "d": 1.13
+   },
+   {
+    "id": "B09",
+    "team": "B",
+    "d": 2.1
+   },
+   {
+    "id": "B04",
+    "team": "B",
+    "d": 15.45
+   },
+   {
+    "id": "B05",
+    "team": "B",
+    "d": 20.84
+   }
+  ],
+  "nextOther": null,
+  "outcome": "no_event_in_window",
+  "windowEnd": 42399
+ }
+]

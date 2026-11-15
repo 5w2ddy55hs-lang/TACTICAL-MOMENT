@@ -1,0 +1,12 @@
+[O1_v2x] no all V2-only episodes
+[O1_v2] no other V2-only episodes
+[O2_v2x] no all V2-only episodes
+[O2_v2] B07(B) other:A09 ep 42396-42396 n1 | touch none | chosen - | near A09:1.13 B09:2.1 B04:15.45 B05:20.84 | outcome no_event_in_window
+[O3_v2x] no all V2-only episodes
+[O3_v2] no other V2-only episodes
+[O4_v2x] A09(A) other:B09 ep 60089-60113 n6 | touch 60123 kick:dribble (+34t) | chosen 60121 dribble dribble:0.74 cover:0.65 pass→A04:-0.43 | near B09:0.95 A07:1.24 A04:15.35 A05:20.69 | outcome opponent:kick
+[O4_v2x] A07(A) other:B09 ep 60117-60117 n1 | touch none | chosen - | near B09:1.35 A09:1.55 A04:15.73 A05:20.76 | outcome no_own_touch; first event 60123 kick A09 dribble
+[O4_v2x] A09(A) other:B09 ep 60117-60117 n1 | touch 60123 kick:dribble (+6t) | chosen 60121 dribble dribble:0.74 cover:0.65 pass→A04:-0.43 | near B09:0.95 A07:1.24 A04:15.35 A05:20.69 | outcome opponent:kick
+[O4_v2] no other V2-only episodes
+[O5_v2x] no all V2-only episodes
+[O5_v2] no other V2-only episodes

@@ -1,0 +1,18 @@
+## base
+  [(60127, 'kick', 'A09', 'dribble', None), (60127, 'kick', 'B09', 'dribble', None), (60129, 'contact', 'A09', None, True), (60134, 'kick', 'A09', 'dribble', None), (60134, 'kick', 'B09', 'dribble', None), (60136, 'contact', 'A09', None, True), (60141, 'kick', 'A09', 'pass', None), (60141, 'contact', 'A09', None, False), (60143, 'kick', 'A07', 'pass', None), (60207, 'kick', 'A06', 'dribble', None)]
+  t60141 ball(82.2,64.4) z0.11 v1.1 | A10 d26.8 act cover | nearest B [('B09', 1.8), ('B10', 23.5)]
+  t60151 ball(82.0,57.8) z0.11 v17.1 | A10 d22.1 act support | nearest B [('B09', 8.3), ('B10', 18.4)]
+  t60161 ball(81.2,49.5) z0.11 v16.3 | A10 d18.2 act cover | nearest B [('B10', 12.9), ('B09', 15.6)]
+  t60171 ball(80.4,41.6) z0.11 v15.4 | A10 d16.4 act receive | nearest B [('B10', 9.2), ('B09', 20.9)]
+  t60181 ball(79.7,34.2) z0.11 v14.6 | A10 d15.6 act cover | nearest B [('B10', 8.0), ('B08', 25.6)]
+  t60191 ball(79.0,27.1) z0.11 v13.8 | A10 d17.2 act cover | nearest B [('B10', 9.0), ('B08', 22.2)]
+  t60201 ball(78.4,20.5) z0.11 v13.0 | A10 d19.5 act cover | nearest B [('B10', 11.1), ('B08', 19.3)]
+## v2x
+  [(60123, 'kick', 'A09', 'dribble', None), (60124, 'contact', 'A09', None, True), (60127, 'kick', 'B09', 'dribble', None), (60127, 'contact', 'A09', None, True), (60130, 'kick', 'A09', 'pass', None), (60130, 'contact', 'A09', None, False), (60130, 'contact', 'B09', None, False), (60161, 'kick', 'A04', 'pass', None)]
+  t60130 ball(81.4,65.0) z0.11 v3.4 | A10 d27.2 act cover | nearest B [('B09', 0.6), ('B10', 23.8)]
+  t60140 ball(86.1,64.7) z0.11 v9.3 | A10 d29.5 act cover | nearest B [('B09', 3.9), ('B10', 25.9)]
+  t60150 ball(90.5,64.4) z0.11 v8.7 | A10 d31.5 act cover | nearest B [('B09', 6.2), ('B10', 27.8)]
+  t60160 ball(94.7,64.2) z0.11 v8.0 | A10 d33.1 act cover | nearest B [('B09', 7.2), ('B10', 29.3)]
+  t60170 ball(88.5,59.9) z0.11 v17.0 | A10 d24.6 act cover | nearest B [('B09', 5.7), ('B10', 20.6)]
+  t60180 ball(81.5,55.5) z0.11 v16.1 | A10 d16.7 act cover | nearest B [('B10', 12.6), ('B09', 14.1)]
+  t60190 ball(74.9,51.3) z0.11 v15.3 | A10 d10.6 act receive | nearest B [('B10', 6.1), ('B07', 17.0)]

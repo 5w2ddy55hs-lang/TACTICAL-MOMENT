@@ -1,0 +1,6 @@
+[O1_v2] A05(A) ep 42160-42164 n2 | touch 42170 kick:pass→A10 (+10t) | chosen 42168 pass pass→A10:1.19 pass→A08:1.09 pass→A09:1.09 | near B10:3.91 B05:4.87 A06:8.16 A10:8.55 | next 42241 contact B07 | outcome opponent:contact:ctl=true
+[O2_v2] A09(A) ep 42316-42316 n1 | touch 42323 kick:dribble (+7t) | chosen 42320 intercept EBI:dribble→null intercept:1.77 cover:0.65 | near B09:2.76 B07:3.68 A10:7.73 A05:10.25 | next 42338 kick:dribble A09 | outcome no_event_in_window
+[O2_v2] A09(A) ep 42328-42352 n6 | touch 42338 kick:dribble (+10t) | chosen 42336 receive EBI:dribble→null receive:1.77 cover:0.65 | near B07:2.11 B09:3.75 A10:9.68 A05:13.83 | next 42358 kick:dribble A09 | outcome no_event_in_window
+[O2_v2] A09(A) ep 42380-42388 n2 | touch none | chosen -  | near B09:2.92 B07:3.89 B04:17.13 A10:20.55 | next - | outcome no_event_in_window
+[O3_v2] A07(A) ep 12341-12349 n3 | touch 12355 kick:pass→A09 (+14t) | chosen 12353 pass pass→A09:1.18 pass→A10:1.13 dribble:1.04 | near B09:4.4 A09:5.74 B10:5.75 A10:19.54 | next 12408 restart_placement:throw_in  | outcome out:throw_in:B
+[O4_v2] B09(B) ep 60049-60053 n2 | touch 60056 kick:dribble (+7t) | chosen 60053 receive EBI:dribble→null receive:1.77 cover:0.65 | near A07:4.23 A09:10.1 B07:13.23 B10:17.92 | next 60083 restart_placement:throw_in  | outcome out:throw_in:A

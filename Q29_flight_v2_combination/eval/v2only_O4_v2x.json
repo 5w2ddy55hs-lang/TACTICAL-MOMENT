@@ -1,0 +1,168 @@
+[
+ {
+  "arm": "O4_v2x",
+  "player": "A09",
+  "team": "A",
+  "own": false,
+  "lastWitnessedTouch": "B09",
+  "episode": [
+   60089,
+   60113
+  ],
+  "decisions": 6,
+  "touch": {
+   "tick": 60123,
+   "type": "kick",
+   "kind": "dribble",
+   "targetId": null
+  },
+  "ticksToTouch": 34,
+  "outgoingDecision": {
+   "tick": 60121,
+   "kind": "dribble",
+   "ebi": null,
+   "candidates": [
+    "dribble:0.74",
+    "cover:0.65",
+    "pass→A04:-0.43",
+    "pass→A02:-0.57",
+    "pass→A00:-0.69"
+   ]
+  },
+  "nearestAtTouch": [
+   {
+    "id": "B09",
+    "team": "B",
+    "d": 0.95
+   },
+   {
+    "id": "A07",
+    "team": "A",
+    "d": 1.24
+   },
+   {
+    "id": "A04",
+    "team": "A",
+    "d": 15.35
+   },
+   {
+    "id": "A05",
+    "team": "A",
+    "d": 20.69
+   }
+  ],
+  "nextOther": {
+   "tick": 60127,
+   "type": "kick",
+   "player": "B09",
+   "team": "B",
+   "kind": "dribble",
+   "control": null
+  },
+  "outcome": "opponent:kick",
+  "windowEnd": 60399
+ },
+ {
+  "arm": "O4_v2x",
+  "player": "A07",
+  "team": "A",
+  "own": false,
+  "lastWitnessedTouch": "B09",
+  "episode": [
+   60117,
+   60117
+  ],
+  "decisions": 1,
+  "touch": null,
+  "ticksToTouch": null,
+  "outgoingDecision": null,
+  "nearestAtTouch": [
+   {
+    "id": "B09",
+    "team": "B",
+    "d": 1.35
+   },
+   {
+    "id": "A09",
+    "team": "A",
+    "d": 1.55
+   },
+   {
+    "id": "A04",
+    "team": "A",
+    "d": 15.73
+   },
+   {
+    "id": "A05",
+    "team": "A",
+    "d": 20.76
+   }
+  ],
+  "nextOther": null,
+  "outcome": "no_own_touch; first event 60123 kick A09 dribble",
+  "windowEnd": 60399
+ },
+ {
+  "arm": "O4_v2x",
+  "player": "A09",
+  "team": "A",
+  "own": false,
+  "lastWitnessedTouch": "B09",
+  "episode": [
+   60117,
+   60117
+  ],
+  "decisions": 1,
+  "touch": {
+   "tick": 60123,
+   "type": "kick",
+   "kind": "dribble",
+   "targetId": null
+  },
+  "ticksToTouch": 6,
+  "outgoingDecision": {
+   "tick": 60121,
+   "kind": "dribble",
+   "ebi": null,
+   "candidates": [
+    "dribble:0.74",
+    "cover:0.65",
+    "pass→A04:-0.43",
+    "pass→A02:-0.57",
+    "pass→A00:-0.69"
+   ]
+  },
+  "nearestAtTouch": [
+   {
+    "id": "B09",
+    "team": "B",
+    "d": 0.95
+   },
+   {
+    "id": "A07",
+    "team": "A",
+    "d": 1.24
+   },
+   {
+    "id": "A04",
+    "team": "A",
+    "d": 15.35
+   },
+   {
+    "id": "A05",
+    "team": "A",
+    "d": 20.69
+   }
+  ],
+  "nextOther": {
+   "tick": 60127,
+   "type": "kick",
+   "player": "B09",
+   "team": "B",
+   "kind": "dribble",
+   "control": null
+  },
+  "outcome": "opponent:kick",
+  "windowEnd": 60399
+ }
+]

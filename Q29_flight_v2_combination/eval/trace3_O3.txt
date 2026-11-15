@@ -1,0 +1,17 @@
+## O3 start 12340 (source base)
+ base_vs_v2 [base,v2] frame 12344 decision 12341:A07 kind/target {"key":"12341:A07","base":{"kind":"receive","target":{"x":36.16,"y":57.46},"targetId":null,"reason":"observed_ball_eta_and_teammates"},"v2":{"kind":"receive","target":{"x":39.56,"y":58.14},"targetId":null,"reason":"R07_perceived_contact_cost_no_future_truth"}}
+ base_vs_v2x [base,v2x] frame null decision - kind/target -
+ v2_vs_v2x [v2,v2x] frame 12344 decision 12341:A07 kind/target {"key":"12341:A07","v2":{"kind":"receive","target":{"x":39.56,"y":58.14},"targetId":null,"reason":"R07_perceived_contact_cost_no_future_truth"},"v2x":{"kind":"receive","target":{"x":36.16,"y":57.46},"targetId":null,"reason":"observed_ball_eta_and_teammates"}}
+ [base] restarts/goals []
+   kick 12367 A07->A09 pass 9.6m/s lead 0.35s len 9.8 recvDist 7.1 | closest {"d":0.65,"tick":12395} minSpd {"v":2.98,"tick":12383} | first {"tick":12395,"type":"kick","player":"A09","team":"A","control":null,"kind":"dribble","restart":null} | next {"tick":12402,"player":"A09","team":"A","kind":"dribble","targetId":null}
+     recv 12369:support 12373:receive:DP0.75 12377:receive:DP0.75 12381:receive:DP0.65 12385:receive:DP0.60 12389:receive:DP0.50 12393:receive:DP0.35 12397:dribble 12401:dribble
+   kick 12416 A09->A10 pass 14.7m/s lead 0.35s len 25.4 recvDist 24.8 | closest {"d":0.8,"tick":12457} minSpd {"v":0.37,"tick":12439} | first {"tick":12457,"type":"contact","player":"A10","team":"A","control":true,"kind":null,"restart":null} | next {"tick":12463,"player":"A10","team":"A","kind":"dribble","targetId":null}
+     recv 12417:cover 12421:cover 12425:cover 12429:cover 12433:receive:DP1.15 12437:receive:DP0.95 12441:receive:DP0.80 12445:receive:DP0.65 12449:receive:DP0.50 12453:receive:DP0.35 12457:receive:DP0.15 12461:dribble 12465:dribble
+ [v2] restarts/goals [{"tick":12408,"type":"restart_placement","kind":"throw_in","team":"B"}]
+   kick 12355 A07->A09 pass 9.3m/s lead 0.35s len 7.5 recvDist 5.7 | closest {"d":1.75,"tick":12390} minSpd {"v":2.77,"tick":12387} | first {"tick":12408,"type":"restart_placement","player":null,"team":"B","control":null,"kind":"throw_in","restart":"throw_in"} | next null
+     recv 12357:support 12361:receive:DP1.50 12365:receive:FE0.3 12369:receive:DP1.30 12373:receive:FE0.2 12377:receive:FE0.3 12381:receive:FE0.3 12385:receive:FE0.3 12389:receive:FE0.4 12393:receive:FE0.7 12397:receive:FE0.8 12401:receive:FE0.8 12405:receive:FE0.7 12409:restart_position
+ [v2x] restarts/goals []
+   kick 12367 A07->A09 pass 9.6m/s lead 0.35s len 9.8 recvDist 7.1 | closest {"d":0.65,"tick":12395} minSpd {"v":2.98,"tick":12383} | first {"tick":12395,"type":"kick","player":"A09","team":"A","control":null,"kind":"dribble","restart":null} | next {"tick":12402,"player":"A09","team":"A","kind":"dribble","targetId":null}
+     recv 12369:support 12373:receive:DP0.75 12377:receive:DP0.75 12381:receive:DP0.65 12385:receive:DP0.60 12389:receive:DP0.50 12393:receive:DP0.35 12397:dribble 12401:dribble
+   kick 12416 A09->A10 pass 14.7m/s lead 0.35s len 25.4 recvDist 24.8 | closest {"d":0.8,"tick":12457} minSpd {"v":0.37,"tick":12439} | first {"tick":12457,"type":"contact","player":"A10","team":"A","control":true,"kind":null,"restart":null} | next {"tick":12463,"player":"A10","team":"A","kind":"dribble","targetId":null}
+     recv 12417:cover 12421:cover 12425:cover 12429:cover 12433:receive:DP1.15 12437:receive:DP0.95 12441:receive:DP0.80 12445:receive:DP0.65 12449:receive:DP0.50 12453:receive:DP0.35 12457:receive:DP0.15 12461:dribble 12465:dribble
