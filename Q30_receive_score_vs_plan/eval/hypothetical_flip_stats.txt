@@ -1,0 +1,4 @@
+rows 221 would flip to receive if the score used plan-target distance: 160
+flipped rows by (possession, next touch same team, next touch self): Counter({('no_possession', True, True): 109, ('no_possession', False, False): 32, ('no_possession', True, False): 10, ('no_possession', 'none', None): 9})
+same tick same team flips:  Counter({1: 160})
+plan target distance distribution (flipped):  [0, 1, 2, 2, 3, 3, 4, 4, 5, 6, 6, 9]

@@ -1,0 +1,9653 @@
+{
+ "scanned": 102605,
+ "planned": 1649,
+ "notReceive": 221,
+ "rows": [
+  {
+   "rec": "scan_42130.json.gz",
+   "tick": 42264,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.63,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.82,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.34,
+    "targetDist": 4.48
+   },
+   "ballSpeed": 11.68,
+   "lastKick": {
+    "tick": 42258,
+    "player": "B07",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": false,
+   "closest": {
+    "d": 1.04,
+    "tick": 42306
+   },
+   "next": {
+    "tick": 42299,
+    "type": "kick",
+    "player": "A09",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_42130.json.gz",
+   "tick": 43512,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.01,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 28.71,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 6,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0,
+    "targetDist": 0.53
+   },
+   "ballSpeed": 19.49,
+   "lastKick": {
+    "tick": 43499,
+    "player": "A10",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.82,
+    "tick": 43562
+   },
+   "next": {
+    "tick": 43562,
+    "type": "kick",
+    "player": "A09",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_42130.json.gz",
+   "tick": 43516,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.16,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 25.61,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 6,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.34,
+    "targetDist": 3.61
+   },
+   "ballSpeed": 19.36,
+   "lastKick": {
+    "tick": 43499,
+    "player": "A10",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.82,
+    "tick": 43562
+   },
+   "next": {
+    "tick": 43562,
+    "type": "kick",
+    "player": "A09",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_42130.json.gz",
+   "tick": 43520,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.28,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 22.92,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 6,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.39,
+    "targetDist": 5.26
+   },
+   "ballSpeed": 18.51,
+   "lastKick": {
+    "tick": 43499,
+    "player": "A10",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.82,
+    "tick": 43562
+   },
+   "next": {
+    "tick": 43562,
+    "type": "kick",
+    "player": "A09",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_42130.json.gz",
+   "tick": 43524,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.63,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 20.39,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.13,
+    "targetDist": 7.84
+   },
+   "ballSpeed": 18.59,
+   "lastKick": {
+    "tick": 43499,
+    "player": "A10",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.82,
+    "tick": 43562
+   },
+   "next": {
+    "tick": 43562,
+    "type": "kick",
+    "player": "A09",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_42130.json.gz",
+   "tick": 43851,
+   "player": "A08",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.52,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 18.1,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 6,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.3,
+    "miss": 0.48,
+    "targetDist": 2.08
+   },
+   "ballSpeed": 12.94,
+   "lastKick": {
+    "tick": 43813,
+    "player": "B10",
+    "team": "B",
+    "kind": "shoot",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 43897
+   },
+   "next": {
+    "tick": 43896,
+    "type": "contact",
+    "player": "A08",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_42130.json.gz",
+   "tick": 43851,
+   "player": "B08",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.6,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 20.91,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.36,
+    "targetDist": 5.15
+   },
+   "ballSpeed": 13.73,
+   "lastKick": {
+    "tick": 43813,
+    "player": "B10",
+    "team": "B",
+    "kind": "shoot",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.74,
+    "tick": 43900
+   },
+   "next": {
+    "tick": 43896,
+    "type": "contact",
+    "player": "A08",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_42130.json.gz",
+   "tick": 44011,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.55,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 17.4,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.76,
+    "targetDist": 7.36
+   },
+   "ballSpeed": 15.19,
+   "lastKick": {
+    "tick": 43981,
+    "player": "A10",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 1.4,
+    "tick": 44049
+   },
+   "next": {
+    "tick": 44067,
+    "type": "contact",
+    "player": "B09",
+    "team": "B",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_42130.json.gz",
+   "tick": 44015,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.62,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.89,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.79,
+    "targetDist": 8.67
+   },
+   "ballSpeed": 14.68,
+   "lastKick": {
+    "tick": 43981,
+    "player": "A10",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 1.4,
+    "tick": 44049
+   },
+   "next": {
+    "tick": 44067,
+    "type": "contact",
+    "player": "B09",
+    "team": "B",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_42130.json.gz",
+   "tick": 44993,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.63,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 20.33,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.35,
+    "miss": 0.35,
+    "targetDist": 0.68
+   },
+   "ballSpeed": 15.11,
+   "lastKick": {
+    "tick": 44987,
+    "player": "A09",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 45030
+   },
+   "next": {
+    "tick": 45029,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_60000.json.gz",
+   "tick": 60157,
+   "player": "A06",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.28,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 23.02,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 6,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0,
+    "targetDist": 0.95
+   },
+   "ballSpeed": 17.04,
+   "lastKick": {
+    "tick": 60143,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A06"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.94,
+    "tick": 60207
+   },
+   "next": {
+    "tick": 60207,
+    "type": "kick",
+    "player": "A06",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_60000.json.gz",
+   "tick": 60161,
+   "player": "A06",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.4,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 20.52,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 5,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.35,
+    "targetDist": 2.35
+   },
+   "ballSpeed": 16.31,
+   "lastKick": {
+    "tick": 60143,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A06"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.94,
+    "tick": 60207
+   },
+   "next": {
+    "tick": 60207,
+    "type": "kick",
+    "player": "A06",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_60000.json.gz",
+   "tick": 60165,
+   "player": "A06",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.5,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 18.38,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.35,
+    "targetDist": 5.81
+   },
+   "ballSpeed": 15.83,
+   "lastKick": {
+    "tick": 60143,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A06"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.94,
+    "tick": 60207
+   },
+   "next": {
+    "tick": 60207,
+    "type": "kick",
+    "player": "A06",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_60000.json.gz",
+   "tick": 60241,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.45,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 19.55,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.46,
+    "targetDist": 2.4
+   },
+   "ballSpeed": 14.39,
+   "lastKick": {
+    "tick": 60235,
+    "player": "A06",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 60286
+   },
+   "next": {
+    "tick": 60285,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_60000.json.gz",
+   "tick": 60245,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.55,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 17.47,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.48,
+    "targetDist": 5.1
+   },
+   "ballSpeed": 14.49,
+   "lastKick": {
+    "tick": 60235,
+    "player": "A06",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 60286
+   },
+   "next": {
+    "tick": 60285,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_60000.json.gz",
+   "tick": 60914,
+   "player": "A01",
+   "team": "A",
+   "role": "CB",
+   "chosen": "cover",
+   "receiveScore": 0.27,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 23.29,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 5,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.2000000000000002,
+    "miss": 0.62,
+    "targetDist": 3.69
+   },
+   "ballSpeed": 16.39,
+   "lastKick": {
+    "tick": 60892,
+    "player": "B09",
+    "team": "B",
+    "kind": "restart_kick",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 16.92,
+    "tick": 60920
+   },
+   "next": {
+    "tick": 60920,
+    "type": "kick",
+    "player": "A02",
+    "team": "A",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_60000.json.gz",
+   "tick": 60918,
+   "player": "A01",
+   "team": "A",
+   "role": "CB",
+   "chosen": "advance_support",
+   "receiveScore": -1.02,
+   "winnerScore": 0.67,
+   "components": {
+    "db": 18.86,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1,
+    "miss": 0.48,
+    "targetDist": 2.41
+   },
+   "ballSpeed": 16.5,
+   "lastKick": {
+    "tick": 60892,
+    "player": "B09",
+    "team": "B",
+    "kind": "restart_kick",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 16.92,
+    "tick": 60920
+   },
+   "next": {
+    "tick": 60920,
+    "type": "kick",
+    "player": "A02",
+    "team": "A",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_60000.json.gz",
+   "tick": 61649,
+   "player": "A06",
+   "team": "A",
+   "role": "CM",
+   "chosen": "support",
+   "receiveScore": -0.22,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 6.86,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.8,
+    "miss": 0.45,
+    "targetDist": 4.47
+   },
+   "ballSpeed": 5.18,
+   "lastKick": {
+    "tick": 61226,
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 61683
+   },
+   "next": {
+    "tick": 61679,
+    "type": "kick",
+    "player": "A07",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_60000.json.gz",
+   "tick": 61653,
+   "player": "A06",
+   "team": "A",
+   "role": "CM",
+   "chosen": "support",
+   "receiveScore": -0.15,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 5.23,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.75,
+    "miss": 0.43,
+    "targetDist": 4.11
+   },
+   "ballSpeed": 3.65,
+   "lastKick": {
+    "tick": 61226,
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 61683
+   },
+   "next": {
+    "tick": 61679,
+    "type": "kick",
+    "player": "A07",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_60000.json.gz",
+   "tick": 61953,
+   "player": "A08",
+   "team": "A",
+   "role": "WG",
+   "chosen": "support",
+   "receiveScore": -0.36,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 9.59,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4500000000000002,
+    "miss": 0.43,
+    "targetDist": 7.09
+   },
+   "ballSpeed": 4.81,
+   "lastKick": {
+    "tick": 61862,
+    "player": "B10",
+    "team": "B",
+    "kind": "shoot",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 7.77,
+    "tick": 61969
+   },
+   "next": {
+    "tick": 61985,
+    "type": "contact",
+    "player": "B08",
+    "team": "B",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_60000.json.gz",
+   "tick": 61992,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": -0.09,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 30.83,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 5,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.32,
+    "targetDist": 4.81
+   },
+   "ballSpeed": 21.58,
+   "lastKick": {
+    "tick": 61862,
+    "player": "B10",
+    "team": "B",
+    "kind": "shoot",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.82,
+    "tick": 62029
+   },
+   "next": {
+    "tick": 62026,
+    "type": "kick",
+    "player": "B09",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_60000.json.gz",
+   "tick": 61996,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.11,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 26.57,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 5,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.6,
+    "targetDist": 5.93
+   },
+   "ballSpeed": 21.95,
+   "lastKick": {
+    "tick": 61862,
+    "player": "B10",
+    "team": "B",
+    "kind": "shoot",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.74,
+    "tick": 62054
+   },
+   "next": {
+    "tick": 62026,
+    "type": "kick",
+    "player": "B09",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_60000.json.gz",
+   "tick": 62000,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.3,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 22.62,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 5,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.3,
+    "miss": 0.63,
+    "targetDist": 6.44
+   },
+   "ballSpeed": 21.44,
+   "lastKick": {
+    "tick": 61862,
+    "player": "B10",
+    "team": "B",
+    "kind": "shoot",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.74,
+    "tick": 62054
+   },
+   "next": {
+    "tick": 62026,
+    "type": "kick",
+    "player": "B09",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_60000.json.gz",
+   "tick": 62831,
+   "player": "A01",
+   "team": "A",
+   "role": "CB",
+   "chosen": "advance_support",
+   "receiveScore": -0.19,
+   "winnerScore": 0.67,
+   "components": {
+    "db": 6.11,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.65,
+    "miss": 0.47,
+    "targetDist": 3.38
+   },
+   "ballSpeed": 8.53,
+   "lastKick": {
+    "tick": 62805,
+    "player": "A02",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A07"
+   },
+   "intended": false,
+   "closest": {
+    "d": 4.07,
+    "tick": 62848
+   },
+   "next": {
+    "tick": 62833,
+    "type": "kick",
+    "player": "A05",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_60000.json.gz",
+   "tick": 62847,
+   "player": "A01",
+   "team": "A",
+   "role": "CB",
+   "chosen": "advance_support",
+   "receiveScore": -0.09,
+   "winnerScore": 0.67,
+   "components": {
+    "db": 4.07,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.25,
+    "miss": 0.46,
+    "targetDist": 4.9
+   },
+   "ballSpeed": 3.73,
+   "lastKick": {
+    "tick": 62847,
+    "player": "A05",
+    "team": "A",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 4.07,
+    "tick": 62848
+   },
+   "next": {
+    "tick": 62857,
+    "type": "kick",
+    "player": "A05",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_control_state_24263.json.gz",
+   "tick": 24639,
+   "player": "B02",
+   "team": "B",
+   "role": "CB",
+   "chosen": "support",
+   "receiveScore": -0.35,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 4.86,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.5,
+    "miss": 0.43,
+    "targetDist": 3.11
+   },
+   "ballSpeed": 5.47,
+   "lastKick": {
+    "tick": 24465,
+    "player": "A06",
+    "team": "A",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.54,
+    "tick": 24654
+   },
+   "next": {
+    "tick": 24653,
+    "type": "kick",
+    "player": "B02",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_control_state_24263.json.gz",
+   "tick": 24815,
+   "player": "B05",
+   "team": "B",
+   "role": "DM",
+   "chosen": "cover",
+   "receiveScore": 0.61,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.14,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4500000000000002,
+    "miss": 0.43,
+    "targetDist": 7.96
+   },
+   "ballSpeed": 9.58,
+   "lastKick": {
+    "tick": 24653,
+    "player": "B02",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.5,
+    "tick": 24840
+   },
+   "next": {
+    "tick": 24870,
+    "type": "contact",
+    "player": "B00",
+    "team": "B",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_control_state_24263.json.gz",
+   "tick": 25437,
+   "player": "B08",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.26,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 23.45,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 5,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.35,
+    "targetDist": 0.96
+   },
+   "ballSpeed": 15.84,
+   "lastKick": {
+    "tick": 25428,
+    "player": "B09",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.81,
+    "tick": 25489
+   },
+   "next": {
+    "tick": 25489,
+    "type": "kick",
+    "player": "B08",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_control_state_24263.json.gz",
+   "tick": 25442,
+   "player": "B08",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.42,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 20.02,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 5,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.3,
+    "miss": 0.35,
+    "targetDist": 1.05
+   },
+   "ballSpeed": 15.87,
+   "lastKick": {
+    "tick": 25428,
+    "player": "B09",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.81,
+    "tick": 25489
+   },
+   "next": {
+    "tick": 25489,
+    "type": "kick",
+    "player": "B08",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_control_state_24263.json.gz",
+   "tick": 25447,
+   "player": "B08",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.56,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 17.15,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.32,
+    "targetDist": 5.76
+   },
+   "ballSpeed": 15.04,
+   "lastKick": {
+    "tick": 25428,
+    "player": "B09",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.81,
+    "tick": 25489
+   },
+   "next": {
+    "tick": 25489,
+    "type": "kick",
+    "player": "B08",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_control_state_24263.json.gz",
+   "tick": 25667,
+   "player": "A07",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.2,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 24.64,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.35,
+    "targetDist": 1.71
+   },
+   "ballSpeed": 17.05,
+   "lastKick": {
+    "tick": 25654,
+    "player": "A08",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A07"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.92,
+    "tick": 25721
+   },
+   "next": {
+    "tick": 25721,
+    "type": "kick",
+    "player": "A07",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_control_state_24263.json.gz",
+   "tick": 25671,
+   "player": "A07",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.32,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 22.2,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.15,
+    "targetDist": 2.65
+   },
+   "ballSpeed": 16.16,
+   "lastKick": {
+    "tick": 25654,
+    "player": "A08",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A07"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.92,
+    "tick": 25721
+   },
+   "next": {
+    "tick": 25721,
+    "type": "kick",
+    "player": "A07",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_control_state_24263.json.gz",
+   "tick": 25675,
+   "player": "A07",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.43,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 19.93,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.35,
+    "targetDist": 5.79
+   },
+   "ballSpeed": 16.65,
+   "lastKick": {
+    "tick": 25654,
+    "player": "A08",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A07"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.92,
+    "tick": 25721
+   },
+   "next": {
+    "tick": 25721,
+    "type": "kick",
+    "player": "A07",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_control_state_24263.json.gz",
+   "tick": 25679,
+   "player": "A07",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.52,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 17.93,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.47,
+    "targetDist": 6.11
+   },
+   "ballSpeed": 15.45,
+   "lastKick": {
+    "tick": 25654,
+    "player": "A08",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A07"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.92,
+    "tick": 25721
+   },
+   "next": {
+    "tick": 25721,
+    "type": "kick",
+    "player": "A07",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_control_state_24263.json.gz",
+   "tick": 25683,
+   "player": "A07",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.62,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.86,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.13,
+    "targetDist": 8.71
+   },
+   "ballSpeed": 15.88,
+   "lastKick": {
+    "tick": 25654,
+    "player": "A08",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A07"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.92,
+    "tick": 25721
+   },
+   "next": {
+    "tick": 25721,
+    "type": "kick",
+    "player": "A07",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_control_state_24263.json.gz",
+   "tick": 25991,
+   "player": "B10",
+   "team": "B",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.5,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 23.06,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.35,
+    "targetDist": 2.38
+   },
+   "ballSpeed": 16.6,
+   "lastKick": {
+    "tick": 25986,
+    "player": "B09",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.55,
+    "tick": 26025
+   },
+   "next": {
+    "tick": 26025,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "shoot",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_control_state_24263.json.gz",
+   "tick": 25995,
+   "player": "B10",
+   "team": "B",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.65,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 19.9,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.25,
+    "targetDist": 2.99
+   },
+   "ballSpeed": 14.87,
+   "lastKick": {
+    "tick": 25986,
+    "player": "B09",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.55,
+    "tick": 26025
+   },
+   "next": {
+    "tick": 26025,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "shoot",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_control_state_24263.json.gz",
+   "tick": 26007,
+   "player": "A06",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.4,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 20.46,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 5,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.43,
+    "targetDist": 3.99
+   },
+   "ballSpeed": 14.46,
+   "lastKick": {
+    "tick": 25986,
+    "player": "B09",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 12.71,
+    "tick": 26025
+   },
+   "next": {
+    "tick": 26025,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "shoot",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_control_state_24263.json.gz",
+   "tick": 26011,
+   "player": "A06",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.49,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 18.6,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.35,
+    "targetDist": 3.45
+   },
+   "ballSpeed": 14.32,
+   "lastKick": {
+    "tick": 25986,
+    "player": "B09",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 12.71,
+    "tick": 26025
+   },
+   "next": {
+    "tick": 26025,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "shoot",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_control_state_24263.json.gz",
+   "tick": 26356,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.55,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 17.32,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.18,
+    "targetDist": 2.98
+   },
+   "ballSpeed": 13.52,
+   "lastKick": {
+    "tick": 26350,
+    "player": "A06",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 1.84,
+    "tick": 26384
+   },
+   "next": {
+    "tick": 26432,
+    "type": "contact",
+    "player": "B07",
+    "team": "B",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_control_state_24263.json.gz",
+   "tick": 26748,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "support",
+   "receiveScore": -0.92,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.85,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.05,
+    "miss": 0.57,
+    "targetDist": 2.03
+   },
+   "ballSpeed": 14.51,
+   "lastKick": {
+    "tick": 26748,
+    "player": "B04",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B07"
+   },
+   "intended": false,
+   "closest": {
+    "d": 16.75,
+    "tick": 26749
+   },
+   "next": {
+    "tick": 26776,
+    "type": "restart_placement",
+    "player": null,
+    "team": "A",
+    "kind": "corner",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_control_state_24263.json.gz",
+   "tick": 26966,
+   "player": "B10",
+   "team": "B",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.58,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.71,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.45,
+    "targetDist": 3.33
+   },
+   "ballSpeed": 13.51,
+   "lastKick": {
+    "tick": 26960,
+    "player": "B07",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 2.3,
+    "tick": 26997
+   },
+   "next": {
+    "tick": 27042,
+    "type": "contact",
+    "player": "A06",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_control_state_24263.json.gz",
+   "tick": 27062,
+   "player": "B07",
+   "team": "B",
+   "role": "CM",
+   "chosen": "support",
+   "receiveScore": -1.03,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 19.08,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.28,
+    "targetDist": 3.03
+   },
+   "ballSpeed": 14.16,
+   "lastKick": {
+    "tick": 27055,
+    "player": "A06",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A09"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.86,
+    "tick": 27116
+   },
+   "next": {
+    "tick": 27116,
+    "type": "kick",
+    "player": "B07",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_control_state_24263.json.gz",
+   "tick": 27066,
+   "player": "B07",
+   "team": "B",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.56,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 17.16,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.3,
+    "targetDist": 7.11
+   },
+   "ballSpeed": 15.16,
+   "lastKick": {
+    "tick": 27055,
+    "player": "A06",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A09"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.86,
+    "tick": 27116
+   },
+   "next": {
+    "tick": 27116,
+    "type": "kick",
+    "player": "B07",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_control_state_24263.json.gz",
+   "tick": 27070,
+   "player": "B07",
+   "team": "B",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.65,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.38,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.32,
+    "targetDist": 6.74
+   },
+   "ballSpeed": 13.87,
+   "lastKick": {
+    "tick": 27055,
+    "player": "A06",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A09"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.86,
+    "tick": 27116
+   },
+   "next": {
+    "tick": 27116,
+    "type": "kick",
+    "player": "B07",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 6122,
+   "player": "B05",
+   "team": "B",
+   "role": "DM",
+   "chosen": "support",
+   "receiveScore": -0.87,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.8,
+    "ourPossession": true,
+    "nearFriends": 2,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.3,
+    "targetDist": 3.14
+   },
+   "ballSpeed": 11.57,
+   "lastKick": null,
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 6152
+   },
+   "next": {
+    "tick": 6151,
+    "type": "contact",
+    "player": "B05",
+    "team": "B",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 6182,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.36,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 21.28,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.37,
+    "targetDist": 3.1
+   },
+   "ballSpeed": 15.76,
+   "lastKick": {
+    "tick": 6176,
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 6228
+   },
+   "next": {
+    "tick": 6227,
+    "type": "contact",
+    "player": "B09",
+    "team": "B",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 6186,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.49,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 18.72,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.3,
+    "miss": 0.35,
+    "targetDist": 1
+   },
+   "ballSpeed": 14.58,
+   "lastKick": {
+    "tick": 6176,
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 6228
+   },
+   "next": {
+    "tick": 6227,
+    "type": "contact",
+    "player": "B09",
+    "team": "B",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 6190,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.61,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.19,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.26,
+    "targetDist": 5.9
+   },
+   "ballSpeed": 14.31,
+   "lastKick": {
+    "tick": 6176,
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 6228
+   },
+   "next": {
+    "tick": 6227,
+    "type": "contact",
+    "player": "B09",
+    "team": "B",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 6516,
+   "player": "A06",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.17,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 25.22,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 6,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.36,
+    "targetDist": 1.83
+   },
+   "ballSpeed": 17.28,
+   "lastKick": {
+    "tick": 6505,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A06"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.79,
+    "tick": 6571
+   },
+   "next": {
+    "tick": 6571,
+    "type": "kick",
+    "player": "A06",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 6520,
+   "player": "A06",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.3,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 22.61,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 6,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4500000000000002,
+    "miss": 0.35,
+    "targetDist": 1.1
+   },
+   "ballSpeed": 15.14,
+   "lastKick": {
+    "tick": 6505,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A06"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.79,
+    "tick": 6571
+   },
+   "next": {
+    "tick": 6571,
+    "type": "kick",
+    "player": "A06",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 6524,
+   "player": "A06",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.44,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 19.7,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.22,
+    "targetDist": 5.24
+   },
+   "ballSpeed": 16.27,
+   "lastKick": {
+    "tick": 6505,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A06"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.79,
+    "tick": 6571
+   },
+   "next": {
+    "tick": 6571,
+    "type": "kick",
+    "player": "A06",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 6528,
+   "player": "A06",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.56,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 17.21,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.29,
+    "targetDist": 5.74
+   },
+   "ballSpeed": 15.04,
+   "lastKick": {
+    "tick": 6505,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A06"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.79,
+    "tick": 6571
+   },
+   "next": {
+    "tick": 6571,
+    "type": "kick",
+    "player": "A06",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 6748,
+   "player": "A05",
+   "team": "A",
+   "role": "DM",
+   "chosen": "support",
+   "receiveScore": -0.06,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 3.37,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.35000000000000003,
+    "miss": 0.24,
+    "targetDist": 2.13
+   },
+   "ballSpeed": 3.58,
+   "lastKick": {
+    "tick": 6715,
+    "player": "A06",
+    "team": "A",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.76,
+    "tick": 6757
+   },
+   "next": {
+    "tick": 6755,
+    "type": "kick",
+    "player": "A08",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 6916,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.55,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 17.44,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4500000000000002,
+    "miss": 0.35,
+    "targetDist": 2.86
+   },
+   "ballSpeed": 11.69,
+   "lastKick": {
+    "tick": 6910,
+    "player": "A10",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A09"
+   },
+   "intended": false,
+   "closest": {
+    "d": 4.49,
+    "tick": 6951
+   },
+   "next": {
+    "tick": 6951,
+    "type": "kick",
+    "player": "A09",
+    "team": "A",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 7848,
+   "player": "B02",
+   "team": "B",
+   "role": "CB",
+   "chosen": "advance_support",
+   "receiveScore": -0.45,
+   "winnerScore": 0.67,
+   "components": {
+    "db": 7.04,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.35,
+    "miss": 0.41,
+    "targetDist": 4.5
+   },
+   "ballSpeed": 4.02,
+   "lastKick": {
+    "tick": 7582,
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B06"
+   },
+   "intended": false,
+   "closest": {
+    "d": 3.29,
+    "tick": 7879
+   },
+   "next": {
+    "tick": 7867,
+    "type": "kick",
+    "player": "B05",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 7856,
+   "player": "B02",
+   "team": "B",
+   "role": "CB",
+   "chosen": "advance_support",
+   "receiveScore": -0.42,
+   "winnerScore": 0.67,
+   "components": {
+    "db": 6.38,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.3,
+    "miss": 0.47,
+    "targetDist": 4.52
+   },
+   "ballSpeed": 3.43,
+   "lastKick": {
+    "tick": 7582,
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B06"
+   },
+   "intended": false,
+   "closest": {
+    "d": 3.29,
+    "tick": 7879
+   },
+   "next": {
+    "tick": 7867,
+    "type": "kick",
+    "player": "B05",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 8048,
+   "player": "A06",
+   "team": "A",
+   "role": "CM",
+   "chosen": "support",
+   "receiveScore": 0.24,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 1.78,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 0,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.15000000000000002,
+    "miss": 0.26,
+    "targetDist": 1.2
+   },
+   "ballSpeed": 6.3,
+   "lastKick": {
+    "tick": 8040,
+    "player": "B10",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.53,
+    "tick": 8051
+   },
+   "next": {
+    "tick": 8103,
+    "type": "kick",
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 8232,
+   "player": "B05",
+   "team": "B",
+   "role": "DM",
+   "chosen": "support",
+   "receiveScore": -0.72,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 12.54,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.38,
+    "targetDist": 8.08
+   },
+   "ballSpeed": 6.98,
+   "lastKick": {
+    "tick": 8208,
+    "player": "B07",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B06"
+   },
+   "intended": false,
+   "closest": {
+    "d": 1.23,
+    "tick": 8285
+   },
+   "next": {
+    "tick": 8234,
+    "type": "kick",
+    "player": "B06",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 8394,
+   "player": "B08",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.27,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 23.26,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 5,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4500000000000002,
+    "miss": 0,
+    "targetDist": 0.81
+   },
+   "ballSpeed": 15.91,
+   "lastKick": {
+    "tick": 8386,
+    "player": "B10",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.78,
+    "tick": 8451
+   },
+   "next": {
+    "tick": 8448,
+    "type": "kick",
+    "player": "B08",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 8399,
+   "player": "A08",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.34,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 21.68,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.34,
+    "targetDist": 4.33
+   },
+   "ballSpeed": 15.69,
+   "lastKick": {
+    "tick": 8386,
+    "player": "B10",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.55,
+    "tick": 8455
+   },
+   "next": {
+    "tick": 8448,
+    "type": "kick",
+    "player": "B08",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 8399,
+   "player": "B08",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.42,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 20.13,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 5,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.33,
+    "targetDist": 1.56
+   },
+   "ballSpeed": 15.08,
+   "lastKick": {
+    "tick": 8386,
+    "player": "B10",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.78,
+    "tick": 8451
+   },
+   "next": {
+    "tick": 8448,
+    "type": "kick",
+    "player": "B08",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 8404,
+   "player": "A08",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.5,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 18.34,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.31,
+    "targetDist": 4.91
+   },
+   "ballSpeed": 14.83,
+   "lastKick": {
+    "tick": 8386,
+    "player": "B10",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 8464
+   },
+   "next": {
+    "tick": 8448,
+    "type": "kick",
+    "player": "B08",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 8404,
+   "player": "B08",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.54,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 17.63,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 5,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.35,
+    "targetDist": 2.12
+   },
+   "ballSpeed": 13.86,
+   "lastKick": {
+    "tick": 8386,
+    "player": "B10",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.78,
+    "tick": 8451
+   },
+   "next": {
+    "tick": 8448,
+    "type": "kick",
+    "player": "B08",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 8496,
+   "player": "B10",
+   "team": "B",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.47,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 19.04,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.35,
+    "miss": 0.54,
+    "targetDist": 3.86
+   },
+   "ballSpeed": 13.91,
+   "lastKick": {
+    "tick": 8489,
+    "player": "A08",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 4.41,
+    "tick": 8525
+   },
+   "next": {
+    "tick": 8527,
+    "type": "kick",
+    "player": "A10",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 8500,
+   "player": "A06",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.48,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 18.75,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.25,
+    "miss": 0.16,
+    "targetDist": 3.17
+   },
+   "ballSpeed": 14.39,
+   "lastKick": {
+    "tick": 8489,
+    "player": "A08",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 2.06,
+    "tick": 8527
+   },
+   "next": {
+    "tick": 8527,
+    "type": "kick",
+    "player": "A10",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 8504,
+   "player": "A06",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.61,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.07,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.18,
+    "targetDist": 7.1
+   },
+   "ballSpeed": 13.92,
+   "lastKick": {
+    "tick": 8489,
+    "player": "A08",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 2.06,
+    "tick": 8527
+   },
+   "next": {
+    "tick": 8527,
+    "type": "kick",
+    "player": "A10",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 8820,
+   "player": "B02",
+   "team": "B",
+   "role": "CB",
+   "chosen": "support",
+   "receiveScore": -0.42,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 6.3,
+    "ourPossession": true,
+    "nearFriends": 2,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.8,
+    "miss": 0.41,
+    "targetDist": 4.86
+   },
+   "ballSpeed": 3.34,
+   "lastKick": {
+    "tick": 8719,
+    "player": "A06",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A09"
+   },
+   "intended": false,
+   "closest": {
+    "d": 5.02,
+    "tick": 8835
+   },
+   "next": {
+    "tick": 8821,
+    "type": "kick",
+    "player": "B04",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 9088,
+   "player": "A08",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.27,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 23.28,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4500000000000002,
+    "miss": 0.36,
+    "targetDist": 1.23
+   },
+   "ballSpeed": 15.96,
+   "lastKick": {
+    "tick": 9079,
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 6.96,
+    "tick": 9121
+   },
+   "next": null
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 9088,
+   "player": "B08",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.5,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 18.47,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.62,
+    "targetDist": 3.65
+   },
+   "ballSpeed": 15.15,
+   "lastKick": {
+    "tick": 9079,
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": true,
+   "closest": {
+    "d": 1.92,
+    "tick": 9115
+   },
+   "next": null
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 9093,
+   "player": "A08",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.43,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 19.84,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.35,
+    "targetDist": 0.57
+   },
+   "ballSpeed": 14.42,
+   "lastKick": {
+    "tick": 9079,
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 6.96,
+    "tick": 9121
+   },
+   "next": null
+  },
+  {
+   "rec": "scan_otherseed_state_87312948_6122.json.gz",
+   "tick": 9098,
+   "player": "A08",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.58,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.71,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.25,
+    "targetDist": 5.66
+   },
+   "ballSpeed": 14.51,
+   "lastKick": {
+    "tick": 9079,
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 6.96,
+    "tick": 9121
+   },
+   "next": null
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 12269,
+   "player": "A07",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.61,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.21,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.42,
+    "targetDist": 4.38
+   },
+   "ballSpeed": 13.72,
+   "lastKick": {
+    "tick": 12264,
+    "player": "A05",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A07"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 12315
+   },
+   "next": {
+    "tick": 12314,
+    "type": "contact",
+    "player": "A07",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 12333,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "support",
+   "receiveScore": -0.23,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 6.99,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.2000000000000002,
+    "miss": 0.39,
+    "targetDist": 4.05
+   },
+   "ballSpeed": 4.67,
+   "lastKick": {
+    "tick": 12326,
+    "player": "A07",
+    "team": "A",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.98,
+    "tick": 12393
+   },
+   "next": {
+    "tick": 12335,
+    "type": "kick",
+    "player": "A07",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 12341,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "support",
+   "receiveScore": -0.18,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 5.97,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.1,
+    "miss": 0.38,
+    "targetDist": 5.19
+   },
+   "ballSpeed": 4.42,
+   "lastKick": {
+    "tick": 12335,
+    "player": "A07",
+    "team": "A",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 12401
+   },
+   "next": {
+    "tick": 12367,
+    "type": "kick",
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 12345,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "support",
+   "receiveScore": -0.17,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 5.7,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.47,
+    "targetDist": 4.05
+   },
+   "ballSpeed": 3.05,
+   "lastKick": {
+    "tick": 12335,
+    "player": "A07",
+    "team": "A",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 12401
+   },
+   "next": {
+    "tick": 12367,
+    "type": "kick",
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 12349,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "support",
+   "receiveScore": -0.16,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 5.58,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.34,
+    "targetDist": 5.87
+   },
+   "ballSpeed": 4.38,
+   "lastKick": {
+    "tick": 12335,
+    "player": "A07",
+    "team": "A",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 12401
+   },
+   "next": {
+    "tick": 12367,
+    "type": "kick",
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 12421,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.34,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 21.7,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.35,
+    "targetDist": 1.71
+   },
+   "ballSpeed": 14.56,
+   "lastKick": {
+    "tick": 12416,
+    "player": "A09",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 12458
+   },
+   "next": {
+    "tick": 12457,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 12425,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.47,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 19.01,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.25,
+    "miss": 0.33,
+    "targetDist": 1.24
+   },
+   "ballSpeed": 14.34,
+   "lastKick": {
+    "tick": 12416,
+    "player": "A09",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 12458
+   },
+   "next": {
+    "tick": 12457,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 12429,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.6,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.34,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.13,
+    "targetDist": 5.11
+   },
+   "ballSpeed": 13.63,
+   "lastKick": {
+    "tick": 12416,
+    "player": "A09",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 12458
+   },
+   "next": {
+    "tick": 12457,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 13009,
+   "player": "A02",
+   "team": "A",
+   "role": "CB",
+   "chosen": "advance_support",
+   "receiveScore": -0.44,
+   "winnerScore": 0.67,
+   "components": {
+    "db": 11.29,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.1500000000000001,
+    "miss": 0.2,
+    "targetDist": 1.93
+   },
+   "ballSpeed": 8.15,
+   "lastKick": {
+    "tick": 12938,
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 4.16,
+    "tick": 13033
+   },
+   "next": {
+    "tick": 13046,
+    "type": "restart_placement",
+    "player": null,
+    "team": "A",
+    "kind": "goal_kick",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 13013,
+   "player": "A02",
+   "team": "A",
+   "role": "CB",
+   "chosen": "advance_support",
+   "receiveScore": -0.36,
+   "winnerScore": 0.67,
+   "components": {
+    "db": 9.64,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.9500000000000001,
+    "miss": 0.3,
+    "targetDist": 1.54
+   },
+   "ballSpeed": 8.8,
+   "lastKick": {
+    "tick": 12938,
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 4.16,
+    "tick": 13033
+   },
+   "next": {
+    "tick": 13046,
+    "type": "restart_placement",
+    "player": null,
+    "team": "A",
+    "kind": "goal_kick",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 13017,
+   "player": "A02",
+   "team": "A",
+   "role": "CB",
+   "chosen": "advance_support",
+   "receiveScore": -0.27,
+   "winnerScore": 0.67,
+   "components": {
+    "db": 7.89,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.8,
+    "miss": 0.34,
+    "targetDist": 0.64
+   },
+   "ballSpeed": 9.07,
+   "lastKick": {
+    "tick": 12938,
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 4.16,
+    "tick": 13033
+   },
+   "next": {
+    "tick": 13046,
+    "type": "restart_placement",
+    "player": null,
+    "team": "A",
+    "kind": "goal_kick",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 13297,
+   "player": "B08",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.47,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 19.05,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.25,
+    "miss": 0.35,
+    "targetDist": 1.37
+   },
+   "ballSpeed": 14.44,
+   "lastKick": {
+    "tick": 13290,
+    "player": "A10",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.96,
+    "tick": 13344
+   },
+   "next": {
+    "tick": 13344,
+    "type": "kick",
+    "player": "B08",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 13302,
+   "player": "B08",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.6,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.27,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.3,
+    "miss": 0.35,
+    "targetDist": 1.23
+   },
+   "ballSpeed": 13.09,
+   "lastKick": {
+    "tick": 13290,
+    "player": "A10",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.96,
+    "tick": 13344
+   },
+   "next": {
+    "tick": 13344,
+    "type": "kick",
+    "player": "B08",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 13603,
+   "player": "B10",
+   "team": "B",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.59,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.62,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.35,
+    "miss": 0.35,
+    "targetDist": 2.38
+   },
+   "ballSpeed": 11.34,
+   "lastKick": {
+    "tick": 13595,
+    "player": "A08",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.8,
+    "tick": 13645
+   },
+   "next": {
+    "tick": 13645,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 13815,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.63,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.7,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.25,
+    "miss": 0.35,
+    "targetDist": 2.2
+   },
+   "ballSpeed": 10.53,
+   "lastKick": {
+    "tick": 13808,
+    "player": "A04",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A09"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.73,
+    "tick": 13865
+   },
+   "next": {
+    "tick": 13830,
+    "type": "kick",
+    "player": "A09",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 14010,
+   "player": "A08",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.22,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 24.24,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 6,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0,
+    "targetDist": 1.26
+   },
+   "ballSpeed": 16.42,
+   "lastKick": {
+    "tick": 14001,
+    "player": "A02",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A08"
+   },
+   "intended": true,
+   "closest": {
+    "d": 15.84,
+    "tick": 14021
+   },
+   "next": {
+    "tick": 14021,
+    "type": "kick",
+    "player": "A06",
+    "team": "A",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 14015,
+   "player": "A08",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.43,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 19.91,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.62,
+    "targetDist": 5.5
+   },
+   "ballSpeed": 17.85,
+   "lastKick": {
+    "tick": 14001,
+    "player": "A02",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A08"
+   },
+   "intended": true,
+   "closest": {
+    "d": 15.84,
+    "tick": 14021
+   },
+   "next": {
+    "tick": 14021,
+    "type": "kick",
+    "player": "A06",
+    "team": "A",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 14015,
+   "player": "B08",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.29,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 22.81,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.04,
+    "targetDist": 1.96
+   },
+   "ballSpeed": 16.82,
+   "lastKick": {
+    "tick": 14001,
+    "player": "A02",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 18.85,
+    "tick": 14021
+   },
+   "next": {
+    "tick": 14021,
+    "type": "kick",
+    "player": "A06",
+    "team": "A",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 14020,
+   "player": "A08",
+   "team": "A",
+   "role": "WG",
+   "chosen": "support",
+   "receiveScore": -0.91,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.48,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4500000000000002,
+    "miss": 0.53,
+    "targetDist": 6.81
+   },
+   "ballSpeed": 15.66,
+   "lastKick": {
+    "tick": 14001,
+    "player": "A02",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A08"
+   },
+   "intended": true,
+   "closest": {
+    "d": 15.84,
+    "tick": 14021
+   },
+   "next": {
+    "tick": 14021,
+    "type": "kick",
+    "player": "A06",
+    "team": "A",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 14165,
+   "player": "A08",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.2,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 24.68,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 5,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.33,
+    "targetDist": 2.87
+   },
+   "ballSpeed": 17.77,
+   "lastKick": {
+    "tick": 14152,
+    "player": "A10",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A08"
+   },
+   "intended": true,
+   "closest": {
+    "d": 1.82,
+    "tick": 14213
+   },
+   "next": {
+    "tick": 14213,
+    "type": "kick",
+    "player": "B08",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 14165,
+   "player": "B08",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.23,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 24.11,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 5,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.43,
+    "targetDist": 3.25
+   },
+   "ballSpeed": 16.5,
+   "lastKick": {
+    "tick": 14152,
+    "player": "A10",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.68,
+    "tick": 14213
+   },
+   "next": {
+    "tick": 14213,
+    "type": "kick",
+    "player": "B08",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 14170,
+   "player": "A08",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.37,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 21.24,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 5,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.35,
+    "targetDist": 1.17
+   },
+   "ballSpeed": 15.98,
+   "lastKick": {
+    "tick": 14152,
+    "player": "A10",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A08"
+   },
+   "intended": true,
+   "closest": {
+    "d": 1.82,
+    "tick": 14213
+   },
+   "next": {
+    "tick": 14213,
+    "type": "kick",
+    "player": "B08",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 14170,
+   "player": "B08",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.4,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 20.45,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.38,
+    "targetDist": 6.93
+   },
+   "ballSpeed": 17.33,
+   "lastKick": {
+    "tick": 14152,
+    "player": "A10",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.68,
+    "tick": 14213
+   },
+   "next": {
+    "tick": 14213,
+    "type": "kick",
+    "player": "B08",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 14175,
+   "player": "B08",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.55,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 17.5,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.31,
+    "targetDist": 7.79
+   },
+   "ballSpeed": 15.86,
+   "lastKick": {
+    "tick": 14152,
+    "player": "A10",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.68,
+    "tick": 14213
+   },
+   "next": {
+    "tick": 14213,
+    "type": "kick",
+    "player": "B08",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 14240,
+   "player": "B08",
+   "team": "B",
+   "role": "WG",
+   "chosen": "support",
+   "receiveScore": -0.2,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 6.36,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.75,
+    "miss": 0.43,
+    "targetDist": 2.68
+   },
+   "ballSpeed": 5.53,
+   "lastKick": {
+    "tick": 14240,
+    "player": "B06",
+    "team": "B",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.54,
+    "tick": 14259
+   },
+   "next": {
+    "tick": 14247,
+    "type": "kick",
+    "player": "B06",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 14267,
+   "player": "B10",
+   "team": "B",
+   "role": "ST",
+   "chosen": "support",
+   "receiveScore": -0.85,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.26,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4500000000000002,
+    "miss": 0.26,
+    "targetDist": 2.9
+   },
+   "ballSpeed": 10.05,
+   "lastKick": {
+    "tick": 14254,
+    "player": "B06",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 14313
+   },
+   "next": {
+    "tick": 14309,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 14323,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.17,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 25.3,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 5,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.53,
+    "targetDist": 2.99
+   },
+   "ballSpeed": 16.99,
+   "lastKick": {
+    "tick": 14316,
+    "player": "B10",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 14378
+   },
+   "next": {
+    "tick": 14377,
+    "type": "contact",
+    "player": "B09",
+    "team": "B",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 14327,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.31,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 22.4,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.35,
+    "targetDist": 0.65
+   },
+   "ballSpeed": 15.77,
+   "lastKick": {
+    "tick": 14316,
+    "player": "B10",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 14378
+   },
+   "next": {
+    "tick": 14377,
+    "type": "contact",
+    "player": "B09",
+    "team": "B",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 14331,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.45,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 19.5,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.16,
+    "targetDist": 6.12
+   },
+   "ballSpeed": 16.74,
+   "lastKick": {
+    "tick": 14316,
+    "player": "B10",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 14378
+   },
+   "next": {
+    "tick": 14377,
+    "type": "contact",
+    "player": "B09",
+    "team": "B",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 14335,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.56,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 17.28,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.35,
+    "targetDist": 4.78
+   },
+   "ballSpeed": 14.36,
+   "lastKick": {
+    "tick": 14316,
+    "player": "B10",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 14378
+   },
+   "next": {
+    "tick": 14377,
+    "type": "contact",
+    "player": "B09",
+    "team": "B",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 15063,
+   "player": "A05",
+   "team": "A",
+   "role": "DM",
+   "chosen": "cover",
+   "receiveScore": 0.64,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.47,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.6,
+    "targetDist": 3.93
+   },
+   "ballSpeed": 13.58,
+   "lastKick": {
+    "tick": 15057,
+    "player": "A03",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A05"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.88,
+    "tick": 15097
+   },
+   "next": {
+    "tick": 15097,
+    "type": "kick",
+    "player": "A05",
+    "team": "A",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_12235.json.gz",
+   "tick": 15103,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.51,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 18.29,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.35,
+    "targetDist": 2.19
+   },
+   "ballSpeed": 14.06,
+   "lastKick": {
+    "tick": 15097,
+    "player": "A05",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.7,
+    "tick": 15163
+   },
+   "next": {
+    "tick": 15150,
+    "type": "kick",
+    "player": "A10",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 6434,
+   "player": "B08",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.35,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 21.6,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 6,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.69,
+    "targetDist": 6.41
+   },
+   "ballSpeed": 15.41,
+   "lastKick": {
+    "tick": 6418,
+    "player": "B03",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 2.81,
+    "tick": 6477
+   },
+   "next": {
+    "tick": 6487,
+    "type": "kick",
+    "player": "A08",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 6564,
+   "player": "B10",
+   "team": "B",
+   "role": "ST",
+   "chosen": "support",
+   "receiveScore": -0.13,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 4.87,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.75,
+    "miss": 0.42,
+    "targetDist": 2.18
+   },
+   "ballSpeed": 3.59,
+   "lastKick": {
+    "tick": 6558,
+    "player": "B06",
+    "team": "B",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 6574
+   },
+   "next": {
+    "tick": 6565,
+    "type": "kick",
+    "player": "B06",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 6780,
+   "player": "B01",
+   "team": "B",
+   "role": "CB",
+   "chosen": "cover",
+   "receiveScore": 0.64,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.5,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.34,
+    "targetDist": 4
+   },
+   "ballSpeed": 11.01,
+   "lastKick": {
+    "tick": 6763,
+    "player": "A10",
+    "team": "A",
+    "kind": "shoot",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 6813
+   },
+   "next": {
+    "tick": 6812,
+    "type": "contact",
+    "player": "B01",
+    "team": "B",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 6832,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.12,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 26.39,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 8,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.34,
+    "targetDist": 3.32
+   },
+   "ballSpeed": 18.71,
+   "lastKick": {
+    "tick": 6818,
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.93,
+    "tick": 6874
+   },
+   "next": {
+    "tick": 6874,
+    "type": "kick",
+    "player": "B09",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 6836,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.36,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 25.84,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.34,
+    "targetDist": 4.2
+   },
+   "ballSpeed": 18.89,
+   "lastKick": {
+    "tick": 6818,
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": false,
+   "closest": {
+    "d": 4.87,
+    "tick": 6896
+   },
+   "next": {
+    "tick": 6874,
+    "type": "kick",
+    "player": "B09",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 6840,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.51,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 22.77,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.34,
+    "targetDist": 5.04
+   },
+   "ballSpeed": 18.01,
+   "lastKick": {
+    "tick": 6818,
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": false,
+   "closest": {
+    "d": 4.27,
+    "tick": 6900
+   },
+   "next": {
+    "tick": 6874,
+    "type": "kick",
+    "player": "B09",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 6840,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.42,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 20.08,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 6,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.53,
+    "targetDist": 7.61
+   },
+   "ballSpeed": 17.36,
+   "lastKick": {
+    "tick": 6818,
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.93,
+    "tick": 6874
+   },
+   "next": {
+    "tick": 6874,
+    "type": "kick",
+    "player": "B09",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 6844,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.56,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 17.17,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.25,
+    "miss": 0.54,
+    "targetDist": 6.97
+   },
+   "ballSpeed": 18.19,
+   "lastKick": {
+    "tick": 6818,
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.93,
+    "tick": 6874
+   },
+   "next": {
+    "tick": 6874,
+    "type": "kick",
+    "player": "B09",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 7064,
+   "player": "B03",
+   "team": "B",
+   "role": "FB",
+   "chosen": "support",
+   "receiveScore": 0.18,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 2.98,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 0,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.30000000000000004,
+    "miss": 0.1,
+    "targetDist": 1.27
+   },
+   "ballSpeed": 6.87,
+   "lastKick": {
+    "tick": 6939,
+    "player": "A09",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.51,
+    "tick": 7070
+   },
+   "next": {
+    "tick": 7074,
+    "type": "kick",
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 7068,
+   "player": "B03",
+   "team": "B",
+   "role": "FB",
+   "chosen": "support",
+   "receiveScore": 0.26,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 1.29,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 0,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.2,
+    "miss": 0.44,
+    "targetDist": 0.25
+   },
+   "ballSpeed": 5.56,
+   "lastKick": {
+    "tick": 6939,
+    "player": "A09",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.51,
+    "tick": 7070
+   },
+   "next": {
+    "tick": 7074,
+    "type": "kick",
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 7152,
+   "player": "B06",
+   "team": "B",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.62,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.95,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.1500000000000001,
+    "miss": 0.26,
+    "targetDist": 6.13
+   },
+   "ballSpeed": 10.47,
+   "lastKick": {
+    "tick": 7136,
+    "player": "A08",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.61,
+    "tick": 7174
+   },
+   "next": {
+    "tick": 7235,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 7196,
+   "player": "B10",
+   "team": "B",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.65,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.36,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.65,
+    "targetDist": 8.42
+   },
+   "ballSpeed": 9.22,
+   "lastKick": {
+    "tick": 7136,
+    "player": "A08",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 7236
+   },
+   "next": {
+    "tick": 7235,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 7240,
+   "player": "B05",
+   "team": "B",
+   "role": "DM",
+   "chosen": "cover_exchange",
+   "receiveScore": -0.03,
+   "winnerScore": 0.92,
+   "components": {
+    "db": 2.87,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.45,
+    "miss": 0.46,
+    "targetDist": 2.38
+   },
+   "ballSpeed": 3.5,
+   "lastKick": {
+    "tick": 7235,
+    "player": "B10",
+    "team": "B",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 1.16,
+    "tick": 7249
+   },
+   "next": {
+    "tick": 7242,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 8090,
+   "player": "B01",
+   "team": "B",
+   "role": "CB",
+   "chosen": "cover",
+   "receiveScore": 0.27,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 23.22,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.2000000000000002,
+    "miss": 0.63,
+    "targetDist": 3.9
+   },
+   "ballSpeed": 16.16,
+   "lastKick": {
+    "tick": 8068,
+    "player": "A10",
+    "team": "A",
+    "kind": "restart_kick",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 5.54,
+    "tick": 8113
+   },
+   "next": {
+    "tick": 8093,
+    "type": "restart_placement",
+    "player": null,
+    "team": "B",
+    "kind": "goal_kick",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 8229,
+   "player": "A08",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.45,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 24.14,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.45,
+    "targetDist": 3.67
+   },
+   "ballSpeed": 16.08,
+   "lastKick": {
+    "tick": 8221,
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 8285
+   },
+   "next": {
+    "tick": 8284,
+    "type": "contact",
+    "player": "A08",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 8229,
+   "player": "B08",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.33,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 22.03,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 5,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.8,
+    "targetDist": 2.35
+   },
+   "ballSpeed": 16.15,
+   "lastKick": {
+    "tick": 8221,
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": true,
+   "closest": {
+    "d": 3.35,
+    "tick": 8261
+   },
+   "next": {
+    "tick": 8284,
+    "type": "contact",
+    "player": "A08",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 8234,
+   "player": "A08",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.6,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 20.96,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4500000000000002,
+    "miss": 0,
+    "targetDist": 2.89
+   },
+   "ballSpeed": 15.81,
+   "lastKick": {
+    "tick": 8221,
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 8285
+   },
+   "next": {
+    "tick": 8284,
+    "type": "contact",
+    "player": "A08",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 8342,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.31,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 22.46,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.78,
+    "targetDist": 1.19
+   },
+   "ballSpeed": 15.66,
+   "lastKick": {
+    "tick": 8337,
+    "player": "A08",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 5.5,
+    "tick": 8375
+   },
+   "next": {
+    "tick": 8432,
+    "type": "kick",
+    "player": "B07",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 8346,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.41,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 20.23,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.68,
+    "targetDist": 3.14
+   },
+   "ballSpeed": 14.9,
+   "lastKick": {
+    "tick": 8337,
+    "player": "A08",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 5.5,
+    "tick": 8375
+   },
+   "next": {
+    "tick": 8432,
+    "type": "kick",
+    "player": "B07",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 8366,
+   "player": "B07",
+   "team": "B",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.42,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 20.02,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.73,
+    "targetDist": 0.53
+   },
+   "ballSpeed": 13.64,
+   "lastKick": {
+    "tick": 8337,
+    "player": "A08",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 2.31,
+    "tick": 8426
+   },
+   "next": {
+    "tick": 8432,
+    "type": "kick",
+    "player": "B07",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 8370,
+   "player": "B07",
+   "team": "B",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.5,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 18.35,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.65,
+    "targetDist": 2.75
+   },
+   "ballSpeed": 13.22,
+   "lastKick": {
+    "tick": 8337,
+    "player": "A08",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 1.29,
+    "tick": 8430
+   },
+   "next": {
+    "tick": 8432,
+    "type": "kick",
+    "player": "B07",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 8374,
+   "player": "B07",
+   "team": "B",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.58,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.81,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.52,
+    "targetDist": 3.72
+   },
+   "ballSpeed": 12.69,
+   "lastKick": {
+    "tick": 8337,
+    "player": "A08",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.85,
+    "tick": 8432
+   },
+   "next": {
+    "tick": 8432,
+    "type": "kick",
+    "player": "B07",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 8454,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "support",
+   "receiveScore": -0.13,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 4.82,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.8500000000000001,
+    "miss": 0.41,
+    "targetDist": 2.05
+   },
+   "ballSpeed": 3.94,
+   "lastKick": {
+    "tick": 8439,
+    "player": "B07",
+    "team": "B",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 4.53,
+    "tick": 8463
+   },
+   "next": {
+    "tick": 8456,
+    "type": "kick",
+    "player": "B07",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 8462,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "support",
+   "receiveScore": -0.11,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 4.43,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.1500000000000001,
+    "miss": 0.46,
+    "targetDist": 4
+   },
+   "ballSpeed": 3.88,
+   "lastKick": {
+    "tick": 8456,
+    "player": "B07",
+    "team": "B",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 4.53,
+    "tick": 8463
+   },
+   "next": {
+    "tick": 8488,
+    "type": "kick",
+    "player": "A10",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 8772,
+   "player": "B07",
+   "team": "B",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.64,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.49,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.78,
+    "targetDist": 7.68
+   },
+   "ballSpeed": 11.17,
+   "lastKick": {
+    "tick": 8750,
+    "player": "A10",
+    "team": "A",
+    "kind": "restart_kick",
+    "targetId": "A09"
+   },
+   "intended": false,
+   "closest": {
+    "d": 1.92,
+    "tick": 8800
+   },
+   "next": {
+    "tick": 8798,
+    "type": "kick",
+    "player": "B09",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 8872,
+   "player": "A05",
+   "team": "A",
+   "role": "DM",
+   "chosen": "cover",
+   "receiveScore": 0.31,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 22.44,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.35,
+    "miss": 0.35,
+    "targetDist": 1.57
+   },
+   "ballSpeed": 15.96,
+   "lastKick": {
+    "tick": 8843,
+    "player": "B02",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.86,
+    "tick": 8932
+   },
+   "next": {
+    "tick": 8933,
+    "type": "contact",
+    "player": "A05",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 8876,
+   "player": "A05",
+   "team": "A",
+   "role": "DM",
+   "chosen": "cover",
+   "receiveScore": 0.43,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 19.91,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.35,
+    "miss": 0.35,
+    "targetDist": 0.5
+   },
+   "ballSpeed": 14.58,
+   "lastKick": {
+    "tick": 8843,
+    "player": "B02",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 8934
+   },
+   "next": {
+    "tick": 8933,
+    "type": "contact",
+    "player": "A05",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 8986,
+   "player": "A08",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.64,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.61,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.35,
+    "targetDist": 3.65
+   },
+   "ballSpeed": 12.45,
+   "lastKick": {
+    "tick": 8978,
+    "player": "A05",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A08"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 9018
+   },
+   "next": {
+    "tick": 9017,
+    "type": "contact",
+    "player": "A08",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 78422,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.45,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 19.38,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.35,
+    "targetDist": 2.43
+   },
+   "ballSpeed": 14.48,
+   "lastKick": {
+    "tick": 78414,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 78460
+   },
+   "next": {
+    "tick": 78459,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 78426,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.58,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.77,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.36,
+    "targetDist": 3.95
+   },
+   "ballSpeed": 13.48,
+   "lastKick": {
+    "tick": 78414,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 78460
+   },
+   "next": {
+    "tick": 78459,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 78434,
+   "player": "B06",
+   "team": "B",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.41,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 20.24,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 5,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.79,
+    "targetDist": 5.01
+   },
+   "ballSpeed": 13.36,
+   "lastKick": {
+    "tick": 78414,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 10.86,
+    "tick": 78460
+   },
+   "next": {
+    "tick": 78459,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 78438,
+   "player": "B06",
+   "team": "B",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.5,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 18.36,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.18,
+    "targetDist": 3.07
+   },
+   "ballSpeed": 13.53,
+   "lastKick": {
+    "tick": 78414,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 10.86,
+    "tick": 78460
+   },
+   "next": {
+    "tick": 78459,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 78490,
+   "player": "B06",
+   "team": "B",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.55,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 17.41,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.11,
+    "targetDist": 5.56
+   },
+   "ballSpeed": 12.92,
+   "lastKick": {
+    "tick": 78464,
+    "player": "A10",
+    "team": "A",
+    "kind": "shoot",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.59,
+    "tick": 78516
+   },
+   "next": {
+    "tick": 78516,
+    "type": "kick",
+    "player": "B06",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 78516,
+   "player": "B08",
+   "team": "B",
+   "role": "WG",
+   "chosen": "support",
+   "receiveScore": -0.79,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 14.07,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.39,
+    "targetDist": 4.81
+   },
+   "ballSpeed": 11.26,
+   "lastKick": {
+    "tick": 78516,
+    "player": "B06",
+    "team": "B",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 13.58,
+    "tick": 78543
+   },
+   "next": {
+    "tick": 78523,
+    "type": "kick",
+    "player": "B06",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 78718,
+   "player": "B10",
+   "team": "B",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.24,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 23.83,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 6,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.35,
+    "targetDist": 1.57
+   },
+   "ballSpeed": 16.76,
+   "lastKick": {
+    "tick": 78709,
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.59,
+    "tick": 78778
+   },
+   "next": {
+    "tick": 78769,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 78722,
+   "player": "B10",
+   "team": "B",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.37,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 21.11,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 5,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.35,
+    "miss": 0,
+    "targetDist": 1.18
+   },
+   "ballSpeed": 16.25,
+   "lastKick": {
+    "tick": 78709,
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.53,
+    "tick": 78782
+   },
+   "next": {
+    "tick": 78769,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 78726,
+   "player": "B10",
+   "team": "B",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.49,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 18.66,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.33,
+    "targetDist": 5.98
+   },
+   "ballSpeed": 16.13,
+   "lastKick": {
+    "tick": 78709,
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 78784
+   },
+   "next": {
+    "tick": 78769,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 78850,
+   "player": "B01",
+   "team": "B",
+   "role": "CB",
+   "chosen": "cover",
+   "receiveScore": 0.29,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 22.71,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.4,
+    "targetDist": 3.39
+   },
+   "ballSpeed": 15.57,
+   "lastKick": {
+    "tick": 78839,
+    "player": "A05",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.9,
+    "tick": 78900
+   },
+   "next": {
+    "tick": 78900,
+    "type": "kick",
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 78854,
+   "player": "B01",
+   "team": "B",
+   "role": "CB",
+   "chosen": "cover",
+   "receiveScore": 0.41,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 20.21,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.55,
+    "targetDist": 5.56
+   },
+   "ballSpeed": 15.83,
+   "lastKick": {
+    "tick": 78839,
+    "player": "A05",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.9,
+    "tick": 78900
+   },
+   "next": {
+    "tick": 78900,
+    "type": "kick",
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 78858,
+   "player": "B06",
+   "team": "B",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.33,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 21.92,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.3,
+    "miss": 0.43,
+    "targetDist": 5.5
+   },
+   "ballSpeed": 14.98,
+   "lastKick": {
+    "tick": 78839,
+    "player": "A05",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.63,
+    "tick": 78882
+   },
+   "next": {
+    "tick": 78900,
+    "type": "kick",
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 78882,
+   "player": "B01",
+   "team": "B",
+   "role": "CB",
+   "chosen": "advance_support",
+   "receiveScore": -0.28,
+   "winnerScore": 0.67,
+   "components": {
+    "db": 7.95,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.1500000000000001,
+    "miss": 0.44,
+    "targetDist": 7.11
+   },
+   "ballSpeed": 12.66,
+   "lastKick": {
+    "tick": 78839,
+    "player": "A05",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.9,
+    "tick": 78900
+   },
+   "next": {
+    "tick": 78900,
+    "type": "kick",
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 79254,
+   "player": "B02",
+   "team": "B",
+   "role": "CB",
+   "chosen": "cover",
+   "receiveScore": 0.28,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 23.07,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.1,
+    "miss": 0.57,
+    "targetDist": 5.14
+   },
+   "ballSpeed": 16.57,
+   "lastKick": {
+    "tick": 79232,
+    "player": "A08",
+    "team": "A",
+    "kind": "restart_kick",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 14.74,
+    "tick": 79270
+   },
+   "next": {
+    "tick": 79260,
+    "type": "kick",
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 79258,
+   "player": "B02",
+   "team": "B",
+   "role": "CB",
+   "chosen": "advance_support",
+   "receiveScore": -1.02,
+   "winnerScore": 0.67,
+   "components": {
+    "db": 18.91,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1,
+    "miss": 0.79,
+    "targetDist": 3.75
+   },
+   "ballSpeed": 15.13,
+   "lastKick": {
+    "tick": 79232,
+    "player": "A08",
+    "team": "A",
+    "kind": "restart_kick",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 14.74,
+    "tick": 79270
+   },
+   "next": {
+    "tick": 79260,
+    "type": "kick",
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 79270,
+   "player": "B10",
+   "team": "B",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.17,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 25.22,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 7,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.25,
+    "miss": 0.69,
+    "targetDist": 2.9
+   },
+   "ballSpeed": 17.8,
+   "lastKick": {
+    "tick": 79260,
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 79304
+   },
+   "next": {
+    "tick": 79300,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 79274,
+   "player": "B10",
+   "team": "B",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.38,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 20.93,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 6,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.2000000000000002,
+    "miss": 0.46,
+    "targetDist": 0.45
+   },
+   "ballSpeed": 16.91,
+   "lastKick": {
+    "tick": 79260,
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 79304
+   },
+   "next": {
+    "tick": 79300,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 79278,
+   "player": "B10",
+   "team": "B",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.57,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.97,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1,
+    "miss": 0.31,
+    "targetDist": 1.32
+   },
+   "ballSpeed": 16.47,
+   "lastKick": {
+    "tick": 79260,
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 79304
+   },
+   "next": {
+    "tick": 79300,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 79326,
+   "player": "B01",
+   "team": "B",
+   "role": "CB",
+   "chosen": "advance_support",
+   "receiveScore": -0.9,
+   "winnerScore": 0.67,
+   "components": {
+    "db": 16.42,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.56,
+    "targetDist": 6.94
+   },
+   "ballSpeed": 12.02,
+   "lastKick": {
+    "tick": 79307,
+    "player": "B10",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B06"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.78,
+    "tick": 79368
+   },
+   "next": {
+    "tick": 79368,
+    "type": "kick",
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 79390,
+   "player": "B10",
+   "team": "B",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.49,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 18.6,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.38,
+    "targetDist": 6.15
+   },
+   "ballSpeed": 12.11,
+   "lastKick": {
+    "tick": 79368,
+    "player": "B01",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B05"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.7,
+    "tick": 79432
+   },
+   "next": {
+    "tick": 79432,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 79520,
+   "player": "B08",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.44,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 19.79,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.26,
+    "targetDist": 2.01
+   },
+   "ballSpeed": 14.47,
+   "lastKick": {
+    "tick": 79514,
+    "player": "B10",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 79566
+   },
+   "next": {
+    "tick": 79565,
+    "type": "contact",
+    "player": "B08",
+    "team": "B",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 79525,
+   "player": "B08",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.6,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.35,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4500000000000002,
+    "miss": 0.55,
+    "targetDist": 5.6
+   },
+   "ballSpeed": 14.74,
+   "lastKick": {
+    "tick": 79514,
+    "player": "B10",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 79566
+   },
+   "next": {
+    "tick": 79565,
+    "type": "contact",
+    "player": "B08",
+    "team": "B",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 79622,
+   "player": "B10",
+   "team": "B",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.52,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 17.92,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.33,
+    "targetDist": 4.81
+   },
+   "ballSpeed": 14.88,
+   "lastKick": {
+    "tick": 79607,
+    "player": "B08",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.84,
+    "tick": 79658
+   },
+   "next": {
+    "tick": 79656,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 79706,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.6,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.36,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.25,
+    "miss": 0.35,
+    "targetDist": 0.78
+   },
+   "ballSpeed": 12.54,
+   "lastKick": {
+    "tick": 79699,
+    "player": "A05",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 6.34,
+    "tick": 79732
+   },
+   "next": {
+    "tick": 79732,
+    "type": "kick",
+    "player": "B09",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 80144,
+   "player": "A07",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.48,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 18.85,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.22,
+    "targetDist": 3.2
+   },
+   "ballSpeed": 14.32,
+   "lastKick": {
+    "tick": 80139,
+    "player": "A02",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A07"
+   },
+   "intended": true,
+   "closest": {
+    "d": 1.38,
+    "tick": 80167
+   },
+   "next": {
+    "tick": 80246,
+    "type": "kick",
+    "player": "B07",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 80148,
+   "player": "A07",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.64,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.57,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.1500000000000001,
+    "miss": 0.52,
+    "targetDist": 1.31
+   },
+   "ballSpeed": 14.32,
+   "lastKick": {
+    "tick": 80139,
+    "player": "A02",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A07"
+   },
+   "intended": true,
+   "closest": {
+    "d": 1.38,
+    "tick": 80167
+   },
+   "next": {
+    "tick": 80246,
+    "type": "kick",
+    "player": "B07",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 80216,
+   "player": "B07",
+   "team": "B",
+   "role": "CM",
+   "chosen": "support",
+   "receiveScore": -0.53,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 13.19,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.22,
+    "targetDist": 2.45
+   },
+   "ballSpeed": 8.97,
+   "lastKick": {
+    "tick": 80139,
+    "player": "A02",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A07"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.74,
+    "tick": 80246
+   },
+   "next": {
+    "tick": 80246,
+    "type": "kick",
+    "player": "B07",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 80220,
+   "player": "B07",
+   "team": "B",
+   "role": "CM",
+   "chosen": "support",
+   "receiveScore": -0.47,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 11.88,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.2000000000000002,
+    "miss": 0.15,
+    "targetDist": 1.64
+   },
+   "ballSpeed": 8.59,
+   "lastKick": {
+    "tick": 80139,
+    "player": "A02",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A07"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.74,
+    "tick": 80246
+   },
+   "next": {
+    "tick": 80246,
+    "type": "kick",
+    "player": "B07",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 80340,
+   "player": "A06",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.53,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 17.86,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.23,
+    "targetDist": 3.97
+   },
+   "ballSpeed": 14.31,
+   "lastKick": {
+    "tick": 80333,
+    "player": "A09",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A06"
+   },
+   "intended": true,
+   "closest": {
+    "d": 1.04,
+    "tick": 80400
+   },
+   "next": {
+    "tick": 80383,
+    "type": "kick",
+    "player": "A06",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 80344,
+   "player": "A06",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.64,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.5,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.35,
+    "targetDist": 3.54
+   },
+   "ballSpeed": 12.46,
+   "lastKick": {
+    "tick": 80333,
+    "player": "A09",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A06"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.81,
+    "tick": 80404
+   },
+   "next": {
+    "tick": 80383,
+    "type": "kick",
+    "player": "A06",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 80412,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.56,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 17.11,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.35,
+    "miss": 0.35,
+    "targetDist": 2.14
+   },
+   "ballSpeed": 13.76,
+   "lastKick": {
+    "tick": 80406,
+    "player": "A06",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.61,
+    "tick": 80454
+   },
+   "next": {
+    "tick": 80454,
+    "type": "kick",
+    "player": "A10",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 80416,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.65,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.32,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.3,
+    "miss": 0.35,
+    "targetDist": 1.43
+   },
+   "ballSpeed": 12.62,
+   "lastKick": {
+    "tick": 80406,
+    "player": "A06",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.61,
+    "tick": 80454
+   },
+   "next": {
+    "tick": 80454,
+    "type": "kick",
+    "player": "A10",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 81247,
+   "player": "A08",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.6,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.42,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.1,
+    "targetDist": 4.98
+   },
+   "ballSpeed": 14.02,
+   "lastKick": {
+    "tick": 81239,
+    "player": "A10",
+    "team": "A",
+    "kind": "restart_kick",
+    "targetId": "A08"
+   },
+   "intended": true,
+   "closest": {
+    "d": 1.72,
+    "tick": 81280
+   },
+   "next": {
+    "tick": 81280,
+    "type": "kick",
+    "player": "B08",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_outlet_to_shot.json.gz",
+   "tick": 81247,
+   "player": "B08",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.59,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.62,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.23,
+    "targetDist": 4.69
+   },
+   "ballSpeed": 13.22,
+   "lastKick": {
+    "tick": 81239,
+    "player": "A10",
+    "team": "A",
+    "kind": "restart_kick",
+    "targetId": "A08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.92,
+    "tick": 81280
+   },
+   "next": {
+    "tick": 81280,
+    "type": "kick",
+    "player": "B08",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_postpass_state_12164.json.gz",
+   "tick": 12592,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.47,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 19.05,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.34,
+    "targetDist": 3.68
+   },
+   "ballSpeed": 14.69,
+   "lastKick": {
+    "tick": 12586,
+    "player": "B02",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 12642
+   },
+   "next": {
+    "tick": 12626,
+    "type": "kick",
+    "player": "B09",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_postpass_state_12164.json.gz",
+   "tick": 12596,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.62,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.98,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.54,
+    "targetDist": 4.12
+   },
+   "ballSpeed": 14.09,
+   "lastKick": {
+    "tick": 12586,
+    "player": "B02",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 12642
+   },
+   "next": {
+    "tick": 12626,
+    "type": "kick",
+    "player": "B09",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_postpass_state_12164.json.gz",
+   "tick": 12708,
+   "player": "B10",
+   "team": "B",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.59,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 21.21,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.4,
+    "targetDist": 3.88
+   },
+   "ballSpeed": 16.4,
+   "lastKick": {
+    "tick": 12696,
+    "player": "B09",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.5,
+    "tick": 12767
+   },
+   "next": {
+    "tick": 12739,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_postpass_state_12164.json.gz",
+   "tick": 12976,
+   "player": "A08",
+   "team": "A",
+   "role": "WG",
+   "chosen": "support",
+   "receiveScore": 0.25,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 1.48,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 0,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.2,
+    "miss": 0.4,
+    "targetDist": 0.42
+   },
+   "ballSpeed": 8.21,
+   "lastKick": {
+    "tick": 12969,
+    "player": "A05",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A08"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.58,
+    "tick": 12978
+   },
+   "next": {
+    "tick": 12994,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_postpass_state_12164.json.gz",
+   "tick": 13092,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "support",
+   "receiveScore": -0.57,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 9.46,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.51,
+    "targetDist": 7.74
+   },
+   "ballSpeed": 7.91,
+   "lastKick": {
+    "tick": 13042,
+    "player": "B10",
+    "team": "B",
+    "kind": "shoot",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 1.42,
+    "tick": 13114
+   },
+   "next": {
+    "tick": 13191,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_postpass_state_12164.json.gz",
+   "tick": 13096,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "support",
+   "receiveScore": -0.47,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 7.36,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.9,
+    "miss": 0.59,
+    "targetDist": 5.1
+   },
+   "ballSpeed": 8.33,
+   "lastKick": {
+    "tick": 13042,
+    "player": "B10",
+    "team": "B",
+    "kind": "shoot",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 1.42,
+    "tick": 13114
+   },
+   "next": {
+    "tick": 13191,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_postpass_state_12164.json.gz",
+   "tick": 13244,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "support",
+   "receiveScore": -0.38,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 5.55,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.05,
+    "miss": 0.48,
+    "targetDist": 5.39
+   },
+   "ballSpeed": 4.41,
+   "lastKick": {
+    "tick": 13233,
+    "player": "A06",
+    "team": "A",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.75,
+    "tick": 13266
+   },
+   "next": {
+    "tick": 13266,
+    "type": "kick",
+    "player": "A09",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_postpass_state_12164.json.gz",
+   "tick": 13300,
+   "player": "B07",
+   "team": "B",
+   "role": "CM",
+   "chosen": "support",
+   "receiveScore": -0.32,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 4.18,
+    "ourPossession": true,
+    "nearFriends": 2,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.55,
+    "miss": 0.46,
+    "targetDist": 3.42
+   },
+   "ballSpeed": 3.62,
+   "lastKick": {
+    "tick": 13273,
+    "player": "A09",
+    "team": "A",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.83,
+    "tick": 13330
+   },
+   "next": {
+    "tick": 13330,
+    "type": "kick",
+    "player": "B07",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_postpass_state_12164.json.gz",
+   "tick": 13308,
+   "player": "B07",
+   "team": "B",
+   "role": "CM",
+   "chosen": "support",
+   "receiveScore": 0.23,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 2.05,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 0,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.45,
+    "miss": 0.17,
+    "targetDist": 1.83
+   },
+   "ballSpeed": 4.06,
+   "lastKick": {
+    "tick": 13273,
+    "player": "A09",
+    "team": "A",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.83,
+    "tick": 13330
+   },
+   "next": {
+    "tick": 13330,
+    "type": "kick",
+    "player": "B07",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_postpass_state_12164.json.gz",
+   "tick": 13312,
+   "player": "B07",
+   "team": "B",
+   "role": "CM",
+   "chosen": "support",
+   "receiveScore": 0.26,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 1.36,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 0,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.5,
+    "miss": 0.14,
+    "targetDist": 1.24
+   },
+   "ballSpeed": 3.34,
+   "lastKick": {
+    "tick": 13273,
+    "player": "A09",
+    "team": "A",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.83,
+    "tick": 13330
+   },
+   "next": {
+    "tick": 13330,
+    "type": "kick",
+    "player": "B07",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_postpass_state_12164.json.gz",
+   "tick": 13388,
+   "player": "B06",
+   "team": "B",
+   "role": "CM",
+   "chosen": "support",
+   "receiveScore": 0.2,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 2.54,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 0,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.2000000000000002,
+    "miss": 0.44,
+    "targetDist": 3.54
+   },
+   "ballSpeed": 3.89,
+   "lastKick": {
+    "tick": 13371,
+    "player": "B05",
+    "team": "B",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.88,
+    "tick": 13438
+   },
+   "next": {
+    "tick": 13406,
+    "type": "kick",
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_postpass_state_12164.json.gz",
+   "tick": 13444,
+   "player": "B10",
+   "team": "B",
+   "role": "ST",
+   "chosen": "support",
+   "receiveScore": -0.62,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 10.43,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.1500000000000001,
+    "miss": 0.42,
+    "targetDist": 3.58
+   },
+   "ballSpeed": 7.11,
+   "lastKick": {
+    "tick": 13438,
+    "player": "B06",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 13481
+   },
+   "next": {
+    "tick": 13478,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_postpass_state_12164.json.gz",
+   "tick": 13448,
+   "player": "B10",
+   "team": "B",
+   "role": "ST",
+   "chosen": "support",
+   "receiveScore": -0.56,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 9.18,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.1,
+    "miss": 0.21,
+    "targetDist": 3.7
+   },
+   "ballSpeed": 8.47,
+   "lastKick": {
+    "tick": 13438,
+    "player": "B06",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B08"
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 13481
+   },
+   "next": {
+    "tick": 13478,
+    "type": "kick",
+    "player": "B10",
+    "team": "B",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_postpass_state_12164.json.gz",
+   "tick": 13800,
+   "player": "A03",
+   "team": "A",
+   "role": "FB",
+   "chosen": "cover",
+   "receiveScore": 0.31,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 22.36,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 9,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.35,
+    "miss": 0.25,
+    "targetDist": 3.36
+   },
+   "ballSpeed": 16.25,
+   "lastKick": {
+    "tick": 13782,
+    "player": "B10",
+    "team": "B",
+    "kind": "shoot",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.9,
+    "tick": 13824
+   },
+   "next": {
+    "tick": 13825,
+    "type": "restart_placement",
+    "player": null,
+    "team": "B",
+    "kind": "corner",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_postpass_state_12164.json.gz",
+   "tick": 13804,
+   "player": "A03",
+   "team": "A",
+   "role": "FB",
+   "chosen": "cover",
+   "receiveScore": 0.51,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 18.16,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 6,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.9500000000000001,
+    "miss": 0.32,
+    "targetDist": 3.49
+   },
+   "ballSpeed": 17.15,
+   "lastKick": {
+    "tick": 13782,
+    "player": "B10",
+    "team": "B",
+    "kind": "shoot",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.9,
+    "tick": 13824
+   },
+   "next": {
+    "tick": 13825,
+    "type": "restart_placement",
+    "player": null,
+    "team": "B",
+    "kind": "corner",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_postpass_state_12164.json.gz",
+   "tick": 14102,
+   "player": "A08",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.58,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.7,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.29,
+    "targetDist": 4.12
+   },
+   "ballSpeed": 13.35,
+   "lastKick": {
+    "tick": 14094,
+    "player": "A10",
+    "team": "A",
+    "kind": "restart_kick",
+    "targetId": "A08"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.64,
+    "tick": 14149
+   },
+   "next": {
+    "tick": 14149,
+    "type": "kick",
+    "player": "A08",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_postpass_state_12164.json.gz",
+   "tick": 14403,
+   "player": "B10",
+   "team": "B",
+   "role": "ST",
+   "chosen": "support",
+   "receiveScore": -0.97,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 17.86,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.35,
+    "miss": 0.4,
+    "targetDist": 1.69
+   },
+   "ballSpeed": 12.73,
+   "lastKick": {
+    "tick": 14397,
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 12.38,
+    "tick": 14413
+   },
+   "next": {
+    "tick": 14413,
+    "type": "kick",
+    "player": "A10",
+    "team": "A",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_postpass_state_12164.json.gz",
+   "tick": 14407,
+   "player": "B10",
+   "team": "B",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.64,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.45,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.53,
+    "targetDist": 4.58
+   },
+   "ballSpeed": 13.09,
+   "lastKick": {
+    "tick": 14397,
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 12.38,
+    "tick": 14413
+   },
+   "next": {
+    "tick": 14413,
+    "type": "kick",
+    "player": "A10",
+    "team": "A",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_postpass_state_12164.json.gz",
+   "tick": 14884,
+   "player": "B01",
+   "team": "B",
+   "role": "CB",
+   "chosen": "advance_support",
+   "receiveScore": -0.45,
+   "winnerScore": 0.67,
+   "components": {
+    "db": 7.01,
+    "ourPossession": true,
+    "nearFriends": 2,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.8500000000000001,
+    "miss": 0.49,
+    "targetDist": 4.14
+   },
+   "ballSpeed": 4.2,
+   "lastKick": {
+    "tick": 14608,
+    "player": "B02",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": false,
+   "closest": {
+    "d": 2.49,
+    "tick": 14900
+   },
+   "next": {
+    "tick": 14898,
+    "type": "kick",
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_postpass_state_12164.json.gz",
+   "tick": 14888,
+   "player": "B01",
+   "team": "B",
+   "role": "CB",
+   "chosen": "advance_support",
+   "receiveScore": -0.39,
+   "winnerScore": 0.67,
+   "components": {
+    "db": 5.65,
+    "ourPossession": true,
+    "nearFriends": 2,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.9,
+    "miss": 0.45,
+    "targetDist": 4.94
+   },
+   "ballSpeed": 4.12,
+   "lastKick": {
+    "tick": 14608,
+    "player": "B02",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": false,
+   "closest": {
+    "d": 2.49,
+    "tick": 14900
+   },
+   "next": {
+    "tick": 14898,
+    "type": "kick",
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "scan_postpass_state_12164.json.gz",
+   "tick": 14892,
+   "player": "B01",
+   "team": "B",
+   "role": "CB",
+   "chosen": "advance_support",
+   "receiveScore": -0.32,
+   "winnerScore": 0.67,
+   "components": {
+    "db": 4.29,
+    "ourPossession": true,
+    "nearFriends": 2,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 0.6000000000000001,
+    "miss": 0.48,
+    "targetDist": 3.01
+   },
+   "ballSpeed": 4.22,
+   "lastKick": {
+    "tick": 14608,
+    "player": "B02",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": false,
+   "closest": {
+    "d": 2.49,
+    "tick": 14900
+   },
+   "next": {
+    "tick": 14898,
+    "type": "kick",
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "O1_base.json.gz",
+   "tick": 42264,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.63,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.82,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.34,
+    "targetDist": 4.48
+   },
+   "ballSpeed": 11.68,
+   "lastKick": {
+    "tick": 42258,
+    "player": "B07",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": false,
+   "closest": {
+    "d": 1.04,
+    "tick": 42306
+   },
+   "next": {
+    "tick": 42299,
+    "type": "kick",
+    "player": "A09",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "O3_base.json.gz",
+   "tick": 12341,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "support",
+   "receiveScore": -0.18,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 5.97,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.1,
+    "miss": 0.38,
+    "targetDist": 5.19
+   },
+   "ballSpeed": 4.42,
+   "lastKick": null,
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 12401
+   },
+   "next": {
+    "tick": 12367,
+    "type": "kick",
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "O3_base.json.gz",
+   "tick": 12345,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "support",
+   "receiveScore": -0.17,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 5.7,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.47,
+    "targetDist": 4.05
+   },
+   "ballSpeed": 3.05,
+   "lastKick": null,
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 12401
+   },
+   "next": {
+    "tick": 12367,
+    "type": "kick",
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "O3_base.json.gz",
+   "tick": 12349,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "support",
+   "receiveScore": -0.16,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 5.58,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.34,
+    "targetDist": 5.87
+   },
+   "ballSpeed": 4.38,
+   "lastKick": null,
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 12401
+   },
+   "next": {
+    "tick": 12367,
+    "type": "kick",
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "O3_base.json.gz",
+   "tick": 12421,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.34,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 21.7,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.35,
+    "targetDist": 1.71
+   },
+   "ballSpeed": 14.56,
+   "lastKick": {
+    "tick": 12416,
+    "player": "A09",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 12458
+   },
+   "next": {
+    "tick": 12457,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "O3_base.json.gz",
+   "tick": 12425,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.47,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 19.01,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.25,
+    "miss": 0.33,
+    "targetDist": 1.24
+   },
+   "ballSpeed": 14.34,
+   "lastKick": {
+    "tick": 12416,
+    "player": "A09",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 12458
+   },
+   "next": {
+    "tick": 12457,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "O3_base.json.gz",
+   "tick": 12429,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.6,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.34,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.13,
+    "targetDist": 5.11
+   },
+   "ballSpeed": 13.63,
+   "lastKick": {
+    "tick": 12416,
+    "player": "A09",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 12458
+   },
+   "next": {
+    "tick": 12457,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "O4_base.json.gz",
+   "tick": 60157,
+   "player": "A06",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.28,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 23.02,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 6,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0,
+    "targetDist": 0.95
+   },
+   "ballSpeed": 17.04,
+   "lastKick": {
+    "tick": 60143,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A06"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.94,
+    "tick": 60207
+   },
+   "next": {
+    "tick": 60207,
+    "type": "kick",
+    "player": "A06",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "O4_base.json.gz",
+   "tick": 60161,
+   "player": "A06",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.4,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 20.52,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 5,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.35,
+    "targetDist": 2.35
+   },
+   "ballSpeed": 16.31,
+   "lastKick": {
+    "tick": 60143,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A06"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.94,
+    "tick": 60207
+   },
+   "next": {
+    "tick": 60207,
+    "type": "kick",
+    "player": "A06",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "O4_base.json.gz",
+   "tick": 60165,
+   "player": "A06",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.5,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 18.38,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.35,
+    "targetDist": 5.81
+   },
+   "ballSpeed": 15.83,
+   "lastKick": {
+    "tick": 60143,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A06"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.94,
+    "tick": 60207
+   },
+   "next": {
+    "tick": 60207,
+    "type": "kick",
+    "player": "A06",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "O4_base.json.gz",
+   "tick": 60241,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.45,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 19.55,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.46,
+    "targetDist": 2.4
+   },
+   "ballSpeed": 14.39,
+   "lastKick": {
+    "tick": 60235,
+    "player": "A06",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 60286
+   },
+   "next": {
+    "tick": 60285,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "O4_base.json.gz",
+   "tick": 60245,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.55,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 17.47,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.48,
+    "targetDist": 5.1
+   },
+   "ballSpeed": 14.49,
+   "lastKick": {
+    "tick": 60235,
+    "player": "A06",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 60286
+   },
+   "next": {
+    "tick": 60285,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "N1_base.json.gz",
+   "tick": 6122,
+   "player": "B05",
+   "team": "B",
+   "role": "DM",
+   "chosen": "support",
+   "receiveScore": -0.87,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.8,
+    "ourPossession": true,
+    "nearFriends": 2,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.3,
+    "targetDist": 3.14
+   },
+   "ballSpeed": 11.57,
+   "lastKick": null,
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 6152
+   },
+   "next": {
+    "tick": 6151,
+    "type": "contact",
+    "player": "B05",
+    "team": "B",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "N1_base.json.gz",
+   "tick": 6182,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.36,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 21.28,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.37,
+    "targetDist": 3.1
+   },
+   "ballSpeed": 15.76,
+   "lastKick": {
+    "tick": 6176,
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 6228
+   },
+   "next": {
+    "tick": 6227,
+    "type": "contact",
+    "player": "B09",
+    "team": "B",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "N1_base.json.gz",
+   "tick": 6186,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.49,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 18.72,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.3,
+    "miss": 0.35,
+    "targetDist": 1
+   },
+   "ballSpeed": 14.58,
+   "lastKick": {
+    "tick": 6176,
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 6228
+   },
+   "next": {
+    "tick": 6227,
+    "type": "contact",
+    "player": "B09",
+    "team": "B",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "N1_base.json.gz",
+   "tick": 6190,
+   "player": "B09",
+   "team": "B",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.61,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.19,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.26,
+    "targetDist": 5.9
+   },
+   "ballSpeed": 14.31,
+   "lastKick": {
+    "tick": 6176,
+    "player": "B05",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 6228
+   },
+   "next": {
+    "tick": 6227,
+    "type": "contact",
+    "player": "B09",
+    "team": "B",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "N2_base.json.gz",
+   "tick": 78422,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.45,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 19.38,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.35,
+    "targetDist": 2.43
+   },
+   "ballSpeed": 14.48,
+   "lastKick": {
+    "tick": 78414,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 78460
+   },
+   "next": {
+    "tick": 78459,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "N2_base.json.gz",
+   "tick": 78426,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.58,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.77,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.36,
+    "targetDist": 3.95
+   },
+   "ballSpeed": 13.48,
+   "lastKick": {
+    "tick": 78414,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 78460
+   },
+   "next": {
+    "tick": 78459,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "N2_base.json.gz",
+   "tick": 78434,
+   "player": "B06",
+   "team": "B",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.41,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 20.24,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 5,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.79,
+    "targetDist": 5.01
+   },
+   "ballSpeed": 13.36,
+   "lastKick": {
+    "tick": 78414,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 10.86,
+    "tick": 78460
+   },
+   "next": {
+    "tick": 78459,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "N2_base.json.gz",
+   "tick": 78438,
+   "player": "B06",
+   "team": "B",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.5,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 18.36,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.18,
+    "targetDist": 3.07
+   },
+   "ballSpeed": 13.53,
+   "lastKick": {
+    "tick": 78414,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 10.86,
+    "tick": 78460
+   },
+   "next": {
+    "tick": 78459,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "N2_base.json.gz",
+   "tick": 78490,
+   "player": "B06",
+   "team": "B",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.55,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 17.41,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.11,
+    "targetDist": 5.56
+   },
+   "ballSpeed": 12.92,
+   "lastKick": {
+    "tick": 78464,
+    "player": "A10",
+    "team": "A",
+    "kind": "shoot",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 1.31,
+    "tick": 78514
+   },
+   "next": null
+  },
+  {
+   "rec": "O2L_base.json.gz",
+   "tick": 42264,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.63,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.82,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.34,
+    "targetDist": 4.48
+   },
+   "ballSpeed": 11.68,
+   "lastKick": {
+    "tick": 42258,
+    "player": "B07",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": false,
+   "closest": {
+    "d": 1.04,
+    "tick": 42306
+   },
+   "next": {
+    "tick": 42299,
+    "type": "kick",
+    "player": "A09",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "breakthrough_outlet.json.gz",
+   "tick": 12269,
+   "player": "A07",
+   "team": "A",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.61,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.21,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.42,
+    "targetDist": 4.38
+   },
+   "ballSpeed": 13.72,
+   "lastKick": {
+    "tick": 12264,
+    "player": "A05",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A07"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 12315
+   },
+   "next": {
+    "tick": 12314,
+    "type": "contact",
+    "player": "A07",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "breakthrough_outlet.json.gz",
+   "tick": 12333,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "support",
+   "receiveScore": -0.23,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 6.99,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.2000000000000002,
+    "miss": 0.39,
+    "targetDist": 4.05
+   },
+   "ballSpeed": 4.67,
+   "lastKick": {
+    "tick": 12326,
+    "player": "A07",
+    "team": "A",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.98,
+    "tick": 12393
+   },
+   "next": {
+    "tick": 12335,
+    "type": "kick",
+    "player": "A07",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  },
+  {
+   "rec": "breakthrough_outlet.json.gz",
+   "tick": 12341,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "support",
+   "receiveScore": -0.18,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 5.97,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.1,
+    "miss": 0.38,
+    "targetDist": 5.19
+   },
+   "ballSpeed": 4.42,
+   "lastKick": {
+    "tick": 12335,
+    "player": "A07",
+    "team": "A",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.52,
+    "tick": 12399
+   },
+   "next": {
+    "tick": 12367,
+    "type": "kick",
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "breakthrough_outlet.json.gz",
+   "tick": 12345,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "support",
+   "receiveScore": -0.17,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 5.7,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.4000000000000001,
+    "miss": 0.47,
+    "targetDist": 4.05
+   },
+   "ballSpeed": 3.05,
+   "lastKick": {
+    "tick": 12335,
+    "player": "A07",
+    "team": "A",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.52,
+    "tick": 12399
+   },
+   "next": {
+    "tick": 12367,
+    "type": "kick",
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "breakthrough_outlet.json.gz",
+   "tick": 12349,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "support",
+   "receiveScore": -0.16,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 5.58,
+    "ourPossession": true,
+    "nearFriends": 1,
+    "aheadFriends": 1,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.34,
+    "targetDist": 5.87
+   },
+   "ballSpeed": 4.38,
+   "lastKick": {
+    "tick": 12335,
+    "player": "A07",
+    "team": "A",
+    "kind": "dribble",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 0.52,
+    "tick": 12399
+   },
+   "next": {
+    "tick": 12367,
+    "type": "kick",
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "control": null
+   }
+  },
+  {
+   "rec": "far_receiver.json.gz",
+   "tick": 6122,
+   "player": "B05",
+   "team": "B",
+   "role": "DM",
+   "chosen": "support",
+   "receiveScore": -0.87,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.8,
+    "ourPossession": true,
+    "nearFriends": 2,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.3,
+    "targetDist": 3.14
+   },
+   "ballSpeed": 11.57,
+   "lastKick": null,
+   "intended": false,
+   "closest": {
+    "d": 0.49,
+    "tick": 6152
+   },
+   "next": {
+    "tick": 6151,
+    "type": "contact",
+    "player": "B05",
+    "team": "B",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "outlet_to_shot.json.gz",
+   "tick": 78422,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.45,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 19.38,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.35,
+    "targetDist": 2.43
+   },
+   "ballSpeed": 14.48,
+   "lastKick": {
+    "tick": 78414,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 78460
+   },
+   "next": {
+    "tick": 78459,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "outlet_to_shot.json.gz",
+   "tick": 78426,
+   "player": "A10",
+   "team": "A",
+   "role": "ST",
+   "chosen": "cover",
+   "receiveScore": 0.58,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 16.77,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.36,
+    "targetDist": 3.95
+   },
+   "ballSpeed": 13.48,
+   "lastKick": {
+    "tick": 78414,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": true,
+   "closest": {
+    "d": 0.49,
+    "tick": 78460
+   },
+   "next": {
+    "tick": 78459,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "outlet_to_shot.json.gz",
+   "tick": 78434,
+   "player": "B06",
+   "team": "B",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.41,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 20.24,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 5,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.79,
+    "targetDist": 5.01
+   },
+   "ballSpeed": 13.36,
+   "lastKick": {
+    "tick": 78414,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 10.86,
+    "tick": 78460
+   },
+   "next": {
+    "tick": 78459,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "outlet_to_shot.json.gz",
+   "tick": 78438,
+   "player": "B06",
+   "team": "B",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.5,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 18.36,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 4,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.18,
+    "targetDist": 3.07
+   },
+   "ballSpeed": 13.53,
+   "lastKick": {
+    "tick": 78414,
+    "player": "A07",
+    "team": "A",
+    "kind": "pass",
+    "targetId": "A10"
+   },
+   "intended": false,
+   "closest": {
+    "d": 10.86,
+    "tick": 78460
+   },
+   "next": {
+    "tick": 78459,
+    "type": "contact",
+    "player": "A10",
+    "team": "A",
+    "kind": null,
+    "control": true
+   }
+  },
+  {
+   "rec": "outlet_to_shot.json.gz",
+   "tick": 78490,
+   "player": "B06",
+   "team": "B",
+   "role": "CM",
+   "chosen": "cover",
+   "receiveScore": 0.55,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 17.41,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 3,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.11,
+    "targetDist": 5.56
+   },
+   "ballSpeed": 12.92,
+   "lastKick": {
+    "tick": 78464,
+    "player": "A10",
+    "team": "A",
+    "kind": "shoot",
+    "targetId": null
+   },
+   "intended": false,
+   "closest": {
+    "d": 1.31,
+    "tick": 78514
+   },
+   "next": null
+  },
+  {
+   "rec": "outlet_unreached.json.gz",
+   "tick": 42264,
+   "player": "A09",
+   "team": "A",
+   "role": "WG",
+   "chosen": "cover",
+   "receiveScore": 0.63,
+   "winnerScore": 0.65,
+   "components": {
+    "db": 15.82,
+    "ourPossession": false,
+    "nearFriends": 0,
+    "aheadFriends": 2,
+    "age": 0,
+    "press": 0.5
+   },
+   "plan": {
+    "eta": 1.5,
+    "miss": 0.34,
+    "targetDist": 4.48
+   },
+   "ballSpeed": 11.68,
+   "lastKick": {
+    "tick": 42258,
+    "player": "B07",
+    "team": "B",
+    "kind": "pass",
+    "targetId": "B09"
+   },
+   "intended": false,
+   "closest": {
+    "d": 1.04,
+    "tick": 42306
+   },
+   "next": {
+    "tick": 42299,
+    "type": "kick",
+    "player": "A09",
+    "team": "A",
+    "kind": "dribble",
+    "control": null
+   }
+  }
+ ]
+}

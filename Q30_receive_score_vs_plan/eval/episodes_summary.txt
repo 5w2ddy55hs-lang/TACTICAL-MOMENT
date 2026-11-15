@@ -1,0 +1,35 @@
+episodes 124
+by class Counter({'ahead_friends': 87, 'possession_penalty': 37})
+by outcome Counter({'self': 64, 'opponent': 26, 'teammate': 26, 'out_or_none': 8})
+intended receiver episodes 46
+class x outcome Counter({('ahead_friends', 'self'): 52, ('ahead_friends', 'opponent'): 21, ('possession_penalty', 'teammate'): 18, ('possession_penalty', 'self'): 12, ('ahead_friends', 'teammate'): 8, ('ahead_friends', 'out_or_none'): 6, ('possession_penalty', 'opponent'): 5, ('possession_penalty', 'out_or_none'): 2})
+intended x outcome Counter({'self': 33, 'opponent': 11, 'out_or_none': 1, 'teammate': 1})
+
+# candidate improvement examples: intended receiver, not possession penalty, outcome opponent/out/none
+ scan_42130.json.gz A09 44011-44015 n2 ahead_friends chosen cover recv 0.55 vs 0.65 db 17.4 ahead 3 plan eta 1.5 miss 0.76 tgt 7.36 | kick (43981, 'A10') closest {'d': 1.4, 'tick': 44049} next {'tick': 44067, 'type': 'contact', 'player': 'B09', 'team': 'B', 'kind': None, 'control': True}
+ scan_control_state_24263.jso A10 26356-26356 n1 ahead_friends chosen cover recv 0.55 vs 0.65 db 17.32 ahead 3 plan eta 1.5 miss 0.18 tgt 2.98 | kick (26350, 'A06') closest {'d': 1.84, 'tick': 26384} next {'tick': 26432, 'type': 'contact', 'player': 'B07', 'team': 'B', 'kind': None, 'control': True}
+ scan_control_state_24263.jso B10 26966-26966 n1 ahead_friends chosen cover recv 0.58 vs 0.65 db 16.71 ahead 3 plan eta 1.5 miss 0.45 tgt 3.33 | kick (26960, 'B07') closest {'d': 2.3, 'tick': 26997} next {'tick': 27042, 'type': 'contact', 'player': 'A06', 'team': 'A', 'kind': None, 'control': True}
+ scan_otherseed_state_8731294 B08 9088-9088 n1 ahead_friends chosen cover recv 0.5 vs 0.65 db 18.47 ahead 3 plan eta 1.4000000000000001 miss 0.62 tgt 3.65 | kick (9079, 'B01') closest {'d': 1.92, 'tick': 9115} next None
+ scan_otherseed_state_8731294 A08 14165-14170 n2 ahead_friends chosen cover recv 0.2 vs 0.65 db 24.68 ahead 5 plan eta 1.5 miss 0.33 tgt 2.87 | kick (14152, 'A10') closest {'d': 1.82, 'tick': 14213} next {'tick': 14213, 'type': 'kick', 'player': 'B08', 'team': 'B', 'kind': 'dribble', 'control': None}
+ scan_otherseed_state_8731294 A10 8342-8346 n2 ahead_friends chosen cover recv 0.31 vs 0.65 db 22.46 ahead 2 plan eta 1.5 miss 0.78 tgt 1.19 | kick (8337, 'A08') closest {'d': 5.5, 'tick': 8375} next {'tick': 8432, 'type': 'kick', 'player': 'B07', 'team': 'B', 'kind': 'dribble', 'control': None}
+ scan_otherseed_state_8731294 B08 8229-8229 n1 ahead_friends chosen cover recv 0.33 vs 0.65 db 22.03 ahead 5 plan eta 1.4000000000000001 miss 0.8 tgt 2.35 | kick (8221, 'B01') closest {'d': 3.35, 'tick': 8261} next {'tick': 8284, 'type': 'contact', 'player': 'A08', 'team': 'A', 'kind': None, 'control': True}
+ scan_outlet_to_shot.json.gz A07 80144-80148 n2 ahead_friends chosen cover recv 0.48 vs 0.65 db 18.85 ahead 4 plan eta 1.5 miss 0.22 tgt 3.2 | kick (80139, 'A02') closest {'d': 1.38, 'tick': 80167} next {'tick': 80246, 'type': 'kick', 'player': 'B07', 'team': 'B', 'kind': 'pass', 'control': None}
+ scan_outlet_to_shot.json.gz A08 81247-81247 n1 ahead_friends chosen cover recv 0.6 vs 0.65 db 16.42 ahead 3 plan eta 1.5 miss 0.1 tgt 4.98 | kick (81239, 'A10') closest {'d': 1.72, 'tick': 81280} next {'tick': 81280, 'type': 'kick', 'player': 'B08', 'team': 'B', 'kind': 'pass', 'control': None}
+ scan_outlet_to_shot.json.gz A09 79706-79706 n1 ahead_friends chosen cover recv 0.6 vs 0.65 db 16.36 ahead 2 plan eta 1.25 miss 0.35 tgt 0.78 | kick (79699, 'A05') closest {'d': 6.34, 'tick': 79732} next {'tick': 79732, 'type': 'kick', 'player': 'B09', 'team': 'B', 'kind': 'pass', 'control': None}
+
+# reasonable examples: outcome teammate (nearer teammate received) — first 12
+ O3_base.json.gz A09 12341-12349 n3 possession_penalty chosen support recv -0.18 db 5.97 ahead 1 nearF 1 intended False next {'tick': 12367, 'type': 'kick', 'player': 'A07', 'team': 'A', 'kind': 'pass', 'control': None}
+ breakthrough_outlet.json.gz A09 12333-12349 n4 possession_penalty chosen support recv -0.23 db 6.99 ahead 1 nearF 1 intended False next {'tick': 12367, 'type': 'kick', 'player': 'A07', 'team': 'A', 'kind': 'pass', 'control': None}
+ scan_60000.json.gz A01 60914-60918 n2 ahead_friends chosen cover recv 0.27 db 23.29 ahead 5 nearF 0 intended False next {'tick': 60920, 'type': 'kick', 'player': 'A02', 'team': 'A', 'kind': 'pass', 'control': None}
+ scan_60000.json.gz A01 62831-62831 n1 possession_penalty chosen advance_support recv -0.19 db 6.11 ahead 1 nearF 1 intended False next {'tick': 62833, 'type': 'kick', 'player': 'A05', 'team': 'A', 'kind': 'dribble', 'control': None}
+ scan_60000.json.gz A01 62847-62847 n1 possession_penalty chosen advance_support recv -0.09 db 4.07 ahead 1 nearF 1 intended False next {'tick': 62857, 'type': 'kick', 'player': 'A05', 'team': 'A', 'kind': 'dribble', 'control': None}
+ scan_60000.json.gz A06 61649-61653 n2 possession_penalty chosen support recv -0.22 db 6.86 ahead 1 nearF 1 intended False next {'tick': 61679, 'type': 'kick', 'player': 'A07', 'team': 'A', 'kind': 'dribble', 'control': None}
+ scan_control_state_24263.jso B05 24815-24815 n1 ahead_friends chosen cover recv 0.61 db 16.14 ahead 2 nearF 0 intended False next {'tick': 24870, 'type': 'contact', 'player': 'B00', 'team': 'B', 'kind': None, 'control': True}
+ scan_otherseed_state_8731294 A05 6748-6748 n1 possession_penalty chosen support recv -0.06 db 3.37 ahead 1 nearF 1 intended False next {'tick': 6755, 'type': 'kick', 'player': 'A08', 'team': 'A', 'kind': 'dribble', 'control': None}
+ scan_otherseed_state_8731294 A06 8048-8048 n1 possession_penalty chosen support recv 0.24 db 1.78 ahead 0 nearF 1 intended False next {'tick': 8103, 'type': 'kick', 'player': 'A07', 'team': 'A', 'kind': 'pass', 'control': None}
+ scan_otherseed_state_8731294 A06 8500-8504 n2 ahead_friends chosen cover recv 0.48 db 18.75 ahead 2 nearF 0 intended False next {'tick': 8527, 'type': 'kick', 'player': 'A10', 'team': 'A', 'kind': 'dribble', 'control': None}
+ scan_otherseed_state_8731294 B02 7848-7856 n2 possession_penalty chosen advance_support recv -0.45 db 7.04 ahead 2 nearF 1 intended False next {'tick': 7867, 'type': 'kick', 'player': 'B05', 'team': 'B', 'kind': 'dribble', 'control': None}
+ scan_otherseed_state_8731294 B02 8820-8820 n1 possession_penalty chosen support recv -0.42 db 6.3 ahead 2 nearF 2 intended False next {'tick': 8821, 'type': 'kick', 'player': 'B04', 'team': 'B', 'kind': 'pass', 'control': None}
+
+# self-touch episodes (delay then self received): count by delay class
+n 64 ticks to own touch: min 14 median 42.0 max 66
