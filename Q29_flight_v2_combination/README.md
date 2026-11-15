@@ -48,3 +48,7 @@
 ## 追補（Q29E）
 
 `REPORT_Q29E_V2X_INFORMATION_CONTRACT_JA.md`：Q29D の訂正（O2 の 4.35 秒と追加 2.4 秒の区別、球外は3件、一般化しない）と、v2x の情報契約の局所テスト（古い自己目撃・自己パス・見ていない他者接触を分け、反事実 DTO はエンジンの検証を通す）。人工的な契約テストであり、頻度ではない。道具は `tools/v2x_contract_tests.mjs`、出力は `eval_e/`。
+
+## 追補（Q29F）
+
+`REPORT_Q29F_UNWITNESSED_TOUCH_CONSTRUCTION_JA.md`：記憶欄を書き換えず、既存保存からの実際の視界・接触・認識更新で「古い自己目撃が残る」局面を構成できるかの確認。約 201,000 判断で近距離の例は 0 件（理由は視界の契約）。候補・係数の追加なし。道具は `tools/record_scan.mjs`、`tools/find_unwitnessed.mjs`、出力は `eval_f/`。

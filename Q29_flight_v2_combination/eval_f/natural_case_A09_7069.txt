@@ -1,0 +1,9 @@
+7060 cover vision 66 witness {'seenTick': 6939, 'players': [{'id': 'A09', 'team': 'A', 'part': 'foot'}]} ball {'x': 93.9, 'y': 9.3} True
+7064 cover vision 66 witness {'seenTick': 6939, 'players': [{'id': 'A09', 'team': 'A', 'part': 'foot'}]} ball {'x': 93.9, 'y': 9.3} True
+7068 cover vision 66 witness {'seenTick': 6939, 'players': [{'id': 'A09', 'team': 'A', 'part': 'foot'}]} ball {'x': 93.9, 'y': 9.3} True
+7072 cover vision 66 witness {'seenTick': 6939, 'players': [{'id': 'A09', 'team': 'A', 'part': 'foot'}]} ball {'x': 93.9, 'y': 9.3} True
+7076 cover vision 66 witness {'seenTick': 6939, 'players': [{'id': 'A09', 'team': 'A', 'part': 'foot'}]} ball {'x': 93.9, 'y': 9.3} True
+7069 A09 (69.6, 49.7) heading -13.45 B01 (96.9, 5.7) dist 51.9 angle 7 | ball (96.8, 4.4) distBall 52.9 | visible range for vision None
+7069 A09 (69.6, 49.7) heading -13.45 B03 (97.5, 3.8) dist 53.7 angle 8 | ball (96.8, 4.4) distBall 52.9 | visible range for vision None
+7072 A09 (69.8, 49.5) heading -13.45 B01 (96.6, 5.0) dist 52.0 angle 8 | ball (96.4, 4.4) distBall 52.4 | visible range for vision None
+7072 A09 (69.8, 49.5) heading -13.45 B03 (97.1, 3.8) dist 53.2 angle 8 | ball (96.4, 4.4) distBall 52.4 | visible range for vision None

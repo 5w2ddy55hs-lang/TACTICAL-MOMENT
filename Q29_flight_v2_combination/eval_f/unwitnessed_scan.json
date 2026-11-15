@@ -1,0 +1,147 @@
+{
+ "scanned": 76090,
+ "ownWitness": 3123,
+ "found": 7,
+ "rows": [
+  {
+   "rec": "O4_v2x.json.gz",
+   "tick": 60367,
+   "player": "A04",
+   "witnessSeenTick": 60161,
+   "unwitnessed": [
+    "60362:B01:contact",
+    "60362:B01:contact",
+    "60362:B01:contact",
+    "60363:B01:contact"
+   ],
+   "ballKnown": false,
+   "ballSeenAge": null,
+   "dBall": null,
+   "ballSpeed": null,
+   "passed": null,
+   "kind": "scan",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  },
+  {
+   "rec": "O4_v2x.json.gz",
+   "tick": 60372,
+   "player": "A04",
+   "witnessSeenTick": 60161,
+   "unwitnessed": [
+    "60362:B01:contact",
+    "60362:B01:contact",
+    "60362:B01:contact",
+    "60363:B01:contact"
+   ],
+   "ballKnown": false,
+   "ballSeenAge": null,
+   "dBall": null,
+   "ballSpeed": null,
+   "passed": null,
+   "kind": "scan",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  },
+  {
+   "rec": "O4_v2x.json.gz",
+   "tick": 60377,
+   "player": "A04",
+   "witnessSeenTick": 60161,
+   "unwitnessed": [
+    "60362:B01:contact",
+    "60362:B01:contact",
+    "60362:B01:contact",
+    "60363:B01:contact"
+   ],
+   "ballKnown": false,
+   "ballSeenAge": null,
+   "dBall": null,
+   "ballSpeed": null,
+   "passed": null,
+   "kind": "scan",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  },
+  {
+   "rec": "O4_v2x.json.gz",
+   "tick": 60382,
+   "player": "A04",
+   "witnessSeenTick": 60161,
+   "unwitnessed": [
+    "60362:B01:contact",
+    "60362:B01:contact",
+    "60362:B01:contact",
+    "60363:B01:contact"
+   ],
+   "ballKnown": false,
+   "ballSeenAge": null,
+   "dBall": null,
+   "ballSpeed": null,
+   "passed": null,
+   "kind": "scan",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  },
+  {
+   "rec": "O4_v2x.json.gz",
+   "tick": 60387,
+   "player": "A04",
+   "witnessSeenTick": 60161,
+   "unwitnessed": [
+    "60362:B01:contact",
+    "60362:B01:contact",
+    "60362:B01:contact",
+    "60363:B01:contact"
+   ],
+   "ballKnown": false,
+   "ballSeenAge": null,
+   "dBall": null,
+   "ballSpeed": null,
+   "passed": null,
+   "kind": "scan",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  },
+  {
+   "rec": "O4_v2x.json.gz",
+   "tick": 60392,
+   "player": "A04",
+   "witnessSeenTick": 60161,
+   "unwitnessed": [
+    "60362:B01:contact",
+    "60362:B01:contact",
+    "60362:B01:contact",
+    "60363:B01:contact"
+   ],
+   "ballKnown": false,
+   "ballSeenAge": null,
+   "dBall": null,
+   "ballSpeed": null,
+   "passed": null,
+   "kind": "scan",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  },
+  {
+   "rec": "O4_v2x.json.gz",
+   "tick": 60397,
+   "player": "A04",
+   "witnessSeenTick": 60161,
+   "unwitnessed": [
+    "60362:B01:contact",
+    "60362:B01:contact",
+    "60362:B01:contact",
+    "60363:B01:contact"
+   ],
+   "ballKnown": false,
+   "ballSeenAge": null,
+   "dBall": null,
+   "ballSpeed": null,
+   "passed": null,
+   "kind": "scan",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  }
+ ]
+}

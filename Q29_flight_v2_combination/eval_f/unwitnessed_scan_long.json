@@ -1,0 +1,290 @@
+{
+ "scanned": 125273,
+ "ownWitness": 4754,
+ "found": 15,
+ "rows": [
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 7072,
+   "player": "A09",
+   "witnessSeenTick": 6939,
+   "unwitnessed": [
+    "7069:B03:contact"
+   ],
+   "ballKnown": true,
+   "ballSeenAge": 20,
+   "dBall": 46.93,
+   "ballSpeed": 6.7,
+   "passed": true,
+   "kind": "cover",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 7076,
+   "player": "A09",
+   "witnessSeenTick": 6939,
+   "unwitnessed": [
+    "7069:B03:contact",
+    "7072:B01:contact",
+    "7074:B01:kick:pass"
+   ],
+   "ballKnown": true,
+   "ballSeenAge": 24,
+   "dBall": 46.75,
+   "ballSpeed": 6.7,
+   "passed": true,
+   "kind": "cover",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 7080,
+   "player": "A09",
+   "witnessSeenTick": 6939,
+   "unwitnessed": [
+    "7069:B03:contact",
+    "7072:B01:contact",
+    "7074:B01:kick:pass"
+   ],
+   "ballKnown": false,
+   "ballSeenAge": 0,
+   "dBall": null,
+   "ballSpeed": null,
+   "passed": null,
+   "kind": "cover",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 7084,
+   "player": "A09",
+   "witnessSeenTick": 6939,
+   "unwitnessed": [
+    "7069:B03:contact",
+    "7072:B01:contact",
+    "7074:B01:kick:pass"
+   ],
+   "ballKnown": true,
+   "ballSeenAge": 0,
+   "dBall": 49.29,
+   "ballSpeed": 12.5,
+   "passed": false,
+   "kind": "cover",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 7088,
+   "player": "A09",
+   "witnessSeenTick": 6939,
+   "unwitnessed": [
+    "7069:B03:contact",
+    "7072:B01:contact",
+    "7074:B01:kick:pass"
+   ],
+   "ballKnown": true,
+   "ballSeenAge": 0,
+   "dBall": 48.28,
+   "ballSpeed": 12.64,
+   "passed": false,
+   "kind": "cover",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 7092,
+   "player": "A09",
+   "witnessSeenTick": 6939,
+   "unwitnessed": [
+    "7069:B03:contact",
+    "7072:B01:contact",
+    "7074:B01:kick:pass"
+   ],
+   "ballKnown": true,
+   "ballSeenAge": 0,
+   "dBall": 47.36,
+   "ballSpeed": 12.41,
+   "passed": false,
+   "kind": "cover",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 7096,
+   "player": "A09",
+   "witnessSeenTick": 6939,
+   "unwitnessed": [
+    "7069:B03:contact",
+    "7072:B01:contact",
+    "7074:B01:kick:pass"
+   ],
+   "ballKnown": true,
+   "ballSeenAge": 0,
+   "dBall": 46.68,
+   "ballSpeed": 11.14,
+   "passed": false,
+   "kind": "cover",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 7100,
+   "player": "A09",
+   "witnessSeenTick": 6939,
+   "unwitnessed": [
+    "7069:B03:contact",
+    "7072:B01:contact",
+    "7074:B01:kick:pass"
+   ],
+   "ballKnown": true,
+   "ballSeenAge": 0,
+   "dBall": 46.23,
+   "ballSpeed": 11.76,
+   "passed": false,
+   "kind": "cover",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 7104,
+   "player": "A09",
+   "witnessSeenTick": 6939,
+   "unwitnessed": [
+    "7069:B03:contact",
+    "7072:B01:contact",
+    "7074:B01:kick:pass"
+   ],
+   "ballKnown": true,
+   "ballSeenAge": 0,
+   "dBall": 45.76,
+   "ballSpeed": 10.5,
+   "passed": false,
+   "kind": "cover",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 7108,
+   "player": "A09",
+   "witnessSeenTick": 6939,
+   "unwitnessed": [
+    "7069:B03:contact",
+    "7072:B01:contact",
+    "7074:B01:kick:pass"
+   ],
+   "ballKnown": true,
+   "ballSeenAge": 0,
+   "dBall": 45.53,
+   "ballSpeed": 11.02,
+   "passed": false,
+   "kind": "cover",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 7112,
+   "player": "A09",
+   "witnessSeenTick": 6939,
+   "unwitnessed": [
+    "7069:B03:contact",
+    "7072:B01:contact",
+    "7074:B01:kick:pass"
+   ],
+   "ballKnown": true,
+   "ballSeenAge": 0,
+   "dBall": 45.41,
+   "ballSpeed": 9.9,
+   "passed": false,
+   "kind": "cover",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 7116,
+   "player": "A09",
+   "witnessSeenTick": 6939,
+   "unwitnessed": [
+    "7069:B03:contact",
+    "7072:B01:contact",
+    "7074:B01:kick:pass"
+   ],
+   "ballKnown": true,
+   "ballSeenAge": 0,
+   "dBall": 45.23,
+   "ballSpeed": 10.43,
+   "passed": false,
+   "kind": "cover",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 7120,
+   "player": "A09",
+   "witnessSeenTick": 6939,
+   "unwitnessed": [
+    "7069:B03:contact",
+    "7072:B01:contact",
+    "7074:B01:kick:pass"
+   ],
+   "ballKnown": true,
+   "ballSeenAge": 0,
+   "dBall": 45.16,
+   "ballSpeed": 10.7,
+   "passed": false,
+   "kind": "cover",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 7124,
+   "player": "A09",
+   "witnessSeenTick": 6939,
+   "unwitnessed": [
+    "7069:B03:contact",
+    "7072:B01:contact",
+    "7074:B01:kick:pass"
+   ],
+   "ballKnown": true,
+   "ballSeenAge": 0,
+   "dBall": 45.2,
+   "ballSpeed": 9.81,
+   "passed": false,
+   "kind": "cover",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  },
+  {
+   "rec": "scan_otherseed_state_87312949_6039.json.gz",
+   "tick": 7128,
+   "player": "A09",
+   "witnessSeenTick": 6939,
+   "unwitnessed": [
+    "7069:B03:contact",
+    "7072:B01:contact",
+    "7074:B01:kick:pass"
+   ],
+   "ballKnown": true,
+   "ballSeenAge": 0,
+   "dBall": 45.11,
+   "ballSpeed": 8.44,
+   "passed": false,
+   "kind": "support",
+   "v2DiffersI17": false,
+   "v2xDiffersV2": false
+  }
+ ]
+}
