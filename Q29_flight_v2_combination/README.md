@@ -44,3 +44,7 @@
 ## 追補（Q29D）
 
 `REPORT_Q29D_V2_BENEFIT_AND_SCOPE_JA.md`、`PREREGISTERED_Q29D.md`：Q29C の結論の訂正（O2 の V2 継続は利益候補、v2x で失う側）、v2x の条件の実際の適用範囲、事前固定した別 seed の5状態（成功2・自然なミス1・相手の正当な回収2）での基準・V2・v2x 比較、O2 と N5 の窓の延長。受球側で利益候補と球外を分ける観測量はなく、改訂案は作っていません。道具は `tools/run_q29d.sh`、`tools/analyze_q29d.sh`、`tools/v2x_scope.mjs`、`tools/episode_features.mjs`、出力は `eval_d/`。
+
+## 追補（Q29E）
+
+`REPORT_Q29E_V2X_INFORMATION_CONTRACT_JA.md`：Q29D の訂正（O2 の 4.35 秒と追加 2.4 秒の区別、球外は3件、一般化しない）と、v2x の情報契約の局所テスト（古い自己目撃・自己パス・見ていない他者接触を分け、反事実 DTO はエンジンの検証を通す）。人工的な契約テストであり、頻度ではない。道具は `tools/v2x_contract_tests.mjs`、出力は `eval_e/`。

@@ -1,0 +1,62 @@
+{
+ "T1": {
+  "cases": 60,
+  "ageVaried": 360,
+  "v2xUnchangedByAge": 60,
+  "validEdits": 360,
+  "invalidEdits": 0
+ },
+ "T2": {
+  "selfPassOrShoot": 283,
+  "v2PlanExists": 0,
+  "chooseV2DiffersI17": 0,
+  "v2xEqI17": 283
+ },
+ "T3": {
+  "ownCases": 60,
+  "editedValid": 60,
+  "editedInvalid": 0,
+  "v2xEqV2AfterEdit": 60,
+  "otherCases": 39,
+  "reverseValid": 39,
+  "reverseInvalid": 0,
+  "v2xEqI17AfterReverse": 39,
+  "anchors": [
+   {
+    "rec": "12235_v2.json.gz",
+    "player": "A07",
+    "tick": 12341,
+    "test": "T3_forward",
+    "i17": "{\"kind\":\"receive\",\"target\":{\"x\":36.159765714032304,\"y\":57.46",
+    "v2x_before": "=I17",
+    "v2x_after_edit": "=V2",
+    "editedWitness": "A00"
+   },
+   {
+    "rec": "42130_v2.json.gz",
+    "player": "A05",
+    "tick": 42160,
+    "test": "T3_forward",
+    "i17": "{\"kind\":\"receive\",\"target\":{\"x\":41.28222047602062,\"y\":29.007",
+    "v2x_before": "=I17",
+    "v2x_after_edit": "=V2",
+    "editedWitness": "A03"
+   },
+   {
+    "rec": "60000_base.json.gz",
+    "player": "B09",
+    "tick": 60049,
+    "test": "T3_forward",
+    "i17": "{\"kind\":\"receive\",\"target\":{\"x\":67.45044308139605,\"y\":64.643",
+    "v2x_before": "=I17",
+    "v2x_after_edit": "=V2",
+    "editedWitness": "A00"
+   }
+  ]
+ },
+ "T4": {
+  "ownAndPassed": 582,
+  "witnessOlderThanEvidenceFrom": 582,
+  "v2DiffersThere": 60
+ }
+}

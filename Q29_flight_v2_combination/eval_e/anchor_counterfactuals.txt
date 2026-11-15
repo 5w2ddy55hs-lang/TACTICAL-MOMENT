@@ -1,0 +1,3 @@
+N5_v2.json.gz B10 12236 witness ["B08"] -> ["B10"] valid | original: i17 receive tgt(51.5,43.0) | v2 receive(DP) tgt(50.7,48.2) | v2x receive(DP) tgt(50.7,48.2) | v2x after edit receive tgt(51.5,43.0)
+O2L_v2.json.gz A09 42316 witness ["A09"] -> ["A02"] valid | original: i17 receive tgt(62.0,64.9) | v2 receive(DP) tgt(64.6,62.8) | v2x receive tgt(62.0,64.9) | v2x after edit receive(DP) tgt(64.6,62.8)
+N1_v2.json.gz B05 6170 witness ["B05"] -> ["A01"] valid | original: i17 receive tgt(74.2,35.3) | v2 receive(DP) tgt(72.3,37.6) | v2x receive tgt(74.2,35.3) | v2x after edit receive(DP) tgt(72.3,37.6)
