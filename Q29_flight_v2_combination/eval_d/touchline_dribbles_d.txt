@@ -1,0 +1,7 @@
+{"dribbleKicks":157,"clampedTarget":5,"clampedAndOut":2,"outBeforeAnyTouch":3,"outWithUnclampedTarget":1,"nearEdgeLT4m":22,"nearEdgeLT4mClamped":5}
+ N1_base.json.gz 6232 B09 tgt(53.7,67.8) clamped=true edge=0.42 next=6260 kick A07 dribble out=false
+ N1_v2.json.gz 6232 B09 tgt(53.7,67.8) clamped=true edge=0.42 next=6260 kick A07 dribble out=false
+ N1_v2x.json.gz 6232 B09 tgt(53.7,67.8) clamped=true edge=0.42 next=6260 kick A07 dribble out=false
+ N3_base.json.gz 24465 A06 tgt(76.21,1.18) clamped=false edge=0.97 next=24478 restart_placement  throw_in out=true
+ O2L_base.json.gz 42330 A09 tgt(67.7,67.8) clamped=true edge=3.12 next=42362 restart_placement  throw_in out=true
+ O2L_v2x.json.gz 42330 A09 tgt(67.7,67.8) clamped=true edge=3.12 next=42362 restart_placement  throw_in out=true

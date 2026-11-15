@@ -1,0 +1,13 @@
+## N1 start 6122 (source base)
+ base_vs_v2 [base,v2] frame 6173 decision 6170:B05 kind/target {"key":"6170:B05","base":{"kind":"receive","target":{"x":74.24,"y":35.29},"targetId":null,"reason":"observed_ball_eta_and_teammates"},"v2":{"kind":"receive","target":{"x":72.26,"y":37.64},"targetId":null,"reason":"R07_perceived_contact_cost_no_future_truth"}}
+ base_vs_v2x [base,v2x] frame null decision - kind/target -
+ v2_vs_v2x [v2,v2x] frame 6173 decision 6170:B05 kind/target {"key":"6170:B05","v2":{"kind":"receive","target":{"x":72.26,"y":37.64},"targetId":null,"reason":"R07_perceived_contact_cost_no_future_truth"},"v2x":{"kind":"receive","target":{"x":74.24,"y":35.29},"targetId":null,"reason":"observed_ball_eta_and_teammates"}}
+ [base] restarts/goals [{"tick":6267,"type":"restart_placement","kind":"throw_in","team":"B"}]
+   kick 6176 B05->B09 pass 15.3m/s lead 0.35s len 26.8 recvDist 25.3 | closest {"d":0.72,"tick":6227} minSpd {"v":1.64,"tick":6192} | first {"tick":6227,"type":"contact","player":"B09","team":"B","control":true,"kind":null,"restart":null} | next {"tick":6232,"player":"B09","team":"B","kind":"dribble","targetId":null}
+     recv 6178:support 6182:cover 6186:cover 6190:cover 6194:receive:DP1.50 6198:receive:DP1.20 6202:receive:DP1.15 6206:receive:DP1.10 6210:receive:DP0.80 6214:receive:DP0.70 6218:receive:DP0.55 6222:receive:DP0.40 6226:receive:DP0.15 6230:dribble
+ [v2] restarts/goals [{"tick":6270,"type":"restart_placement","kind":"throw_in","team":"B"}]
+   kick 6176 B05->B09 pass 15.3m/s lead 0.35s len 26.7 recvDist 25.3 | closest {"d":0.72,"tick":6227} minSpd {"v":1.64,"tick":6192} | first {"tick":6227,"type":"contact","player":"B09","team":"B","control":true,"kind":null,"restart":null} | next {"tick":6232,"player":"B09","team":"B","kind":"dribble","targetId":null}
+     recv 6178:support 6182:cover 6186:cover 6190:cover 6194:receive:DP1.50 6198:receive:DP1.20 6202:receive:DP1.15 6206:receive:DP1.10 6210:receive:DP0.80 6214:receive:DP0.70 6218:receive:DP0.55 6222:receive:DP0.40 6226:receive:DP0.15 6230:dribble
+ [v2x] restarts/goals [{"tick":6267,"type":"restart_placement","kind":"throw_in","team":"B"}]
+   kick 6176 B05->B09 pass 15.3m/s lead 0.35s len 26.8 recvDist 25.3 | closest {"d":0.72,"tick":6227} minSpd {"v":1.64,"tick":6192} | first {"tick":6227,"type":"contact","player":"B09","team":"B","control":true,"kind":null,"restart":null} | next {"tick":6232,"player":"B09","team":"B","kind":"dribble","targetId":null}
+     recv 6178:support 6182:cover 6186:cover 6190:cover 6194:receive:DP1.50 6198:receive:DP1.20 6202:receive:DP1.15 6206:receive:DP1.10 6210:receive:DP0.80 6214:receive:DP0.70 6218:receive:DP0.55 6222:receive:DP0.40 6226:receive:DP0.15 6230:dribble

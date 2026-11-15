@@ -1,0 +1,5 @@
+label | player | tick | dBall | ballSpeed | tClosest | v2Miss | v2Rel | v2Eta | v2TargetDist | ownSpeed | selfEdgeDist | ballEdgeDist | ballHeadingSideComponent | ballTowardNearSide | witnessedTouchAge | ownHalf | nearestEnemy(d) | nearestFriend(d)
+N1_B05_pass | B05 | 6170 | 1.22 | 3.71 | -0.27 | 0.49 | 0.64 | 0.9 | 4.73 | 3.38 | 29.19 | 30.37 | 0.76 | true | 7 | true | A09(6.11) | B07(3.23)
+N3_out | B06 | 24299 | 1.18 | 5.03 | -0.23 | 0.46 | 1.81 | 1.45 | 8.82 | 4.17 | 9.26 | 10.01 | 0.57 | false | 5 | true | A08(2.78) | B08(5.59)
+N5_other_benefit | B10 | 12236 | 2.19 | 4.99 | -0.38 | 0.47 | 1.81 | 1.4 | 9.31 | 6.94 | 29.12 | 27.07 | 0.99 | true | 65 | false | A07(15.76) | B05(3.44)
+O2L_B07_other | B07 | 42396 | 2.47 | 4.58 | -0.48 | 0.44 | 1.46 | 1.35 | 8.81 | 5.96 | 1.82 | 3.13 | 0.09 | false | 24 | true | A09(1.17) | B09(1.98)

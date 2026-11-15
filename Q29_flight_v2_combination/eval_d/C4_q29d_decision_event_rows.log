@@ -1,0 +1,4 @@
+N1 far_receiver channels in reference ['decision', 'event'] rows new/ref 315 315 identical True
+N3 mutual_recovery channels in reference ['decision', 'event'] rows new/ref 529 529 identical True
+N4 contact_failure channels in reference ['decision', 'event'] rows new/ref 647 647 identical True
+N5 recovery_failure channels in reference ['decision', 'event'] rows new/ref 731 731 identical True

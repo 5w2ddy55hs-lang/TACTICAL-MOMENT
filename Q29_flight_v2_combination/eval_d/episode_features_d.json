@@ -1,0 +1,130 @@
+[
+ {
+  "label": "N1_B05_pass",
+  "player": "B05",
+  "tick": 6170,
+  "dBall": 1.22,
+  "ballSpeed": 3.71,
+  "tClosest": -0.27,
+  "v2Miss": 0.49,
+  "v2Rel": 0.64,
+  "v2Eta": 0.9,
+  "v2TargetDist": 4.73,
+  "ownSpeed": 3.38,
+  "maxSpeed": 6.84,
+  "nearestEnemyToBall": {
+   "id": "A09",
+   "d": 6.11,
+   "seenAge": 0
+  },
+  "nearestFriendToBall": {
+   "id": "B07",
+   "d": 3.23
+  },
+  "selfEdgeDist": 29.19,
+  "ballEdgeDist": 30.37,
+  "ballHeadingSideComponent": 0.76,
+  "ballTowardNearSide": true,
+  "ballZ": 0.11,
+  "witnessedTouchAge": 7,
+  "role": "DM",
+  "ownHalf": true,
+  "trueBallEdge_auditOnly": 30.25
+ },
+ {
+  "label": "N3_out",
+  "player": "B06",
+  "tick": 24299,
+  "dBall": 1.18,
+  "ballSpeed": 5.03,
+  "tClosest": -0.23,
+  "v2Miss": 0.46,
+  "v2Rel": 1.81,
+  "v2Eta": 1.45,
+  "v2TargetDist": 8.82,
+  "ownSpeed": 4.17,
+  "maxSpeed": 6.89,
+  "nearestEnemyToBall": {
+   "id": "A08",
+   "d": 2.78,
+   "seenAge": 0
+  },
+  "nearestFriendToBall": {
+   "id": "B08",
+   "d": 5.59
+  },
+  "selfEdgeDist": 9.26,
+  "ballEdgeDist": 10.01,
+  "ballHeadingSideComponent": 0.57,
+  "ballTowardNearSide": false,
+  "ballZ": 0.11,
+  "witnessedTouchAge": 5,
+  "role": "CM",
+  "ownHalf": true,
+  "trueBallEdge_auditOnly": 9.94
+ },
+ {
+  "label": "N5_other_benefit",
+  "player": "B10",
+  "tick": 12236,
+  "dBall": 2.19,
+  "ballSpeed": 4.99,
+  "tClosest": -0.38,
+  "v2Miss": 0.47,
+  "v2Rel": 1.81,
+  "v2Eta": 1.4,
+  "v2TargetDist": 9.31,
+  "ownSpeed": 6.94,
+  "maxSpeed": 6.96,
+  "nearestEnemyToBall": {
+   "id": "A07",
+   "d": 15.76,
+   "seenAge": 0
+  },
+  "nearestFriendToBall": {
+   "id": "B05",
+   "d": 3.44
+  },
+  "selfEdgeDist": 29.12,
+  "ballEdgeDist": 27.07,
+  "ballHeadingSideComponent": 0.99,
+  "ballTowardNearSide": true,
+  "ballZ": 0.11,
+  "witnessedTouchAge": 65,
+  "role": "ST",
+  "ownHalf": false,
+  "trueBallEdge_auditOnly": 27.12
+ },
+ {
+  "label": "O2L_B07_other",
+  "player": "B07",
+  "tick": 42396,
+  "dBall": 2.47,
+  "ballSpeed": 4.58,
+  "tClosest": -0.48,
+  "v2Miss": 0.44,
+  "v2Rel": 1.46,
+  "v2Eta": 1.35,
+  "v2TargetDist": 8.81,
+  "ownSpeed": 5.96,
+  "maxSpeed": 6.96,
+  "nearestEnemyToBall": {
+   "id": "A09",
+   "d": 1.17,
+   "seenAge": 0
+  },
+  "nearestFriendToBall": {
+   "id": "B09",
+   "d": 1.98
+  },
+  "selfEdgeDist": 1.82,
+  "ballEdgeDist": 3.13,
+  "ballHeadingSideComponent": 0.09,
+  "ballTowardNearSide": false,
+  "ballZ": 0.11,
+  "witnessedTouchAge": 24,
+  "role": "CM",
+  "ownHalf": true,
+  "trueBallEdge_auditOnly": 3.05
+ }
+]

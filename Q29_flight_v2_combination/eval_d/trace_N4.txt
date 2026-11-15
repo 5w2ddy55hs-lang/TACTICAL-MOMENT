@@ -1,0 +1,19 @@
+## N4 start 6039 (source base)
+ base_vs_v2 [base,v2] frame null decision - kind/target -
+ base_vs_v2x [base,v2x] frame null decision - kind/target -
+ v2_vs_v2x [v2,v2x] frame null decision - kind/target -
+ [base] restarts/goals [{"tick":6203,"type":"restart_placement","kind":"throw_in","team":"A"}]
+   kick 6073 A07->A10 pass 9.1m/s lead 0.35s len 6.3 recvDist 6.7 | closest {"d":0.65,"tick":6081} minSpd {"v":5.82,"tick":6078} | first {"tick":6081,"type":"contact","player":"A10","team":"A","control":false,"kind":null,"restart":null} | next {"tick":6154,"player":"B06","team":"B","kind":"dribble","targetId":null}
+     recv 6076:intercept:VU 6080:receive:DP0.10 6084:intercept:VU 6088:intercept:VU
+   kick 6158 B05->B08 pass 13.3m/s lead 0.35s len 19.8 recvDist 19.1 | closest {"d":3.01,"tick":6189} minSpd {"v":0.8,"tick":6159} | first {"tick":6203,"type":"restart_placement","player":null,"team":"A","control":null,"kind":"throw_in","restart":"throw_in"} | next null
+     recv 6161:support 6166:receive:FE0.8 6171:receive:FE0.7 6176:receive:FE0.6 6181:receive:FE0.5 6186:receive:FE1.2 6191:receive:FE1.2 6196:receive:FE1.2 6201:receive:FE1.1 6204:restart_position 6209:restart_position
+ [v2] restarts/goals [{"tick":6203,"type":"restart_placement","kind":"throw_in","team":"A"}]
+   kick 6073 A07->A10 pass 9.1m/s lead 0.35s len 6.3 recvDist 6.7 | closest {"d":0.65,"tick":6081} minSpd {"v":5.82,"tick":6078} | first {"tick":6081,"type":"contact","player":"A10","team":"A","control":false,"kind":null,"restart":null} | next {"tick":6154,"player":"B06","team":"B","kind":"dribble","targetId":null}
+     recv 6076:intercept:VU 6080:receive:DP0.10 6084:intercept:VU 6088:intercept:VU
+   kick 6158 B05->B08 pass 13.3m/s lead 0.35s len 19.8 recvDist 19.1 | closest {"d":3.01,"tick":6189} minSpd {"v":0.8,"tick":6159} | first {"tick":6203,"type":"restart_placement","player":null,"team":"A","control":null,"kind":"throw_in","restart":"throw_in"} | next null
+     recv 6161:support 6166:receive:FE0.8 6171:receive:FE0.7 6176:receive:FE0.6 6181:receive:FE0.5 6186:receive:FE1.2 6191:receive:FE1.2 6196:receive:FE1.2 6201:receive:FE1.1 6204:restart_position 6209:restart_position
+ [v2x] restarts/goals [{"tick":6203,"type":"restart_placement","kind":"throw_in","team":"A"}]
+   kick 6073 A07->A10 pass 9.1m/s lead 0.35s len 6.3 recvDist 6.7 | closest {"d":0.65,"tick":6081} minSpd {"v":5.82,"tick":6078} | first {"tick":6081,"type":"contact","player":"A10","team":"A","control":false,"kind":null,"restart":null} | next {"tick":6154,"player":"B06","team":"B","kind":"dribble","targetId":null}
+     recv 6076:intercept:VU 6080:receive:DP0.10 6084:intercept:VU 6088:intercept:VU
+   kick 6158 B05->B08 pass 13.3m/s lead 0.35s len 19.8 recvDist 19.1 | closest {"d":3.01,"tick":6189} minSpd {"v":0.8,"tick":6159} | first {"tick":6203,"type":"restart_placement","player":null,"team":"A","control":null,"kind":"throw_in","restart":"throw_in"} | next null
+     recv 6161:support 6166:receive:FE0.8 6171:receive:FE0.7 6176:receive:FE0.6 6181:receive:FE0.5 6186:receive:FE1.2 6191:receive:FE1.2 6196:receive:FE1.2 6201:receive:FE1.1 6204:restart_position 6209:restart_position

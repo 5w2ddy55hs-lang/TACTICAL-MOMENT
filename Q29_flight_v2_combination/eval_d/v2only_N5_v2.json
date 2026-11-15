@@ -1,0 +1,58 @@
+[
+ {
+  "arm": "N5_v2",
+  "player": "B10",
+  "team": "B",
+  "own": false,
+  "lastWitnessedTouch": "B08",
+  "episode": [
+   12236,
+   12244
+  ],
+  "decisions": 3,
+  "touch": {
+   "tick": 12246,
+   "type": "kick",
+   "kind": "dribble",
+   "targetId": null
+  },
+  "ticksToTouch": 10,
+  "outgoingDecision": {
+   "tick": 12244,
+   "kind": "receive",
+   "ebi": {
+    "kind": "dribble",
+    "targetId": null
+   },
+   "candidates": [
+    "receive:1.77",
+    "cover:0.65"
+   ]
+  },
+  "nearestAtTouch": [
+   {
+    "id": "B05",
+    "team": "B",
+    "d": 1.99
+   },
+   {
+    "id": "B06",
+    "team": "B",
+    "d": 7.28
+   },
+   {
+    "id": "A10",
+    "team": "A",
+    "d": 7.78
+   },
+   {
+    "id": "A06",
+    "team": "A",
+    "d": 8.24
+   }
+  ],
+  "nextOther": null,
+  "outcome": "no_event_in_window",
+  "windowEnd": 12299
+ }
+]

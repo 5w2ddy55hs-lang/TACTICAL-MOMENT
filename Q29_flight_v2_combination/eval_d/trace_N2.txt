@@ -1,0 +1,13 @@
+## N2 start 78290 (source base)
+ base_vs_v2 [base,v2] frame null decision - kind/target -
+ base_vs_v2x [base,v2x] frame null decision - kind/target -
+ v2_vs_v2x [v2,v2x] frame null decision - kind/target -
+ [base] restarts/goals []
+   kick 78414 A07->A10 pass 14.7m/s lead 0.35s len 25.7 recvDist 25 | closest {"d":0.73,"tick":78459} minSpd {"v":0.73,"tick":78432} | first {"tick":78459,"type":"contact","player":"A10","team":"A","control":true,"kind":null,"restart":null} | next {"tick":78464,"player":"A10","team":"A","kind":"shoot","targetId":null}
+     recv 78418:cover 78422:cover 78426:cover 78430:receive:DP1.25 78434:receive:DP1.20 78438:receive:DP0.90 78442:receive:DP0.85 78446:receive:DP0.65 78450:receive:DP0.50 78454:receive:DP0.35 78458:receive:DP0.20 78462:shoot 78466:intercept:VU
+ [v2] restarts/goals []
+   kick 78414 A07->A10 pass 14.7m/s lead 0.35s len 25.7 recvDist 25 | closest {"d":0.73,"tick":78459} minSpd {"v":0.73,"tick":78432} | first {"tick":78459,"type":"contact","player":"A10","team":"A","control":true,"kind":null,"restart":null} | next {"tick":78464,"player":"A10","team":"A","kind":"shoot","targetId":null}
+     recv 78418:cover 78422:cover 78426:cover 78430:receive:DP1.25 78434:receive:DP1.20 78438:receive:DP0.90 78442:receive:DP0.85 78446:receive:DP0.65 78450:receive:DP0.50 78454:receive:DP0.35 78458:receive:DP0.20 78462:shoot 78466:intercept:VU
+ [v2x] restarts/goals []
+   kick 78414 A07->A10 pass 14.7m/s lead 0.35s len 25.7 recvDist 25 | closest {"d":0.73,"tick":78459} minSpd {"v":0.73,"tick":78432} | first {"tick":78459,"type":"contact","player":"A10","team":"A","control":true,"kind":null,"restart":null} | next {"tick":78464,"player":"A10","team":"A","kind":"shoot","targetId":null}
+     recv 78418:cover 78422:cover 78426:cover 78430:receive:DP1.25 78434:receive:DP1.20 78438:receive:DP0.90 78442:receive:DP0.85 78446:receive:DP0.65 78450:receive:DP0.50 78454:receive:DP0.35 78458:receive:DP0.20 78462:shoot 78466:intercept:VU

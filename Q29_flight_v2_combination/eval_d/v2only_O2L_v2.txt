@@ -1,0 +1,7 @@
+[O2L_v2] A09(A) OWN ep 42316-42316 n1 | touch 42323 kick:dribble (+7t) | chosen 42320 intercept EBI:dribble→null intercept:1.77 cover:0.65 | near B09:2.76 B07:3.68 A10:7.73 A05:10.25 | outcome opponent:kick
+[O2L_v2] A09(A) OWN ep 42328-42352 n6 | touch 42338 kick:dribble (+10t) | chosen 42336 receive EBI:dribble→null receive:1.77 cover:0.65 | near B07:2.11 B09:3.75 A10:9.68 A05:13.83 | outcome opponent:kick
+[O2L_v2] A09(A) OWN ep 42380-42388 n2 | touch none | chosen - | near B09:2.92 B07:3.89 B04:17.13 A10:20.55 | outcome no_own_touch; first event 42410 kick B07 dribble
+[O2L_v2] B07(B) other:A09 ep 42396-42404 n3 | touch 42410 kick:dribble (+14t) | chosen 42408 dribble dribble:0.65 cover:0.65 pass→B10:-0.03 | near B09:1.25 A09:1.44 B04:13.5 B05:20.49 | outcome teammate:kick
+[O2L_v2] B09(B) other:A09 ep 42404-42416 n3 | touch none | chosen - | near A09:1.29 B07:1.54 B04:14.62 B05:20.66 | outcome no_own_touch; first event 42410 kick B07 dribble
+[O2L_v2] B07(B) OWN ep 42640-42648 n2 | touch 42654 kick:dribble (+14t) | chosen 42652 intercept EBI:dribble→null intercept:1.77 cover:0.65 | near A05:6.02 A09:6.08 A10:8 A07:8.06 | outcome teammate:kick
+[O2L_v2] B07(B) OWN ep 42660-42660 n1 | touch 42661 kick:dribble (+1t) | chosen 42660 receive receive:1.77 cover:0.65 | near A09:2.92 A05:3.66 A07:6.18 A10:6.82 | outcome teammate:kick

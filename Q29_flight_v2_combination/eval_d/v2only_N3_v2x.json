@@ -1,0 +1,355 @@
+[
+ {
+  "arm": "N3_v2x",
+  "player": "B10",
+  "team": "B",
+  "own": false,
+  "lastWitnessedTouch": "B06",
+  "episode": [
+   24339,
+   24339
+  ],
+  "decisions": 1,
+  "touch": null,
+  "ticksToTouch": null,
+  "outgoingDecision": null,
+  "nearestAtTouch": [
+   {
+    "id": "A08",
+    "team": "A",
+    "d": 0.74
+   },
+   {
+    "id": "B06",
+    "team": "B",
+    "d": 1.04
+   },
+   {
+    "id": "A10",
+    "team": "A",
+    "d": 5.25
+   },
+   {
+    "id": "B08",
+    "team": "B",
+    "d": 7.32
+   }
+  ],
+  "nextOther": null,
+  "outcome": "no_own_touch; first event 24347 kick A08 dribble",
+  "windowEnd": 24479
+ },
+ {
+  "arm": "N3_v2x",
+  "player": "A06",
+  "team": "A",
+  "own": false,
+  "lastWitnessedTouch": "A10",
+  "episode": [
+   24411,
+   24411
+  ],
+  "decisions": 1,
+  "touch": {
+   "tick": 24459,
+   "type": "contact",
+   "kind": null,
+   "targetId": null
+  },
+  "ticksToTouch": 48,
+  "outgoingDecision": {
+   "tick": 24459,
+   "kind": "cover",
+   "ebi": null,
+   "candidates": [
+    "cover:0.65",
+    "dribble:0.64",
+    "pass→A08:-0.14",
+    "pass→A07:-0.79"
+   ]
+  },
+  "nearestAtTouch": [
+   {
+    "id": "B10",
+    "team": "B",
+    "d": 0.54
+   },
+   {
+    "id": "A10",
+    "team": "A",
+    "d": 0.95
+   },
+   {
+    "id": "B06",
+    "team": "B",
+    "d": 1.72
+   },
+   {
+    "id": "B08",
+    "team": "B",
+    "d": 4.99
+   }
+  ],
+  "nextOther": {
+   "tick": 24465,
+   "type": "restart_placement",
+   "player": null,
+   "team": "A",
+   "kind": "dropped_ball",
+   "control": null
+  },
+  "outcome": "out:dropped_ball:A",
+  "windowEnd": 24479
+ },
+ {
+  "arm": "N3_v2x",
+  "player": "B10",
+  "team": "B",
+  "own": false,
+  "lastWitnessedTouch": "A10",
+  "episode": [
+   24411,
+   24415
+  ],
+  "decisions": 2,
+  "touch": {
+   "tick": 24457,
+   "type": "kick",
+   "kind": "dribble",
+   "targetId": null
+  },
+  "ticksToTouch": 46,
+  "outgoingDecision": {
+   "tick": 24455,
+   "kind": "receive",
+   "ebi": {
+    "kind": "dribble",
+    "targetId": null
+   },
+   "candidates": [
+    "receive:1.77",
+    "cover:0.65"
+   ]
+  },
+  "nearestAtTouch": [
+   {
+    "id": "A06",
+    "team": "A",
+    "d": 1.2
+   },
+   {
+    "id": "A10",
+    "team": "A",
+    "d": 1.35
+   },
+   {
+    "id": "B06",
+    "team": "B",
+    "d": 1.94
+   },
+   {
+    "id": "B08",
+    "team": "B",
+    "d": 5.26
+   }
+  ],
+  "nextOther": {
+   "tick": 24459,
+   "type": "contact",
+   "player": "A06",
+   "team": "A",
+   "kind": null,
+   "control": true
+  },
+  "outcome": "opponent:contact:ctl=true",
+  "windowEnd": 24479
+ },
+ {
+  "arm": "N3_v2x",
+  "player": "B10",
+  "team": "B",
+  "own": false,
+  "lastWitnessedTouch": "A10",
+  "episode": [
+   24427,
+   24427
+  ],
+  "decisions": 1,
+  "touch": {
+   "tick": 24457,
+   "type": "kick",
+   "kind": "dribble",
+   "targetId": null
+  },
+  "ticksToTouch": 30,
+  "outgoingDecision": {
+   "tick": 24455,
+   "kind": "receive",
+   "ebi": {
+    "kind": "dribble",
+    "targetId": null
+   },
+   "candidates": [
+    "receive:1.77",
+    "cover:0.65"
+   ]
+  },
+  "nearestAtTouch": [
+   {
+    "id": "A06",
+    "team": "A",
+    "d": 1.2
+   },
+   {
+    "id": "A10",
+    "team": "A",
+    "d": 1.35
+   },
+   {
+    "id": "B06",
+    "team": "B",
+    "d": 1.94
+   },
+   {
+    "id": "B08",
+    "team": "B",
+    "d": 5.26
+   }
+  ],
+  "nextOther": {
+   "tick": 24459,
+   "type": "contact",
+   "player": "A06",
+   "team": "A",
+   "kind": null,
+   "control": true
+  },
+  "outcome": "opponent:contact:ctl=true",
+  "windowEnd": 24479
+ },
+ {
+  "arm": "N3_v2x",
+  "player": "A06",
+  "team": "A",
+  "own": false,
+  "lastWitnessedTouch": "A10",
+  "episode": [
+   24443,
+   24443
+  ],
+  "decisions": 1,
+  "touch": {
+   "tick": 24459,
+   "type": "contact",
+   "kind": null,
+   "targetId": null
+  },
+  "ticksToTouch": 16,
+  "outgoingDecision": {
+   "tick": 24459,
+   "kind": "cover",
+   "ebi": null,
+   "candidates": [
+    "cover:0.65",
+    "dribble:0.64",
+    "pass→A08:-0.14",
+    "pass→A07:-0.79"
+   ]
+  },
+  "nearestAtTouch": [
+   {
+    "id": "B10",
+    "team": "B",
+    "d": 0.54
+   },
+   {
+    "id": "A10",
+    "team": "A",
+    "d": 0.95
+   },
+   {
+    "id": "B06",
+    "team": "B",
+    "d": 1.72
+   },
+   {
+    "id": "B08",
+    "team": "B",
+    "d": 4.99
+   }
+  ],
+  "nextOther": {
+   "tick": 24465,
+   "type": "restart_placement",
+   "player": null,
+   "team": "A",
+   "kind": "dropped_ball",
+   "control": null
+  },
+  "outcome": "out:dropped_ball:A",
+  "windowEnd": 24479
+ },
+ {
+  "arm": "N3_v2x",
+  "player": "B10",
+  "team": "B",
+  "own": false,
+  "lastWitnessedTouch": "A10",
+  "episode": [
+   24443,
+   24455
+  ],
+  "decisions": 3,
+  "touch": {
+   "tick": 24457,
+   "type": "kick",
+   "kind": "dribble",
+   "targetId": null
+  },
+  "ticksToTouch": 14,
+  "outgoingDecision": {
+   "tick": 24455,
+   "kind": "receive",
+   "ebi": {
+    "kind": "dribble",
+    "targetId": null
+   },
+   "candidates": [
+    "receive:1.77",
+    "cover:0.65"
+   ]
+  },
+  "nearestAtTouch": [
+   {
+    "id": "A06",
+    "team": "A",
+    "d": 1.2
+   },
+   {
+    "id": "A10",
+    "team": "A",
+    "d": 1.35
+   },
+   {
+    "id": "B06",
+    "team": "B",
+    "d": 1.94
+   },
+   {
+    "id": "B08",
+    "team": "B",
+    "d": 5.26
+   }
+  ],
+  "nextOther": {
+   "tick": 24459,
+   "type": "contact",
+   "player": "A06",
+   "team": "A",
+   "kind": null,
+   "control": true
+  },
+  "outcome": "opponent:contact:ctl=true",
+  "windowEnd": 24479
+ }
+]

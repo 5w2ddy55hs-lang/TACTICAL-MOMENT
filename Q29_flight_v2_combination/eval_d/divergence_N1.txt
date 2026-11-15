@@ -1,0 +1,11 @@
+## N1
+-- v2 vs base
+first frame divergence 6173
+ decision diff (6170, 'B05') A: ('receive', {'x': 72.25620068582039, 'y': 37.64449561296653}, 'R07_perceived_contact_cost_no_future_truth') | B: ('receive', {'x': 74.24160867326843, 'y': 35.292032973460174}, 'observed_ball_eta_and_teammates')
+ decision diff (6174, 'B05') A: ('pass', {'x': 64.15454915938429, 'y': 59.52008540469194}, 'remembered_outlet_lane') | B: ('pass', {'x': 64.15454915938429, 'y': 59.52008540469194}, 'remembered_outlet_lane')
+-- v2x vs base
+first frame divergence None
+-- v2x vs v2
+first frame divergence 6173
+ decision diff (6170, 'B05') A: ('receive', {'x': 74.24160867326843, 'y': 35.292032973460174}, 'observed_ball_eta_and_teammates') | B: ('receive', {'x': 72.25620068582039, 'y': 37.64449561296653}, 'R07_perceived_contact_cost_no_future_truth')
+ decision diff (6174, 'B05') A: ('pass', {'x': 64.15454915938429, 'y': 59.52008540469194}, 'remembered_outlet_lane') | B: ('pass', {'x': 64.15454915938429, 'y': 59.52008540469194}, 'remembered_outlet_lane')

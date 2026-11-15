@@ -1,0 +1,1 @@
+[N3_v2] B06(B) OWN ep 24299-24307 n3 | touch 24309 kick:dribble (+10t) | chosen 24307 receive EBI:dribble→null receive:1.77 cover:0.65 | near A08:2.73 B10:5.86 B08:6.16 A10:7.77 | outcome out:throw_in:A

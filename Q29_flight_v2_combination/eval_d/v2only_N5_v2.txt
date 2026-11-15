@@ -1,0 +1,1 @@
+[N5_v2] B10(B) other:B08 ep 12236-12244 n3 | touch 12246 kick:dribble (+10t) | chosen 12244 receive EBI:dribble→null receive:1.77 cover:0.65 | near B05:1.99 B06:7.28 A10:7.78 A06:8.24 | outcome no_event_in_window

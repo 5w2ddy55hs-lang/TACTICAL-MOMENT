@@ -1,0 +1,2 @@
+[N1_v2] B05(B) OWN ep 6170-6170 n1 | touch 6176 kick:pass→B09 (+6t) | chosen 6174 pass pass→B09:1.04 pass→B06:1.03 dribble:1.03 | near B07:2.15 A09:4.55 A06:7.22 A10:8.52 | outcome teammate:contact:ctl=true
+[N1_v2] B09(B) OWN ep 6246-6246 n1 | touch none | chosen - | near A07:5.39 B07:14.37 A10:22.49 A05:23.38 | outcome no_own_touch; first event 6260 kick A07 dribble

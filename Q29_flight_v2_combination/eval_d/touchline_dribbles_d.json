@@ -1,0 +1,2818 @@
+[
+ {
+  "rec": "N1_base.json.gz",
+  "tick": 6156,
+  "player": "B05",
+  "target": {
+   "x": 71.05,
+   "y": 37.03
+  },
+  "clamped": false,
+  "edgeDistance": 28.26,
+  "next": {
+   "tick": 6163,
+   "type": "kick",
+   "player": "B05",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N1_base.json.gz",
+  "tick": 6163,
+  "player": "B05",
+  "target": {
+   "x": 71.09,
+   "y": 37.81
+  },
+  "clamped": false,
+  "edgeDistance": 28.38,
+  "next": {
+   "tick": 6176,
+   "type": "kick",
+   "player": "B05",
+   "kind": "pass"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N1_base.json.gz",
+  "tick": 6232,
+  "player": "B09",
+  "target": {
+   "x": 53.7,
+   "y": 67.8
+  },
+  "clamped": true,
+  "edgeDistance": 0.42,
+  "next": {
+   "tick": 6260,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N1_base.json.gz",
+  "tick": 6260,
+  "player": "A07",
+  "target": {
+   "x": 58.83,
+   "y": 62.34
+  },
+  "clamped": false,
+  "edgeDistance": 1.09,
+  "next": {
+   "tick": 6261,
+   "type": "contact",
+   "player": "A07",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N1_v2.json.gz",
+  "tick": 6156,
+  "player": "B05",
+  "target": {
+   "x": 71.05,
+   "y": 37.03
+  },
+  "clamped": false,
+  "edgeDistance": 28.26,
+  "next": {
+   "tick": 6163,
+   "type": "kick",
+   "player": "B05",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N1_v2.json.gz",
+  "tick": 6163,
+  "player": "B05",
+  "target": {
+   "x": 71.09,
+   "y": 37.81
+  },
+  "clamped": false,
+  "edgeDistance": 28.38,
+  "next": {
+   "tick": 6176,
+   "type": "kick",
+   "player": "B05",
+   "kind": "pass"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N1_v2.json.gz",
+  "tick": 6232,
+  "player": "B09",
+  "target": {
+   "x": 53.7,
+   "y": 67.8
+  },
+  "clamped": true,
+  "edgeDistance": 0.42,
+  "next": {
+   "tick": 6260,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N1_v2.json.gz",
+  "tick": 6260,
+  "player": "A07",
+  "target": {
+   "x": 58.83,
+   "y": 62.34
+  },
+  "clamped": false,
+  "edgeDistance": 1.09,
+  "next": {
+   "tick": 6261,
+   "type": "contact",
+   "player": "A07",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N1_v2x.json.gz",
+  "tick": 6156,
+  "player": "B05",
+  "target": {
+   "x": 71.05,
+   "y": 37.03
+  },
+  "clamped": false,
+  "edgeDistance": 28.26,
+  "next": {
+   "tick": 6163,
+   "type": "kick",
+   "player": "B05",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N1_v2x.json.gz",
+  "tick": 6163,
+  "player": "B05",
+  "target": {
+   "x": 71.09,
+   "y": 37.81
+  },
+  "clamped": false,
+  "edgeDistance": 28.38,
+  "next": {
+   "tick": 6176,
+   "type": "kick",
+   "player": "B05",
+   "kind": "pass"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N1_v2x.json.gz",
+  "tick": 6232,
+  "player": "B09",
+  "target": {
+   "x": 53.7,
+   "y": 67.8
+  },
+  "clamped": true,
+  "edgeDistance": 0.42,
+  "next": {
+   "tick": 6260,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N1_v2x.json.gz",
+  "tick": 6260,
+  "player": "A07",
+  "target": {
+   "x": 58.83,
+   "y": 62.34
+  },
+  "clamped": false,
+  "edgeDistance": 1.09,
+  "next": {
+   "tick": 6261,
+   "type": "contact",
+   "player": "A07",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_base.json.gz",
+  "tick": 78295,
+  "player": "A07",
+  "target": {
+   "x": 34.96,
+   "y": 62.84
+  },
+  "clamped": false,
+  "edgeDistance": 9.26,
+  "next": {
+   "tick": 78302,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_base.json.gz",
+  "tick": 78302,
+  "player": "A07",
+  "target": {
+   "x": 34.99,
+   "y": 63.7
+  },
+  "clamped": false,
+  "edgeDistance": 8.5,
+  "next": {
+   "tick": 78304,
+   "type": "contact",
+   "player": "A07",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_base.json.gz",
+  "tick": 78309,
+  "player": "A07",
+  "target": {
+   "x": 34.62,
+   "y": 64.18
+  },
+  "clamped": false,
+  "edgeDistance": 7.62,
+  "next": {
+   "tick": 78316,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_base.json.gz",
+  "tick": 78316,
+  "player": "A07",
+  "target": {
+   "x": 33.21,
+   "y": 65.29
+  },
+  "clamped": false,
+  "edgeDistance": 6.62,
+  "next": {
+   "tick": 78323,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_base.json.gz",
+  "tick": 78323,
+  "player": "A07",
+  "target": {
+   "x": 30.26,
+   "y": 62.2
+  },
+  "clamped": false,
+  "edgeDistance": 5.71,
+  "next": {
+   "tick": 78330,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_base.json.gz",
+  "tick": 78330,
+  "player": "A07",
+  "target": {
+   "x": 28.48,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78333,
+   "type": "contact",
+   "player": "A07",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_base.json.gz",
+  "tick": 78337,
+  "player": "A07",
+  "target": {
+   "x": 27.52,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78344,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_base.json.gz",
+  "tick": 78344,
+  "player": "A07",
+  "target": {
+   "x": 25.6,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78351,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_base.json.gz",
+  "tick": 78351,
+  "player": "A07",
+  "target": {
+   "x": 23.68,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78358,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_base.json.gz",
+  "tick": 78358,
+  "player": "A07",
+  "target": {
+   "x": 21.76,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78365,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_base.json.gz",
+  "tick": 78365,
+  "player": "A07",
+  "target": {
+   "x": 20.8,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78372,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_base.json.gz",
+  "tick": 78372,
+  "player": "A07",
+  "target": {
+   "x": 18.88,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78379,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_base.json.gz",
+  "tick": 78379,
+  "player": "A07",
+  "target": {
+   "x": 16.96,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78386,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_base.json.gz",
+  "tick": 78386,
+  "player": "A07",
+  "target": {
+   "x": 15.04,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78393,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_base.json.gz",
+  "tick": 78393,
+  "player": "A07",
+  "target": {
+   "x": 14.08,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78394,
+   "type": "contact",
+   "player": "A07",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_base.json.gz",
+  "tick": 78400,
+  "player": "A07",
+  "target": {
+   "x": 12.16,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78401,
+   "type": "contact",
+   "player": "A07",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_base.json.gz",
+  "tick": 78407,
+  "player": "A07",
+  "target": {
+   "x": 10.24,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78413,
+   "type": "contact",
+   "player": "A07",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2.json.gz",
+  "tick": 78295,
+  "player": "A07",
+  "target": {
+   "x": 34.96,
+   "y": 62.84
+  },
+  "clamped": false,
+  "edgeDistance": 9.26,
+  "next": {
+   "tick": 78302,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2.json.gz",
+  "tick": 78302,
+  "player": "A07",
+  "target": {
+   "x": 34.99,
+   "y": 63.7
+  },
+  "clamped": false,
+  "edgeDistance": 8.5,
+  "next": {
+   "tick": 78304,
+   "type": "contact",
+   "player": "A07",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2.json.gz",
+  "tick": 78309,
+  "player": "A07",
+  "target": {
+   "x": 34.62,
+   "y": 64.18
+  },
+  "clamped": false,
+  "edgeDistance": 7.62,
+  "next": {
+   "tick": 78316,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2.json.gz",
+  "tick": 78316,
+  "player": "A07",
+  "target": {
+   "x": 33.21,
+   "y": 65.29
+  },
+  "clamped": false,
+  "edgeDistance": 6.62,
+  "next": {
+   "tick": 78323,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2.json.gz",
+  "tick": 78323,
+  "player": "A07",
+  "target": {
+   "x": 30.26,
+   "y": 62.2
+  },
+  "clamped": false,
+  "edgeDistance": 5.71,
+  "next": {
+   "tick": 78330,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2.json.gz",
+  "tick": 78330,
+  "player": "A07",
+  "target": {
+   "x": 28.48,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78333,
+   "type": "contact",
+   "player": "A07",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2.json.gz",
+  "tick": 78337,
+  "player": "A07",
+  "target": {
+   "x": 27.52,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78344,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2.json.gz",
+  "tick": 78344,
+  "player": "A07",
+  "target": {
+   "x": 25.6,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78351,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2.json.gz",
+  "tick": 78351,
+  "player": "A07",
+  "target": {
+   "x": 23.68,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78358,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2.json.gz",
+  "tick": 78358,
+  "player": "A07",
+  "target": {
+   "x": 21.76,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78365,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2.json.gz",
+  "tick": 78365,
+  "player": "A07",
+  "target": {
+   "x": 20.8,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78372,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2.json.gz",
+  "tick": 78372,
+  "player": "A07",
+  "target": {
+   "x": 18.88,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78379,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2.json.gz",
+  "tick": 78379,
+  "player": "A07",
+  "target": {
+   "x": 16.96,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78386,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2.json.gz",
+  "tick": 78386,
+  "player": "A07",
+  "target": {
+   "x": 15.04,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78393,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2.json.gz",
+  "tick": 78393,
+  "player": "A07",
+  "target": {
+   "x": 14.08,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78394,
+   "type": "contact",
+   "player": "A07",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2.json.gz",
+  "tick": 78400,
+  "player": "A07",
+  "target": {
+   "x": 12.16,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78401,
+   "type": "contact",
+   "player": "A07",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2.json.gz",
+  "tick": 78407,
+  "player": "A07",
+  "target": {
+   "x": 10.24,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78413,
+   "type": "contact",
+   "player": "A07",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2x.json.gz",
+  "tick": 78295,
+  "player": "A07",
+  "target": {
+   "x": 34.96,
+   "y": 62.84
+  },
+  "clamped": false,
+  "edgeDistance": 9.26,
+  "next": {
+   "tick": 78302,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2x.json.gz",
+  "tick": 78302,
+  "player": "A07",
+  "target": {
+   "x": 34.99,
+   "y": 63.7
+  },
+  "clamped": false,
+  "edgeDistance": 8.5,
+  "next": {
+   "tick": 78304,
+   "type": "contact",
+   "player": "A07",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2x.json.gz",
+  "tick": 78309,
+  "player": "A07",
+  "target": {
+   "x": 34.62,
+   "y": 64.18
+  },
+  "clamped": false,
+  "edgeDistance": 7.62,
+  "next": {
+   "tick": 78316,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2x.json.gz",
+  "tick": 78316,
+  "player": "A07",
+  "target": {
+   "x": 33.21,
+   "y": 65.29
+  },
+  "clamped": false,
+  "edgeDistance": 6.62,
+  "next": {
+   "tick": 78323,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2x.json.gz",
+  "tick": 78323,
+  "player": "A07",
+  "target": {
+   "x": 30.26,
+   "y": 62.2
+  },
+  "clamped": false,
+  "edgeDistance": 5.71,
+  "next": {
+   "tick": 78330,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2x.json.gz",
+  "tick": 78330,
+  "player": "A07",
+  "target": {
+   "x": 28.48,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78333,
+   "type": "contact",
+   "player": "A07",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2x.json.gz",
+  "tick": 78337,
+  "player": "A07",
+  "target": {
+   "x": 27.52,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78344,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2x.json.gz",
+  "tick": 78344,
+  "player": "A07",
+  "target": {
+   "x": 25.6,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78351,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2x.json.gz",
+  "tick": 78351,
+  "player": "A07",
+  "target": {
+   "x": 23.68,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78358,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2x.json.gz",
+  "tick": 78358,
+  "player": "A07",
+  "target": {
+   "x": 21.76,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78365,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2x.json.gz",
+  "tick": 78365,
+  "player": "A07",
+  "target": {
+   "x": 20.8,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78372,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2x.json.gz",
+  "tick": 78372,
+  "player": "A07",
+  "target": {
+   "x": 18.88,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78379,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2x.json.gz",
+  "tick": 78379,
+  "player": "A07",
+  "target": {
+   "x": 16.96,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78386,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2x.json.gz",
+  "tick": 78386,
+  "player": "A07",
+  "target": {
+   "x": 15.04,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78393,
+   "type": "kick",
+   "player": "A07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2x.json.gz",
+  "tick": 78393,
+  "player": "A07",
+  "target": {
+   "x": 14.08,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78394,
+   "type": "contact",
+   "player": "A07",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2x.json.gz",
+  "tick": 78400,
+  "player": "A07",
+  "target": {
+   "x": 12.16,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78401,
+   "type": "contact",
+   "player": "A07",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N2_v2x.json.gz",
+  "tick": 78407,
+  "player": "A07",
+  "target": {
+   "x": 10.24,
+   "y": 62.54
+  },
+  "clamped": false,
+  "edgeDistance": 5.46,
+  "next": {
+   "tick": 78413,
+   "type": "contact",
+   "player": "A07",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_base.json.gz",
+  "tick": 24273,
+  "player": "B06",
+  "target": {
+   "x": 62.43,
+   "y": 10.32
+  },
+  "clamped": false,
+  "edgeDistance": 6.06,
+  "next": {
+   "tick": 24280,
+   "type": "kick",
+   "player": "B06",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_base.json.gz",
+  "tick": 24280,
+  "player": "B06",
+  "target": {
+   "x": 61.12,
+   "y": 10.64
+  },
+  "clamped": false,
+  "edgeDistance": 6.56,
+  "next": {
+   "tick": 24287,
+   "type": "kick",
+   "player": "B06",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_base.json.gz",
+  "tick": 24287,
+  "player": "B06",
+  "target": {
+   "x": 59.6,
+   "y": 11.75
+  },
+  "clamped": false,
+  "edgeDistance": 7.55,
+  "next": {
+   "tick": 24294,
+   "type": "kick",
+   "player": "B06",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_base.json.gz",
+  "tick": 24294,
+  "player": "B06",
+  "target": {
+   "x": 58.83,
+   "y": 12.33
+  },
+  "clamped": false,
+  "edgeDistance": 8.56,
+  "next": {
+   "tick": 24347,
+   "type": "kick",
+   "player": "A08",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_base.json.gz",
+  "tick": 24347,
+  "player": "A08",
+  "target": {
+   "x": 61.36,
+   "y": 9.34
+  },
+  "clamped": false,
+  "edgeDistance": 13.53,
+  "next": {
+   "tick": 24354,
+   "type": "kick",
+   "player": "A08",
+   "kind": "pass"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_base.json.gz",
+  "tick": 24361,
+  "player": "A10",
+  "target": {
+   "x": 62.09,
+   "y": 8.73
+  },
+  "clamped": false,
+  "edgeDistance": 13.03,
+  "next": {
+   "tick": 24366,
+   "type": "contact",
+   "player": "A10",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_base.json.gz",
+  "tick": 24368,
+  "player": "A10",
+  "target": {
+   "x": 61.5,
+   "y": 8.92
+  },
+  "clamped": false,
+  "edgeDistance": 13.1,
+  "next": {
+   "tick": 24375,
+   "type": "kick",
+   "player": "A10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_base.json.gz",
+  "tick": 24375,
+  "player": "A10",
+  "target": {
+   "x": 61.96,
+   "y": 8.53
+  },
+  "clamped": false,
+  "edgeDistance": 12.73,
+  "next": {
+   "tick": 24385,
+   "type": "kick",
+   "player": "A10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_base.json.gz",
+  "tick": 24385,
+  "player": "A10",
+  "target": {
+   "x": 63.18,
+   "y": 7.63
+  },
+  "clamped": false,
+  "edgeDistance": 11.65,
+  "next": {
+   "tick": 24421,
+   "type": "kick",
+   "player": "A10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_base.json.gz",
+  "tick": 24421,
+  "player": "A10",
+  "target": {
+   "x": 68.13,
+   "y": 3.08
+  },
+  "clamped": false,
+  "edgeDistance": 7.12,
+  "next": {
+   "tick": 24428,
+   "type": "kick",
+   "player": "A10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_base.json.gz",
+  "tick": 24465,
+  "player": "A06",
+  "target": {
+   "x": 76.21,
+   "y": 1.18
+  },
+  "clamped": false,
+  "edgeDistance": 0.97,
+  "next": {
+   "tick": 24478,
+   "type": "restart_placement",
+   "player": null,
+   "kind": "throw_in"
+  },
+  "outBeforeAnyTouch": true
+ },
+ {
+  "rec": "N3_v2.json.gz",
+  "tick": 24273,
+  "player": "B06",
+  "target": {
+   "x": 62.43,
+   "y": 10.32
+  },
+  "clamped": false,
+  "edgeDistance": 6.06,
+  "next": {
+   "tick": 24280,
+   "type": "kick",
+   "player": "B06",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_v2.json.gz",
+  "tick": 24280,
+  "player": "B06",
+  "target": {
+   "x": 61.12,
+   "y": 10.64
+  },
+  "clamped": false,
+  "edgeDistance": 6.56,
+  "next": {
+   "tick": 24287,
+   "type": "kick",
+   "player": "B06",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_v2.json.gz",
+  "tick": 24287,
+  "player": "B06",
+  "target": {
+   "x": 59.6,
+   "y": 11.75
+  },
+  "clamped": false,
+  "edgeDistance": 7.55,
+  "next": {
+   "tick": 24294,
+   "type": "kick",
+   "player": "B06",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_v2.json.gz",
+  "tick": 24294,
+  "player": "B06",
+  "target": {
+   "x": 58.83,
+   "y": 12.33
+  },
+  "clamped": false,
+  "edgeDistance": 8.56,
+  "next": {
+   "tick": 24309,
+   "type": "kick",
+   "player": "B06",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_v2.json.gz",
+  "tick": 24309,
+  "player": "B06",
+  "target": {
+   "x": 55.96,
+   "y": 14.56
+  },
+  "clamped": false,
+  "edgeDistance": 10.74,
+  "next": {
+   "tick": 24316,
+   "type": "kick",
+   "player": "B06",
+   "kind": "pass"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_v2x.json.gz",
+  "tick": 24273,
+  "player": "B06",
+  "target": {
+   "x": 62.43,
+   "y": 10.32
+  },
+  "clamped": false,
+  "edgeDistance": 6.06,
+  "next": {
+   "tick": 24280,
+   "type": "kick",
+   "player": "B06",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_v2x.json.gz",
+  "tick": 24280,
+  "player": "B06",
+  "target": {
+   "x": 61.12,
+   "y": 10.64
+  },
+  "clamped": false,
+  "edgeDistance": 6.56,
+  "next": {
+   "tick": 24287,
+   "type": "kick",
+   "player": "B06",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_v2x.json.gz",
+  "tick": 24287,
+  "player": "B06",
+  "target": {
+   "x": 59.6,
+   "y": 11.75
+  },
+  "clamped": false,
+  "edgeDistance": 7.55,
+  "next": {
+   "tick": 24294,
+   "type": "kick",
+   "player": "B06",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_v2x.json.gz",
+  "tick": 24294,
+  "player": "B06",
+  "target": {
+   "x": 58.83,
+   "y": 12.33
+  },
+  "clamped": false,
+  "edgeDistance": 8.56,
+  "next": {
+   "tick": 24347,
+   "type": "kick",
+   "player": "A08",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_v2x.json.gz",
+  "tick": 24347,
+  "player": "A08",
+  "target": {
+   "x": 61.36,
+   "y": 9.34
+  },
+  "clamped": false,
+  "edgeDistance": 13.53,
+  "next": {
+   "tick": 24354,
+   "type": "kick",
+   "player": "A08",
+   "kind": "pass"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_v2x.json.gz",
+  "tick": 24361,
+  "player": "A10",
+  "target": {
+   "x": 62.09,
+   "y": 8.73
+  },
+  "clamped": false,
+  "edgeDistance": 13.03,
+  "next": {
+   "tick": 24366,
+   "type": "contact",
+   "player": "A10",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_v2x.json.gz",
+  "tick": 24368,
+  "player": "A10",
+  "target": {
+   "x": 61.5,
+   "y": 8.92
+  },
+  "clamped": false,
+  "edgeDistance": 13.1,
+  "next": {
+   "tick": 24375,
+   "type": "kick",
+   "player": "A10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_v2x.json.gz",
+  "tick": 24375,
+  "player": "A10",
+  "target": {
+   "x": 61.96,
+   "y": 8.53
+  },
+  "clamped": false,
+  "edgeDistance": 12.73,
+  "next": {
+   "tick": 24385,
+   "type": "kick",
+   "player": "A10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_v2x.json.gz",
+  "tick": 24385,
+  "player": "A10",
+  "target": {
+   "x": 63.18,
+   "y": 7.63
+  },
+  "clamped": false,
+  "edgeDistance": 11.65,
+  "next": {
+   "tick": 24421,
+   "type": "kick",
+   "player": "A10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_v2x.json.gz",
+  "tick": 24421,
+  "player": "A10",
+  "target": {
+   "x": 68.13,
+   "y": 3.08
+  },
+  "clamped": false,
+  "edgeDistance": 7.12,
+  "next": {
+   "tick": 24428,
+   "type": "kick",
+   "player": "A10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N3_v2x.json.gz",
+  "tick": 24457,
+  "player": "B10",
+  "target": {
+   "x": 62.22,
+   "y": 3.05
+  },
+  "clamped": false,
+  "edgeDistance": 2.59,
+  "next": {
+   "tick": 24459,
+   "type": "contact",
+   "player": "A06",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N4_base.json.gz",
+  "tick": 6066,
+  "player": "A07",
+  "target": {
+   "x": 60.3,
+   "y": 45.89
+  },
+  "clamped": false,
+  "edgeDistance": 22.36,
+  "next": {
+   "tick": 6073,
+   "type": "kick",
+   "player": "A07",
+   "kind": "pass"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N4_base.json.gz",
+  "tick": 6154,
+  "player": "B06",
+  "target": {
+   "x": 63.77,
+   "y": 20.87
+  },
+  "clamped": false,
+  "edgeDistance": 25.4,
+  "next": {
+   "tick": 6158,
+   "type": "kick",
+   "player": "B05",
+   "kind": "pass"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N4_v2.json.gz",
+  "tick": 6066,
+  "player": "A07",
+  "target": {
+   "x": 60.3,
+   "y": 45.89
+  },
+  "clamped": false,
+  "edgeDistance": 22.36,
+  "next": {
+   "tick": 6073,
+   "type": "kick",
+   "player": "A07",
+   "kind": "pass"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N4_v2.json.gz",
+  "tick": 6154,
+  "player": "B06",
+  "target": {
+   "x": 63.77,
+   "y": 20.87
+  },
+  "clamped": false,
+  "edgeDistance": 25.4,
+  "next": {
+   "tick": 6158,
+   "type": "kick",
+   "player": "B05",
+   "kind": "pass"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N4_v2x.json.gz",
+  "tick": 6066,
+  "player": "A07",
+  "target": {
+   "x": 60.3,
+   "y": 45.89
+  },
+  "clamped": false,
+  "edgeDistance": 22.36,
+  "next": {
+   "tick": 6073,
+   "type": "kick",
+   "player": "A07",
+   "kind": "pass"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N4_v2x.json.gz",
+  "tick": 6154,
+  "player": "B06",
+  "target": {
+   "x": 63.77,
+   "y": 20.87
+  },
+  "clamped": false,
+  "edgeDistance": 25.4,
+  "next": {
+   "tick": 6158,
+   "type": "kick",
+   "player": "B05",
+   "kind": "pass"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N5_base.json.gz",
+  "tick": 12298,
+  "player": "A10",
+  "target": {
+   "x": 59.77,
+   "y": 49.06
+  },
+  "clamped": false,
+  "edgeDistance": 18.57,
+  "next": null,
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N5_v2.json.gz",
+  "tick": 12246,
+  "player": "B10",
+  "target": {
+   "x": 45.6,
+   "y": 37.44
+  },
+  "clamped": false,
+  "edgeDistance": 25.67,
+  "next": {
+   "tick": 12247,
+   "type": "contact",
+   "player": "B10",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N5_v2.json.gz",
+  "tick": 12253,
+  "player": "B10",
+  "target": {
+   "x": 43.93,
+   "y": 44.1
+  },
+  "clamped": false,
+  "edgeDistance": 23.66,
+  "next": {
+   "tick": 12260,
+   "type": "kick",
+   "player": "B10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N5_v2.json.gz",
+  "tick": 12260,
+  "player": "B10",
+  "target": {
+   "x": 44.6,
+   "y": 41.46
+  },
+  "clamped": false,
+  "edgeDistance": 22.34,
+  "next": {
+   "tick": 12267,
+   "type": "kick",
+   "player": "B10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N5_v2.json.gz",
+  "tick": 12267,
+  "player": "B10",
+  "target": {
+   "x": 44.11,
+   "y": 41.88
+  },
+  "clamped": false,
+  "edgeDistance": 21.77,
+  "next": {
+   "tick": 12268,
+   "type": "contact",
+   "player": "B10",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N5_v2x.json.gz",
+  "tick": 12246,
+  "player": "B10",
+  "target": {
+   "x": 45.6,
+   "y": 37.44
+  },
+  "clamped": false,
+  "edgeDistance": 25.67,
+  "next": {
+   "tick": 12247,
+   "type": "contact",
+   "player": "B10",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N5_v2x.json.gz",
+  "tick": 12253,
+  "player": "B10",
+  "target": {
+   "x": 43.93,
+   "y": 44.1
+  },
+  "clamped": false,
+  "edgeDistance": 23.66,
+  "next": {
+   "tick": 12260,
+   "type": "kick",
+   "player": "B10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N5_v2x.json.gz",
+  "tick": 12260,
+  "player": "B10",
+  "target": {
+   "x": 44.6,
+   "y": 41.46
+  },
+  "clamped": false,
+  "edgeDistance": 22.34,
+  "next": {
+   "tick": 12267,
+   "type": "kick",
+   "player": "B10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "N5_v2x.json.gz",
+  "tick": 12267,
+  "player": "B10",
+  "target": {
+   "x": 44.11,
+   "y": 41.88
+  },
+  "clamped": false,
+  "edgeDistance": 21.77,
+  "next": {
+   "tick": 12268,
+   "type": "contact",
+   "player": "B10",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_base.json.gz",
+  "tick": 42251,
+  "player": "B07",
+  "target": {
+   "x": 61.54,
+   "y": 48.83
+  },
+  "clamped": false,
+  "edgeDistance": 23.73,
+  "next": {
+   "tick": 42258,
+   "type": "kick",
+   "player": "B07",
+   "kind": "pass"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_base.json.gz",
+  "tick": 42299,
+  "player": "A09",
+  "target": {
+   "x": 64.54,
+   "y": 62.67
+  },
+  "clamped": false,
+  "edgeDistance": 1.01,
+  "next": {
+   "tick": 42306,
+   "type": "kick",
+   "player": "A09",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_base.json.gz",
+  "tick": 42306,
+  "player": "A09",
+  "target": {
+   "x": 65.2,
+   "y": 62.75
+  },
+  "clamped": false,
+  "edgeDistance": 1.15,
+  "next": {
+   "tick": 42330,
+   "type": "kick",
+   "player": "A09",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_base.json.gz",
+  "tick": 42330,
+  "player": "A09",
+  "target": {
+   "x": 67.7,
+   "y": 67.8
+  },
+  "clamped": true,
+  "edgeDistance": 3.12,
+  "next": {
+   "tick": 42362,
+   "type": "restart_placement",
+   "player": null,
+   "kind": "throw_in"
+  },
+  "outBeforeAnyTouch": true
+ },
+ {
+  "rec": "O2L_base.json.gz",
+  "tick": 42477,
+  "player": "B10",
+  "target": {
+   "x": 56.64,
+   "y": 37.48
+  },
+  "clamped": false,
+  "edgeDistance": 26.36,
+  "next": {
+   "tick": 42484,
+   "type": "kick",
+   "player": "B10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_base.json.gz",
+  "tick": 42521,
+  "player": "B10",
+  "target": {
+   "x": 60.03,
+   "y": 33.39
+  },
+  "clamped": false,
+  "edgeDistance": 30.48,
+  "next": {
+   "tick": 42525,
+   "type": "kick",
+   "player": "A10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_base.json.gz",
+  "tick": 42525,
+  "player": "A10",
+  "target": {
+   "x": 70.61,
+   "y": 33.85
+  },
+  "clamped": false,
+  "edgeDistance": 30.09,
+  "next": {
+   "tick": 42528,
+   "type": "kick",
+   "player": "B10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_base.json.gz",
+  "tick": 42528,
+  "player": "B10",
+  "target": {
+   "x": 60.78,
+   "y": 33.04
+  },
+  "clamped": false,
+  "edgeDistance": 30.82,
+  "next": {
+   "tick": 42532,
+   "type": "kick",
+   "player": "A10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_base.json.gz",
+  "tick": 42532,
+  "player": "A10",
+  "target": {
+   "x": 70.18,
+   "y": 33
+  },
+  "clamped": false,
+  "edgeDistance": 30.96,
+  "next": {
+   "tick": 42535,
+   "type": "kick",
+   "player": "B10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_base.json.gz",
+  "tick": 42535,
+  "player": "B10",
+  "target": {
+   "x": 60.57,
+   "y": 32.39
+  },
+  "clamped": false,
+  "edgeDistance": 31.41,
+  "next": {
+   "tick": 42537,
+   "type": "contact",
+   "player": "A10",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_base.json.gz",
+  "tick": 42553,
+  "player": "B05",
+  "target": {
+   "x": 60.51,
+   "y": 39.25
+  },
+  "clamped": false,
+  "edgeDistance": 33.27,
+  "next": {
+   "tick": 42605,
+   "type": "kick",
+   "player": "B06",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_base.json.gz",
+  "tick": 42605,
+  "player": "B06",
+  "target": {
+   "x": 55.72,
+   "y": 18.57
+  },
+  "clamped": false,
+  "edgeDistance": 22.55,
+  "next": {
+   "tick": 42637,
+   "type": "kick",
+   "player": "A06",
+   "kind": "pass"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42251,
+  "player": "B07",
+  "target": {
+   "x": 61.54,
+   "y": 48.83
+  },
+  "clamped": false,
+  "edgeDistance": 23.73,
+  "next": {
+   "tick": 42258,
+   "type": "kick",
+   "player": "B07",
+   "kind": "pass"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42299,
+  "player": "A09",
+  "target": {
+   "x": 64.54,
+   "y": 62.67
+  },
+  "clamped": false,
+  "edgeDistance": 1.01,
+  "next": {
+   "tick": 42306,
+   "type": "kick",
+   "player": "A09",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42306,
+  "player": "A09",
+  "target": {
+   "x": 65.2,
+   "y": 62.75
+  },
+  "clamped": false,
+  "edgeDistance": 1.15,
+  "next": {
+   "tick": 42323,
+   "type": "kick",
+   "player": "A09",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42323,
+  "player": "A09",
+  "target": {
+   "x": 68.02,
+   "y": 65.6
+  },
+  "clamped": false,
+  "edgeDistance": 2.71,
+  "next": {
+   "tick": 42338,
+   "type": "kick",
+   "player": "A09",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42338,
+  "player": "A09",
+  "target": {
+   "x": 70.68,
+   "y": 64.92
+  },
+  "clamped": false,
+  "edgeDistance": 3,
+  "next": {
+   "tick": 42358,
+   "type": "kick",
+   "player": "A09",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42358,
+  "player": "A09",
+  "target": {
+   "x": 75.67,
+   "y": 65.2
+  },
+  "clamped": false,
+  "edgeDistance": 2.79,
+  "next": {
+   "tick": 42359,
+   "type": "contact",
+   "player": "A09",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42365,
+  "player": "A09",
+  "target": {
+   "x": 78,
+   "y": 65.22
+  },
+  "clamped": false,
+  "edgeDistance": 2.78,
+  "next": {
+   "tick": 42372,
+   "type": "kick",
+   "player": "A09",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42372,
+  "player": "A09",
+  "target": {
+   "x": 79.92,
+   "y": 65.22
+  },
+  "clamped": false,
+  "edgeDistance": 2.78,
+  "next": {
+   "tick": 42410,
+   "type": "kick",
+   "player": "B07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42410,
+  "player": "B07",
+  "target": {
+   "x": 74.14,
+   "y": 65.63
+  },
+  "clamped": false,
+  "edgeDistance": 2.48,
+  "next": {
+   "tick": 42411,
+   "type": "contact",
+   "player": "B07",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42486,
+  "player": "B10",
+  "target": {
+   "x": 53.15,
+   "y": 39.4
+  },
+  "clamped": false,
+  "edgeDistance": 28.78,
+  "next": {
+   "tick": 42493,
+   "type": "kick",
+   "player": "B10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42493,
+  "player": "B10",
+  "target": {
+   "x": 51.93,
+   "y": 38.9
+  },
+  "clamped": false,
+  "edgeDistance": 29.12,
+  "next": {
+   "tick": 42500,
+   "type": "kick",
+   "player": "B10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42500,
+  "player": "B10",
+  "target": {
+   "x": 50.08,
+   "y": 38.87
+  },
+  "clamped": false,
+  "edgeDistance": 29.13,
+  "next": {
+   "tick": 42502,
+   "type": "contact",
+   "player": "B10",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42507,
+  "player": "B10",
+  "target": {
+   "x": 49.12,
+   "y": 38.87
+  },
+  "clamped": false,
+  "edgeDistance": 29.13,
+  "next": {
+   "tick": 42514,
+   "type": "kick",
+   "player": "B10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42514,
+  "player": "B10",
+  "target": {
+   "x": 48.62,
+   "y": 34.62
+  },
+  "clamped": false,
+  "edgeDistance": 29.28,
+  "next": {
+   "tick": 42515,
+   "type": "contact",
+   "player": "B10",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42521,
+  "player": "B10",
+  "target": {
+   "x": 46.97,
+   "y": 33.85
+  },
+  "clamped": false,
+  "edgeDistance": 30.1,
+  "next": {
+   "tick": 42528,
+   "type": "kick",
+   "player": "B10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42528,
+  "player": "B10",
+  "target": {
+   "x": 44.04,
+   "y": 36.89
+  },
+  "clamped": false,
+  "edgeDistance": 31.11,
+  "next": {
+   "tick": 42531,
+   "type": "contact",
+   "player": "B10",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42535,
+  "player": "B10",
+  "target": {
+   "x": 43.26,
+   "y": 36.36
+  },
+  "clamped": false,
+  "edgeDistance": 31.89,
+  "next": {
+   "tick": 42536,
+   "type": "contact",
+   "player": "B10",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42542,
+  "player": "B10",
+  "target": {
+   "x": 41.48,
+   "y": 35.99
+  },
+  "clamped": false,
+  "edgeDistance": 32,
+  "next": {
+   "tick": 42549,
+   "type": "kick",
+   "player": "B10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42549,
+  "player": "B10",
+  "target": {
+   "x": 39.56,
+   "y": 36
+  },
+  "clamped": false,
+  "edgeDistance": 32,
+  "next": {
+   "tick": 42550,
+   "type": "contact",
+   "player": "B10",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42556,
+  "player": "B10",
+  "target": {
+   "x": 37.64,
+   "y": 36
+  },
+  "clamped": false,
+  "edgeDistance": 32,
+  "next": {
+   "tick": 42563,
+   "type": "kick",
+   "player": "B10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42563,
+  "player": "B10",
+  "target": {
+   "x": 36.68,
+   "y": 36
+  },
+  "clamped": false,
+  "edgeDistance": 32,
+  "next": {
+   "tick": 42565,
+   "type": "contact",
+   "player": "B10",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42570,
+  "player": "B10",
+  "target": {
+   "x": 34.76,
+   "y": 36
+  },
+  "clamped": false,
+  "edgeDistance": 32,
+  "next": {
+   "tick": 42577,
+   "type": "kick",
+   "player": "B10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42577,
+  "player": "B10",
+  "target": {
+   "x": 32.84,
+   "y": 36
+  },
+  "clamped": false,
+  "edgeDistance": 32,
+  "next": {
+   "tick": 42578,
+   "type": "contact",
+   "player": "B10",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42584,
+  "player": "B10",
+  "target": {
+   "x": 30.92,
+   "y": 36
+  },
+  "clamped": false,
+  "edgeDistance": 32,
+  "next": {
+   "tick": 42585,
+   "type": "contact",
+   "player": "B10",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42591,
+  "player": "B10",
+  "target": {
+   "x": 29.96,
+   "y": 36
+  },
+  "clamped": false,
+  "edgeDistance": 32,
+  "next": {
+   "tick": 42592,
+   "type": "contact",
+   "player": "B10",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42622,
+  "player": "B07",
+  "target": {
+   "x": 41.69,
+   "y": 50.96
+  },
+  "clamped": false,
+  "edgeDistance": 21.29,
+  "next": {
+   "tick": 42629,
+   "type": "kick",
+   "player": "B07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42629,
+  "player": "B07",
+  "target": {
+   "x": 41.6,
+   "y": 50.98
+  },
+  "clamped": false,
+  "edgeDistance": 21.17,
+  "next": {
+   "tick": 42654,
+   "type": "kick",
+   "player": "B07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42654,
+  "player": "B07",
+  "target": {
+   "x": 39.2,
+   "y": 53.01
+  },
+  "clamped": false,
+  "edgeDistance": 18.85,
+  "next": {
+   "tick": 42661,
+   "type": "kick",
+   "player": "B07",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42670,
+  "player": "B07",
+  "target": {
+   "x": 36.06,
+   "y": 55.52
+  },
+  "clamped": false,
+  "edgeDistance": 16.38,
+  "next": {
+   "tick": 42677,
+   "type": "kick",
+   "player": "B07",
+   "kind": "pass"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2.json.gz",
+  "tick": 42694,
+  "player": "B09",
+  "target": {
+   "x": 34.34,
+   "y": 64.66
+  },
+  "clamped": false,
+  "edgeDistance": 7.65,
+  "next": null,
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2x.json.gz",
+  "tick": 42251,
+  "player": "B07",
+  "target": {
+   "x": 61.54,
+   "y": 48.83
+  },
+  "clamped": false,
+  "edgeDistance": 23.73,
+  "next": {
+   "tick": 42258,
+   "type": "kick",
+   "player": "B07",
+   "kind": "pass"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2x.json.gz",
+  "tick": 42299,
+  "player": "A09",
+  "target": {
+   "x": 64.54,
+   "y": 62.67
+  },
+  "clamped": false,
+  "edgeDistance": 1.01,
+  "next": {
+   "tick": 42306,
+   "type": "kick",
+   "player": "A09",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2x.json.gz",
+  "tick": 42306,
+  "player": "A09",
+  "target": {
+   "x": 65.2,
+   "y": 62.75
+  },
+  "clamped": false,
+  "edgeDistance": 1.15,
+  "next": {
+   "tick": 42330,
+   "type": "kick",
+   "player": "A09",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2x.json.gz",
+  "tick": 42330,
+  "player": "A09",
+  "target": {
+   "x": 67.7,
+   "y": 67.8
+  },
+  "clamped": true,
+  "edgeDistance": 3.12,
+  "next": {
+   "tick": 42362,
+   "type": "restart_placement",
+   "player": null,
+   "kind": "throw_in"
+  },
+  "outBeforeAnyTouch": true
+ },
+ {
+  "rec": "O2L_v2x.json.gz",
+  "tick": 42477,
+  "player": "B10",
+  "target": {
+   "x": 56.64,
+   "y": 37.48
+  },
+  "clamped": false,
+  "edgeDistance": 26.36,
+  "next": {
+   "tick": 42484,
+   "type": "kick",
+   "player": "B10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2x.json.gz",
+  "tick": 42521,
+  "player": "B10",
+  "target": {
+   "x": 60.03,
+   "y": 33.41
+  },
+  "clamped": false,
+  "edgeDistance": 30.45,
+  "next": {
+   "tick": 42528,
+   "type": "kick",
+   "player": "B10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2x.json.gz",
+  "tick": 42529,
+  "player": "A10",
+  "target": {
+   "x": 70.53,
+   "y": 33.1
+  },
+  "clamped": false,
+  "edgeDistance": 30.98,
+  "next": {
+   "tick": 42536,
+   "type": "kick",
+   "player": "A10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2x.json.gz",
+  "tick": 42536,
+  "player": "A10",
+  "target": {
+   "x": 70,
+   "y": 31.97
+  },
+  "clamped": false,
+  "edgeDistance": 31.97,
+  "next": {
+   "tick": 42553,
+   "type": "kick",
+   "player": "B10",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2x.json.gz",
+  "tick": 42553,
+  "player": "B10",
+  "target": {
+   "x": 59.83,
+   "y": 30.49
+  },
+  "clamped": false,
+  "edgeDistance": 33.66,
+  "next": {
+   "tick": 42555,
+   "type": "contact",
+   "player": "B10",
+   "kind": null
+  },
+  "outBeforeAnyTouch": false
+ },
+ {
+  "rec": "O2L_v2x.json.gz",
+  "tick": 42681,
+  "player": "B05",
+  "target": {
+   "x": 86.7,
+   "y": 37.74
+  },
+  "clamped": false,
+  "edgeDistance": 10.78,
+  "next": {
+   "tick": 42688,
+   "type": "kick",
+   "player": "B05",
+   "kind": "dribble"
+  },
+  "outBeforeAnyTouch": false
+ }
+]

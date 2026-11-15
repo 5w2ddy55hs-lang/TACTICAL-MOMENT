@@ -1,0 +1,13 @@
+[O2L_v2x] A09(A) other:B07 ep 42507-42507 n1 | touch none | chosen - | near A10:0.71 B07:0.87 B09:1.22 A07:1.77 | outcome no_own_touch; first event 42521 kick B10 dribble
+[O2L_v2x] B09(B) other:B07 ep 42507-42507 n1 | touch none | chosen - | near A10:0.71 B07:0.87 A07:1.77 A09:1.86 | outcome no_own_touch; first event 42521 kick B10 dribble
+[O2L_v2x] A09(A) other:B07 ep 42511-42511 n1 | touch none | chosen - | near A10:0.5 B09:1.19 A07:1.22 B07:1.37 | outcome no_own_touch; first event 42521 kick B10 dribble
+[O2L_v2x] B09(B) other:B07 ep 42511-42511 n1 | touch none | chosen - | near A10:0.5 A07:1.22 B07:1.37 B10:1.39 | outcome no_own_touch; first event 42521 kick B10 dribble
+[O2L_v2x] A07(A) other:A10 ep 42519-42519 n1 | touch none | chosen - | near A10:0.71 B10:1 B09:1.16 B05:2.04 | outcome no_own_touch; first event 42521 kick B10 dribble
+[O2L_v2x] B07(B) other:A10 ep 42519-42519 n1 | touch 42561 kick:pass→B06 (+42t) | chosen 42559 pass pass→B06:0.92 dribble:0.67 cover:0.65 | near B10:0.55 A10:1.15 B05:1.91 A09:2.11 | outcome teammate:contact:ctl=true
+[O2L_v2x] A09(A) other:B10 ep 42527-42527 n1 | touch none | chosen - | near A10:0.59 B10:0.89 B05:1.34 A07:1.35 | outcome no_own_touch; first event 42528 kick B10 dribble
+[O2L_v2x] B05(B) other:B10 ep 42527-42527 n1 | touch none | chosen - | near A10:0.59 B10:0.89 A07:1.35 A09:1.73 | outcome no_own_touch; first event 42528 kick B10 dribble
+[O2L_v2x] A09(A) other:A10 ep 42535-42535 n1 | touch none | chosen - | near A10:0.96 B10:1.12 B05:1.48 A07:2.24 | outcome no_own_touch; first event 42536 kick A10 dribble
+[O2L_v2x] B05(B) other:A10 ep 42543-42543 n1 | touch none | chosen - | near B10:0.89 A10:1.36 A09:1.58 A07:2.61 | outcome no_own_touch; first event 42553 kick B10 dribble
+[O2L_v2x] B07(B) other:A10 ep 42543-42543 n1 | touch 42561 kick:pass→B06 (+18t) | chosen 42559 pass pass→B06:0.92 dribble:0.67 cover:0.65 | near B10:0.55 A10:1.15 B05:1.91 A09:2.11 | outcome teammate:contact:ctl=true
+[O2L_v2x] B10(B) other:A10 ep 42547-42547 n1 | touch 42553 kick:dribble (+6t) | chosen 42551 intercept EBI:dribble→null intercept:1.77 cover:0.65 | near B07:1.2 B05:1.7 A10:1.72 A09:1.99 | outcome teammate:kick
+[O2L_v2x] B09(B) other:A10 ep 42551-42551 n1 | touch none | chosen - | near B10:1.09 B07:1.61 A10:1.69 B05:1.75 | outcome no_own_touch; first event 42553 kick B10 dribble

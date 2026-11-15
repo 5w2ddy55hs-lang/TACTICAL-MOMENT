@@ -1,0 +1,447 @@
+{
+ "opportunity": "N5",
+ "start": 12164,
+ "source": "base",
+ "firstDifference": {
+  "base_vs_v2": {
+   "arms": [
+    "base",
+    "v2"
+   ],
+   "firstFrameDiff": 12239,
+   "firstDecisionDiff": {
+    "key": "12236:B10",
+    "base": {
+     "kind": "receive",
+     "target": {
+      "x": 51.48,
+      "y": 42.95
+     },
+     "targetId": null,
+     "reason": "observed_ball_eta_and_teammates"
+    },
+    "v2": {
+     "kind": "receive",
+     "target": {
+      "x": 50.66,
+      "y": 48.18
+     },
+     "targetId": null,
+     "reason": "R07_perceived_contact_cost_no_future_truth"
+    }
+   },
+   "firstKindOrTargetDiff": {
+    "key": "12236:B10",
+    "base": {
+     "kind": "receive",
+     "target": {
+      "x": 51.48,
+      "y": 42.95
+     },
+     "targetId": null,
+     "reason": "observed_ball_eta_and_teammates"
+    },
+    "v2": {
+     "kind": "receive",
+     "target": {
+      "x": 50.66,
+      "y": 48.18
+     },
+     "targetId": null,
+     "reason": "R07_perceived_contact_cost_no_future_truth"
+    }
+   }
+  },
+  "base_vs_v2x": {
+   "arms": [
+    "base",
+    "v2x"
+   ],
+   "firstFrameDiff": 12239,
+   "firstDecisionDiff": {
+    "key": "12236:B10",
+    "base": {
+     "kind": "receive",
+     "target": {
+      "x": 51.48,
+      "y": 42.95
+     },
+     "targetId": null,
+     "reason": "observed_ball_eta_and_teammates"
+    },
+    "v2x": {
+     "kind": "receive",
+     "target": {
+      "x": 50.66,
+      "y": 48.18
+     },
+     "targetId": null,
+     "reason": "R07_perceived_contact_cost_no_future_truth"
+    }
+   },
+   "firstKindOrTargetDiff": {
+    "key": "12236:B10",
+    "base": {
+     "kind": "receive",
+     "target": {
+      "x": 51.48,
+      "y": 42.95
+     },
+     "targetId": null,
+     "reason": "observed_ball_eta_and_teammates"
+    },
+    "v2x": {
+     "kind": "receive",
+     "target": {
+      "x": 50.66,
+      "y": 48.18
+     },
+     "targetId": null,
+     "reason": "R07_perceived_contact_cost_no_future_truth"
+    }
+   }
+  },
+  "v2_vs_v2x": {
+   "arms": [
+    "v2",
+    "v2x"
+   ],
+   "firstFrameDiff": null,
+   "firstDecisionDiff": null,
+   "firstKindOrTargetDiff": null
+  }
+ },
+ "arms": {
+  "base": {
+   "passes": [
+    {
+     "kickTick": 12171,
+     "passer": "B08",
+     "receiver": "B10",
+     "kind": "pass",
+     "speed": 9.2,
+     "vz": 0.1,
+     "passDecision": {
+      "tick": 12169,
+      "via": "decision",
+      "applyTick": 12171,
+      "target": {
+       "x": 54.3,
+       "y": 25.5
+      },
+      "leadSeconds": 0.35,
+      "reason": "remembered_outlet_lane"
+     },
+     "lengthToTarget": 7.9,
+     "receiverDistAtKick": 7.4,
+     "receiverDecisions": [
+      "12172:support",
+      "12176:receive:FE0.5",
+      "12180:receive:FE0.4",
+      "12184:receive:FE0.4",
+      "12188:receive:FE0.4",
+      "12192:receive:FE0.5",
+      "12196:receive:FE0.5",
+      "12200:receive:FE1.0",
+      "12204:receive:FE1.7",
+      "12208:receive:FE1.4",
+      "12212:receive:EX",
+      "12216:receive:FE1.5",
+      "12220:receive:FE1.7",
+      "12224:receive:FE0.8",
+      "12228:receive:FE1.3",
+      "12232:receive:FE0.9",
+      "12236:receive:FE0.5",
+      "12240:receive:FE0.4",
+      "12244:support",
+      "12248:support",
+      "12252:support",
+      "12256:support",
+      "12260:receive:FE0.5",
+      "12264:receive:FE0.8",
+      "12268:receive:FE0.7",
+      "12272:receive:FE0.7",
+      "12276:intercept:FE0.6",
+      "12280:support",
+      "12284:intercept:FE0.5",
+      "12288:intercept:VU",
+      "12292:receive:FE0.3"
+     ],
+     "receiverMinSpeed": {
+      "v": 1.63,
+      "tick": 12198
+     },
+     "trueClosest": {
+      "d": 1.46,
+      "tick": 12246
+     },
+     "firstAfter": {
+      "tick": 12287,
+      "type": "contact",
+      "player": "A07",
+      "team": "A",
+      "control": true,
+      "kind": null,
+      "restart": null
+     },
+     "nextKick": {
+      "tick": 12298,
+      "player": "A10",
+      "team": "A",
+      "kind": "dribble",
+      "targetId": null
+     }
+    }
+   ],
+   "restartsAndGoals": [],
+   "controls": [
+    "12168:B08",
+    "12287:A07",
+    "12298:A10"
+   ],
+   "endTick": 12299
+  },
+  "v2": {
+   "passes": [
+    {
+     "kickTick": 12171,
+     "passer": "B08",
+     "receiver": "B10",
+     "kind": "pass",
+     "speed": 9.2,
+     "vz": 0.1,
+     "passDecision": {
+      "tick": 12169,
+      "via": "decision",
+      "applyTick": 12171,
+      "target": {
+       "x": 54.3,
+       "y": 25.5
+      },
+      "leadSeconds": 0.35,
+      "reason": "remembered_outlet_lane"
+     },
+     "lengthToTarget": 7.9,
+     "receiverDistAtKick": 7.4,
+     "receiverDecisions": [
+      "12172:support",
+      "12176:receive:FE0.5",
+      "12180:receive:FE0.4",
+      "12184:receive:FE0.4",
+      "12188:receive:FE0.4",
+      "12192:receive:FE0.5",
+      "12196:receive:FE0.5",
+      "12200:receive:FE1.0",
+      "12204:receive:FE1.7",
+      "12208:receive:FE1.4",
+      "12212:receive:EX",
+      "12216:receive:FE1.5",
+      "12220:receive:FE1.7",
+      "12224:receive:FE0.8",
+      "12228:receive:FE1.3",
+      "12232:receive:FE0.9",
+      "12236:receive:DP1.40(V2だけの計画)",
+      "12240:receive:DP1.30(V2だけの計画)",
+      "12244:receive:DP0.65(V2だけの計画)",
+      "12248:dribble",
+      "12252:dribble"
+     ],
+     "receiverMinSpeed": {
+      "v": 1.63,
+      "tick": 12198
+     },
+     "trueClosest": {
+      "d": 0.99,
+      "tick": 12246
+     },
+     "firstAfter": {
+      "tick": 12246,
+      "type": "kick",
+      "player": "B10",
+      "team": "B",
+      "control": null,
+      "kind": "dribble",
+      "restart": null
+     },
+     "nextKick": {
+      "tick": 12253,
+      "player": "B10",
+      "team": "B",
+      "kind": "dribble",
+      "targetId": null
+     }
+    },
+    {
+     "kickTick": 12274,
+     "passer": "B10",
+     "receiver": "B09",
+     "kind": "pass",
+     "speed": 11.2,
+     "vz": 0.1,
+     "passDecision": {
+      "tick": 12272,
+      "via": "decision",
+      "applyTick": 12274,
+      "target": {
+       "x": 47.3,
+       "y": 59.9
+      },
+      "leadSeconds": 0.35,
+      "reason": "remembered_outlet_lane"
+     },
+     "lengthToTarget": 13.5,
+     "receiverDistAtKick": 13.2,
+     "receiverDecisions": [
+      "12276:support",
+      "12280:press:FE0.6",
+      "12284:receive:FE0.5",
+      "12288:receive:FE0.4",
+      "12292:receive:FE0.3",
+      "12296:receive:FE0.2"
+     ],
+     "receiverMinSpeed": {
+      "v": 1.51,
+      "tick": 12299
+     },
+     "trueClosest": {
+      "d": 2.04,
+      "tick": 12297
+     },
+     "firstAfter": null,
+     "nextKick": null
+    }
+   ],
+   "restartsAndGoals": [],
+   "controls": [
+    "12168:B08",
+    "12247:B10",
+    "12253:B10",
+    "12260:B10",
+    "12268:B10",
+    "12273:B10"
+   ],
+   "endTick": 12299
+  },
+  "v2x": {
+   "passes": [
+    {
+     "kickTick": 12171,
+     "passer": "B08",
+     "receiver": "B10",
+     "kind": "pass",
+     "speed": 9.2,
+     "vz": 0.1,
+     "passDecision": {
+      "tick": 12169,
+      "via": "decision",
+      "applyTick": 12171,
+      "target": {
+       "x": 54.3,
+       "y": 25.5
+      },
+      "leadSeconds": 0.35,
+      "reason": "remembered_outlet_lane"
+     },
+     "lengthToTarget": 7.9,
+     "receiverDistAtKick": 7.4,
+     "receiverDecisions": [
+      "12172:support",
+      "12176:receive:FE0.5",
+      "12180:receive:FE0.4",
+      "12184:receive:FE0.4",
+      "12188:receive:FE0.4",
+      "12192:receive:FE0.5",
+      "12196:receive:FE0.5",
+      "12200:receive:FE1.0",
+      "12204:receive:FE1.7",
+      "12208:receive:FE1.4",
+      "12212:receive:EX",
+      "12216:receive:FE1.5",
+      "12220:receive:FE1.7",
+      "12224:receive:FE0.8",
+      "12228:receive:FE1.3",
+      "12232:receive:FE0.9",
+      "12236:receive:DP1.40",
+      "12240:receive:DP1.30",
+      "12244:receive:DP0.65",
+      "12248:dribble",
+      "12252:dribble"
+     ],
+     "receiverMinSpeed": {
+      "v": 1.63,
+      "tick": 12198
+     },
+     "trueClosest": {
+      "d": 0.99,
+      "tick": 12246
+     },
+     "firstAfter": {
+      "tick": 12246,
+      "type": "kick",
+      "player": "B10",
+      "team": "B",
+      "control": null,
+      "kind": "dribble",
+      "restart": null
+     },
+     "nextKick": {
+      "tick": 12253,
+      "player": "B10",
+      "team": "B",
+      "kind": "dribble",
+      "targetId": null
+     }
+    },
+    {
+     "kickTick": 12274,
+     "passer": "B10",
+     "receiver": "B09",
+     "kind": "pass",
+     "speed": 11.2,
+     "vz": 0.1,
+     "passDecision": {
+      "tick": 12272,
+      "via": "decision",
+      "applyTick": 12274,
+      "target": {
+       "x": 47.3,
+       "y": 59.9
+      },
+      "leadSeconds": 0.35,
+      "reason": "remembered_outlet_lane"
+     },
+     "lengthToTarget": 13.5,
+     "receiverDistAtKick": 13.2,
+     "receiverDecisions": [
+      "12276:support",
+      "12280:press:FE0.6",
+      "12284:receive:FE0.5",
+      "12288:receive:FE0.4",
+      "12292:receive:FE0.3",
+      "12296:receive:FE0.2"
+     ],
+     "receiverMinSpeed": {
+      "v": 1.51,
+      "tick": 12299
+     },
+     "trueClosest": {
+      "d": 2.04,
+      "tick": 12297
+     },
+     "firstAfter": null,
+     "nextKick": null
+    }
+   ],
+   "restartsAndGoals": [],
+   "controls": [
+    "12168:B08",
+    "12247:B10",
+    "12253:B10",
+    "12260:B10",
+    "12268:B10",
+    "12273:B10"
+   ],
+   "endTick": 12299
+  }
+ }
+}

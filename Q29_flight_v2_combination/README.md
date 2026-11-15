@@ -40,3 +40,7 @@
 ## 追補（Q29C）
 
 `REPORT_Q29C_OWN_TOUCH_FOLLOWUP_JA.md`、`PREREGISTERED_Q29C.md`：本人のドリブル後に V2 が作用した6区間を次のプレーまで追跡し、球外2件を「自然なミス／繰り返す構造」で区別。隔離候補 v2x（`v2x_source/`、`tools/build_v2x.sh`：V2 に1行追加、独自の名札）を同じ5開始状態で基準・V2 と比較。O1・O2・O3・O5 では v2x ＝ 基準、O4 では他人の球への作用だけが残った。正式採否は変えていません。
+
+## 追補（Q29D）
+
+`REPORT_Q29D_V2_BENEFIT_AND_SCOPE_JA.md`、`PREREGISTERED_Q29D.md`：Q29C の結論の訂正（O2 の V2 継続は利益候補、v2x で失う側）、v2x の条件の実際の適用範囲、事前固定した別 seed の5状態（成功2・自然なミス1・相手の正当な回収2）での基準・V2・v2x 比較、O2 と N5 の窓の延長。受球側で利益候補と球外を分ける観測量はなく、改訂案は作っていません。道具は `tools/run_q29d.sh`、`tools/analyze_q29d.sh`、`tools/v2x_scope.mjs`、`tools/episode_features.mjs`、出力は `eval_d/`。

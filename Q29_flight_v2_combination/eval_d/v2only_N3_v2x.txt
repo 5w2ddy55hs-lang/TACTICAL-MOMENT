@@ -1,0 +1,6 @@
+[N3_v2x] B10(B) other:B06 ep 24339-24339 n1 | touch none | chosen - | near A08:0.74 B06:1.04 A10:5.25 B08:7.32 | outcome no_own_touch; first event 24347 kick A08 dribble
+[N3_v2x] A06(A) other:A10 ep 24411-24411 n1 | touch 24459 contact (+48t) | chosen 24459 cover cover:0.65 dribble:0.64 pass→A08:-0.14 | near B10:0.54 A10:0.95 B06:1.72 B08:4.99 | outcome out:dropped_ball:A
+[N3_v2x] B10(B) other:A10 ep 24411-24415 n2 | touch 24457 kick:dribble (+46t) | chosen 24455 receive EBI:dribble→null receive:1.77 cover:0.65 | near A06:1.2 A10:1.35 B06:1.94 B08:5.26 | outcome opponent:contact:ctl=true
+[N3_v2x] B10(B) other:A10 ep 24427-24427 n1 | touch 24457 kick:dribble (+30t) | chosen 24455 receive EBI:dribble→null receive:1.77 cover:0.65 | near A06:1.2 A10:1.35 B06:1.94 B08:5.26 | outcome opponent:contact:ctl=true
+[N3_v2x] A06(A) other:A10 ep 24443-24443 n1 | touch 24459 contact (+16t) | chosen 24459 cover cover:0.65 dribble:0.64 pass→A08:-0.14 | near B10:0.54 A10:0.95 B06:1.72 B08:4.99 | outcome out:dropped_ball:A
+[N3_v2x] B10(B) other:A10 ep 24443-24455 n3 | touch 24457 kick:dribble (+14t) | chosen 24455 receive EBI:dribble→null receive:1.77 cover:0.65 | near A06:1.2 A10:1.35 B06:1.94 B08:5.26 | outcome opponent:contact:ctl=true

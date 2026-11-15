@@ -1,0 +1,69 @@
+{
+ "ownAndPassed": 526,
+ "byOwnLastKickKind": [
+  [
+   "pass",
+   259
+  ],
+  [
+   "dribble",
+   171
+  ],
+  [
+   "none_near_witness",
+   48
+  ],
+  [
+   "contact_only",
+   43
+  ],
+  [
+   "shoot",
+   5
+  ]
+ ],
+ "byDecisionKind": [
+  [
+   "receive",
+   319
+  ],
+  [
+   "press",
+   56
+  ],
+  [
+   "cover",
+   43
+  ],
+  [
+   "support",
+   37
+  ],
+  [
+   "dribble",
+   31
+  ],
+  [
+   "intercept",
+   20
+  ],
+  [
+   "pass",
+   10
+  ],
+  [
+   "gk_recover",
+   10
+  ]
+ ],
+ "withDedicatedPlanRecorded": 5,
+ "unwitnessedOtherTouch": 0,
+ "freshness": {
+  "le8": 92,
+  "t9_20": 147,
+  "t21_60": 267,
+  "gt60": 20
+ },
+ "dBallGT3": 336,
+ "ballSpeedLE3": 54
+}

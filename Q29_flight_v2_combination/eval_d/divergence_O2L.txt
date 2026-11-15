@@ -1,0 +1,13 @@
+## O2L
+-- v2 vs base
+first frame divergence 42319
+ decision diff (42316, 'A09') A: ('receive', {'x': 64.56193943921107, 'y': 62.84754475143369}, 'R07_perceived_contact_cost_no_future_truth') | B: ('receive', {'x': 62.00092111128144, 'y': 64.88081834858349}, 'observed_ball_eta_and_teammates')
+ decision diff (42320, 'A09') A: ('intercept', {'x': 62.293615598337404, 'y': 64.94095816864798}, 'observed_ball_eta_and_teammates') | B: ('intercept', {'x': 62.293615598337404, 'y': 64.94095816864798}, 'observed_ball_eta_and_teammates')
+-- v2x vs base
+first frame divergence 42510
+ decision diff (42507, 'A09') A: ('receive', {'x': 66.31085034398156, 'y': 37.54871603795741}, 'R07_perceived_contact_cost_no_future_truth') | B: ('receive', {'x': 65.3358190572841, 'y': 39.695790438530054}, 'observed_ball_eta_and_teammates')
+ decision diff (42507, 'B09') A: ('receive', {'x': 66.79444276779684, 'y': 36.17504539231674}, 'R07_perceived_contact_cost_no_future_truth') | B: ('receive', {'x': 65.15670849706488, 'y': 40.12846286294573}, 'observed_ball_eta_and_teammates')
+-- v2x vs v2
+first frame divergence 42319
+ decision diff (42316, 'A09') A: ('receive', {'x': 62.00092111128144, 'y': 64.88081834858349}, 'observed_ball_eta_and_teammates') | B: ('receive', {'x': 64.56193943921107, 'y': 62.84754475143369}, 'R07_perceived_contact_cost_no_future_truth')
+ decision diff (42320, 'A09') A: ('intercept', {'x': 62.293615598337404, 'y': 64.94095816864798}, 'observed_ball_eta_and_teammates') | B: ('intercept', {'x': 62.293615598337404, 'y': 64.94095816864798}, 'observed_ball_eta_and_teammates')
